@@ -47,7 +47,7 @@ CARDS = [
  (26.44,28.55,[[("БЕЗ","small","w")], [("ПОСРЕДНИКОВ","main","w")]]),
  (28.72,30.53,[[("ССЫЛКА","main","a")], [("в шапке профиля","small","w")]]),
 ]
-MAIN_PX, SMALL_PX, RUN_PX = 112, 56, 36
+MAIN_PX, SMALL_PX, RUN_PX = 112, 56, 42
 LINE_H = 0.90   # плотный межстрочный интервал в карточке
 
 def card_events():
@@ -89,21 +89,12 @@ def run_events():
     while i < len(words):
         grp = words[i:i + 2] if len(words[i]["w"]) <= 5 and i + 1 < len(words) else words[i:i + 1]
         units.append(grp); i += len(grp)
-    # слово, уже показанное крупной карточкой, не дублируем бегущей подписью
-    card_words = []
-    for st_c, en_c, lines in CARDS:
-        ws = {w.lower().strip('ё') for ln in lines for t, k, c in ln for w in t.split()}
-        card_words.append((st_c, en_c, ws))
     ev = []
     for j, grp in enumerate(units):
-        st = grp[0]["t"]
-        en = units[j + 1][0]["t"] - 0.02 if j + 1 < len(units) else 30.53
-        if en - st < 0.18: en = st + 0.18
+        st = 0.0 if j == 0 else grp[0]["t"]
+        en = units[j + 1][0]["t"] if j + 1 < len(units) else 30.53
         txt = " ".join(fix.get(w["w"], w["w"]) for w in grp)
-        if any(a <= st <= b and any(w["w"].lower().strip("ё") in ws for w in grp)
-               for a, b, ws in card_words):
-            continue
-        ev.append((st, en, "Run", "{\\an5\\pos(%d,%d)\\fad(70,70)}" % SLOT_RUN + txt))
+        ev.append((st, en, "Run", "{\\an5\\pos(%d,%d)}" % SLOT_RUN + txt))
     return ev
 
 head = f"""[Script Info]
@@ -117,7 +108,7 @@ YCbCr Matrix: TV.709
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Card,{F_DISP},{MAIN_PX},{WHITE},{WHITE},&H00101010&,&H80000000&,0,0,0,0,100,100,1,0,1,4,3,5,{SIDE},{SIDE},0,204
-Style: Run,{F_BODY},{RUN_PX},{WHITE},{WHITE},&H00000000&,&HB0000000&,0,0,0,0,100,100,0,0,1,2.2,2,5,{SIDE},{SIDE},0,204
+Style: Run,{F_BODY},{RUN_PX},{WHITE},{WHITE},&H00000000&,&HB0000000&,0,0,0,0,100,100,0,0,1,0,3,5,{SIDE},{SIDE},0,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
