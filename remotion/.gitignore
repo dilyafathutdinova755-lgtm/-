@@ -5,3 +5,19 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+render.log
+
+# Source footage lives in GitHub Releases (see LOAD-ME.md), not in git —
+# GitHub rejects files over 100MB on a normal push anyway.
+public/source.mp4
+sources/
+
+# ASR scratch: the model and generated intermediates are regenerable from
+# the scripts in asr/ (see asr/*.py); only the scripts are tracked.
+asr/sherpa-onnx-streaming-t-one-russian-2025-09-08/
+asr/*.wav
+asr/*.json
+
+# Intermediate font staging (variable-weight originals); the static cuts
+# actually used by the composition live in public/.
+assets/

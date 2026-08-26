@@ -1,25 +1,49 @@
-import { CalculateMetadataFunction, Composition } from "remotion";
+import { AbsoluteFill, Audio, CalculateMetadataFunction, Composition, staticFile } from "remotion";
+import segmentsData from "./data/segments.json";
+import { ensureFontsLoaded } from "./fonts";
+import { VideoBackground } from "./VideoBackground";
+import { KeyCard } from "./KeyCard";
+import { RunningCaption } from "./RunningCaption";
+import { AppIcon } from "./AppIcon";
 
-type Props = {};
+const FPS = 25;
+const WIDTH = 1080;
+const HEIGHT = 1920;
 
-const calculateMetadata: CalculateMetadataFunction<Props> = () => {
-  return {};
+type Props = Record<string, unknown>;
+
+const calculateMetadata: CalculateMetadataFunction<Props> = async () => {
+  await ensureFontsLoaded();
+  return {
+    durationInFrames: Math.round(segmentsData.total_duration * FPS),
+    fps: FPS,
+    width: WIDTH,
+    height: HEIGHT,
+  };
 };
 
 export const MyComposition = () => {
   return (
     <Composition
-      id="MyComp"
-      component={MyComponent}
-      durationInFrames={60}
-      fps={30}
-      width={1280}
-      height={720}
+      id="EgeOlimpiada"
+      component={EgeVideo}
+      durationInFrames={Math.round(segmentsData.total_duration * FPS)}
+      fps={FPS}
+      width={WIDTH}
+      height={HEIGHT}
       calculateMetadata={calculateMetadata}
     />
   );
 };
 
-export const MyComponent: React.FC<Props> = () => {
-  return null;
+export const EgeVideo: React.FC<Props> = () => {
+  return (
+    <AbsoluteFill>
+      <VideoBackground />
+      <Audio src={staticFile("audio.wav")} />
+      <KeyCard />
+      <RunningCaption />
+      <AppIcon />
+    </AbsoluteFill>
+  );
 };
