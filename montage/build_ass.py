@@ -8,7 +8,7 @@ WHITE  = "&H00FFFFFF&"
 ACCENT = "&H00FFF5C9&"          # #C9F5FF, BGR
 GREY   = "&H00F0F0F0&"
 F_DISP = "Golos Text Black"
-F_BODY = "Inter Light"
+F_BODY = "Manrope Caption"
 
 SIDE      = 70                   # поля по бокам (delivery-specs §4)
 TOP_UI    = 180                  # зона иконок платформы
@@ -48,6 +48,7 @@ CARDS = [
  (28.72,30.53,[[("ССЫЛКА","main","a")], [("в шапке профиля","small","w")]]),
 ]
 MAIN_PX, SMALL_PX, RUN_PX = 112, 56, 36
+LINE_H = 0.90   # плотный межстрочный интервал в карточке
 
 def card_events():
     ev = []
@@ -63,10 +64,10 @@ def card_events():
             if widest <= W - 2 * SIDE: break
             mp -= 3; sp = max(34, sp - 1)
         n = len(lines)
-        block_h = sum(mp if any(k == "main" for _, k, _ in ln) else sp for ln in lines) * 1.18
+        block_h = sum(mp if any(k == "main" for _, k, _ in ln) else sp for ln in lines) * LINE_H
         y = CARD_MID - block_h / 2
         for ln in lines:
-            lh = (mp if any(k == "main" for _, k, _ in ln) else sp) * 1.18
+            lh = (mp if any(k == "main" for _, k, _ in ln) else sp) * LINE_H
             parts = "".join(
                 f"{{\\fs{mp if k=='main' else sp}\\c{ACCENT if c=='a' else WHITE}}}{t}"
                 + ("{\\fs%d} " % (mp if k == 'main' else sp) if i < len(ln) - 1 else "")
@@ -79,9 +80,7 @@ def card_events():
 
 # ── БЕГУЩАЯ ПОДПИСЬ (слой 2) ─────────────────────────────────────────────────
 # Слоты вне лица, вне полосы карточки, вне верхних 180px и нижних 420px.
-SLOT_TOP  = (W // 2, 300)     # над лицом
-SLOT_LEFT = (SIDE + 200, 985) # слева, ниже лица
-ICON_ON = 24.90               # с этого момента иконка в правом верхнем углу
+SLOT_RUN = (W // 2, 300)      # единственный слот: сверху по центру, над лицом
 
 def run_events():
     words = json.load(open("words.json"))
@@ -104,8 +103,7 @@ def run_events():
         if any(a <= st <= b and any(w["w"].lower().strip("ё") in ws for w in grp)
                for a, b, ws in card_words):
             continue
-        x, y = SLOT_LEFT if (st >= ICON_ON or j % 2) else SLOT_TOP
-        ev.append((st, en, "Run", "{\\an5\\pos(%d,%d)\\fad(90,90)}" % (x, y) + txt))
+        ev.append((st, en, "Run", "{\\an5\\pos(%d,%d)\\fad(70,70)}" % SLOT_RUN + txt))
     return ev
 
 head = f"""[Script Info]
@@ -119,7 +117,7 @@ YCbCr Matrix: TV.709
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Card,{F_DISP},{MAIN_PX},{WHITE},{WHITE},&H00101010&,&H80000000&,0,0,0,0,100,100,1,0,1,4,3,5,{SIDE},{SIDE},0,204
-Style: Run,{F_BODY},{RUN_PX},{GREY},{GREY},&H00101010&,&H60000000&,0,0,0,0,100,100,0,0,1,0,2,5,{SIDE},{SIDE},0,204
+Style: Run,{F_BODY},{RUN_PX},{WHITE},{WHITE},&H00000000&,&HB0000000&,0,0,0,0,100,100,0,0,1,2.2,2,5,{SIDE},{SIDE},0,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
