@@ -7,12 +7,20 @@ const FADE_FRAMES = 2; // ~80ms @ 25fps, just enough to avoid a hard flicker bet
 
 const Word: React.FC<{ text: string; durationInFrames: number }> = ({ text, durationInFrames }) => {
   const frame = useCurrentFrame();
-  const opacity = interpolate(
+  // Two independent fades (rather than one 4-keyframe interpolate) so a very
+  // short group (e.g. the last word, cut off by the clip's end) can't collapse
+  // the keyframes out of strictly-increasing order.
+  const fadeIn = interpolate(frame, [0, Math.min(FADE_FRAMES, durationInFrames)], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+  const fadeOut = interpolate(
     frame,
-    [0, FADE_FRAMES, Math.max(FADE_FRAMES + 1, durationInFrames - FADE_FRAMES), durationInFrames],
-    [0, 1, 1, 0],
+    [Math.max(0, durationInFrames - FADE_FRAMES), durationInFrames],
+    [1, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
+  const opacity = Math.min(fadeIn, fadeOut);
 
   return (
     <AbsoluteFill

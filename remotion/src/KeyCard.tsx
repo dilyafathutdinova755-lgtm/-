@@ -38,12 +38,19 @@ const SingleCard: React.FC<{ lines: CardLine[]; durationInFrames: number }> = ({
     output: "perceptual-scale",
   });
 
-  const opacity = interpolate(
+  // Two independent fades, so a short card can't collapse the keyframes
+  // out of strictly-increasing order (see RunningCaption.tsx for the same fix).
+  const fadeIn = interpolate(frame, [0, Math.min(OPACITY_IN_FRAMES, durationInFrames)], [0, 1], {
+    extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
+  });
+  const fadeOut = interpolate(
     frame,
-    [0, OPACITY_IN_FRAMES, durationInFrames - OPACITY_OUT_FRAMES, durationInFrames],
-    [0, 1, 1, 0],
+    [Math.max(0, durationInFrames - OPACITY_OUT_FRAMES), durationInFrames],
+    [1, 0],
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
+  const opacity = Math.min(fadeIn, fadeOut);
 
   return (
     <AbsoluteFill
