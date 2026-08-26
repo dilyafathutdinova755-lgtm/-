@@ -2,7 +2,9 @@ import { loadFont } from "@remotion/fonts";
 import { staticFile } from "remotion";
 
 export const CARD_FONT = "Golos Text Black";
-export const CAPTION_FONT = "Manrope SemiBold";
+// Deliberately a different, narrower family from CARD_FONT — see CLAUDE.md §1.4:
+// the running caption must read as visibly smaller than the card at the same font size.
+export const CAPTION_FONT = "PT Sans Narrow Bold";
 
 let fontsLoaded: Promise<unknown> | null = null;
 
@@ -16,8 +18,8 @@ export const ensureFontsLoaded = () => {
       }),
       loadFont({
         family: CAPTION_FONT,
-        url: staticFile("Manrope-SemiBold.ttf"),
-        weight: "600",
+        url: staticFile("PTSansNarrow-Bold.ttf"),
+        weight: "700",
       }),
     ]);
   }
