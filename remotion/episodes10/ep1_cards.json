@@ -1,0 +1,54 @@
+[
+  { "start": 0.72, "end": 1.68, "lines": [
+    { "text": "ЕГЭ И", "accent": false, "size": "small" },
+    { "text": "АПЕЛЛЯЦИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.43, "end": 4.80, "lines": [
+    { "text": "МЕХАНИКА, КОТОРУЮ", "accent": false, "size": "small" },
+    { "text": "ПОЛЕЗНО ЗНАТЬ ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.25, "end": 7.56, "lines": [
+    { "text": "А НЕ РАЗБИРАТЬСЯ", "accent": false, "size": "small" },
+    { "text": "В ПАНИКЕ ПОСЛЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.25, "end": 10.95, "lines": [
+    { "text": "ПРИ АПЕЛЛЯЦИИ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСМАТРИВАЕТСЯ ВСЁ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.22, "end": 12.36, "lines": [
+    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "СПОРНЫЙ ПУНКТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.72, "end": 15.66, "lines": [
+    { "text": "ВОЗМОЖНО И", "accent": false, "size": "small" },
+    { "text": "ПОНИЖЕНИЕ БАЛЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.87, "end": 16.86, "lines": [
+    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ПОВЫШЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.34, "end": 19.71, "lines": [
+    { "text": "ПОДАВАТЬ ИМЕЕТ СМЫСЛ", "accent": false, "size": "small" },
+    { "text": "ПРИ ВЕСОМЫХ ОСНОВАНИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.13, "end": 23.10, "lines": [
+    { "text": "А НЕ НАУГАД", "accent": false, "size": "small" },
+    { "text": "В НАДЕЖДЕ НА УДАЧУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.64, "end": 25.77, "lines": [
+    { "text": "ПОНИМАНИЕ", "accent": false, "size": "small" },
+    { "text": "КРИТЕРИЕВ ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.07, "end": 28.68, "lines": [
+    { "text": "СНИЖАЕТ ВЕРОЯТНОСТЬ", "accent": false, "size": "small" },
+    { "text": "СПОРНЫХ СИТУАЦИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.16, "end": 31.41, "lines": [
+    { "text": "РАЗБОР КРИТЕРИЕВ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.74, "end": 33.21, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

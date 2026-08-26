@@ -1,0 +1,42 @@
+[
+  { "start": 0.69, "end": 2.55, "lines": [
+    { "text": "СОВЕТ", "accent": false, "size": "small" },
+    { "text": "ПРОСТО РАССЛАБЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.67, "end": 3.69, "lines": [
+    { "text": "ВСЁ", "accent": false, "size": "small" },
+    { "text": "ПОЛУЧИТСЯ САМО", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.38, "end": 6.90, "lines": [
+    { "text": "ХУДШАЯ РЕКОМЕНДАЦИЯ", "accent": false, "size": "small" },
+    { "text": "ЗА ЭТО ЛЕТО", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.47, "end": 10.77, "lines": [
+    { "text": "РАССЛАБЛЕННОСТЬ", "accent": false, "size": "small" },
+    { "text": "НЕ РЕШАЕТ ЗАДАЧИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.40, "end": 12.54, "lines": [
+    { "text": "И НЕ ЗАПОМИНАЕТ", "accent": false, "size": "small" },
+    { "text": "ФОРМУЛЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.72, "end": 17.37, "lines": [
+    { "text": "ЗА ЭТИМ СОВЕТОМ", "accent": false, "size": "small" },
+    { "text": "ЛИБО НЕЗНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.52, "end": 21.27, "lines": [
+    { "text": "ЛИБО НЕЖЕЛАНИЕ", "accent": false, "size": "small" },
+    { "text": "ВНИКАТЬ В ТРЕВОГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.84, "end": 24.30, "lines": [
+    { "text": "ПОМОГАЕТ", "accent": false, "size": "small" },
+    { "text": "КОНКРЕТНОЕ ДЕЙСТВИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.93, "end": 28.62, "lines": [
+    { "text": "ОТКРЫТЬ ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "И РЕШИТЬ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.07, "end": 30.51, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
