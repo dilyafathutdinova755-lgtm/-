@@ -1,53 +1,45 @@
 [
-  { "start": 0.63, "end": 3.36, "lines": [
-    { "text": "ЗАДАНИЯ ОЛИМПИАДЫ", "accent": false, "size": "small" },
-    { "text": "УСТРОЕНЫ ИНАЧЕ", "accent": true, "size": "big" }
+  { "start": 0.85, "end": 4.03, "lines": [
+    { "text": "ЕГЭ ГОТОВЛЮСЬ", "accent": false, "size": "small" },
+    { "text": "РЕГУЛЯРНО", "accent": true, "size": "big" }
   ]},
-  { "start": 3.36, "end": 4.89, "lines": [
-    { "text": "ЧЕМ ЗАДАНИЯ", "accent": false, "size": "small" },
-    { "text": "ЕГЭ", "accent": true, "size": "big" }
+  { "start": 4.42, "end": 8.35, "lines": [
+    { "text": "НО ПОХВАЛЫ", "accent": false, "size": "small" },
+    { "text": "ЖДАТЬ НЕ ОТ КОГО", "accent": true, "size": "big" }
   ]},
-  { "start": 4.89, "end": 8.22, "lines": [
-    { "text": "ПУТАТЬ ФОРМАТЫ —", "accent": false, "size": "small" },
-    { "text": "ЧАСТАЯ ОШИБКА", "accent": true, "size": "big" }
+  { "start": 8.92, "end": 9.91, "lines": [
+    { "text": "РАНЬШЕ ЭТО", "accent": false, "size": "small" },
+    { "text": "РАССТРАИВАЛО", "accent": true, "size": "big" }
   ]},
-  { "start": 9.12, "end": 12.69, "lines": [
-    { "text": "ЕГЭ ПРОВЕРЯЕТ", "accent": false, "size": "small" },
-    { "text": "ШКОЛЬНУЮ ПРОГРАММУ", "accent": true, "size": "big" }
+  { "start": 10.18, "end": 12.13, "lines": [
+    { "text": "УСИЛИЯ", "accent": false, "size": "small" },
+    { "text": "НЕЗАМЕЧЕННЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.69, "end": 15.45, "lines": [
-    { "text": "В ЧЁТКОМ", "accent": false, "size": "small" },
-    { "text": "ФОРМАТЕ", "accent": true, "size": "big" }
+  { "start": 12.46, "end": 13.84, "lines": [
+    { "text": "БУДТО И", "accent": false, "size": "small" },
+    { "text": "НЕ СЧИТАЮТСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.45, "end": 19.29, "lines": [
-    { "text": "ОЛИМПИАДА ТРЕБУЕТ", "accent": false, "size": "small" },
-    { "text": "НЕСТАНДАРТНОГО ПОДХОДА", "accent": true, "size": "big" }
+  { "start": 14.44, "end": 16.09, "lines": [
+    { "text": "НАУЧИЛАСЬ", "accent": false, "size": "small" },
+    { "text": "ХВАЛИТЬ СЕБЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.92, "end": 23.73, "lines": [
-    { "text": "МОЖЕТ ВЫГЛЯДЕТЬ", "accent": false, "size": "small" },
-    { "text": "НЕПРИВЫЧНО", "accent": true, "size": "big" }
+  { "start": 16.45, "end": 18.01, "lines": [
+    { "text": "ГЛЯДЯ НА", "accent": false, "size": "small" },
+    { "text": "ЦИФРЫ ПРОГРЕССА", "accent": true, "size": "big" }
   ]},
-  { "start": 24.78, "end": 27.03, "lines": [
-    { "text": "СИЛЬНАЯ БАЗА", "accent": false, "size": "small" },
-    { "text": "ПОМОГАЕТ", "accent": true, "size": "big" }
+  { "start": 18.37, "end": 19.84, "lines": [
+    { "text": "ВМЕСТО ЧУЖОГО", "accent": false, "size": "small" },
+    { "text": "ОДОБРЕНИЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 27.78, "end": 30.87, "lines": [
-    { "text": "НЕ ЗАМЕНЯЕТ", "accent": false, "size": "small" },
-    { "text": "ОЛИМПИАДНУЮ", "accent": true, "size": "big" }
+  { "start": 20.41, "end": 23.83, "lines": [
+    { "text": "ПРОГРЕСС В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 30.87, "end": 32.31, "lines": [
-    { "text": "ПОДГОТОВКУ К", "accent": false, "size": "small" },
-    { "text": "ФОРМУЛИРОВКАМ", "accent": true, "size": "big" }
+  { "start": 23.98, "end": 24.91, "lines": [
+    { "text": "УСИЛИЯ НЕ", "accent": false, "size": "small" },
+    { "text": "ИСЧЕЗАЮТ", "accent": true, "size": "big" }
   ]},
-  { "start": 33.21, "end": 36.39, "lines": [
-    { "text": "ПРОЧНАЯ БАЗА", "accent": false, "size": "small" },
-    { "text": "ПО ПРЕДМЕТУ", "accent": true, "size": "big" }
-  ]},
-  { "start": 36.99, "end": 39.93, "lines": [
-    { "text": "НАРАБАТЫВАЙ ЧЕРЕЗ", "accent": false, "size": "small" },
-    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
-  ]},
-  { "start": 39.93, "end": 41.73, "lines": [
+  { "start": 25.48, "end": 27.04, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
