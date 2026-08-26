@@ -1,0 +1,54 @@
+[
+  { "start": 0.69, "end": 2.07, "lines": [
+    { "text": "ЕГЭ СЫНА", "accent": false, "size": "small" },
+    { "text": "ТРЕВОЖИТ МЕНЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.91, "end": 4.77, "lines": [
+    { "text": "ИНОГДА СИЛЬНЕЕ", "accent": false, "size": "small" },
+    { "text": "ЧЕМ ЕГО САМОГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.13, "end": 7.71, "lines": [
+    { "text": "ХОТЯ ЭКЗАМЕН", "accent": false, "size": "small" },
+    { "text": "ЕЩЁ ДАЛЕКО", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.43, "end": 10.08, "lines": [
+    { "text": "ЛОВЛЮ СЕБЯ НА", "accent": false, "size": "small" },
+    { "text": "МЫСЛЯХ О ПОСТУПЛЕНИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.41, "end": 11.82, "lines": [
+    { "text": "УЖЕ СЕЙЧАС", "accent": false, "size": "small" },
+    { "text": "В НАЧАЛЕ ГОДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.15, "end": 13.95, "lines": [
+    { "text": "ХОТЯ РАНО", "accent": false, "size": "small" },
+    { "text": "РЕШАТЬ ОКОНЧАТЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.55, "end": 17.70, "lines": [
+    { "text": "СТАРАЮСЬ НЕ", "accent": false, "size": "small" },
+    { "text": "ВЫГРУЖАТЬ ТРЕВОГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.12, "end": 19.92, "lines": [
+    { "text": "СВОЮ ТРЕВОГУ", "accent": false, "size": "small" },
+    { "text": "ОБРАБАТЫВАЮ САМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.34, "end": 22.29, "lines": [
+    { "text": "А С НИМ", "accent": false, "size": "small" },
+    { "text": "ГОВОРЮ ПО ФАКТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.77, "end": 24.72, "lines": [
+    { "text": "СМОТРЮ ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.93, "end": 27.60, "lines": [
+    { "text": "КОНКРЕТНЫЕ ЦИФРЫ", "accent": false, "size": "small" },
+    { "text": "УСПОКАИВАЮТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.81, "end": 29.49, "lines": [
+    { "text": "ЛУЧШЕ ЧЕМ", "accent": false, "size": "small" },
+    { "text": "ДОДУМЫВАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.03, "end": 31.88, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "НА НЕГО В ШАПКЕ", "accent": false, "size": "small" }
+  ]}
+]

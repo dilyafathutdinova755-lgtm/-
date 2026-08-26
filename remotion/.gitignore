@@ -28,3 +28,6 @@ assets/
 episodes/*.mp4
 episodes/*.wav
 episodes/*.log
+episodes8/*.mp4
+episodes8/*.wav
+episodes8/*.log
