@@ -1,0 +1,42 @@
+[
+  { "start": 0.63, "end": 2.91, "lines": [
+    { "text": "ПОДГОТОВКУ ВЕДУ", "accent": false, "size": "small" },
+    { "text": "РОВНО МЕСЯЦ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.96, "end": 6.87, "lines": [
+    { "text": "ЧЕСТНО ПОДВОЖУ", "accent": false, "size": "small" },
+    { "text": "ПЕРВЫЙ ИТОГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.22, "end": 11.16, "lines": [
+    { "text": "НЕ БЫЛО НИ ДНЯ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ЗАНЯТИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.49, "end": 15.78, "lines": [
+    { "text": "УДИВИЛО, ВЕДЬ РАНЬШЕ", "accent": false, "size": "small" },
+    { "text": "БРОСАЛ ЧЕРЕЗ НЕДЕЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.10, "end": 18.60, "lines": [
+    { "text": "ПРОГРЕСС ПО ЦИФРАМ", "accent": false, "size": "small" },
+    { "text": "СКРОМНЫЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.23, "end": 21.81, "lines": [
+    { "text": "НО РЕАЛЬНЫЙ", "accent": false, "size": "small" },
+    { "text": "НЕ ДЛЯ КРАСИВОЙ ИСТОРИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.04, "end": 24.81, "lines": [
+    { "text": "СМОТРЮ НА ЦИФРЫ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.96, "end": 26.88, "lines": [
+    { "text": "И ПОНИМАЮ", "accent": false, "size": "small" },
+    { "text": "МАЛЕНЬКИЙ РЕЗУЛЬТАТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.42, "end": 29.97, "lines": [
+    { "text": "НО ЧЕСТНЫЙ —", "accent": false, "size": "small" },
+    { "text": "ЛУЧШЕ ЧЕМ НИЧЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.26, "end": 32.58, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
