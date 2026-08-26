@@ -1,6 +1,6 @@
 import { AbsoluteFill, Img, Sequence, interpolate, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import cardsData from "./data/cards.json";
-import segmentsData from "./data/segments.json";
+import durationData from "./data/duration.json";
 import { ICON_RIGHT_MARGIN, ICON_SIZE, ICON_TOP } from "./brand";
 
 // The app-mention card ("ЕГЭ ТРЕНАЖЁР") is the second-to-last card.
@@ -36,7 +36,7 @@ const IconFade: React.FC = () => {
 export const AppIcon: React.FC = () => {
   const { fps } = useVideoConfig();
   const from = Math.round(ICON_START_SECONDS * fps);
-  const end = Math.round(segmentsData.total_duration * fps);
+  const end = Math.round(durationData.total_duration * fps);
   const durationInFrames = Math.max(1, end - from);
 
   return (

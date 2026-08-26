@@ -1,5 +1,5 @@
 import { AbsoluteFill, Audio, CalculateMetadataFunction, Composition, staticFile } from "remotion";
-import segmentsData from "./data/segments.json";
+import durationData from "./data/duration.json";
 import { ensureFontsLoaded } from "./fonts";
 import { VideoBackground } from "./VideoBackground";
 import { KeyCard } from "./KeyCard";
@@ -15,7 +15,7 @@ type Props = Record<string, unknown>;
 const calculateMetadata: CalculateMetadataFunction<Props> = async () => {
   await ensureFontsLoaded();
   return {
-    durationInFrames: Math.round(segmentsData.total_duration * FPS),
+    durationInFrames: Math.round(durationData.total_duration * FPS),
     fps: FPS,
     width: WIDTH,
     height: HEIGHT,
@@ -27,7 +27,7 @@ export const MyComposition = () => {
     <Composition
       id="EgeOlimpiada"
       component={EgeVideo}
-      durationInFrames={Math.round(segmentsData.total_duration * FPS)}
+      durationInFrames={Math.round(durationData.total_duration * FPS)}
       fps={FPS}
       width={WIDTH}
       height={HEIGHT}
