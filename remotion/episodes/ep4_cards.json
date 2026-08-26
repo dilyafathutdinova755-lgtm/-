@@ -1,0 +1,46 @@
+[
+  { "start": 0.64, "end": 3.49, "lines": [
+    { "text": "МНЕ СКАЗАЛИ", "accent": false, "size": "small" },
+    { "text": "НЕ БОЯТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.03, "end": 6.55, "lines": [
+    { "text": "ФРАЗА С ДОБРЫМИ", "accent": false, "size": "small" },
+    { "text": "НАМЕРЕНИЯМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.67, "end": 8.20, "lines": [
+    { "text": "ЗВУЧИТ", "accent": false, "size": "small" },
+    { "text": "ПОДДЕРЖИВАЮЩЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.62, "end": 10.42, "lines": [
+    { "text": "НО НЕ ДАЁТ", "accent": false, "size": "small" },
+    { "text": "НИ ШАГА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.93, "end": 13.12, "lines": [
+    { "text": "ТРЕВОГА ПИТАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "НЕОПРЕДЕЛЁННОСТЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.54, "end": 14.77, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ОТСУТСТВИЕМ КОМПЛИМЕНТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.58, "end": 17.17, "lines": [
+    { "text": "ГОРАЗДО БОЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ПОМОГАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.41, "end": 18.37, "lines": [
+    { "text": "НЕ УВЕРЕНИЕ", "accent": false, "size": "small" },
+    { "text": "А ДЕЙСТВИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.82, "end": 21.49, "lines": [
+    { "text": "ПОСМОТРИ ЧТО", "accent": false, "size": "small" },
+    { "text": "УЖЕ СДЕЛАНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.18, "end": 25.57, "lines": [
+    { "text": "ПРОГРЕСС В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЕРЕ УСПОКАИВАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.14, "end": 27.67, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

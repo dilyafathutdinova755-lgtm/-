@@ -1,0 +1,42 @@
+[
+  { "start": 0.45, "end": 2.16, "lines": [
+    { "text": "ОДНОКЛАССНИЦА НАЗВАЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ЛОТЕРЕЕЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.52, "end": 4.92, "lines": [
+    { "text": "ГОТОВЬСЯ ИЛИ НЕТ —", "accent": false, "size": "small" },
+    { "text": "РЕШИТ СЛУЧАЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.46, "end": 8.07, "lines": [
+    { "text": "ЕСЛИ БЫ ЭТО", "accent": false, "size": "small" },
+    { "text": "БЫЛО ПРАВДОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.43, "end": 11.64, "lines": [
+    { "text": "ШАНСЫ БЫЛИ БЫ", "accent": false, "size": "small" },
+    { "text": "ОДИНАКОВЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.09, "end": 14.22, "lines": [
+    { "text": "НО СТАТИСТИКА", "accent": false, "size": "small" },
+    { "text": "ГОВОРИТ ОБРАТНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.55, "end": 18.12, "lines": [
+    { "text": "У ВСЕХ БЫЛА", "accent": false, "size": "small" },
+    { "text": "РЕГУЛЯРНАЯ ПРАКТИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.35, "end": 22.14, "lines": [
+    { "text": "НАЗЫВАТЬ ЭТО", "accent": false, "size": "small" },
+    { "text": "ЛОТЕРЕЕЙ УДОБНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.50, "end": 24.15, "lines": [
+    { "text": "ЧТОБЫ НЕ", "accent": false, "size": "small" },
+    { "text": "ВИНИТЬ СЕБЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.15, "end": 27.84, "lines": [
+    { "text": "ЗАНИМАЮСЬ ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.29, "end": 29.61, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

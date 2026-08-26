@@ -21,3 +21,10 @@ asr/*.json
 # Intermediate font staging (variable-weight originals); the static cuts
 # actually used by the composition live in public/.
 assets/
+
+# Batch-split scratch (e.g. one raw take covering several finished videos):
+# extracted clips/audio are regenerable from render_all.sh; only the
+# hand-authored cards.json / scripts / logs are worth tracking.
+episodes/*.mp4
+episodes/*.wav
+episodes/*.log
