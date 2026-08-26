@@ -1,0 +1,46 @@
+[
+  { "start": 0.75, "end": 2.73, "lines": [
+    { "text": "ЕГЭ МОЖНО", "accent": false, "size": "small" },
+    { "text": "ГОТОВИТЬ БЕСПЛАТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.27, "end": 4.41, "lines": [
+    { "text": "ЕСЛИ ПРАВИЛЬНО", "accent": false, "size": "small" },
+    { "text": "СОБРАТЬ СВЯЗКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.77, "end": 6.63, "lines": [
+    { "text": "ИЗ ОТКРЫТЫХ", "accent": false, "size": "small" },
+    { "text": "ИСТОЧНИКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.38, "end": 8.76, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ПОКУПАТЬ ВСЁ ПОДРЯД", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.81, "end": 13.11, "lines": [
+    { "text": "ОФИЦИАЛЬНЫЙ БАНК", "accent": false, "size": "small" },
+    { "text": "ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.19, "end": 15.90, "lines": [
+    { "text": "ВИДЕОРАЗБОРЫ", "accent": false, "size": "small" },
+    { "text": "КАЖДОМУ ЗАДАНИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.41, "end": 19.80, "lines": [
+    { "text": "ЭКОНОМЯТ ВРЕМЯ", "accent": false, "size": "small" },
+    { "text": "НА ПОИСКЕ ЛОГИКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.73, "end": 24.27, "lines": [
+    { "text": "ПОЛНОФОРМАТНЫЙ", "accent": false, "size": "small" },
+    { "text": "ПРОБНИК С ТАЙМЕРОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.35, "end": 29.13, "lines": [
+    { "text": "ТРИ ЧАСТИ", "accent": false, "size": "small" },
+    { "text": "НЕ ИСКАТЬ ПО САЙТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.76, "end": 31.20, "lines": [
+    { "text": "ВСЯ СВЯЗКА УЖЕ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.20, "end": 32.85, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
