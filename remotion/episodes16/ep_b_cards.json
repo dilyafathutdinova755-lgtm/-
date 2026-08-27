@@ -1,0 +1,38 @@
+[
+  { "start": 0.63, "end": 3.48, "lines": [
+    { "text": "РЕШИЛ НА ПРОБУ", "accent": false, "size": "small" },
+    { "text": "ОДНО ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.66, "end": 5.76, "lines": [
+    { "text": "А В ИТОГЕ", "accent": false, "size": "small" },
+    { "text": "РАЗОБРАЛ ВСЮ ТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.06, "end": 9.57, "lines": [
+    { "text": "ПЛАНИРОВАЛ МИНУТУ", "accent": false, "size": "small" },
+    { "text": "ЗАЛИП НА 20", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.78, "end": 11.01, "lines": [
+    { "text": "В ПРИЛОЖЕНИИ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.25, "end": 14.28, "lines": [
+    { "text": "МЕХАНИКА КОРОТКИХ", "accent": false, "size": "small" },
+    { "text": "ВИДЕО И КАРТОЧЕК", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.52, "end": 16.74, "lines": [
+    { "text": "ЗАТЯГИВАЕТ ТАК ЖЕ", "accent": false, "size": "small" },
+    { "text": "КАК ОБЫЧНАЯ ЛЕНТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.92, "end": 18.96, "lines": [
+    { "text": "ТОЛЬКО ВМЕСТО МЕМОВ", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНАЯ ПОЛЬЗА", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.35, "end": 23.28, "lines": [
+    { "text": "МОЗГ НЕ ВИДИТ", "accent": false, "size": "small" },
+    { "text": "РАЗНИЦЫ В ФОРМАТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.61, "end": 25.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
