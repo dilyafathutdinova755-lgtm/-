@@ -1,49 +1,41 @@
 [
-  { "start": 3.03, "end": 4.59, "lines": [
-    { "text": "ПО КОЛИЧЕСТВУ", "accent": false, "size": "small" },
-    { "text": "ПОТРАЧЕННЫХ ДЕНЕГ", "accent": true, "size": "big" }
+  { "start": 3.63, "end": 7.62, "lines": [
+    { "text": "ПУБЛИКУЮТСЯ ПОСЛЕ КАМПАНИИ", "accent": false, "size": "small" },
+    { "text": "А НЕ ЗАРАНЕЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 5.25, "end": 6.93, "lines": [
-    { "text": "А НЕ ПО", "accent": false, "size": "small" },
-    { "text": "РЕАЛЬНОМУ ПРОГРЕССУ", "accent": true, "size": "big" }
+  { "start": 8.01, "end": 9.78, "lines": [
+    { "text": "ОРИЕНТИРУЕМСЯ", "accent": false, "size": "small" },
+    { "text": "НА БАЛЛЫ ПРОШЛЫХ ЛЕТ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.38, "end": 9.42, "lines": [
-    { "text": "ЧАСТАЯ ЛОВУШКА", "accent": false, "size": "small" },
-    { "text": "МЫШЛЕНИЯ", "accent": true, "size": "big" }
+  { "start": 9.99, "end": 12.90, "lines": [
+    { "text": "КОТОРЫЕ МОГУТ", "accent": false, "size": "small" },
+    { "text": "ОТЛИЧАТЬСЯ ОТ ГОДА", "accent": true, "size": "big" }
   ]},
-  { "start": 9.99, "end": 11.55, "lines": [
-    { "text": "КРУПНАЯ СУММА", "accent": false, "size": "small" },
-    { "text": "В КУРСЫ", "accent": true, "size": "big" }
+  { "start": 13.26, "end": 17.07, "lines": [
+    { "text": "В ЗАВИСИМОСТИ", "accent": false, "size": "small" },
+    { "text": "ОТ КОНКУРСА СЕЗОНА", "accent": true, "size": "big" }
   ]},
-  { "start": 11.79, "end": 14.70, "lines": [
-    { "text": "СОЗДАЁТ ОЩУЩЕНИЕ", "accent": false, "size": "small" },
-    { "text": "ЧТО ВСЁ ПОД КОНТРОЛЕМ", "accent": true, "size": "big" }
+  { "start": 17.61, "end": 19.65, "lines": [
+    { "text": "РАЗУМНЫЙ ЗАПАС", "accent": false, "size": "small" },
+    { "text": "СВЕРХУ КОМПЕНСИРУЕТ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.12, "end": 17.16, "lines": [
-    { "text": "ДАЖЕ ЕСЛИ", "accent": false, "size": "small" },
-    { "text": "ОТДАЧИ ПОКА НЕ ВИДНО", "accent": true, "size": "big" }
+  { "start": 19.86, "end": 22.47, "lines": [
+    { "text": "ЛУЧШЕ ЧЕМ", "accent": false, "size": "small" },
+    { "text": "ТОЧНЫЙ РАСЧЁТ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.76, "end": 20.10, "lines": [
-    { "text": "НЕБОЛЬШАЯ СУММА", "accent": false, "size": "small" },
-    { "text": "ИЛИ ЕЁ ОТСУТСТВИЕ", "accent": true, "size": "big" }
+  { "start": 22.71, "end": 23.67, "lines": [
+    { "text": "ПО УСТАРЕВШИМ", "accent": false, "size": "small" },
+    { "text": "ЦИФРАМ", "accent": true, "size": "big" }
   ]},
-  { "start": 20.52, "end": 23.22, "lines": [
-    { "text": "ВЫЗЫВАЕТ ТРЕВОГУ", "accent": false, "size": "small" },
-    { "text": "БУДТО НЕ ХВАТАЕТ", "accent": true, "size": "big" }
+  { "start": 24.24, "end": 25.62, "lines": [
+    { "text": "ДЕРЖАТЬ ЗАПАС", "accent": false, "size": "small" },
+    { "text": "УДОБНО", "accent": true, "size": "big" }
   ]},
-  { "start": 23.58, "end": 25.29, "lines": [
-    { "text": "ХОТЯ ПРОГРЕСС", "accent": false, "size": "small" },
-    { "text": "МОЖЕТ БЫТЬ ТАКИМ ЖЕ", "accent": true, "size": "big" }
+  { "start": 25.86, "end": 28.32, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 26.04, "end": 28.59, "lines": [
-    { "text": "СМОТРЮ НА ЦИФРЫ", "accent": false, "size": "small" },
-    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
-  ]},
-  { "start": 29.10, "end": 31.83, "lines": [
-    { "text": "А НЕ НА СУММУ ЧЕКА", "accent": false, "size": "small" },
-    { "text": "КАК ПОКАЗАТЕЛЬ СЕРЬЁЗНОСТИ", "accent": true, "size": "big" }
-  ]},
-  { "start": 32.28, "end": 33.90, "lines": [
+  { "start": 28.77, "end": 30.30, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
