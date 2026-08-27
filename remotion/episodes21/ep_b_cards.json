@@ -1,0 +1,54 @@
+[
+  { "start": 3.33, "end": 4.68, "lines": [
+    { "text": "ДЛЯ ПОРОГА", "accent": false, "size": "small" },
+    { "text": "ИЗ ПРИНЦИПА", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.77, "end": 7.08, "lines": [
+    { "text": "НЕ ВЫКЛАДЫВАТЬСЯ", "accent": false, "size": "small" },
+    { "text": "В СИСТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.44, "end": 8.61, "lines": [
+    { "text": "В КАКОЙ-ТО", "accent": false, "size": "small" },
+    { "text": "МОМЕНТ ПОНЯЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.97, "end": 10.62, "lines": [
+    { "text": "ЭКОНОМЯ УСИЛИЯ", "accent": false, "size": "small" },
+    { "text": "НАЗЛО СИСТЕМЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.19, "end": 13.05, "lines": [
+    { "text": "НАКАЗЫВАЮ", "accent": false, "size": "small" },
+    { "text": "СЕБЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.50, "end": 16.65, "lines": [
+    { "text": "А НЕ СИСТЕМУ", "accent": false, "size": "small" },
+    { "text": "КОТОРОЙ ВСЁ РАВНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.10, "end": 18.81, "lines": [
+    { "text": "РЕШИЛ НЕ МЕНЯТЬ", "accent": false, "size": "small" },
+    { "text": "ОТНОШЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.20, "end": 20.85, "lines": [
+    { "text": "НО ИЗМЕНИТЬ", "accent": false, "size": "small" },
+    { "text": "СТРАТЕГИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.36, "end": 24.30, "lines": [
+    { "text": "РАДИ СВОЕГО", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.84, "end": 26.46, "lines": [
+    { "text": "ЗАНИМАЮСЬ ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.88, "end": 28.47, "lines": [
+    { "text": "БЕЗ ИЛЛЮЗИЙ", "accent": false, "size": "small" },
+    { "text": "НАСЧЁТ СПРАВЕДЛИВОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.04, "end": 30.75, "lines": [
+    { "text": "НО И БЕЗ", "accent": false, "size": "small" },
+    { "text": "САБОТАЖА СЕБЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.23, "end": 33.30, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

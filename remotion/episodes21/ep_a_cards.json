@@ -1,0 +1,54 @@
+[
+  { "start": 2.94, "end": 4.80, "lines": [
+    { "text": "ПОСЛЕ СДАЧИ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "НА ОПРЕДЕЛЁННЫЙ БАЛЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.58, "end": 8.22, "lines": [
+    { "text": "ПРОЧИТАЛ УСЛОВИЯ", "accent": false, "size": "small" },
+    { "text": "ЭТО ПРО ДРУГОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.15, "end": 11.91, "lines": [
+    { "text": "РЕЧЬ О ЦЕЛЕВОМ", "accent": false, "size": "small" },
+    { "text": "НАБОРЕ В КОЛЛЕДЖ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.36, "end": 14.16, "lines": [
+    { "text": "С ПРАКТИКОЙ", "accent": false, "size": "small" },
+    { "text": "НА ПРЕДПРИЯТИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.00, "end": 17.31, "lines": [
+    { "text": "ФОРМУЛИРОВКА БЫЛА", "accent": false, "size": "small" },
+    { "text": "СПЕЦИАЛЬНО РАЗМЫТОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.70, "end": 20.52, "lines": [
+    { "text": "ЧТОБЫ ПРИВЛЕЧЬ", "accent": false, "size": "small" },
+    { "text": "БОЛЬШЕ КЛИКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.69, "end": 22.83, "lines": [
+    { "text": "РЕАЛЬНАЯ СУТЬ", "accent": false, "size": "small" },
+    { "text": "ПРЕДЛОЖЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.61, "end": 25.86, "lines": [
+    { "text": "ОБЫЧНАЯ", "accent": false, "size": "small" },
+    { "text": "ОФИЦИАЛЬНАЯ ПРОГРАММА", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.01, "end": 27.84, "lines": [
+    { "text": "ДОСТУПНА БЕСПЛАТНО", "accent": false, "size": "small" },
+    { "text": "НА САЙТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.17, "end": 31.65, "lines": [
+    { "text": "ПРОВЕРЯЙТЕ", "accent": false, "size": "small" },
+    { "text": "ДО КОНЦА", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.37, "end": 33.27, "lines": [
+    { "text": "НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ЗАГОЛОВКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 34.53, "end": 37.71, "lines": [
+    { "text": "БАЗА ДЛЯ ЛЮБОГО ПУТИ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 38.82, "end": 40.71, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
