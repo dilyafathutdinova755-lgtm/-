@@ -1,45 +1,49 @@
 [
-  { "start": 0.57, "end": 1.50, "lines": [
-    { "text": "КУПИЛ СЕБЕ", "accent": false, "size": "small" },
-    { "text": "ОРГАНАЙЗЕР", "accent": true, "size": "big" }
+  { "start": 0.66, "end": 2.73, "lines": [
+    { "text": "РЕШИЛ НАЧАТЬ", "accent": false, "size": "small" },
+    { "text": "С ПОНЕДЕЛЬНИКА", "accent": true, "size": "big" }
   ]},
-  { "start": 1.65, "end": 4.08, "lines": [
-    { "text": "ДЛЯ ПОДГОТОВКИ", "accent": false, "size": "small" },
-    { "text": "КРАСИВОЙ", "accent": true, "size": "big" }
+  { "start": 2.88, "end": 4.59, "lines": [
+    { "text": "ПРИМЕРНО", "accent": false, "size": "small" },
+    { "text": "ПЯТУЮ НЕДЕЛЮ ПОДРЯД", "accent": true, "size": "big" }
   ]},
-  { "start": 4.29, "end": 6.75, "lines": [
-    { "text": "РАЗДЕЛЫ ПО ПРЕДМЕТАМ", "accent": false, "size": "small" },
-    { "text": "ЦВЕТНЫЕ СТИКЕРЫ", "accent": true, "size": "big" }
+  { "start": 5.28, "end": 6.78, "lines": [
+    { "text": "РЕКОРД", "accent": false, "size": "small" },
+    { "text": "КОТОРЫМ НЕ ГОРЖУСЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.08, "end": 9.54, "lines": [
-    { "text": "ЗАПОЛНИЛ ПЕРВУЮ СТРАНИЦУ", "accent": false, "size": "small" },
-    { "text": "С УДОВОЛЬСТВИЕМ", "accent": true, "size": "big" }
+  { "start": 7.05, "end": 9.00, "lines": [
+    { "text": "НО ПРИЗНАЮ", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНО", "accent": true, "size": "big" }
   ]},
-  { "start": 9.84, "end": 11.76, "lines": [
-    { "text": "РАЗЛОЖИЛ ВСЁ", "accent": false, "size": "small" },
-    { "text": "ПО ЦВЕТАМ", "accent": true, "size": "big" }
+  { "start": 9.15, "end": 11.58, "lines": [
+    { "text": "КАЖДЫЙ РАЗ", "accent": false, "size": "small" },
+    { "text": "УВАЖИТЕЛЬНАЯ ПРИЧИНА", "accent": true, "size": "big" }
   ]},
-  { "start": 12.09, "end": 14.13, "lines": [
-    { "text": "ВТОРУЮ СТРАНИЦУ", "accent": false, "size": "small" },
-    { "text": "НЕ ЗАПОЛНИЛ НИКОГДА", "accent": true, "size": "big" }
+  { "start": 11.91, "end": 13.62, "lines": [
+    { "text": "ОТКЛАДЫВАЮ", "accent": false, "size": "small" },
+    { "text": "ЕЩЁ НА НЕДЕЛЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.49, "end": 16.35, "lines": [
-    { "text": "ОРГАНАЙЗЕР ТЕПЕРЬ", "accent": false, "size": "small" },
-    { "text": "ЛЕЖИТ НА ПОЛКЕ", "accent": true, "size": "big" }
+  { "start": 13.83, "end": 16.38, "lines": [
+    { "text": "ТО ДОЖДЬ", "accent": false, "size": "small" },
+    { "text": "ТО НАСТРОЕНИЕ НЕ ТО", "accent": true, "size": "big" }
   ]},
-  { "start": 16.53, "end": 19.41, "lines": [
-    { "text": "ПАМЯТНИК", "accent": false, "size": "small" },
-    { "text": "БЛАГИМ НАМЕРЕНИЯМ", "accent": true, "size": "big" }
+  { "start": 16.56, "end": 18.51, "lines": [
+    { "text": "С УТРА", "accent": false, "size": "small" },
+    { "text": "ВЗЛОМАЛ СИСТЕМУ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.83, "end": 22.32, "lines": [
-    { "text": "ВМЕСТО ОРГАНАЙЗЕРА", "accent": false, "size": "small" },
+  { "start": 18.93, "end": 20.73, "lines": [
+    { "text": "ПЕРЕСТАЛ ЖДАТЬ", "accent": false, "size": "small" },
     { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 22.56, "end": 25.26, "lines": [
-    { "text": "НЕ НУЖНО ПРИДУМЫВАТЬ", "accent": false, "size": "small" },
-    { "text": "СИСТЕМУ САМОМУ", "accent": true, "size": "big" }
+  { "start": 20.97, "end": 22.47, "lines": [
+    { "text": "ПРЯМО", "accent": false, "size": "small" },
+    { "text": "В СРЕДУ", "accent": true, "size": "big" }
   ]},
-  { "start": 25.53, "end": 26.97, "lines": [
+  { "start": 23.01, "end": 25.14, "lines": [
+    { "text": "БЕЗ СИМВОЛИЧЕСКОГО", "accent": false, "size": "small" },
+    { "text": "НАЧАЛА НЕДЕЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.59, "end": 26.97, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
