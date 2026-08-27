@@ -1,0 +1,50 @@
+[
+  { "start": 0.63, "end": 1.95, "lines": [
+    { "text": "ЕГЭ ПОДГОТОВКУ", "accent": false, "size": "small" },
+    { "text": "СТРОЮ ТАК", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.10, "end": 5.55, "lines": [
+    { "text": "ЧТОБЫ ДОЧЬ УЧИЛАСЬ", "accent": false, "size": "small" },
+    { "text": "ОТСТАИВАТЬ СЕБЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.03, "end": 8.10, "lines": [
+    { "text": "А НЕ ПРОСТО", "accent": false, "size": "small" },
+    { "text": "СОГЛАШАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.85, "end": 9.93, "lines": [
+    { "text": "РАНЬШЕ", "accent": false, "size": "small" },
+    { "text": "САМА РЕШАЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.35, "end": 12.72, "lines": [
+    { "text": "КАКОЙ РЕПЕТИТОР", "accent": false, "size": "small" },
+    { "text": "КАКОЙ КУРС", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.17, "end": 16.62, "lines": [
+    { "text": "ТЕПЕРЬ СПРАШИВАЮ", "accent": false, "size": "small" },
+    { "text": "ЕЁ МНЕНИЕ ПЕРВОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.83, "end": 19.77, "lines": [
+    { "text": "ДАЖЕ ЕСЛИ ОТЛИЧАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ОТ МОЕГО ПЛАНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.88, "end": 23.40, "lines": [
+    { "text": "ОКАЗАЛОСЬ, ОНА", "accent": false, "size": "small" },
+    { "text": "ТОЧНЕЕ МЕНЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.55, "end": 25.23, "lines": [
+    { "text": "ЗНАЕТ ЧТО", "accent": false, "size": "small" },
+    { "text": "РАБОТАЕТ ДЛЯ НЕЁ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.92, "end": 27.15, "lines": [
+    { "text": "ПРОГРЕСС В", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.66, "end": 30.24, "lines": [
+    { "text": "СМОТРИТ САМА", "accent": false, "size": "small" },
+    { "text": "И ВЫВОДЫ ДЕЛАЕТ САМА", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.75, "end": 32.64, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
