@@ -1,0 +1,42 @@
+[
+  { "start": 3.27, "end": 5.85, "lines": [
+    { "text": "ХОЧЕТСЯ ПОДСКАЗАТЬ", "accent": false, "size": "small" },
+    { "text": "ПРАВИЛЬНЫЙ СПОСОБ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.90, "end": 9.54, "lines": [
+    { "text": "ОСНОВАННЫЙ НА", "accent": false, "size": "small" },
+    { "text": "МОЁМ ОПЫТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.53, "end": 14.07, "lines": [
+    { "text": "ФОРМАТ ЭКЗАМЕНА", "accent": false, "size": "small" },
+    { "text": "ПОМЕНЯЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.67, "end": 18.03, "lines": [
+    { "text": "МОЙ ОПЫТ", "accent": false, "size": "small" },
+    { "text": "НЕ ВСЕГДА ПРИМЕНИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.72, "end": 20.79, "lines": [
+    { "text": "СТАРАЮСЬ ПРЕДЛАГАТЬ", "accent": false, "size": "small" },
+    { "text": "А НЕ НАВЯЗЫВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.94, "end": 23.88, "lines": [
+    { "text": "УВАЖАЮ ЕЁ", "accent": false, "size": "small" },
+    { "text": "СОБСТВЕННЫЙ РИТМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.39, "end": 27.18, "lines": [
+    { "text": "ДАЖЕ ЕСЛИ ОН", "accent": false, "size": "small" },
+    { "text": "ОТЛИЧАЕТСЯ ОТ МОЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.96, "end": 30.03, "lines": [
+    { "text": "ПРОГРЕСС СМОТРИМ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.48, "end": 31.92, "lines": [
+    { "text": "НО ВЫБОР", "accent": false, "size": "small" },
+    { "text": "ЗА НЕЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.12, "end": 35.20, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

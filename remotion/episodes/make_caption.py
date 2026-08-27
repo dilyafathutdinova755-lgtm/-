@@ -8,17 +8,9 @@ total_duration = float(sys.argv[2])
 with open(f"ep{ep}_words.json", encoding="utf-8") as f:
     words = json.load(f)
 
-GAP_THRESHOLD = 0.15
-groups = []
-i = 0
-while i < len(words):
-    chunk = [words[i]]
-    if i + 1 < len(words) and words[i + 1]["start"] - words[i]["end"] < GAP_THRESHOLD:
-        chunk.append(words[i + 1])
-        i += 2
-    else:
-        i += 1
-    groups.append({"text": " ".join(w["text"] for w in chunk).upper(), "start": chunk[0]["start"]})
+# One word per group (CLAUDE.md §1.4): the running caption must stay short/
+# compact on screen, not stretch wide with two-word merges.
+groups = [{"text": w["text"].upper(), "start": w["start"]} for w in words]
 
 for idx in range(len(groups)):
     groups[idx]["end"] = groups[idx + 1]["start"] if idx + 1 < len(groups) else total_duration

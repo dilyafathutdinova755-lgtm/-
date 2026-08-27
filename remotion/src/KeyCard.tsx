@@ -9,6 +9,8 @@ import {
 import cardsData from "./data/cards.json";
 import {
   ACCENT,
+  CARD_ACCENT_SIZE_BOOST,
+  CARD_ACCENT_STROKE,
   CARD_BAND_BOTTOM,
   CARD_BAND_TOP,
   CARD_BIG_SIZE,
@@ -78,7 +80,11 @@ const SingleCard: React.FC<{ lines: CardLine[]; durationInFrames: number }> = ({
         }}
       >
         {lines.map((line, i) => {
-          const fontSize = line.size === "big" ? CARD_BIG_SIZE : CARD_SMALL_SIZE;
+          const baseSize = line.size === "big" ? CARD_BIG_SIZE : CARD_SMALL_SIZE;
+          // Accent (blue) lines run bigger and carry a same-color stroke to
+          // fatten the glyphs — CLAUDE.md §1.4: the blue line should read as
+          // visibly heavier than the white one, not just a different color.
+          const fontSize = line.accent ? baseSize * CARD_ACCENT_SIZE_BOOST : baseSize;
           return (
             <span
               key={i}
@@ -86,7 +92,9 @@ const SingleCard: React.FC<{ lines: CardLine[]; durationInFrames: number }> = ({
                 fontSize,
                 lineHeight: `${fontSize * CARD_LINE_HEIGHT}px`,
                 color: line.accent ? ACCENT : WHITE,
-                WebkitTextStroke: line.accent ? undefined : "3px rgba(0,0,0,0.65)",
+                WebkitTextStroke: line.accent
+                  ? `${CARD_ACCENT_STROKE}px ${ACCENT}`
+                  : "3px rgba(0,0,0,0.65)",
                 paintOrder: "stroke fill",
               }}
             >

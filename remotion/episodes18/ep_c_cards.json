@@ -1,0 +1,50 @@
+[
+  { "start": 3.03, "end": 4.59, "lines": [
+    { "text": "ПО КОЛИЧЕСТВУ", "accent": false, "size": "small" },
+    { "text": "ПОТРАЧЕННЫХ ДЕНЕГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.25, "end": 6.93, "lines": [
+    { "text": "А НЕ ПО", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНОМУ ПРОГРЕССУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.38, "end": 9.42, "lines": [
+    { "text": "ЧАСТАЯ ЛОВУШКА", "accent": false, "size": "small" },
+    { "text": "МЫШЛЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 11.55, "lines": [
+    { "text": "КРУПНАЯ СУММА", "accent": false, "size": "small" },
+    { "text": "В КУРСЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.79, "end": 14.70, "lines": [
+    { "text": "СОЗДАЁТ ОЩУЩЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ЧТО ВСЁ ПОД КОНТРОЛЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.12, "end": 17.16, "lines": [
+    { "text": "ДАЖЕ ЕСЛИ", "accent": false, "size": "small" },
+    { "text": "ОТДАЧИ ПОКА НЕ ВИДНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.76, "end": 20.10, "lines": [
+    { "text": "НЕБОЛЬШАЯ СУММА", "accent": false, "size": "small" },
+    { "text": "ИЛИ ЕЁ ОТСУТСТВИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.52, "end": 23.22, "lines": [
+    { "text": "ВЫЗЫВАЕТ ТРЕВОГУ", "accent": false, "size": "small" },
+    { "text": "БУДТО НЕ ХВАТАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.58, "end": 25.29, "lines": [
+    { "text": "ХОТЯ ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "МОЖЕТ БЫТЬ ТАКИМ ЖЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.04, "end": 28.59, "lines": [
+    { "text": "СМОТРЮ НА ЦИФРЫ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.10, "end": 31.83, "lines": [
+    { "text": "А НЕ НА СУММУ ЧЕКА", "accent": false, "size": "small" },
+    { "text": "КАК ПОКАЗАТЕЛЬ СЕРЬЁЗНОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.28, "end": 33.90, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

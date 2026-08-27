@@ -22,3 +22,18 @@ export const CAPTION_TOP = 230; // just below the 180px platform-icon zone
 export const ICON_SIZE = 280; // 260-300px range
 export const ICON_RIGHT_MARGIN = 60; // >=54px action-safe
 export const ICON_TOP = 380; // head height, outside top 180px zone
+
+// Accent (blue) line weight boost within KeyCard — CLAUDE.md §1.4
+export const CARD_ACCENT_SIZE_BOOST = 1.1;
+export const CARD_ACCENT_STROKE = 3; // px, same-color stroke fattens the glyph
+
+// Emphasis punch-zoom on VideoBackground — CLAUDE.md §2.2
+export const EMPHASIS_ZOOM_SCALE = 1.14;
+export const EMPHASIS_ATTACK_FRAMES = 7; // ~280ms @ 25fps, "sharp but smooth"
+export const EMPHASIS_RELEASE_FRAMES = 9; // ~360ms @ 25fps, slightly softer on the way out
+
+// Intro hook headline — CLAUDE.md §1.4a
+export const INTRO_BAND_TOP = 1920 * 0.42;
+export const INTRO_BAND_BOTTOM = 1920 * 0.62;
+export const INTRO_SIZE = 96;
+export const INTRO_LINE_HEIGHT = 0.95;
