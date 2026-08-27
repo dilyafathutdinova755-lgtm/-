@@ -1,0 +1,46 @@
+[
+  { "start": 3.60, "end": 5.31, "lines": [
+    { "text": "МОЖНО ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "В РЕЗЕРВНЫЙ ПЕРИОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.79, "end": 8.13, "lines": [
+    { "text": "И ТО ПРИ", "accent": false, "size": "small" },
+    { "text": "ОПРЕДЕЛЁННЫХ УСЛОВИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.58, "end": 10.29, "lines": [
+    { "text": "ПРАВИЛА", "accent": false, "size": "small" },
+    { "text": "РАЗЛИЧАЮТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.56, "end": 12.63, "lines": [
+    { "text": "ДЛЯ ОБЯЗАТЕЛЬНЫХ", "accent": false, "size": "small" },
+    { "text": "И ПО ВЫБОРУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.05, "end": 15.51, "lines": [
+    { "text": "НЕ ВСЕГДА", "accent": false, "size": "small" },
+    { "text": "МОЖНО ПЕРЕСДАТЬ СРАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.05, "end": 18.81, "lines": [
+    { "text": "ИНОГДА ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "НА СЛЕДУЮЩИЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.23, "end": 21.33, "lines": [
+    { "text": "РАЗБИРАТЬСЯ ЛУЧШЕ", "accent": false, "size": "small" },
+    { "text": "ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.66, "end": 24.21, "lines": [
+    { "text": "А НЕ ПОСТФАКТУМ", "accent": false, "size": "small" },
+    { "text": "ПОСЛЕ РЕЗУЛЬТАТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.66, "end": 27.81, "lines": [
+    { "text": "ПРАВИЛА ПРОВЕРЯЙ", "accent": false, "size": "small" },
+    { "text": "НА ОФИЦИАЛЬНЫХ ИСТОЧНИКАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.11, "end": 31.29, "lines": [
+    { "text": "ПОДГОТОВКУ ВЕДИ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.74, "end": 33.30, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
