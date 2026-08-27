@@ -1,0 +1,46 @@
+[
+  { "start": 0.69, "end": 2.52, "lines": [
+    { "text": "ЕГЭ ТЕМУ", "accent": false, "size": "small" },
+    { "text": "ИЗБЕГАЛ МЕСЯЦАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.73, "end": 4.59, "lines": [
+    { "text": "СЧИТАЛ ЕЁ", "accent": false, "size": "small" },
+    { "text": "НЕПОСИЛЬНО СЛОЖНОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.80, "end": 7.02, "lines": [
+    { "text": "А ВЧЕРА СЛУЧАЙНО", "accent": false, "size": "small" },
+    { "text": "ЗА 15 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.44, "end": 9.84, "lines": [
+    { "text": "СТОЛЬКО ВРЕМЕНИ", "accent": false, "size": "small" },
+    { "text": "ПРЕДСТАВЛЯЛ ГОРУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 12.12, "lines": [
+    { "text": "ЧТО ДАЖЕ ПОДХОДИТЬ", "accent": false, "size": "small" },
+    { "text": "БЫЛО СТРАШНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.42, "end": 13.44, "lines": [
+    { "text": "ОТКРЫЛ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.62, "end": 15.30, "lines": [
+    { "text": "ОТ СКУКИ", "accent": false, "size": "small" },
+    { "text": "КОРОТКОЕ ВИДЕО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.63, "end": 18.51, "lines": [
+    { "text": "ПОНЯЛ ВСЁ", "accent": false, "size": "small" },
+    { "text": "С ПЕРВОГО РАЗА", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.72, "end": 19.92, "lines": [
+    { "text": "БЕЗ ДРАМЫ", "accent": false, "size": "small" },
+    { "text": "ПРИДУМАННОЙ ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.22, "end": 23.79, "lines": [
+    { "text": "СТРАХ ПЕРЕД ТЕМОЙ", "accent": false, "size": "small" },
+    { "text": "БОЛЬШЕ САМОЙ ТЕМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.15, "end": 26.07, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
