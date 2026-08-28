@@ -1,0 +1,22 @@
+[
+  { "start": 4.95, "end": 7.80, "lines": [
+    { "text": "ВМЕСТО ИГР", "accent": false, "size": "small" },
+    { "text": "ЧЕМ ОТЛИЧАЕТСЯ ОТ УЧЕБНИКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.10, "end": 10.38, "lines": [
+    { "text": "ТАМ ВИДЕО КОРОТКИЕ", "accent": false, "size": "small" },
+    { "text": "А НЕ ПОЛОТНА ТЕКСТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.65, "end": 12.18, "lines": [
+    { "text": "ТЕСТЫ СРАЗУ", "accent": false, "size": "small" },
+    { "text": "ПОКАЗЫВАЮТ КОСЯК", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.45, "end": 13.47, "lines": [
+    { "text": "СКАЧАЛ ИЗ", "accent": false, "size": "small" },
+    { "text": "ЛЮБОПЫТСТВА", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.77, "end": 15.27, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
