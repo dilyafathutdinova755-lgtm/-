@@ -38,11 +38,3 @@ export const EMPHASIS_RELEASE_FRAMES = 9; // ~360ms @ 25fps, slightly softer on 
 // reads as a random overlay and risks landing on the host's face.
 export const INTRO_SIZE = 96;
 export const INTRO_LINE_HEIGHT = 0.95;
-
-// KeyCard alternate ("top") band — used only for cards that coincide with a
-// stock cutaway (CLAUDE.md §1.9), when the stock clip's own subject occupies
-// the normal 55-75% band. Sits below the running caption's fixed slot
-// (CAPTION_TOP=230, ~50px tall) with clearance, well above where these stock
-// clips' subjects sit (see per-file band notes in CLAUDE.md §1.9).
-export const CARD_BAND_TOP_ALT_TOP = 300;
-export const CARD_BAND_TOP_ALT_BOTTOM = 560;
