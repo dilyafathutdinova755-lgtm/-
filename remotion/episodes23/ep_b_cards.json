@@ -1,0 +1,30 @@
+[
+  { "start": 5.28, "end": 6.63, "lines": [
+    { "text": "ОСОБЕННО НА", "accent": false, "size": "small" },
+    { "text": "ВЕРХНИХ БАЛЛАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.44, "end": 10.26, "lines": [
+    { "text": "ОДНА ФОРМУЛИРОВКА", "accent": false, "size": "small" },
+    { "text": "МОЖЕТ СТОИТЬ БАЛЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.74, "end": 12.06, "lines": [
+    { "text": "ДАЖЕ ПРИ ВЕРНОМ", "accent": false, "size": "small" },
+    { "text": "СОДЕРЖАНИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.14, "end": 16.11, "lines": [
+    { "text": "СВЕРЯЕТ ФОРМУЛИРОВКИ", "accent": false, "size": "small" },
+    { "text": "С ВИДЕОРАЗБОРАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.29, "end": 17.10, "lines": [
+    { "text": "В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.70, "end": 18.60, "lines": [
+    { "text": "СТАЛИ", "accent": false, "size": "small" },
+    { "text": "ТОЧНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.62, "end": 21.57, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
