@@ -2,8 +2,8 @@ import { AbsoluteFill, Easing, Sequence, interpolate, useCurrentFrame, useVideoC
 import introData from "./data/intro.json";
 import {
   ACCENT,
-  INTRO_BAND_BOTTOM,
-  INTRO_BAND_TOP,
+  CARD_BAND_BOTTOM,
+  CARD_BAND_TOP,
   INTRO_LINE_HEIGHT,
   INTRO_SIZE,
   SIDE_MARGIN,
@@ -12,7 +12,9 @@ import { CARD_FONT } from "./fonts";
 
 // CLAUDE.md §1.4a: the opening beat is a pain-point hook headline, not the
 // usual two-tone KeyCard. Fully accent-colored, holds just past the hook line,
-// then the normal KeyCard/running-caption cadence takes over.
+// then the normal KeyCard/running-caption cadence takes over. Shares the
+// KeyCard's band (55-75%) so the hook never lands on the host's face — a
+// separate higher band was tried and kept overlapping faces in practice.
 const SCALE_IN_FRAMES = 8;
 const OPACITY_IN_FRAMES = 4;
 const OPACITY_OUT_FRAMES = 2;
@@ -44,8 +46,8 @@ const IntroCard: React.FC<{ lines: string[]; durationInFrames: number }> = ({ li
       style={{
         justifyContent: "center",
         alignItems: "center",
-        top: INTRO_BAND_TOP,
-        height: INTRO_BAND_BOTTOM - INTRO_BAND_TOP,
+        top: CARD_BAND_TOP,
+        height: CARD_BAND_BOTTOM - CARD_BAND_TOP,
         left: SIDE_MARGIN,
         right: SIDE_MARGIN,
         width: "auto",

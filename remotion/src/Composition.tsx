@@ -2,6 +2,7 @@ import { AbsoluteFill, Audio, CalculateMetadataFunction, Composition, staticFile
 import durationData from "./data/duration.json";
 import { ensureFontsLoaded } from "./fonts";
 import { VideoBackground } from "./VideoBackground";
+import { StockCutaway } from "./StockCutaway";
 import { IntroTitle } from "./IntroTitle";
 import { KeyCard } from "./KeyCard";
 import { RunningCaption } from "./RunningCaption";
@@ -41,6 +42,7 @@ export const EgeVideo: React.FC<Props> = () => {
   return (
     <AbsoluteFill>
       <VideoBackground />
+      <StockCutaway />
       <Audio src={staticFile("audio.wav")} />
       <IntroTitle />
       <KeyCard />

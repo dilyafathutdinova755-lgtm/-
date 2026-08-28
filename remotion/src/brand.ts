@@ -33,7 +33,16 @@ export const EMPHASIS_ATTACK_FRAMES = 7; // ~280ms @ 25fps, "sharp but smooth"
 export const EMPHASIS_RELEASE_FRAMES = 9; // ~360ms @ 25fps, slightly softer on the way out
 
 // Intro hook headline — CLAUDE.md §1.4a
-export const INTRO_BAND_TOP = 1920 * 0.42;
-export const INTRO_BAND_BOTTOM = 1920 * 0.62;
+// Same band as the KeyCard (CARD_BAND_TOP/BOTTOM) — the hook must never sit
+// somewhere else on screen than the card it's about to hand off to, or it
+// reads as a random overlay and risks landing on the host's face.
 export const INTRO_SIZE = 96;
 export const INTRO_LINE_HEIGHT = 0.95;
+
+// KeyCard alternate ("top") band — used only for cards that coincide with a
+// stock cutaway (CLAUDE.md §1.9), when the stock clip's own subject occupies
+// the normal 55-75% band. Sits below the running caption's fixed slot
+// (CAPTION_TOP=230, ~50px tall) with clearance, well above where these stock
+// clips' subjects sit (see per-file band notes in CLAUDE.md §1.9).
+export const CARD_BAND_TOP_ALT_TOP = 300;
+export const CARD_BAND_TOP_ALT_BOTTOM = 560;

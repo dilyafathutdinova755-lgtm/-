@@ -13,6 +13,8 @@ import {
   CARD_ACCENT_STROKE,
   CARD_BAND_BOTTOM,
   CARD_BAND_TOP,
+  CARD_BAND_TOP_ALT_BOTTOM,
+  CARD_BAND_TOP_ALT_TOP,
   CARD_BIG_SIZE,
   CARD_LINE_HEIGHT,
   CARD_SMALL_SIZE,
@@ -22,14 +24,16 @@ import {
 import { CARD_FONT } from "./fonts";
 
 type CardLine = { text: string; accent: boolean; size: "big" | "small" };
+type Band = "bottom" | "top";
 
 const SCALE_IN_FRAMES = 8; // 320ms @ 25fps
 const OPACITY_IN_FRAMES = 4; // ~140ms @ 25fps (rounds to 3.5 -> 4)
 const OPACITY_OUT_FRAMES = 2; // ~90ms @ 25fps
 
-const SingleCard: React.FC<{ lines: CardLine[]; durationInFrames: number }> = ({
+const SingleCard: React.FC<{ lines: CardLine[]; durationInFrames: number; band: Band }> = ({
   lines,
   durationInFrames,
+  band,
 }) => {
   const frame = useCurrentFrame();
 
@@ -53,14 +57,16 @@ const SingleCard: React.FC<{ lines: CardLine[]; durationInFrames: number }> = ({
     { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
   );
   const opacity = Math.min(fadeIn, fadeOut);
+  const bandTop = band === "top" ? CARD_BAND_TOP_ALT_TOP : CARD_BAND_TOP;
+  const bandBottom = band === "top" ? CARD_BAND_TOP_ALT_BOTTOM : CARD_BAND_BOTTOM;
 
   return (
     <AbsoluteFill
       style={{
         justifyContent: "center",
         alignItems: "center",
-        top: CARD_BAND_TOP,
-        height: CARD_BAND_BOTTOM - CARD_BAND_TOP,
+        top: bandTop,
+        height: bandBottom - bandTop,
         left: SIDE_MARGIN,
         right: SIDE_MARGIN,
         width: "auto",
@@ -124,7 +130,11 @@ export const KeyCard: React.FC = () => {
             durationInFrames={durationInFrames}
             layout="none"
           >
-            <SingleCard lines={card.lines as CardLine[]} durationInFrames={durationInFrames} />
+            <SingleCard
+              lines={card.lines as CardLine[]}
+              durationInFrames={durationInFrames}
+              band={((card as { band?: Band }).band ?? "bottom") as Band}
+            />
           </Sequence>
         );
       })}
