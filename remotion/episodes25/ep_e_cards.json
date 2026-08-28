@@ -1,0 +1,26 @@
+[
+  { "start": 6.87, "end": 8.67, "lines": [
+    { "text": "ОДНОКЛАССНИЦА СКИНУЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.94, "end": 10.74, "lines": [
+    { "text": "ПРОСТО ОТКРОЙ", "accent": false, "size": "small" },
+    { "text": "НИЧЕГО НЕ ОБЕЩАЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 12.63, "lines": [
+    { "text": "ЗАНИМАЛСЯ ПО", "accent": false, "size": "small" },
+    { "text": "10 МИНУТ В ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.93, "end": 14.58, "lines": [
+    { "text": "СЛЕДУЮЩИЙ ПРОБНИК", "accent": false, "size": "small" },
+    { "text": "СОРОК СЕМЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.03, "end": 15.90, "lines": [
+    { "text": "ПОТОЛОК", "accent": false, "size": "small" },
+    { "text": "ТРЕСНУЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.11, "end": 17.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

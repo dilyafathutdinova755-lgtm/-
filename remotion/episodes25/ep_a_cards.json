@@ -1,0 +1,26 @@
+[
+  { "start": 4.47, "end": 6.39, "lines": [
+    { "text": "ОТКРЫЛ", "accent": false, "size": "small" },
+    { "text": "ИЗ ЛЮБОПЫТСТВА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.60, "end": 8.73, "lines": [
+    { "text": "КЛАСС СРАВНИВАЛ", "accent": false, "size": "small" },
+    { "text": "БАЛЛЫ В ЧАТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.03, "end": 12.27, "lines": [
+    { "text": "СРЕДНИЙ БАЛЛ ВЫРОС", "accent": false, "size": "small" },
+    { "text": "НА 15 ПУНКТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.60, "end": 14.10, "lines": [
+    { "text": "БЕЗ НОТАЦИЙ", "accent": false, "size": "small" },
+    { "text": "И «СОБЕРИСЬ»", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.43, "end": 16.47, "lines": [
+    { "text": "ПРОСТО КОРОТКИЕ ВИДЕО", "accent": false, "size": "small" },
+    { "text": "МЕЖДУ УРОКАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.77, "end": 18.75, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

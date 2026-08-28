@@ -1,0 +1,30 @@
+[
+  { "start": 2.94, "end": 3.99, "lines": [
+    { "text": "ОТКРЫЛ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.26, "end": 5.64, "lines": [
+    { "text": "ПРОСТО ЧТОБЫ", "accent": false, "size": "small" },
+    { "text": "ПОДРУГА ОТСТАЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.88, "end": 7.62, "lines": [
+    { "text": "ПРОШЁЛ ОДИН ТЕСТ", "accent": false, "size": "small" },
+    { "text": "ЧТОБЫ ОТВЯЗАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.86, "end": 9.66, "lines": [
+    { "text": "ПОТОМ СЛУЧАЙНО", "accent": false, "size": "small" },
+    { "text": "ЕЩЁ ТРИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.78, "end": 13.20, "lines": [
+    { "text": "ПРОБНИК ВЫРОС", "accent": false, "size": "small" },
+    { "text": "С 38 ДО 52 БАЛЛОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.53, "end": 15.27, "lines": [
+    { "text": "БЕЗ РЕПЕТИТОРА", "accent": false, "size": "small" },
+    { "text": "МЕЖДУ СЕРИАЛАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.60, "end": 17.64, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

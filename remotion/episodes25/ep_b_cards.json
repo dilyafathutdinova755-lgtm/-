@@ -1,0 +1,26 @@
+[
+  { "start": 3.03, "end": 5.49, "lines": [
+    { "text": "ЗА 2 МЕСЯЦА", "accent": false, "size": "small" },
+    { "text": "ОТКРЫЛ 4 РАЗА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.05, "end": 8.37, "lines": [
+    { "text": "БЕСПЛАТНЫЙ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.76, "end": 11.10, "lines": [
+    { "text": "ЗАПУСТИЛ САМ", "accent": false, "size": "small" },
+    { "text": "ПОЛЬЗУЕТСЯ ДО СИХ ПОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.97, "end": 14.91, "lines": [
+    { "text": "ДЕЛО НЕ В ДЕНЬГАХ", "accent": false, "size": "small" },
+    { "text": "А В ТОМ КАК ПОКАЗАЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.36, "end": 16.95, "lines": [
+    { "text": "БЕЗ НАЖИМА", "accent": false, "size": "small" },
+    { "text": "ПРОСТО ОДИН РАЗ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.97, "end": 20.04, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
