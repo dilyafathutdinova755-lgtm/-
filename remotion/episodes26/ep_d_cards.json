@@ -1,0 +1,42 @@
+[
+  { "start": 5.67, "end": 7.08, "lines": [
+    { "text": "ОТКРЫВАЛА", "accent": false, "size": "small" },
+    { "text": "УТРОМ И ВЕЧЕРОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.29, "end": 9.63, "lines": [
+    { "text": "СРАВНИВАЯ ЦИФРЫ", "accent": false, "size": "small" },
+    { "text": "ДЕНЬ КО ДНЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.14, "end": 11.79, "lines": [
+    { "text": "ОДИН ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ НИЧЕГО НЕ МЕНЯЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.06, "end": 14.13, "lines": [
+    { "text": "РАЗОЧАРОВАНИЕ", "accent": false, "size": "small" },
+    { "text": "НА ПУСТОМ МЕСТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.91, "end": 17.49, "lines": [
+    { "text": "ПЕРЕШЛА НА", "accent": false, "size": "small" },
+    { "text": "ЕЖЕНЕДЕЛЬНУЮ СВЕРКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.73, "end": 20.79, "lines": [
+    { "text": "ТРЕВОГА СНИЗИЛАСЬ", "accent": false, "size": "small" },
+    { "text": "МОТИВАЦИЯ ВЫРОСЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.66, "end": 23.16, "lines": [
+    { "text": "СМОТРЮ ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.28, "end": 25.89, "lines": [
+    { "text": "РАЗ В НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "ДИНАМИКУ ВИДНО ЧЕСТНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.01, "end": 27.84, "lines": [
+    { "text": "ЧЕМ В ДЁРГАНЫХ", "accent": false, "size": "small" },
+    { "text": "ЕЖЕДНЕВНЫХ СРАВНЕНИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.26, "end": 29.31, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
