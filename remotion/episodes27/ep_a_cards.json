@@ -1,0 +1,42 @@
+[
+  { "start": 5.52, "end": 7.47, "lines": [
+    { "text": "ИЛИ НАДЕЕТЕСЬ", "accent": false, "size": "small" },
+    { "text": "ПРОСТО НЕ ЗАБЫТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.37, "end": 11.13, "lines": [
+    { "text": "БЕЗ УВАЖИТЕЛЬНОЙ", "accent": false, "size": "small" },
+    { "text": "ПРИЧИНЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.67, "end": 14.34, "lines": [
+    { "text": "МОЖЕТ ОЗНАЧАТЬ", "accent": false, "size": "small" },
+    { "text": "ЖДАТЬ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.61, "end": 16.02, "lines": [
+    { "text": "ДЛЯ НУЖНОГО", "accent": false, "size": "small" },
+    { "text": "ПРЕДМЕТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.04, "end": 20.31, "lines": [
+    { "text": "ТРЕБУЮТ ПОДТВЕРЖДЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ДОКУМЕНТАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.03, "end": 22.89, "lines": [
+    { "text": "А НЕ УСТНОГО", "accent": false, "size": "small" },
+    { "text": "ОБЪЯСНЕНИЯ ПОСТФАКТУМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.82, "end": 26.67, "lines": [
+    { "text": "МЕЛОЧЬ СДВИГАЕТ", "accent": false, "size": "small" },
+    { "text": "ПЛАНЫ НА ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.21, "end": 28.98, "lines": [
+    { "text": "ИЗ-ЗА НЕВНИМАТЕЛЬНОСТИ", "accent": false, "size": "small" },
+    { "text": "К ДАТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.88, "end": 33.87, "lines": [
+    { "text": "СЛЕДИТЕ ЗА СРОКАМИ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 34.62, "end": 35.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

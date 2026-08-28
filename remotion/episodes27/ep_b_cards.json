@@ -1,0 +1,46 @@
+[
+  { "start": 5.31, "end": 6.99, "lines": [
+    { "text": "ЕСТЬ ПРОСТОЙ", "accent": false, "size": "small" },
+    { "text": "СПОСОБ ПРОВЕРИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.68, "end": 9.54, "lines": [
+    { "text": "РЕАЛЬНАЯ УТЕЧКА", "accent": false, "size": "small" },
+    { "text": "ОФИЦИАЛЬНОГО МАСШТАБА", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 12.45, "lines": [
+    { "text": "ПОПАДАЕТ В", "accent": false, "size": "small" },
+    { "text": "КРУПНЫЕ НОВОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.23, "end": 14.58, "lines": [
+    { "text": "А НЕ ОСТАЁТСЯ", "accent": false, "size": "small" },
+    { "text": "ЭКСКЛЮЗИВОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.09, "end": 17.67, "lines": [
+    { "text": "ОДНОГО КАНАЛА", "accent": false, "size": "small" },
+    { "text": "ЗА ПОДПИСКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.66, "end": 22.08, "lines": [
+    { "text": "ТОЛЬКО В ЗАКРЫТОМ ЧАТЕ", "accent": false, "size": "small" },
+    { "text": "С ОПЛАТОЙ ДОСТУПА", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.83, "end": 25.59, "lines": [
+    { "text": "ЭТО ПОЧТИ НАВЕРНЯКА", "accent": false, "size": "small" },
+    { "text": "РАЗВОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.61, "end": 29.16, "lines": [
+    { "text": "ПО ОФИЦИАЛЬНОМУ", "accent": false, "size": "small" },
+    { "text": "БАНКУ ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.76, "end": 30.90, "lines": [
+    { "text": "ЧЕРЕЗ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.53, "end": 32.58, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ГОНЯТЬСЯ ЗА СЛУХАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.42, "end": 35.58, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
