@@ -1,37 +1,37 @@
 [
-  { "start": 6.48, "end": 8.04, "lines": [
-    { "text": "РАЗБЕЙТЕ ГОД", "accent": false, "size": "small" },
-    { "text": "НА ОТРЕЗКИ", "accent": true, "size": "big" }
+  { "start": 6.51, "end": 8.25, "lines": [
+    { "text": "ХОТЕЛА СРАВНИТЬ", "accent": false, "size": "small" },
+    { "text": "ЦИФРЫ НАПРЯМУЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 8.46, "end": 10.11, "lines": [
-    { "text": "ОСЕНЬЮ — БАЗА", "accent": false, "size": "small" },
-    { "text": "ПО СЛАБЫМ ТЕМАМ", "accent": true, "size": "big" }
+  { "start": 8.49, "end": 9.30, "lines": [
+    { "text": "НО ВОВРЕМЯ", "accent": false, "size": "small" },
+    { "text": "ПОНЯЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 10.65, "end": 12.21, "lines": [
-    { "text": "ЗИМОЙ —", "accent": false, "size": "small" },
-    { "text": "ПРАКТИКА И ПРОБНИКИ", "accent": true, "size": "big" }
+  { "start": 9.93, "end": 11.31, "lines": [
+    { "text": "РАЗНЫЕ", "accent": false, "size": "small" },
+    { "text": "СТАРТОВЫЕ ТОЧКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.54, "end": 14.07, "lines": [
-    { "text": "ВЕСНОЙ —", "accent": false, "size": "small" },
-    { "text": "ДОВОДКА И СКОРОСТЬ", "accent": true, "size": "big" }
+  { "start": 11.52, "end": 13.41, "lines": [
+    { "text": "И РАЗНОЕ", "accent": false, "size": "small" },
+    { "text": "СВОБОДНОЕ ВРЕМЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.49, "end": 17.40, "lines": [
-    { "text": "СНИМАЕТ ХАОС", "accent": false, "size": "small" },
-    { "text": "И ПОСТОЯННУЮ ТРЕВОГУ", "accent": true, "size": "big" }
+  { "start": 14.07, "end": 17.31, "lines": [
+    { "text": "СРАВНЕНИЕ ЧУЖОГО ПУТИ", "accent": false, "size": "small" },
+    { "text": "ДАВАЛО ТОЛЬКО ТРЕВОГУ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.61, "end": 18.69, "lines": [
-    { "text": "А ВДРУГ", "accent": false, "size": "small" },
-    { "text": "Я МАЛО ДЕЛАЮ", "accent": true, "size": "big" }
+  { "start": 18.06, "end": 19.35, "lines": [
+    { "text": "ВЕРНУЛАСЬ К", "accent": false, "size": "small" },
+    { "text": "СВОЕМУ ПРОГРЕССУ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.29, "end": 21.24, "lines": [
-    { "text": "ПРОГРЕСС УДОБНО", "accent": false, "size": "small" },
-    { "text": "ОТСЛЕЖИВАТЬ В ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  { "start": 19.50, "end": 20.19, "lines": [
+    { "text": "В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 22.53, "end": 25.20, "lines": [
-    { "text": "ВИДНО НА КАКОМ ЭТАПЕ", "accent": false, "size": "small" },
-    { "text": "ВЫ НА САМОМ ДЕЛЕ", "accent": true, "size": "big" }
+  { "start": 20.43, "end": 22.59, "lines": [
+    { "text": "СРАВНИВАЮ СЕБЯ", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО С СОБОЙ", "accent": true, "size": "big" }
   ]},
-  { "start": 25.74, "end": 26.64, "lines": [
+  { "start": 23.19, "end": 24.21, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
