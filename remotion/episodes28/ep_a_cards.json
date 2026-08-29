@@ -1,0 +1,38 @@
+[
+  { "start": 3.33, "end": 4.90, "lines": [
+    { "text": "ВЧЕРА", "accent": false, "size": "small" },
+    { "text": "68", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.10, "end": 6.20, "lines": [
+    { "text": "ЧУДО?", "accent": false, "size": "small" },
+    { "text": "НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.42, "end": 7.85, "lines": [
+    { "text": "ПЕРЕСТАЛ", "accent": false, "size": "small" },
+    { "text": "УЧИТЬ ВСЁ ЗА ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.04, "end": 10.05, "lines": [
+    { "text": "ОТКРЫВАЛ", "accent": false, "size": "small" },
+    { "text": "ПО ОДНОМУ ЗАДАНИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.29, "end": 13.65, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "МИНУТ ПО ДЕСЯТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.86, "end": 15.90, "lines": [
+    { "text": "ЗА ПОЛГОДА", "accent": false, "size": "small" },
+    { "text": "23 БАЛЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.11, "end": 18.55, "lines": [
+    { "text": "ВОТ ЧТО ДАЮТ", "accent": false, "size": "small" },
+    { "text": "МАЛЕНЬКИЕ ШАГИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.78, "end": 20.75, "lines": [
+    { "text": "ГЛАВНОЕ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.97, "end": 23.16, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
