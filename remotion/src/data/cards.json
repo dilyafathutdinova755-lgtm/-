@@ -1,41 +1,45 @@
 [
-  { "start": 5.67, "end": 7.08, "lines": [
-    { "text": "ОТКРЫВАЛА", "accent": false, "size": "small" },
-    { "text": "УТРОМ И ВЕЧЕРОМ", "accent": true, "size": "big" }
+  { "start": 4.14, "end": 5.64, "lines": [
+    { "text": "МАТЕРИАЛЫ МНОГОЛЕТНЕЙ", "accent": false, "size": "small" },
+    { "text": "ДАВНОСТИ ПОДВЕДУТ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.29, "end": 9.63, "lines": [
-    { "text": "СРАВНИВАЯ ЦИФРЫ", "accent": false, "size": "small" },
-    { "text": "ДЕНЬ КО ДНЮ", "accent": true, "size": "big" }
+  { "start": 5.79, "end": 7.41, "lines": [
+    { "text": "ПРЯМО НА", "accent": false, "size": "small" },
+    { "text": "ЭКЗАМЕНЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 10.14, "end": 11.79, "lines": [
-    { "text": "ОДИН ДЕНЬ", "accent": false, "size": "small" },
-    { "text": "ПОЧТИ НИЧЕГО НЕ МЕНЯЕТ", "accent": true, "size": "big" }
+  { "start": 8.19, "end": 10.17, "lines": [
+    { "text": "СПИСОК ЯЗЫКОВ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСМАТРИВАЕТСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.06, "end": 14.13, "lines": [
-    { "text": "РАЗОЧАРОВАНИЕ", "accent": false, "size": "small" },
-    { "text": "НА ПУСТОМ МЕСТЕ", "accent": true, "size": "big" }
+  { "start": 10.35, "end": 13.14, "lines": [
+    { "text": "ДОБАВЛЯЮТСЯ", "accent": false, "size": "small" },
+    { "text": "НОВЫЕ ТИПЫ ЗАДАНИЙ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.91, "end": 17.49, "lines": [
-    { "text": "ПЕРЕШЛА НА", "accent": false, "size": "small" },
-    { "text": "ЕЖЕНЕДЕЛЬНУЮ СВЕРКУ", "accent": true, "size": "big" }
+  { "start": 13.53, "end": 15.09, "lines": [
+    { "text": "КТО ГОТОВИТСЯ", "accent": false, "size": "small" },
+    { "text": "ПО СТАРЫМ СБОРНИКАМ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.73, "end": 20.79, "lines": [
-    { "text": "ТРЕВОГА СНИЗИЛАСЬ", "accent": false, "size": "small" },
-    { "text": "МОТИВАЦИЯ ВЫРОСЛА", "accent": true, "size": "big" }
+  { "start": 15.30, "end": 17.16, "lines": [
+    { "text": "РИСКУЕТ СТОЛКНУТЬСЯ", "accent": false, "size": "small" },
+    { "text": "С НЕПРИВЫЧНЫМ ФОРМАТОМ", "accent": true, "size": "big" }
   ]},
-  { "start": 21.66, "end": 23.16, "lines": [
-    { "text": "СМОТРЮ ПРОГРЕСС", "accent": false, "size": "small" },
-    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  { "start": 17.37, "end": 19.11, "lines": [
+    { "text": "ИМЕННО В ДЕНЬ СДАЧИ", "accent": false, "size": "small" },
+    { "text": "А НЕ ЗАРАНЕЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 23.28, "end": 25.89, "lines": [
-    { "text": "РАЗ В НЕДЕЛЮ", "accent": false, "size": "small" },
-    { "text": "ДИНАМИКУ ВИДНО ЧЕСТНЕЕ", "accent": true, "size": "big" }
+  { "start": 19.80, "end": 21.63, "lines": [
+    { "text": "АКТУАЛЬНЫЕ ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "ПОД ТЕКУЩИЙ ФОРМАТ", "accent": true, "size": "big" }
   ]},
-  { "start": 26.01, "end": 27.84, "lines": [
-    { "text": "ЧЕМ В ДЁРГАНЫХ", "accent": false, "size": "small" },
-    { "text": "ЕЖЕДНЕВНЫХ СРАВНЕНИЯХ", "accent": true, "size": "big" }
+  { "start": 21.93, "end": 22.71, "lines": [
+    { "text": "В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 28.26, "end": 29.31, "lines": [
+  { "start": 23.16, "end": 25.44, "lines": [
+    { "text": "ОБНОВЛЯЮТСЯ ВСЛЕД", "accent": false, "size": "small" },
+    { "text": "ЗА ИЗМЕНЕНИЯМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.89, "end": 26.94, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
