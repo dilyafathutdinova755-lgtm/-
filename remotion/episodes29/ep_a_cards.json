@@ -1,0 +1,50 @@
+[
+  { "start": 2.25, "end": 5.00, "lines": [
+    { "text": "ТАК ЖЕ ПЛОХО", "accent": false, "size": "small" },
+    { "text": "КАК МЕСЯЦ НАЗАД", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.16, "end": 7.10, "lines": [
+    { "text": "ПРОВЕРЬТЕ СЕБЯ", "accent": false, "size": "small" },
+    { "text": "НА ПРОСТЫХ ФАКТАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.29, "end": 11.20, "lines": [
+    { "text": "ДО КАКОГО ЧИСЛА", "accent": false, "size": "small" },
+    { "text": "ВЫБОР ПРЕДМЕТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.46, "end": 14.05, "lines": [
+    { "text": "В КУРСЕ?", "accent": false, "size": "small" },
+    { "text": "СПИСОК МОЖНО МЕНЯТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.13, "end": 17.00, "lines": [
+    { "text": "ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "В ОГРАНИЧЕННЫЙ ПЕРИОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.19, "end": 19.80, "lines": [
+    { "text": "ПОМНИТЕ?", "accent": false, "size": "small" },
+    { "text": "ДОПУСК К ЕГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.89, "end": 22.50, "lines": [
+    { "text": "ИТОГОВОЕ СОЧИНЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.68, "end": 24.30, "lines": [
+    { "text": "ТАКИЕ ДЕТАЛИ", "accent": false, "size": "small" },
+    { "text": "РЕДКО ОБСУЖДАЮТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.39, "end": 26.90, "lines": [
+    { "text": "ПОКА НЕ", "accent": false, "size": "small" },
+    { "text": "ДЕДЛАЙН ВНЕЗАПНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.12, "end": 29.80, "lines": [
+    { "text": "АКТУАЛЬНЫЕ СРОКИ", "accent": false, "size": "small" },
+    { "text": "В СВОЕЙ ШКОЛЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.03, "end": 33.10, "lines": [
+    { "text": "ПОДГОТОВКУ ВЕДИТЕ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.36, "end": 35.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

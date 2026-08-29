@@ -1,0 +1,42 @@
+[
+  { "start": 3.35, "end": 5.50, "lines": [
+    { "text": "ПОРОГ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "НИЖЕ ЧЕМ КАЖЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.60, "end": 7.90, "lines": [
+    { "text": "ТЕМ КТО БОИТСЯ", "accent": false, "size": "small" },
+    { "text": "ЗАВАЛИТЬ ЦЕЛИКОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.00, "end": 11.90, "lines": [
+    { "text": "УРОВЕНЬ ПОДТВЕРЖДАЕТ", "accent": false, "size": "small" },
+    { "text": "БАЗОВОЕ ВЛАДЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.95, "end": 14.85, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ВЫСОКИЙ КЛАСС", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.96, "end": 18.00, "lines": [
+    { "text": "РЕАЛЬНО ПРОЙТИ", "accent": false, "size": "small" },
+    { "text": "ПРИ СКРОМНЫХ ЗАНЯТИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.62, "end": 20.90, "lines": [
+    { "text": "БЕЗ НЕОБХОДИМОСТИ", "accent": false, "size": "small" },
+    { "text": "БЫТЬ ОТЛИЧНИКОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.05, "end": 25.00, "lines": [
+    { "text": "НЕ ПУТАЙТЕ", "accent": false, "size": "small" },
+    { "text": "АТТЕСТАТ И БАЛЛ ПОСТУПЛЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.10, "end": 28.60, "lines": [
+    { "text": "ЧАСТАЯ ПРИЧИНА", "accent": false, "size": "small" },
+    { "text": "ЛИШНЕЙ ПАНИКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.73, "end": 32.60, "lines": [
+    { "text": "ПРОВЕРЬТЕ УРОВЕНЬ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.83, "end": 36.16, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
