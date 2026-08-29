@@ -1,45 +1,37 @@
 [
-  { "start": 3.12, "end": 5.70, "lines": [
-    { "text": "У АНОНИМА", "accent": false, "size": "small" },
-    { "text": "В ИНТЕРНЕТЕ", "accent": true, "size": "big" }
+  { "start": 6.48, "end": 8.04, "lines": [
+    { "text": "РАЗБЕЙТЕ ГОД", "accent": false, "size": "small" },
+    { "text": "НА ОТРЕЗКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 6.51, "end": 9.87, "lines": [
-    { "text": "ПОЧЕМУ ЭТО ПЛОХАЯ ИДЕЯ", "accent": false, "size": "small" },
-    { "text": "СРАЗУ ПО НЕСКОЛЬКИМ ПРИЧИНАМ", "accent": true, "size": "big" }
+  { "start": 8.46, "end": 10.11, "lines": [
+    { "text": "ОСЕНЬЮ — БАЗА", "accent": false, "size": "small" },
+    { "text": "ПО СЛАБЫМ ТЕМАМ", "accent": true, "size": "big" }
   ]},
-  { "start": 10.62, "end": 13.53, "lines": [
-    { "text": "ОТВЕТОВ ЗАРАНЕЕ", "accent": false, "size": "small" },
-    { "text": "ФИЗИЧЕСКИ НЕ СУЩЕСТВУЕТ", "accent": true, "size": "big" }
+  { "start": 10.65, "end": 12.21, "lines": [
+    { "text": "ЗИМОЙ —", "accent": false, "size": "small" },
+    { "text": "ПРАКТИКА И ПРОБНИКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.16, "end": 15.60, "lines": [
-    { "text": "ДО ВСКРЫТИЯ", "accent": false, "size": "small" },
-    { "text": "ПАКЕТОВ", "accent": true, "size": "big" }
+  { "start": 12.54, "end": 14.07, "lines": [
+    { "text": "ВЕСНОЙ —", "accent": false, "size": "small" },
+    { "text": "ДОВОДКА И СКОРОСТЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.14, "end": 18.42, "lines": [
-    { "text": "С МАТЕРИАЛАМИ", "accent": false, "size": "small" },
-    { "text": "В АУДИТОРИИ", "accent": true, "size": "big" }
+  { "start": 14.49, "end": 17.40, "lines": [
+    { "text": "СНИМАЕТ ХАОС", "accent": false, "size": "small" },
+    { "text": "И ПОСТОЯННУЮ ТРЕВОГУ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.29, "end": 22.71, "lines": [
-    { "text": "ИСПОЛЬЗОВАНИЕ ПОСТОРОННИХ", "accent": false, "size": "small" },
-    { "text": "МАТЕРИАЛОВ НА ЭКЗАМЕНЕ", "accent": true, "size": "big" }
+  { "start": 17.61, "end": 18.69, "lines": [
+    { "text": "А ВДРУГ", "accent": false, "size": "small" },
+    { "text": "Я МАЛО ДЕЛАЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 23.43, "end": 26.79, "lines": [
-    { "text": "ПРЯМОЕ ОСНОВАНИЕ", "accent": false, "size": "small" },
-    { "text": "ДЛЯ УДАЛЕНИЯ", "accent": true, "size": "big" }
+  { "start": 19.29, "end": 21.24, "lines": [
+    { "text": "ПРОГРЕСС УДОБНО", "accent": false, "size": "small" },
+    { "text": "ОТСЛЕЖИВАТЬ В ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 27.63, "end": 31.02, "lines": [
-    { "text": "ПРОДАВЕЦ ЗАРАБОТАЛ", "accent": false, "size": "small" },
-    { "text": "НА ЧУЖОЙ ПАНИКЕ", "accent": true, "size": "big" }
+  { "start": 22.53, "end": 25.20, "lines": [
+    { "text": "ВИДНО НА КАКОМ ЭТАПЕ", "accent": false, "size": "small" },
+    { "text": "ВЫ НА САМОМ ДЕЛЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 31.83, "end": 34.86, "lines": [
-    { "text": "ГОТОВИТЬСЯ СТОИТ", "accent": false, "size": "small" },
-    { "text": "ЧЕРЕЗ ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
-  ]},
-  { "start": 35.52, "end": 38.64, "lines": [
-    { "text": "А НЕ ПОКУПАТЬ", "accent": false, "size": "small" },
-    { "text": "ОТВЕТЫ В ПОСЛЕДНИЙ МОМЕНТ", "accent": true, "size": "big" }
-  ]},
-  { "start": 39.42, "end": 40.98, "lines": [
+  { "start": 25.74, "end": 26.64, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
