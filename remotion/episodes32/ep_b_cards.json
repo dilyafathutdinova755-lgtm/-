@@ -1,0 +1,46 @@
+[
+  { "start": 1.93, "end": 4.40, "lines": [
+    { "text": "БЕЗ ПРОШЛОГОДНИХ", "accent": false, "size": "small" },
+    { "text": "ВРЕДНЫХ ПРИВЫЧЕК", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.48, "end": 6.70, "lines": [
+    { "text": "КОТОРЫЕ САМА", "accent": false, "size": "small" },
+    { "text": "ЗА СОБОЙ ЗНАЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.73, "end": 8.60, "lines": [
+    { "text": "НЕ ОТКЛАДЫВАТЬ", "accent": false, "size": "small" },
+    { "text": "ПЕРВОЕ ЗАНЯТИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.62, "end": 10.90, "lines": [
+    { "text": "НЕ ЖДАТЬ ПОКА", "accent": false, "size": "small" },
+    { "text": "ВТЯНЕШЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.96, "end": 14.10, "lines": [
+    { "text": "С ПЕРВОЙ НЕДЕЛИ", "accent": false, "size": "small" },
+    { "text": "А НЕ С ОКТЯБРЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.14, "end": 16.80, "lines": [
+    { "text": "НЕ НЕРЕАЛИСТИЧНЫЙ", "accent": false, "size": "small" },
+    { "text": "ПЛАН НА ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.84, "end": 19.30, "lines": [
+    { "text": "ПЛАН", "accent": false, "size": "small" },
+    { "text": "НА ОДНУ НЕДЕЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.36, "end": 22.00, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "УДОБНО НАЧИНАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.06, "end": 23.30, "lines": [
+    { "text": "НАЧИНАТЬ", "accent": false, "size": "small" },
+    { "text": "МАЛЕНЬКИМИ ПОРЦИЯМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.38, "end": 25.90, "lines": [
+    { "text": "БЕЗ ОГРОМНОГО", "accent": false, "size": "small" },
+    { "text": "СПИСКА НА СТАРТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.99, "end": 28.76, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

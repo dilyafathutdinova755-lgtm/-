@@ -1,0 +1,42 @@
+[
+  { "start": 2.13, "end": 4.35, "lines": [
+    { "text": "ПРОШЛОГОДНЕЕ", "accent": false, "size": "small" },
+    { "text": "РАСПИСАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.41, "end": 6.85, "lines": [
+    { "text": "И ПО НОВОМУ", "accent": false, "size": "small" },
+    { "text": "РЕШИЛА ПОПРОБОВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.90, "end": 9.00, "lines": [
+    { "text": "ПО СТАРОМУ", "accent": false, "size": "small" },
+    { "text": "ДВА ЧАСА ВЕЧЕРОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.09, "end": 12.05, "lines": [
+    { "text": "СРЫВАЛОСЬ", "accent": false, "size": "small" },
+    { "text": "ТРИ ДНЯ ИЗ ПЯТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.12, "end": 14.40, "lines": [
+    { "text": "ПО НОВОМУ", "accent": false, "size": "small" },
+    { "text": "15 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.49, "end": 16.50, "lines": [
+    { "text": "СРАЗУ ПОСЛЕ ШКОЛЫ", "accent": false, "size": "small" },
+    { "text": "ПОКА НЕ ЗАБЫЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.65, "end": 18.60, "lines": [
+    { "text": "И НЕ", "accent": false, "size": "small" },
+    { "text": "УСТАЛА ОКОНЧАТЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.66, "end": 22.00, "lines": [
+    { "text": "ПЕРВАЯ НЕДЕЛЯ", "accent": false, "size": "small" },
+    { "text": "НОВЫЙ ПОДХОД ДЕРЖИТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.05, "end": 24.28, "lines": [
+    { "text": "СТАРЫЙ", "accent": false, "size": "small" },
+    { "text": "РАЗВАЛИВАЛСЯ К СРЕДЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.33, "end": 26.92, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
