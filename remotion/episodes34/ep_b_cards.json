@@ -1,0 +1,42 @@
+[
+  { "start": 2.34, "end": 4.65, "lines": [
+    { "text": "МАМА НАШЛА", "accent": false, "size": "small" },
+    { "text": "СТАРЫЙ ДНЕВНИК", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.98, "end": 8.46, "lines": [
+    { "text": "СРАВНИЛА С НЫНЕШНИМИ", "accent": false, "size": "small" },
+    { "text": "ЗА УЖИНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.49, "end": 10.20, "lines": [
+    { "text": "СРАВНЕНИЕ", "accent": false, "size": "small" },
+    { "text": "НЕПРИЯТНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.23, "end": 13.11, "lines": [
+    { "text": "ПО ФАКТУ ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "МЕДЛЕННЫЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.14, "end": 16.41, "lines": [
+    { "text": "НЕ ВСЕГДА ЗАМЕТНЫЙ", "accent": false, "size": "small" },
+    { "text": "В ДНЕВНИКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.44, "end": 18.60, "lines": [
+    { "text": "ОЦЕНКИ В ШКОЛЕ", "accent": false, "size": "small" },
+    { "text": "И РЕАЛЬНЫЕ ЗНАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.20, "end": 22.92, "lines": [
+    { "text": "ПУТАЮТ ДАЖЕ", "accent": false, "size": "small" },
+    { "text": "РОДИТЕЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.95, "end": 26.07, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНАЯ ДИНАМИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.10, "end": 28.20, "lines": [
+    { "text": "А НЕ ПО", "accent": false, "size": "small" },
+    { "text": "ЧЕТВЕРТНЫМ БАЛЛАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.23, "end": 29.94, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,46 @@
+[
+  { "start": 2.55, "end": 4.71, "lines": [
+    { "text": "ВТОРОЙ УЧЕБНЫЙ ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "ПРОГУЛЯЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.77, "end": 6.30, "lines": [
+    { "text": "ЕЩЁ ДО ТОГО", "accent": false, "size": "small" },
+    { "text": "МЫСЛЕННО", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.36, "end": 9.30, "lines": [
+    { "text": "СЕЛ ЗА СТОЛ", "accent": false, "size": "small" },
+    { "text": "ВЕЧЕРОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.36, "end": 10.95, "lines": [
+    { "text": "ВЕСЬ ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "ОТКЛАДЫВАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.01, "end": 14.70, "lines": [
+    { "text": "ПРИДУМЫВАЛ ДЕЛА", "accent": false, "size": "small" },
+    { "text": "ПОВАЖНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.76, "end": 16.41, "lines": [
+    { "text": "СЕЛ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "К ДЕСЯТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.47, "end": 20.16, "lines": [
+    { "text": "ЗАДАНИЕ ЗАНЯЛО", "accent": false, "size": "small" },
+    { "text": "20 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.18, "end": 22.98, "lines": [
+    { "text": "РАЗНИЦА МЕЖДУ", "accent": false, "size": "small" },
+    { "text": "СТРАХОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.04, "end": 25.65, "lines": [
+    { "text": "И ДЕЙСТВИЕМ", "accent": false, "size": "small" },
+    { "text": "ОГРОМНАЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.76, "end": 30.24, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТОЖЕ ТЯНЕШЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.08, "end": 32.70, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
