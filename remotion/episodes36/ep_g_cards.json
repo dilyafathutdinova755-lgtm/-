@@ -1,0 +1,46 @@
+[
+  { "start": 2.34, "end": 4.38, "lines": [
+    { "text": "ПО ОДНОЙ ТЕМЕ", "accent": false, "size": "small" },
+    { "text": "СНАЧАЛА ОДНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.41, "end": 8.04, "lines": [
+    { "text": "ДОГОВОРИЛАСЬ С ПОДРУГОЙ", "accent": false, "size": "small" },
+    { "text": "ЗАНИМАТЬСЯ ПАРАЛЛЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.07, "end": 11.04, "lines": [
+    { "text": "ЧТОБЫ СРАВНИТЬ", "accent": false, "size": "small" },
+    { "text": "ЧТО РЕАЛЬНО ПОМОГАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 13.65, "lines": [
+    { "text": "В ОДИНОЧКУ ЧАСТО", "accent": false, "size": "small" },
+    { "text": "ОТКЛАДЫВАЛА ЗАНЯТИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.68, "end": 14.88, "lines": [
+    { "text": "НА", "accent": false, "size": "small" },
+    { "text": "ПОПОЗЖЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.91, "end": 17.58, "lines": [
+    { "text": "КОТОРОЕ ИНОГДА", "accent": false, "size": "small" },
+    { "text": "НЕ НАСТУПАЛА ВООБЩЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.61, "end": 20.37, "lines": [
+    { "text": "С ПОДРУГОЙ ДОГОВОРИЛИСЬ", "accent": false, "size": "small" },
+    { "text": "ПРИСЫЛАТЬ СКРИНШОТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.40, "end": 23.07, "lines": [
+    { "text": "ОТКРЫТОГО ТРЕНАЖЁРА", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.10, "end": 25.77, "lines": [
+    { "text": "ПРОСТАЯ ПРОВЕРКА", "accent": false, "size": "small" },
+    { "text": "НЕ ЗАНУДНЫЙ КОНТРОЛЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.80, "end": 30.06, "lines": [
+    { "text": "РЕАЛЬНО СРАБОТАЛА", "accent": false, "size": "small" },
+    { "text": "ЛУЧШЕ ЧЕМ В ОДИНОЧКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.09, "end": 32.28, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

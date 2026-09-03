@@ -1,0 +1,42 @@
+[
+  { "start": 2.52, "end": 4.26, "lines": [
+    { "text": "ПОД КАЖДЫМ ВТОРЫМ ВИДЕО", "accent": false, "size": "small" },
+    { "text": "РАЗВОРАЧИВАЕТСЯ СРАЧ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.29, "end": 7.65, "lines": [
+    { "text": "НУЖЕН ЛИ ОН", "accent": false, "size": "small" },
+    { "text": "СПРАВЕДЛИВ ЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.49, "end": 10.62, "lines": [
+    { "text": "СПОРИТЬ С ИНТЕРНЕТОМ", "accent": false, "size": "small" },
+    { "text": "МОЖНО БЕСКОНЕЧНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.65, "end": 13.32, "lines": [
+    { "text": "ЭКЗАМЕН В ИТОГЕ", "accent": false, "size": "small" },
+    { "text": "ПРИДЁТСЯ СДАВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.35, "end": 17.67, "lines": [
+    { "text": "НЕЗАВИСИМО ОТ ИСХОДА", "accent": false, "size": "small" },
+    { "text": "СПОРОВ В КОММЕНТАРИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.70, "end": 21.21, "lines": [
+    { "text": "УСТАЛА УЧАСТВОВАТЬ", "accent": false, "size": "small" },
+    { "text": "В ЭТИХ СПОРАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.24, "end": 23.10, "lines": [
+    { "text": "ВМЕСТО КОММЕНТАРИЯ", "accent": false, "size": "small" },
+    { "text": "ОТКРЫЛА ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.13, "end": 25.32, "lines": [
+    { "text": "ТАМ ПРОСТО", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЕ БЕЗ ФИЛОСОФИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.35, "end": 27.39, "lines": [
+    { "text": "ПРОСТО", "accent": false, "size": "small" },
+    { "text": "СПРАВЕДЛИВОСТЬ СИСТЕМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.42, "end": 29.49, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
