@@ -1,0 +1,42 @@
+[
+  { "start": 2.31, "end": 3.66, "lines": [
+    { "text": "ШКОЛУ И ЕГЭ", "accent": false, "size": "small" },
+    { "text": "НАЗВАЛ НЕНУЖНЫМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.69, "end": 6.66, "lines": [
+    { "text": "ОДИН БЛОГЕР", "accent": false, "size": "small" },
+    { "text": "БЕЗ ДИПЛОМА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.81, "end": 9.87, "lines": [
+    { "text": "КОММЕНТАРИИ", "accent": false, "size": "small" },
+    { "text": "ПОДДЕРЖАЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.90, "end": 11.13, "lines": [
+    { "text": "Я", "accent": false, "size": "small" },
+    { "text": "НЕ КУПИЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.16, "end": 13.83, "lines": [
+    { "text": "ЗА КАЖДЫМ ПРИМЕРОМ", "accent": false, "size": "small" },
+    { "text": "СТОИТ ИСТОРИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.89, "end": 16.59, "lines": [
+    { "text": "СЛОЖНЕЕ ОДНОЙ", "accent": false, "size": "small" },
+    { "text": "ЭФФЕКТНОЙ ФРАЗЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.62, "end": 19.23, "lines": [
+    { "text": "СВОЮ БАЗУ ПОД ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ВСЁ РАВНО ДЕРЖУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.26, "end": 21.12, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.15, "end": 24.39, "lines": [
+    { "text": "ВНЕ ЗАВИСИМОСТИ", "accent": false, "size": "small" },
+    { "text": "ОТ ЗАЯВЛЕНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.42, "end": 26.92, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
