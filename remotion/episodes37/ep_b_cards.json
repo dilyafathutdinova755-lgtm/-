@@ -1,0 +1,42 @@
+[
+  { "start": 2.46, "end": 4.83, "lines": [
+    { "text": "СРАВНИ СЕБЯ", "accent": false, "size": "small" },
+    { "text": "НЫНЕШНЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.86, "end": 6.72, "lines": [
+    { "text": "В НАЧАЛЕ ЛЕТА", "accent": false, "size": "small" },
+    { "text": "И УДИВИЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.75, "end": 10.71, "lines": [
+    { "text": "НАСКОЛЬКО СДВИНУЛАСЬ", "accent": false, "size": "small" },
+    { "text": "БАЗА БЕЗ УСИЛИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.74, "end": 13.41, "lines": [
+    { "text": "ЛЕТОМ ПУТАЛ", "accent": false, "size": "small" },
+    { "text": "БАЗОВЫЕ ФОРМУЛЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.44, "end": 17.43, "lines": [
+    { "text": "А СЕЙЧАС РЕШАЮ", "accent": false, "size": "small" },
+    { "text": "УВЕРЕННО", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.46, "end": 19.53, "lines": [
+    { "text": "РЕГУЛЯРНОСТЬ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.56, "end": 21.15, "lines": [
+    { "text": "КАЖЕТСЯ", "accent": false, "size": "small" },
+    { "text": "РАБОТАЕТ МЕДЛЕННО", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.18, "end": 23.40, "lines": [
+    { "text": "НО ЗАМЕТНО", "accent": false, "size": "small" },
+    { "text": "НА ДЛИННОЙ ДИСТАНЦИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.43, "end": 26.34, "lines": [
+    { "text": "САМ ОТ СЕБЯ", "accent": false, "size": "small" },
+    { "text": "НЕ ОЖИДАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.37, "end": 28.47, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
