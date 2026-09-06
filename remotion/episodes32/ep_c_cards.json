@@ -1,0 +1,42 @@
+[
+  { "start": 2.24, "end": 4.90, "lines": [
+    { "text": "СПИСОК ЦЕЛЕЙ", "accent": false, "size": "small" },
+    { "text": "НА УЧЕБНЫЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.94, "end": 7.15, "lines": [
+    { "text": "АККУРАТНЫЙ", "accent": false, "size": "small" },
+    { "text": "ПО МЕСЯЦАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.22, "end": 9.30, "lines": [
+    { "text": "С ДЕДЛАЙНАМИ", "accent": false, "size": "small" },
+    { "text": "И ЦЕЛЯМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.38, "end": 11.10, "lines": [
+    { "text": "У МЕНЯ", "accent": false, "size": "small" },
+    { "text": "ЦЕЛЕЙ НА БУМАГЕ НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.18, "end": 14.00, "lines": [
+    { "text": "ОТ ВИДА СПИСКА", "accent": false, "size": "small" },
+    { "text": "НЕ ПО СЕБЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.09, "end": 16.60, "lines": [
+    { "text": "БУДТО ОТСТАЮ", "accent": false, "size": "small" },
+    { "text": "ЕЩЁ НЕ НАЧАВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.64, "end": 19.20, "lines": [
+    { "text": "ВМЕСТО ПЕРЕПИСЫВАНИЯ", "accent": false, "size": "small" },
+    { "text": "ЕЁ ПЛАНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.22, "end": 22.50, "lines": [
+    { "text": "ПРОСТО ОТКРЫЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.52, "end": 26.30, "lines": [
+    { "text": "МАЛЕНЬКОЕ ДЕЙСТВИЕ", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНЕЕ СПИСКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.39, "end": 28.16, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

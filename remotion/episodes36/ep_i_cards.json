@@ -1,0 +1,66 @@
+[
+  { "start": 2.49, "end": 4.44, "lines": [
+    { "text": "У БЛОГЕРА ВИДЕО", "accent": false, "size": "small" },
+    { "text": "ВЫГЛЯДИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.47, "end": 6.18, "lines": [
+    { "text": "ТАК БУДТО ЧЕЛОВЕК", "accent": false, "size": "small" },
+    { "text": "ВООБЩЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.24, "end": 9.12, "lines": [
+    { "text": "НЕ НАПРЯГАЛСЯ", "accent": false, "size": "small" },
+    { "text": "ПРОСТО ПРИШЁЛ И СДАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.15, "end": 11.04, "lines": [
+    { "text": "ЛЕГКО", "accent": false, "size": "small" },
+    { "text": "МЕЖДУ ДЕЛОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 13.44, "lines": [
+    { "text": "БЕЗ ЕДИНОЙ", "accent": false, "size": "small" },
+    { "text": "БЕССОННОЙ НОЧИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.47, "end": 16.26, "lines": [
+    { "text": "ТАКИЕ РОЛИКИ", "accent": false, "size": "small" },
+    { "text": "ОПАСНЫЕ ОЩУЩЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.29, "end": 17.97, "lines": [
+    { "text": "ЧТО ЕСЛИ", "accent": false, "size": "small" },
+    { "text": "ТЕБЕ ТЯЖЕЛО", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.00, "end": 19.65, "lines": [
+    { "text": "ЗНАЧИТ С ТОБОЙ", "accent": false, "size": "small" },
+    { "text": "ЧТО-ТО НЕ ТАК", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.68, "end": 21.69, "lines": [
+    { "text": "ПО СРАВНЕНИЮ", "accent": false, "size": "small" },
+    { "text": "С НИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.72, "end": 23.73, "lines": [
+    { "text": "ЗА КАДРОМ ОСТАЮТСЯ", "accent": false, "size": "small" },
+    { "text": "МЕСЯЦЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.76, "end": 25.17, "lines": [
+    { "text": "РЕГУЛЯРНОЙ", "accent": false, "size": "small" },
+    { "text": "РУТИНЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.20, "end": 27.12, "lines": [
+    { "text": "КОТОРУЮ В РОЛИКЕ", "accent": false, "size": "small" },
+    { "text": "ТРИДЦАТИ СЕКУНДНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.15, "end": 28.89, "lines": [
+    { "text": "ПРОСТО", "accent": false, "size": "small" },
+    { "text": "НЕ ПОКАЖЕШЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.92, "end": 31.56, "lines": [
+    { "text": "СВОЮ РУТИНУ СТРОЮ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.59, "end": 34.80, "lines": [
+    { "text": "БЕЗ СРАВНЕНИЯ", "accent": false, "size": "small" },
+    { "text": "С ЧУЖИМ РЕЗУЛЬТАТОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 34.83, "end": 36.81, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

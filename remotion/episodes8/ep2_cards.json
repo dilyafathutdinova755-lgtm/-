@@ -1,0 +1,54 @@
+[
+  { "start": 0.72, "end": 3.15, "lines": [
+    { "text": "ЕГЭ Я", "accent": false, "size": "small" },
+    { "text": "НЕ ЛЮБЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.75, "end": 6.45, "lines": [
+    { "text": "И ВРЯД ЛИ", "accent": false, "size": "small" },
+    { "text": "КОГДА-НИБУДЬ ПОЛЮБЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.99, "end": 8.70, "lines": [
+    { "text": "КРИТЕРИИ МЕСТАМИ", "accent": false, "size": "small" },
+    { "text": "СУБЪЕКТИВНЫЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.00, "end": 10.47, "lines": [
+    { "text": "КОНКУРЕНЦИЯ", "accent": false, "size": "small" },
+    { "text": "РАСТЁТ КАЖДЫЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.86, "end": 13.74, "lines": [
+    { "text": "ФОРМАТ КАЖЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ОТОРВАННЫМ ОТ ЖИЗНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.25, "end": 16.80, "lines": [
+    { "text": "НО ПРОДОЛЖАЮ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.01, "end": 19.95, "lines": [
+    { "text": "НЕ ПОТОМУ ЧТО", "accent": false, "size": "small" },
+    { "text": "СМИРИЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.37, "end": 21.90, "lines": [
+    { "text": "А ПОТОМУ ЧТО", "accent": false, "size": "small" },
+    { "text": "ЗЛОСТЬ БЕЗДЕЙСТВИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.02, "end": 23.55, "lines": [
+    { "text": "НИЧЕГО НЕ МЕНЯЕТ", "accent": false, "size": "small" },
+    { "text": "ДЛЯ МЕНЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.15, "end": 25.68, "lines": [
+    { "text": "ЗАНИМАЮСЬ ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.10, "end": 27.90, "lines": [
+    { "text": "БЕЗ ИЛЛЮЗИЙ", "accent": false, "size": "small" },
+    { "text": "СПРАВЕДЛИВОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.26, "end": 30.18, "lines": [
+    { "text": "НО И БЕЗ", "accent": false, "size": "small" },
+    { "text": "САБОТАЖА СЕБЕ НАЗЛО", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.66, "end": 31.81, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,46 @@
+[
+  { "start": 0.66, "end": 2.64, "lines": [
+    { "text": "КУПИЛ ДОСТУП", "accent": false, "size": "small" },
+    { "text": "К БАЗЕ ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.85, "end": 4.89, "lines": [
+    { "text": "ЗА ПОЛТОРЫ ТЫСЯЧИ", "accent": false, "size": "small" },
+    { "text": "ОКАЗАЛОСЬ ПРОСТО", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.07, "end": 7.17, "lines": [
+    { "text": "СКРИНШОТЫ", "accent": false, "size": "small" },
+    { "text": "ОТКРЫТОГО БАНКА ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.53, "end": 9.84, "lines": [
+    { "text": "ВСТАВЛЕННЫЕ В ПРЕЗЕНТАЦИЮ", "accent": false, "size": "small" },
+    { "text": "ЗАМЕТИЛ НЕ СРАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.08, "end": 11.64, "lines": [
+    { "text": "ФОРМУЛИРОВКИ", "accent": false, "size": "small" },
+    { "text": "КАЗАЛИСЬ ЗНАКОМЫМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.88, "end": 15.21, "lines": [
+    { "text": "СПИСАЛ НА СОВПАДЕНИЕ", "accent": false, "size": "small" },
+    { "text": "СВЕРИЛ ВНИМАТЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.69, "end": 17.52, "lines": [
+    { "text": "БУКВАЛЬНО", "accent": false, "size": "small" },
+    { "text": "ТЕ ЖЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.79, "end": 20.64, "lines": [
+    { "text": "ТОЛЬКО ОФОРМЛЕННЫЕ", "accent": false, "size": "small" },
+    { "text": "ВОДЯНОЙ ЗНАК ПРОДАВЦА", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.94, "end": 22.59, "lines": [
+    { "text": "ТОТ ЖЕ БАНК", "accent": false, "size": "small" },
+    { "text": "СОБРАН БЕСПЛАТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.77, "end": 25.11, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ЗНАКОВ И ПЕРЕПЛАТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.50, "end": 27.48, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

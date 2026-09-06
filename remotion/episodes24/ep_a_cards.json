@@ -1,0 +1,30 @@
+[
+  { "start": 4.62, "end": 6.66, "lines": [
+    { "text": "У МЕНЯ НОЛЬ", "accent": false, "size": "small" },
+    { "text": "У ТЕБЯ ТОЖЕ НОЛЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.08, "end": 8.61, "lines": [
+    { "text": "ВЫДОХНИ", "accent": false, "size": "small" },
+    { "text": "ВПЕРЕДИ ЦЕЛЫЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.94, "end": 10.41, "lines": [
+    { "text": "ЧАСТЬ ЛЮДЕЙ В КОММЕНТАХ", "accent": false, "size": "small" },
+    { "text": "ПИШЕТ ЧТО ОТКРЫЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.59, "end": 11.55, "lines": [
+    { "text": "ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.82, "end": 14.28, "lines": [
+    { "text": "ПРОСТО ПОСМОТРЕТЬ", "accent": false, "size": "small" },
+    { "text": "И ЗАЛИПЛИ НА РАЗБОРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.58, "end": 16.08, "lines": [
+    { "text": "15 МИНУТ", "accent": false, "size": "small" },
+    { "text": "А НЕ ПОДВИГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.35, "end": 18.24, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

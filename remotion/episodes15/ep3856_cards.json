@@ -1,0 +1,46 @@
+[
+  { "start": 0.69, "end": 3.30, "lines": [
+    { "text": "ПРОГРЕСС ДОЧЕРИ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСТАЛА ОЦЕНИВАТЬ САМА", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.72, "end": 6.15, "lines": [
+    { "text": "НАУЧИЛА ЕЁ", "accent": false, "size": "small" },
+    { "text": "ОЦЕНИВАТЬ СЕБЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.02, "end": 9.12, "lines": [
+    { "text": "РАНЬШЕ Я РЕШАЛА", "accent": false, "size": "small" },
+    { "text": "ДОСТАТОЧНО ЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.24, "end": 11.49, "lines": [
+    { "text": "ХОРОШО ЛИ", "accent": false, "size": "small" },
+    { "text": "СПРАВИЛАСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.97, "end": 14.13, "lines": [
+    { "text": "В КАКОЙ-ТО МОМЕНТ", "accent": false, "size": "small" },
+    { "text": "ПОНЯЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.34, "end": 17.13, "lines": [
+    { "text": "ОНА НЕ НАУЧИТСЯ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ВНЕШНЕГО ОДОБРЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.64, "end": 20.28, "lines": [
+    { "text": "ПРЕДЛОЖИЛА САМОЙ", "accent": false, "size": "small" },
+    { "text": "СМОТРЕТЬ НА ЦИФРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.57, "end": 24.21, "lines": [
+    { "text": "А Я ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.99, "end": 26.58, "lines": [
+    { "text": "ПРОГРЕСС ВИДЕН В", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.82, "end": 29.58, "lines": [
+    { "text": "БЕЗ МОЕГО", "accent": false, "size": "small" },
+    { "text": "ПОСРЕДНИЧЕСТВА", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.27, "end": 32.07, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

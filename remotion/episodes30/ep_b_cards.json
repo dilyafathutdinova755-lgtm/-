@@ -1,0 +1,38 @@
+[
+  { "start": 2.43, "end": 5.50, "lines": [
+    { "text": "ИСТЕРИКА В ЧАТАХ", "accent": false, "size": "small" },
+    { "text": "ДОСТИГЛА ПИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.61, "end": 8.80, "lines": [
+    { "text": "ДЕСЯТКИ СООБЩЕНИЙ", "accent": false, "size": "small" },
+    { "text": "БАЛЛЫ КУРСЫ СТРАХИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.85, "end": 12.10, "lines": [
+    { "text": "ВСЁ РАЗОМ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ОСТАНОВКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.15, "end": 15.10, "lines": [
+    { "text": "РЕШИЛ НЕ", "accent": false, "size": "small" },
+    { "text": "ПОДКЛЮЧАТЬСЯ К ВОЛНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.15, "end": 18.25, "lines": [
+    { "text": "НЕ ПРИБЛИЖАЕТ", "accent": false, "size": "small" },
+    { "text": "К РЕАЛЬНОМУ РЕЗУЛЬТАТУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.30, "end": 21.80, "lines": [
+    { "text": "ТОЛЬКО ВЫМАТЫВАЕТ", "accent": false, "size": "small" },
+    { "text": "НЕРВЫ ВСЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.84, "end": 25.00, "lines": [
+    { "text": "ВМЕСТО ЧТЕНИЯ ЧАТА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.02, "end": 27.70, "lines": [
+    { "text": "ПОТРАТИЛ ВРЕМЯ", "accent": false, "size": "small" },
+    { "text": "НА ДЕЙСТВИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.75, "end": 29.96, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

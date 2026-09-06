@@ -1,0 +1,42 @@
+[
+  { "start": 2.67, "end": 5.79, "lines": [
+    { "text": "ЗАМЕТНО МЕНЬШЕ", "accent": false, "size": "small" },
+    { "text": "ЧЕМ ПЕРЕД ОГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.82, "end": 8.52, "lines": [
+    { "text": "САМА УДИВЛЯЮСЬ", "accent": false, "size": "small" },
+    { "text": "ЭТОМУ ПАРАДОКСУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.55, "end": 12.03, "lines": [
+    { "text": "ТОГДА ВСЁ БЫЛО", "accent": false, "size": "small" },
+    { "text": "НЕИЗВЕСТНОСТЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.06, "end": 15.00, "lines": [
+    { "text": "СЕЙЧАС ФОРМАТ", "accent": false, "size": "small" },
+    { "text": "ПОНЯТЕН И ПРЕДСКАЗУЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.03, "end": 17.28, "lines": [
+    { "text": "ПОМОГЛО НЕ", "accent": false, "size": "small" },
+    { "text": "ВЗРОСЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.31, "end": 19.05, "lines": [
+    { "text": "А", "accent": false, "size": "small" },
+    { "text": "КОНКРЕТНАЯ ПРИВЫЧКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.08, "end": 21.09, "lines": [
+    { "text": "ОТКРЫВАТЬ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР РЕГУЛЯРНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.12, "end": 23.76, "lines": [
+    { "text": "ЧТОБЫ ФОРМАТ ЗАДАНИЙ", "accent": false, "size": "small" },
+    { "text": "ЗНАКОМЫМ ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.79, "end": 25.62, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "СЮРПРИЗОМ В МАЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.65, "end": 27.72, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,42 @@
+[
+  { "start": 0.66, "end": 2.58, "lines": [
+    { "text": "ЕГЭ-ОЖИДАНИЯ", "accent": false, "size": "small" },
+    { "text": "СТРОЮ НА СТАТИСТИКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.33, "end": 6.06, "lines": [
+    { "text": "А НЕ НА ИСТОРИЯХ", "accent": false, "size": "small" },
+    { "text": "ИЗ ИНТЕРНЕТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.27, "end": 7.65, "lines": [
+    { "text": "ПРО РЕЗКИЙ", "accent": false, "size": "small" },
+    { "text": "СКАЧОК ЗА МЕСЯЦ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.43, "end": 11.19, "lines": [
+    { "text": "ИСТОРИЯ ПРО +50", "accent": false, "size": "small" },
+    { "text": "БАЛЛОВ ЗА МЕСЯЦ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.70, "end": 13.83, "lines": [
+    { "text": "ЭТО", "accent": false, "size": "small" },
+    { "text": "ИСКЛЮЧЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.22, "end": 15.90, "lines": [
+    { "text": "ДАЖЕ ЕСЛИ", "accent": false, "size": "small" },
+    { "text": "ЗВУЧИТ ВДОХНОВЛЯЮЩЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.59, "end": 21.87, "lines": [
+    { "text": "РЕАЛИСТИЧНЫЙ ОРИЕНТИР", "accent": false, "size": "small" },
+    { "text": "ПОСТЕПЕННЫЙ РОСТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.11, "end": 22.98, "lines": [
+    { "text": "БЕЗ", "accent": false, "size": "small" },
+    { "text": "РЕЗКИХ СКАЧКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.67, "end": 27.90, "lines": [
+    { "text": "УДОБНО ОТСЛЕЖИВАТЬ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.41, "end": 29.64, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

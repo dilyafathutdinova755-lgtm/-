@@ -1,0 +1,50 @@
+[
+  { "start": 2.58, "end": 4.50, "lines": [
+    { "text": "СТАРТОВАЯ ТЕМА", "accent": false, "size": "small" },
+    { "text": "ПЕРВОЕ СЕНТЯБРЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.56, "end": 6.90, "lines": [
+    { "text": "С ПОРОГА", "accent": false, "size": "small" },
+    { "text": "РАСТЯЖКА В ХОЛЛЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.26, "end": 8.95, "lines": [
+    { "text": "ОБЪЯВЛЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ПО ГРОМКОЙ СВЯЗИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.00, "end": 11.00, "lines": [
+    { "text": "БУДТО ГЛАВНОЕ", "accent": false, "size": "small" },
+    { "text": "СОБЫТИЕ ГОДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.13, "end": 13.10, "lines": [
+    { "text": "ВАЖНЕЕ", "accent": false, "size": "small" },
+    { "text": "САМОЙ УЧЁБЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.14, "end": 16.50, "lines": [
+    { "text": "СТАРТ С ФАНФАРАМИ", "accent": false, "size": "small" },
+    { "text": "НЕ ДЕЛАЕТ ЭФФЕКТИВНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.56, "end": 19.00, "lines": [
+    { "text": "НИ НА ГРАММ", "accent": false, "size": "small" },
+    { "text": "КРАСИВАЯ ФОРМАЛЬНОСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.08, "end": 20.70, "lines": [
+    { "text": "ЭТО ВСЁ", "accent": false, "size": "small" },
+    { "text": "ДЛЯ ОТЧЁТНОСТИ ШКОЛЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.76, "end": 22.45, "lines": [
+    { "text": "РЕАЛЬНУЮ ПОДГОТОВКУ", "accent": false, "size": "small" },
+    { "text": "НАЧАЛ САМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.50, "end": 24.25, "lines": [
+    { "text": "БЕЗ РАСТЯЖЕК", "accent": false, "size": "small" },
+    { "text": "И ОБЪЯВЛЕНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.33, "end": 27.65, "lines": [
+    { "text": "ТИХО ОТКРЫЛ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.72, "end": 29.88, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

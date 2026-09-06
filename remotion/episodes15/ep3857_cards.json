@@ -1,0 +1,50 @@
+[
+  { "start": 0.69, "end": 2.19, "lines": [
+    { "text": "ЕГЭ-КУРС ЗА", "accent": false, "size": "small" },
+    { "text": "ПРИЛИЧНУЮ СУММУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.40, "end": 7.08, "lines": [
+    { "text": "ИНОГДА ПРОСТО", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСКАЗ БАНКА ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.68, "end": 11.76, "lines": [
+    { "text": "СРАВНИЛА ЗАДАНИЕ", "accent": false, "size": "small" },
+    { "text": "С ОТКРЫТЫМ БАНКОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.27, "end": 14.22, "lines": [
+    { "text": "СОВПАДЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ ДОСЛОВНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.37, "end": 16.65, "lines": [
+    { "text": "РАЗНИЦА ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "В ДИЗАЙНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.25, "end": 20.88, "lines": [
+    { "text": "ЗАПЛАТИЛИ ЗА", "accent": false, "size": "small" },
+    { "text": "ОФОРМЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.27, "end": 22.56, "lines": [
+    { "text": "УНИКАЛЬНОГО", "accent": false, "size": "small" },
+    { "text": "ПРОСТО НЕ БЫЛО", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.13, "end": 26.85, "lines": [
+    { "text": "ПРЕЖДЕ ЧЕМ ПЛАТИТЬ", "accent": false, "size": "small" },
+    { "text": "СВЕРЯЙТЕ С БАНКОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.33, "end": 29.73, "lines": [
+    { "text": "ЭКОНОМИТ БЮДЖЕТ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ПОТЕРИ КАЧЕСТВА", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.39, "end": 31.89, "lines": [
+    { "text": "ОСНОВНУЮ БАЗУ", "accent": false, "size": "small" },
+    { "text": "БЕСПЛАТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.04, "end": 33.03, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.48, "end": 34.95, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

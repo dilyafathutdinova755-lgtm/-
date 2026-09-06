@@ -1,0 +1,46 @@
+[
+  { "start": 2.70, "end": 6.40, "lines": [
+    { "text": "РОДСТВЕННИК СКАЗАЛ", "accent": false, "size": "small" },
+    { "text": "НИКУДА НЕ ПОСТУПЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.53, "end": 9.45, "lines": [
+    { "text": "ФРАЗА КОТОРАЯ", "accent": false, "size": "small" },
+    { "text": "КРУТИЛАСЬ В ГОЛОВЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.56, "end": 12.45, "lines": [
+    { "text": "ПОСМОТРЕЛА", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНУЮ СТАТИСТИКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.56, "end": 15.25, "lines": [
+    { "text": "СИЛЬНО ОТЛИЧАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ПО ВУЗАМ И ГОРОДАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.35, "end": 18.90, "lines": [
+    { "text": "НЕ ВЕЗДЕ НУЖНЫ", "accent": false, "size": "small" },
+    { "text": "ЭКСТРЕМАЛЬНО ВЫСОКИЕ ЦИФРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.01, "end": 22.60, "lines": [
+    { "text": "НАПРАВЛЕНИЙ И ВУЗОВ", "accent": false, "size": "small" },
+    { "text": "ГОРАЗДО БОЛЬШЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.63, "end": 25.86, "lines": [
+    { "text": "ЧЕМ СПИСОК", "accent": false, "size": "small" },
+    { "text": "ИЗ ТРЁХ ПРЕСТИЖНЫХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.97, "end": 28.40, "lines": [
+    { "text": "ЗАНИМАЙТЕСЬ ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.52, "end": 30.70, "lines": [
+    { "text": "ОРИЕНТИРУЯСЬ НА", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНУЮ СТАТИСТИКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.80, "end": 33.40, "lines": [
+    { "text": "А НЕ НА", "accent": false, "size": "small" },
+    { "text": "ЧУЖУЮ ФРАЗУ ЗА УЖИНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.53, "end": 35.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,42 @@
+[
+  { "start": 3.63, "end": 7.62, "lines": [
+    { "text": "ПУБЛИКУЮТСЯ ПОСЛЕ КАМПАНИИ", "accent": false, "size": "small" },
+    { "text": "А НЕ ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.01, "end": 9.78, "lines": [
+    { "text": "ОРИЕНТИРУЕМСЯ", "accent": false, "size": "small" },
+    { "text": "НА БАЛЛЫ ПРОШЛЫХ ЛЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 12.90, "lines": [
+    { "text": "КОТОРЫЕ МОГУТ", "accent": false, "size": "small" },
+    { "text": "ОТЛИЧАТЬСЯ ОТ ГОДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.26, "end": 17.07, "lines": [
+    { "text": "В ЗАВИСИМОСТИ", "accent": false, "size": "small" },
+    { "text": "ОТ КОНКУРСА СЕЗОНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.61, "end": 19.65, "lines": [
+    { "text": "РАЗУМНЫЙ ЗАПАС", "accent": false, "size": "small" },
+    { "text": "СВЕРХУ КОМПЕНСИРУЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.86, "end": 22.47, "lines": [
+    { "text": "ЛУЧШЕ ЧЕМ", "accent": false, "size": "small" },
+    { "text": "ТОЧНЫЙ РАСЧЁТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.71, "end": 23.67, "lines": [
+    { "text": "ПО УСТАРЕВШИМ", "accent": false, "size": "small" },
+    { "text": "ЦИФРАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.24, "end": 25.62, "lines": [
+    { "text": "ДЕРЖАТЬ ЗАПАС", "accent": false, "size": "small" },
+    { "text": "УДОБНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.86, "end": 28.32, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.77, "end": 30.30, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,38 @@
+[
+  { "start": 0.57, "end": 3.48, "lines": [
+    { "text": "ОДНОКЛАССНИК", "accent": false, "size": "small" },
+    { "text": "ПРОШЁЛ ПОЛОВИНУ БАНКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.32, "end": 7.29, "lines": [
+    { "text": "А Я В ЭТОТ МОМЕНТ", "accent": false, "size": "small" },
+    { "text": "ДОЕДАЛ БУТЕРБРОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.80, "end": 9.39, "lines": [
+    { "text": "СТАЛО НЕЛОВКО", "accent": false, "size": "small" },
+    { "text": "НА СЕКУНДУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.69, "end": 11.88, "lines": [
+    { "text": "А ПОТОМ РЕШИЛ", "accent": false, "size": "small" },
+    { "text": "СРАВНЕНИЕ НЕ ВАЖНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.12, "end": 14.85, "lines": [
+    { "text": "НЕ МЕНЯЕТ", "accent": false, "size": "small" },
+    { "text": "МОЮ ТАРЕЛКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.00, "end": 16.86, "lines": [
+    { "text": "ДОЕЛ", "accent": false, "size": "small" },
+    { "text": "СПОКОЙНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.13, "end": 18.96, "lines": [
+    { "text": "А ВЕЧЕРОМ ОТКРЫЛ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.23, "end": 21.48, "lines": [
+    { "text": "ЧТОБЫ СОВЕСТЬ", "accent": false, "size": "small" },
+    { "text": "НЕ ГРЫЗЛА СИЛЬНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.14, "end": 23.55, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,38 @@
+[
+  { "start": 0.60, "end": 2.37, "lines": [
+    { "text": "ПЛАН НА ЛЕТО", "accent": false, "size": "small" },
+    { "text": "КАЗАЛСЯ ИДЕАЛЬНЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.85, "end": 5.58, "lines": [
+    { "text": "ПЕРВАЯ ЖЕ НЕДЕЛЯ", "accent": false, "size": "small" },
+    { "text": "РАЗНЕСЛА ЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.27, "end": 8.07, "lines": [
+    { "text": "ЧАС ЗАНЯТИЙ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.52, "end": 12.00, "lines": [
+    { "text": "ДОМАШКА, КРУЖКИ", "accent": false, "size": "small" },
+    { "text": "И УСТАЛОСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.26, "end": 16.44, "lines": [
+    { "text": "ПЛАН НЕ ВЫДЕРЖАЛ", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.01, "end": 19.44, "lines": [
+    { "text": "ПЕРЕСОБРАЛА НА", "accent": false, "size": "small" },
+    { "text": "15 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.92, "end": 22.11, "lines": [
+    { "text": "СКРОМНЕЕ, ЗАТО", "accent": false, "size": "small" },
+    { "text": "ВЫПОЛНИМО", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.35, "end": 23.76, "lines": [
+    { "text": "КАЖДЫЙ ДЕНЬ В", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.42, "end": 26.34, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

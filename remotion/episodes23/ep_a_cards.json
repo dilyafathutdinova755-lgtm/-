@@ -1,0 +1,30 @@
+[
+  { "start": 4.38, "end": 5.61, "lines": [
+    { "text": "ДВИГАЕТ", "accent": false, "size": "small" },
+    { "text": "ОДНА ПРИВЫЧКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.51, "end": 8.67, "lines": [
+    { "text": "РАЗОБРАЛА ПРОБНИКИ", "accent": false, "size": "small" },
+    { "text": "ПО ТИПУ ОШИБКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.24, "end": 11.40, "lines": [
+    { "text": "ПОЧТИ ПОЛОВИНА ПОТЕРЬ", "accent": false, "size": "small" },
+    { "text": "НЕВНИМАТЕЛЬНОСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.09, "end": 13.92, "lines": [
+    { "text": "СТАЛА ГОНЯТЬ", "accent": false, "size": "small" },
+    { "text": "СЛАБЫЕ МЕСТА ТОЧЕЧНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.16, "end": 15.18, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.87, "end": 17.76, "lines": [
+    { "text": "ЗА МЕСЯЦ БАЛЛ", "accent": false, "size": "small" },
+    { "text": "ВЫРОС НА 7 ПУНКТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.75, "end": 20.64, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

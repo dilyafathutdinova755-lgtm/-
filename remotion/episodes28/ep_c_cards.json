@@ -1,0 +1,34 @@
+[
+  { "start": 2.61, "end": 4.05, "lines": [
+    { "text": "ОДНОКЛАССНИК РЕШАЕТ", "accent": false, "size": "small" },
+    { "text": "90+ НА СКОРОСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.26, "end": 6.40, "lines": [
+    { "text": "А У МЕНЯ БЫЛО", "accent": false, "size": "small" },
+    { "text": "52", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.54, "end": 7.85, "lines": [
+    { "text": "ПЕРЕСТАЛ СРАВНИВАТЬ", "accent": false, "size": "small" },
+    { "text": "СЕБЯ С НИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.07, "end": 10.90, "lines": [
+    { "text": "НАЧАЛ СРАВНИВАТЬ", "accent": false, "size": "small" },
+    { "text": "СО СВОИМ ПРОШЛЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.10, "end": 12.65, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ВИДНО СЛАБЫЕ ТЕМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.78, "end": 15.35, "lines": [
+    { "text": "И СРАЗУ ДАЮТСЯ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЯ ПОД НИХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.51, "end": 17.85, "lines": [
+    { "text": "ЗА ДВА МЕСЯЦА", "accent": false, "size": "small" },
+    { "text": "11 БАЛЛОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.00, "end": 19.56, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

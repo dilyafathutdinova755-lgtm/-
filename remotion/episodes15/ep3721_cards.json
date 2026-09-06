@@ -1,0 +1,46 @@
+[
+  { "start": 0.96, "end": 3.21, "lines": [
+    { "text": "ТЕМЫ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "НЕОДИНАКОВО ЧАСТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.39, "end": 5.73, "lines": [
+    { "text": "ЗНАЕТЕ КАКИЕ", "accent": false, "size": "small" },
+    { "text": "РЕШАЮТ БОЛЬШЕ БАЛЛОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.94, "end": 6.66, "lines": [
+    { "text": "А КАКИЕ", "accent": false, "size": "small" },
+    { "text": "РЕДКИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.32, "end": 10.65, "lines": [
+    { "text": "ЕСТЬ ТЕМЫ В", "accent": false, "size": "small" },
+    { "text": "КАЖДОМ ВАРИАНТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.04, "end": 13.47, "lines": [
+    { "text": "А ЕСТЬ РЕДКИЕ", "accent": false, "size": "small" },
+    { "text": "РАЗ В НЕСКОЛЬКО ЛЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.01, "end": 16.26, "lines": [
+    { "text": "НАЧИНАЮЩИЕ УЧАТ", "accent": false, "size": "small" },
+    { "text": "ВСЁ ПОДРЯД", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.50, "end": 19.62, "lines": [
+    { "text": "ВМЕСТО ТОГО ЧТОБЫ", "accent": false, "size": "small" },
+    { "text": "СНАЧАЛА ЧАСТОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.16, "end": 22.62, "lines": [
+    { "text": "ПРОВЕРИТЬ ЧТО", "accent": false, "size": "small" },
+    { "text": "ВЕСОМЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.89, "end": 23.97, "lines": [
+    { "text": "МОЖНО В", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.39, "end": 26.70, "lines": [
+    { "text": "ТАМ ВИДНО", "accent": false, "size": "small" },
+    { "text": "СТАТИСТИКУ ЧАСТОТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.00, "end": 28.44, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

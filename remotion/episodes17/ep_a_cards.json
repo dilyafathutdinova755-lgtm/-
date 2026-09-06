@@ -1,0 +1,46 @@
+[
+  { "start": 0.57, "end": 1.50, "lines": [
+    { "text": "КУПИЛ СЕБЕ", "accent": false, "size": "small" },
+    { "text": "ОРГАНАЙЗЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 1.65, "end": 4.08, "lines": [
+    { "text": "ДЛЯ ПОДГОТОВКИ", "accent": false, "size": "small" },
+    { "text": "КРАСИВОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.29, "end": 6.75, "lines": [
+    { "text": "РАЗДЕЛЫ ПО ПРЕДМЕТАМ", "accent": false, "size": "small" },
+    { "text": "ЦВЕТНЫЕ СТИКЕРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.08, "end": 9.54, "lines": [
+    { "text": "ЗАПОЛНИЛ ПЕРВУЮ СТРАНИЦУ", "accent": false, "size": "small" },
+    { "text": "С УДОВОЛЬСТВИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.84, "end": 11.76, "lines": [
+    { "text": "РАЗЛОЖИЛ ВСЁ", "accent": false, "size": "small" },
+    { "text": "ПО ЦВЕТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.09, "end": 14.13, "lines": [
+    { "text": "ВТОРУЮ СТРАНИЦУ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗАПОЛНИЛ НИКОГДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.49, "end": 16.35, "lines": [
+    { "text": "ОРГАНАЙЗЕР ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "ЛЕЖИТ НА ПОЛКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.53, "end": 19.41, "lines": [
+    { "text": "ПАМЯТНИК", "accent": false, "size": "small" },
+    { "text": "БЛАГИМ НАМЕРЕНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.83, "end": 22.32, "lines": [
+    { "text": "ВМЕСТО ОРГАНАЙЗЕРА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.56, "end": 25.26, "lines": [
+    { "text": "НЕ НУЖНО ПРИДУМЫВАТЬ", "accent": false, "size": "small" },
+    { "text": "СИСТЕМУ САМОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.53, "end": 26.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

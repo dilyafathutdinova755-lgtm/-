@@ -1,0 +1,38 @@
+[
+  { "start": 2.40, "end": 4.80, "lines": [
+    { "text": "ДЛЯ ТЕХ КТО БЛИЗКО", "accent": false, "size": "small" },
+    { "text": "К СТА БАЛЛАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.83, "end": 8.34, "lines": [
+    { "text": "ЗАКРЫТЬ ПОСЛЕДНИЕ ПРОБЕЛЫ", "accent": false, "size": "small" },
+    { "text": "ОСОЗНАННО", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.37, "end": 11.73, "lines": [
+    { "text": "ПЕРВАЯ НЕДЕЛЯ", "accent": false, "size": "small" },
+    { "text": "ДИАГНОСТИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.76, "end": 15.09, "lines": [
+    { "text": "ЧЕСТНЫЙ СПИСОК", "accent": false, "size": "small" },
+    { "text": "БЕЗ САМООБМАНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.12, "end": 18.75, "lines": [
+    { "text": "ДАЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ТОЧЕЧНАЯ РАБОТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.78, "end": 22.71, "lines": [
+    { "text": "БЕЗ ПОВТОРЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ИЗ ЧУВСТВА ТРЕВОГИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.74, "end": 25.86, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "УДОБНО СТРОИТЬ ПЛАН", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.89, "end": 28.35, "lines": [
+    { "text": "ОТ ДИАГНОСТИКИ", "accent": false, "size": "small" },
+    { "text": "К ТЕМАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.38, "end": 30.39, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

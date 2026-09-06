@@ -1,0 +1,54 @@
+[
+  { "start": 2.46, "end": 3.69, "lines": [
+    { "text": "ОДНОКЛАССНИК", "accent": false, "size": "small" },
+    { "text": "ХВАСТАЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.72, "end": 6.69, "lines": [
+    { "text": "ВООБЩЕ НЕ ГОТОВИТСЯ", "accent": false, "size": "small" },
+    { "text": "ПЛАНИРУЕТ ВЫУЧИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.72, "end": 9.27, "lines": [
+    { "text": "ЗА МЕСЯЦ ДО ЭКЗАМЕНА", "accent": false, "size": "small" },
+    { "text": "В МАЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.30, "end": 11.07, "lines": [
+    { "text": "БЕЗ ВСЯКОЙ", "accent": false, "size": "small" },
+    { "text": "СИСТЕМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.10, "end": 14.97, "lines": [
+    { "text": "РАНЬШЕ ЭТО", "accent": false, "size": "small" },
+    { "text": "ВЫЗЫВАЛО ЗАВИСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.00, "end": 16.83, "lines": [
+    { "text": "А СЕЙЧАС ПРОСТО", "accent": false, "size": "small" },
+    { "text": "ПОЖИМАЮ ПЛЕЧАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.86, "end": 18.63, "lines": [
+    { "text": "НА ТАКИЕ", "accent": false, "size": "small" },
+    { "text": "ЗАЯВЛЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.66, "end": 20.94, "lines": [
+    { "text": "КАЖДЫЙ ВЫБИРАЕТ", "accent": false, "size": "small" },
+    { "text": "СТРАТЕГИЮ САМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.97, "end": 22.83, "lines": [
+    { "text": "А Я", "accent": false, "size": "small" },
+    { "text": "НЕ РИСКОВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.86, "end": 24.48, "lines": [
+    { "text": "И", "accent": false, "size": "small" },
+    { "text": "ЗАНИМАТЬСЯ ПОНЕМНОГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.51, "end": 26.49, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.52, "end": 28.53, "lines": [
+    { "text": "КАЖДЫЙ ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ПЕРЕРЫВОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.56, "end": 31.02, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

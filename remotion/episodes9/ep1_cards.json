@@ -1,0 +1,46 @@
+[
+  { "start": 0.72, "end": 2.97, "lines": [
+    { "text": "ДРУГ НАЧАЛ", "accent": false, "size": "small" },
+    { "text": "ЕЩЁ В ИЮНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.69, "end": 4.98, "lines": [
+    { "text": "А Я ТОЛЬКО СЕЙЧАС", "accent": false, "size": "small" },
+    { "text": "В СЕНТЯБРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.91, "end": 8.61, "lines": [
+    { "text": "ПЕРВАЯ МЫСЛЬ", "accent": false, "size": "small" },
+    { "text": "Я УЖЕ ОТСТАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.30, "end": 11.64, "lines": [
+    { "text": "ТРИ МЕСЯЦА", "accent": false, "size": "small" },
+    { "text": "ФОРЫ У НЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.36, "end": 14.19, "lines": [
+    { "text": "ВНУТРИ ПОДНЯЛАСЬ", "accent": false, "size": "small" },
+    { "text": "ЗНАКОМАЯ ПАНИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.61, "end": 16.14, "lines": [
+    { "text": "ЧТО ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "НЕ ДОГНАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.31, "end": 20.49, "lines": [
+    { "text": "НАПОМНИЛ СЕБЕ", "accent": false, "size": "small" },
+    { "text": "ГОД ВПЕРЕДИ ДЛИННЫЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.12, "end": 25.32, "lines": [
+    { "text": "ТРИ МЕСЯЦА НЕ", "accent": false, "size": "small" },
+    { "text": "ТАК КРИТИЧНЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.46, "end": 29.91, "lines": [
+    { "text": "ОТКРЫЛ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.69, "end": 33.69, "lines": [
+    { "text": "А НЕ НАВЕРСТАТЬ", "accent": false, "size": "small" },
+    { "text": "ВСЁ СРАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 34.74, "end": 36.27, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

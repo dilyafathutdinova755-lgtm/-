@@ -1,0 +1,38 @@
+[
+  { "start": 1.53, "end": 3.09, "lines": [
+    { "text": "БАЛЛЫ НА ПРОБНИКАХ", "accent": false, "size": "small" },
+    { "text": "ЗАНИЖАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.12, "end": 5.94, "lines": [
+    { "text": "ЧТОБЫ ИЗБЕЖАТЬ", "accent": false, "size": "small" },
+    { "text": "ЛИШНИХ РАЗГОВОРОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.97, "end": 8.10, "lines": [
+    { "text": "И ВОПРОСОВ", "accent": false, "size": "small" },
+    { "text": "ЗА УЖИНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.13, "end": 10.86, "lines": [
+    { "text": "В ЭТОТ РАЗ", "accent": false, "size": "small" },
+    { "text": "КАК ЕСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.89, "end": 13.35, "lines": [
+    { "text": "БЕЗ КОРРЕКТИРОВКИ", "accent": false, "size": "small" },
+    { "text": "В СВОЮ ПОЛЬЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.38, "end": 17.04, "lines": [
+    { "text": "РЕАКЦИЯ ОКАЗАЛАСЬ", "accent": false, "size": "small" },
+    { "text": "СПОКОЙНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.07, "end": 18.93, "lines": [
+    { "text": "ЧЕСТНОСТЬ", "accent": false, "size": "small" },
+    { "text": "С САМИМ СОБОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.96, "end": 22.68, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТОЖЕ ПРОЩЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.71, "end": 25.10, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,42 @@
+[
+  { "start": 2.66, "end": 5.27, "lines": [
+    { "text": "ЕГЭ И ОЛИМПИАДА", "accent": false, "size": "small" },
+    { "text": "ПРОТИВОПОЛОЖНОЕ МЫШЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.30, "end": 7.46, "lines": [
+    { "text": "ПЕРЕКЛЮЧАТЬСЯ МЕЖДУ НИМИ", "accent": false, "size": "small" },
+    { "text": "СЛОЖНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.49, "end": 10.91, "lines": [
+    { "text": "ЧЕМ КАЖЕТСЯ", "accent": false, "size": "small" },
+    { "text": "НА ПЕРВЫЙ ВЗГЛЯД", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.94, "end": 14.36, "lines": [
+    { "text": "ЕГЭ ЭТО", "accent": false, "size": "small" },
+    { "text": "ЧЁТКИЙ АЛГОРИТМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.29, "end": 18.50, "lines": [
+    { "text": "ОЛИМПИАДА", "accent": false, "size": "small" },
+    { "text": "БЕЗ ГОТОВОГО ШАБЛОНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.53, "end": 22.10, "lines": [
+    { "text": "ВООБЩЕ", "accent": false, "size": "small" },
+    { "text": "ДЕРЖУ РАЗДЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.13, "end": 24.17, "lines": [
+    { "text": "ОЛИМПИАДНЫЕ ЗАДАЧИ", "accent": false, "size": "small" },
+    { "text": "ОТДЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.20, "end": 27.17, "lines": [
+    { "text": "ФОРМАТ ЕГЭ ТРЕНИРУЮТ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.20, "end": 31.52, "lines": [
+    { "text": "ЧТОБЫ АЛГОРИТМИЧНОСТЬ", "accent": false, "size": "small" },
+    { "text": "НЕ ТЕРЯЛАСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.55, "end": 33.59, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

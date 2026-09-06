@@ -1,0 +1,42 @@
+[
+  { "start": 2.16, "end": 5.35, "lines": [
+    { "text": "10 КНИГ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕД ЭКЗАМЕНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.43, "end": 7.35, "lines": [
+    { "text": "РАЗЛЕТЕЛСЯ", "accent": false, "size": "small" },
+    { "text": "ПО ЧАТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.38, "end": 10.05, "lines": [
+    { "text": "С ПРЕТЕНЗИЕЙ НА", "accent": false, "size": "small" },
+    { "text": "ИСТИНУ В ПОСЛЕДНЕЙ ИНСТАНЦИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.11, "end": 12.05, "lines": [
+    { "text": "10 КНИГ", "accent": false, "size": "small" },
+    { "text": "ЗА ОДИН ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.12, "end": 14.00, "lines": [
+    { "text": "ПРИ ОБЫЧНОЙ", "accent": false, "size": "small" },
+    { "text": "ШКОЛЬНОЙ НАГРУЗКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.07, "end": 16.50, "lines": [
+    { "text": "ПЛАН ЯВНО", "accent": false, "size": "small" },
+    { "text": "НЕ РЕАЛИСТИЧНЫЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.59, "end": 18.35, "lines": [
+    { "text": "ДАЖЕ ПРИ ЖЕЛАНИИ", "accent": false, "size": "small" },
+    { "text": "НЕ УСПЕТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.42, "end": 22.40, "lines": [
+    { "text": "РЕАЛИСТИЧНЕЕ ОКАЗАЛСЯ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.47, "end": 25.40, "lines": [
+    { "text": "ВМЕСТО ГАЛОЧКИ", "accent": false, "size": "small" },
+    { "text": "В СПИСКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.50, "end": 27.16, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

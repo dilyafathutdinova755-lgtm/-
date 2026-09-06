@@ -1,0 +1,46 @@
+[
+  { "start": 3.03, "end": 6.30, "lines": [
+    { "text": "ЕГЭ ПРОЩЕ", "accent": false, "size": "small" },
+    { "text": "ПО ОДНОМУ КРИТЕРИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.93, "end": 10.47, "lines": [
+    { "text": "ОБНОВЛЯЕТСЯ ЛИ БАНК", "accent": false, "size": "small" },
+    { "text": "ВСЛЕД ЗА ФОРМАТОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.19, "end": 13.98, "lines": [
+    { "text": "КРАСИВЫЙ ИНТЕРФЕЙС", "accent": false, "size": "small" },
+    { "text": "УДОБНАЯ НАВИГАЦИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.37, "end": 15.78, "lines": [
+    { "text": "ПРИЯТНО, НО", "accent": false, "size": "small" },
+    { "text": "ВТОРИЧНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.90, "end": 17.52, "lines": [
+    { "text": "ГЛАВНОЕ", "accent": false, "size": "small" },
+    { "text": "АКТУАЛЬНОСТЬ СОДЕРЖАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.21, "end": 20.22, "lines": [
+    { "text": "УСТАРЕВШИЙ", "accent": false, "size": "small" },
+    { "text": "БАНК ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.73, "end": 22.62, "lines": [
+    { "text": "ДАЖЕ С ИДЕАЛЬНЫМ", "accent": false, "size": "small" },
+    { "text": "ДИЗАЙНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.80, "end": 25.53, "lines": [
+    { "text": "ГОТОВИТ К ФОРМАТУ", "accent": false, "size": "small" },
+    { "text": "КОТОРОГО УЖЕ НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.16, "end": 28.32, "lines": [
+    { "text": "ПРОВЕРИЛА У", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.80, "end": 31.92, "lines": [
+    { "text": "ОБНОВЛЕНИЯ ИДУТ", "accent": false, "size": "small" },
+    { "text": "ВСЛЕД ЗА ЭКЗАМЕНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.49, "end": 34.00, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

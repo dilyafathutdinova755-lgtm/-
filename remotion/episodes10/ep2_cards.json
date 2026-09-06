@@ -1,0 +1,50 @@
+[
+  { "start": 0.63, "end": 2.52, "lines": [
+    { "text": "ПРИЛОЖЕНИЯ С ПОДПИСКОЙ", "accent": false, "size": "small" },
+    { "text": "ОБЕЩАЮТ МНОГОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.06, "end": 4.92, "lines": [
+    { "text": "НО ЗА ЧТО", "accent": false, "size": "small" },
+    { "text": "ИМЕННО ПЛАТЯТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.10, "end": 7.65, "lines": [
+    { "text": "ЧАСТО", "accent": false, "size": "small" },
+    { "text": "НЕОЧЕВИДНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.10, "end": 9.99, "lines": [
+    { "text": "СРАВНИЛ", "accent": false, "size": "small" },
+    { "text": "НЕСКОЛЬКО ПОДПИСОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.23, "end": 13.68, "lines": [
+    { "text": "БАНК ЗАДАНИЙ", "accent": false, "size": "small" },
+    { "text": "У ВСЕХ ОДИНАКОВЫЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.92, "end": 15.87, "lines": [
+    { "text": "ПОТОМУ ЧТО", "accent": false, "size": "small" },
+    { "text": "ИСТОЧНИК ОДИН — ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.41, "end": 18.99, "lines": [
+    { "text": "РАЗНИЦА В", "accent": false, "size": "small" },
+    { "text": "ИНТЕРФЕЙСЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.50, "end": 22.38, "lines": [
+    { "text": "ФУНКЦИОНАЛ, ЗА КОТОРЫЙ", "accent": false, "size": "small" },
+    { "text": "СТОИТ ПЛАТИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.59, "end": 24.60, "lines": [
+    { "text": "ВСТРЕЧАЕТСЯ РЕДКО", "accent": false, "size": "small" },
+    { "text": "НЕ В БАЗОВОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.08, "end": 28.23, "lines": [
+    { "text": "БЕСПЛАТНЫЙ ВАРИАНТ", "accent": false, "size": "small" },
+    { "text": "С ТЕМ ЖЕ БАНКОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.77, "end": 29.37, "lines": [
+    { "text": "ЭТО", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.85, "end": 31.77, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

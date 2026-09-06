@@ -1,0 +1,30 @@
+[
+  { "start": 3.00, "end": 4.74, "lines": [
+    { "text": "ЕСТЬ СПОСОБ", "accent": false, "size": "small" },
+    { "text": "ПОЛУЧИТЬ 100 БАЛЛОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.13, "end": 6.96, "lines": [
+    { "text": "НЕ ЗАХОДЯ В МАЕ", "accent": false, "size": "small" },
+    { "text": "В АУДИТОРИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.59, "end": 8.97, "lines": [
+    { "text": "СТАТЬ ПРИЗЁРОМ", "accent": false, "size": "small" },
+    { "text": "ОЛИМПИАДЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.69, "end": 11.52, "lines": [
+    { "text": "ШКОЛЬНЫЙ ЭТАП", "accent": false, "size": "small" },
+    { "text": "УЖЕ В СЕНТЯБРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.06, "end": 14.76, "lines": [
+    { "text": "ПОКА ФОКУС НА ОЛИМПИАДЕ", "accent": false, "size": "small" },
+    { "text": "БАЗА ЕГЭ ПРОСЕДАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.18, "end": 18.24, "lines": [
+    { "text": "ДЕРЖУ ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "15 МИНУТ В ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.90, "end": 20.91, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

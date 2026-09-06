@@ -1,0 +1,54 @@
+[
+  { "start": 0.66, "end": 1.92, "lines": [
+    { "text": "ЕГЭ", "accent": false, "size": "small" },
+    { "text": "МОТИВАЦИОННЫЙ ПОСТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.16, "end": 2.85, "lines": [
+    { "text": "ПОПАЛСЯ МНЕ", "accent": false, "size": "small" },
+    { "text": "СЕГОДНЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.84, "end": 5.01, "lines": [
+    { "text": "ШЕСТЬ ЧАСОВ", "accent": false, "size": "small" },
+    { "text": "ПОДГОТОВКИ В ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.19, "end": 7.74, "lines": [
+    { "text": "ЕДИНСТВЕННЫЙ ПУТЬ", "accent": false, "size": "small" },
+    { "text": "К ВЫСОКОМУ БАЛЛУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.40, "end": 9.66, "lines": [
+    { "text": "ПРОЧИТАЛ И", "accent": false, "size": "small" },
+    { "text": "УЖАСНУЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.23, "end": 13.08, "lines": [
+    { "text": "СЫН ЗАНИМАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ПО 20 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.65, "end": 14.58, "lines": [
+    { "text": "ЗНАЧИТ", "accent": false, "size": "small" },
+    { "text": "ОБРЕЧЁН ЗАРАНЕЕ?", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.21, "end": 19.35, "lines": [
+    { "text": "НО ТАКИЕ ЦИФРЫ", "accent": false, "size": "small" },
+    { "text": "ПИШУТ ДЛЯ ПРОСМОТРОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.80, "end": 21.51, "lines": [
+    { "text": "А НЕ ДЛЯ", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНОЙ ПОЛЬЗЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.17, "end": 23.55, "lines": [
+    { "text": "РЕГУЛЯРНОСТЬ", "accent": false, "size": "small" },
+    { "text": "ВАЖНЕЕ ЧАСОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.97, "end": 27.96, "lines": [
+    { "text": "ПОДТВЕРЖДАЕТ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.41, "end": 31.65, "lines": [
+    { "text": "ГДЕ ВИДЕН ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "ОТ КОРОТКИХ ЗАНЯТИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.01, "end": 33.45, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

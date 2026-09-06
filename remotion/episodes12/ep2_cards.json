@@ -1,0 +1,62 @@
+[
+  { "start": 0.66, "end": 1.95, "lines": [
+    { "text": "ДРУГ СОБИРАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "СДАВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.46, "end": 4.95, "lines": [
+    { "text": "ПРОСТО ВЫУЧИВ", "accent": false, "size": "small" },
+    { "text": "УЧЕБНИК НАИЗУСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.10, "end": 5.85, "lines": [
+    { "text": "В ПОСЛЕДНИЙ", "accent": false, "size": "small" },
+    { "text": "МЕСЯЦ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.54, "end": 8.16, "lines": [
+    { "text": "ИСКРЕННЕ ЗА НЕГО", "accent": false, "size": "small" },
+    { "text": "ПЕРЕЖИВАЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.88, "end": 10.98, "lines": [
+    { "text": "СПРОСИЛ", "accent": false, "size": "small" },
+    { "text": "ПРОБОВАЛ ЛИ ОН", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.22, "end": 12.87, "lines": [
+    { "text": "РЕШИТЬ ПОЛНЫЙ", "accent": false, "size": "small" },
+    { "text": "ВАРИАНТ С ТАЙМЕРОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.50, "end": 14.73, "lines": [
+    { "text": "ОКАЗАЛОСЬ", "accent": false, "size": "small" },
+    { "text": "НИ РАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.33, "end": 16.38, "lines": [
+    { "text": "ТОЛЬКО ЧИТАЛ", "accent": false, "size": "small" },
+    { "text": "ТЕОРИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.43, "end": 18.36, "lines": [
+    { "text": "ЗНАНИЕ", "accent": false, "size": "small" },
+    { "text": "УЧЕБНИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.11, "end": 21.96, "lines": [
+    { "text": "НЕ РАВНО", "accent": false, "size": "small" },
+    { "text": "УМЕНИЮ ПРИМЕНИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.41, "end": 24.36, "lines": [
+    { "text": "ПОД ДАВЛЕНИЕМ", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНОГО ЭКЗАМЕНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.32, "end": 28.56, "lines": [
+    { "text": "НАЧАТЬ ХОТЯ БЫ С", "accent": false, "size": "small" },
+    { "text": "ОДНОГО ПРОБНИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.10, "end": 30.60, "lines": [
+    { "text": "ЧТОБЫ УВИДЕТЬ", "accent": false, "size": "small" },
+    { "text": "РАЗНИЦУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.11, "end": 32.61, "lines": [
+    { "text": "МЕЖДУ «ЧИТАЛ»", "accent": false, "size": "small" },
+    { "text": "И «РЕШИЛ»", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.33, "end": 34.74, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

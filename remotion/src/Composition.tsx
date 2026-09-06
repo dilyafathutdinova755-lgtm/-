@@ -1,0 +1,53 @@
+import { AbsoluteFill, Audio, CalculateMetadataFunction, Composition, staticFile } from "remotion";
+import durationData from "./data/duration.json";
+import { ensureFontsLoaded } from "./fonts";
+import { VideoBackground } from "./VideoBackground";
+import { StockCutaway } from "./StockCutaway";
+import { IntroTitle } from "./IntroTitle";
+import { KeyCard } from "./KeyCard";
+import { RunningCaption } from "./RunningCaption";
+import { AppIcon } from "./AppIcon";
+
+const FPS = 25;
+const WIDTH = 1080;
+const HEIGHT = 1920;
+
+type Props = Record<string, unknown>;
+
+const calculateMetadata: CalculateMetadataFunction<Props> = async () => {
+  await ensureFontsLoaded();
+  return {
+    durationInFrames: Math.round(durationData.total_duration * FPS),
+    fps: FPS,
+    width: WIDTH,
+    height: HEIGHT,
+  };
+};
+
+export const MyComposition = () => {
+  return (
+    <Composition
+      id="EgeOlimpiada"
+      component={EgeVideo}
+      durationInFrames={Math.round(durationData.total_duration * FPS)}
+      fps={FPS}
+      width={WIDTH}
+      height={HEIGHT}
+      calculateMetadata={calculateMetadata}
+    />
+  );
+};
+
+export const EgeVideo: React.FC<Props> = () => {
+  return (
+    <AbsoluteFill>
+      <VideoBackground />
+      <StockCutaway />
+      <Audio src={staticFile("audio.wav")} />
+      <IntroTitle />
+      <KeyCard />
+      <RunningCaption />
+      <AppIcon />
+    </AbsoluteFill>
+  );
+};

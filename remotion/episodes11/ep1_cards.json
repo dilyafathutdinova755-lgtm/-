@@ -1,0 +1,54 @@
+[
+  { "start": 0.69, "end": 2.19, "lines": [
+    { "text": "ПО МНЕНИЮ БЛОГЕРА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ УСЛОЖНЯЮТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.37, "end": 5.19, "lines": [
+    { "text": "ЧТОБЫ ВСЕ ПОБЕЖАЛИ", "accent": false, "size": "small" },
+    { "text": "ПОКУПАТЬ КУРСЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.85, "end": 6.87, "lines": [
+    { "text": "ЗАЯВЛЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ГРОМКОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.20, "end": 8.34, "lines": [
+    { "text": "НО ПРОВЕРИТЬ", "accent": false, "size": "small" },
+    { "text": "СТОИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.76, "end": 10.08, "lines": [
+    { "text": "ОФИЦИАЛЬНЫЙ БАНК", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЙ ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.29, "end": 13.20, "lines": [
+    { "text": "БЕСПЛАТНЫЙ", "accent": false, "size": "small" },
+    { "text": "ДЛЯ ВСЕХ БЕЗ ИСКЛЮЧЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.59, "end": 15.66, "lines": [
+    { "text": "ЕСЛИ БЫ ХОТЕЛИ", "accent": false, "size": "small" },
+    { "text": "ЗАСТАВИТЬ ПЛАТИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.05, "end": 18.03, "lines": [
+    { "text": "БАНК БЫ НЕ", "accent": false, "size": "small" },
+    { "text": "ПУБЛИКОВАЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.48, "end": 22.50, "lines": [
+    { "text": "КУРСЫ СУЩЕСТВУЮТ, ПОТОМУ ЧТО", "accent": false, "size": "small" },
+    { "text": "УДОБНЕЕ ПЛАТИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.80, "end": 25.20, "lines": [
+    { "text": "А НЕ ПОТОМУ ЧТО", "accent": false, "size": "small" },
+    { "text": "БЕСПЛАТНОГО НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.59, "end": 28.53, "lines": [
+    { "text": "ПРЕЖДЕ ЧЕМ ВЕРИТЬ", "accent": false, "size": "small" },
+    { "text": "ПРОВЕРЬТЕ ФАКТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.13, "end": 31.71, "lines": [
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "ТОТ ЖЕ БАНК", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.19, "end": 34.38, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

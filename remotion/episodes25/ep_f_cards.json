@@ -1,0 +1,30 @@
+[
+  { "start": 5.01, "end": 6.15, "lines": [
+    { "text": "ВСЕ ОТВЕТИЛИ", "accent": false, "size": "small" },
+    { "text": "ОДИНАКОВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.45, "end": 7.38, "lines": [
+    { "text": "НЕ ГОВОРИ", "accent": false, "size": "small" },
+    { "text": "ТЫ ДОЛЖЕН", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.74, "end": 9.06, "lines": [
+    { "text": "ПРОСТО ПОКАЖИ", "accent": false, "size": "small" },
+    { "text": "САМ ПРИМЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.45, "end": 11.16, "lines": [
+    { "text": "ОТКРОЙ ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "ПРИ РЕБЁНКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.67, "end": 13.74, "lines": [
+    { "text": "ПОСМОТРИ ОДИН РАЗБОР", "accent": false, "size": "small" },
+    { "text": "И ОСТАНОВИСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.34, "end": 15.81, "lines": [
+    { "text": "ДАЛЬШЕ ПОДРОСТОК", "accent": false, "size": "small" },
+    { "text": "ВОЗВРАЩАЕТСЯ САМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.74, "end": 18.57, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

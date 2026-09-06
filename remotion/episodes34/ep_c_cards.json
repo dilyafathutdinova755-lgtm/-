@@ -1,0 +1,38 @@
+[
+  { "start": 2.37, "end": 3.24, "lines": [
+    { "text": "ПЛАНИРОВАЛ", "accent": false, "size": "small" },
+    { "text": "С ПОНЕДЕЛЬНИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.27, "end": 5.55, "lines": [
+    { "text": "КАК ОБЫЧНО", "accent": false, "size": "small" },
+    { "text": "ОТКЛАДЫВАЮТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.58, "end": 9.03, "lines": [
+    { "text": "НАДОЕЛО ЖДАТЬ", "accent": false, "size": "small" },
+    { "text": "ШЕСТЬ ДНЕЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.06, "end": 11.76, "lines": [
+    { "text": "ОТКРЫЛ ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "ПОСРЕДИ НЕДЕЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.79, "end": 15.33, "lines": [
+    { "text": "БЕЗ КРАСИВОЙ ДАТЫ", "accent": false, "size": "small" },
+    { "text": "БЕЗ РЕШЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.36, "end": 18.27, "lines": [
+    { "text": "НАЧАТЬ ВО ВТОРНИК", "accent": false, "size": "small" },
+    { "text": "НЕ ХУЖЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.30, "end": 20.97, "lines": [
+    { "text": "ПРИВЫЧКА НЕ ЗАВИСИТ", "accent": false, "size": "small" },
+    { "text": "ОТ ДНЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.00, "end": 24.24, "lines": [
+    { "text": "ЗАНИМАЮСЬ КАЖДЫЙ ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "НЕЗАВИСИМО", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.27, "end": 26.28, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,42 @@
+[
+  { "start": 0.71, "end": 3.29, "lines": [
+    { "text": "ЕГЭ ОТКЛАДЫВАЮ", "accent": false, "size": "small" },
+    { "text": "НА ЗАВТРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.71, "end": 5.45, "lines": [
+    { "text": "ЧТО РЕАЛЬНО", "accent": false, "size": "small" },
+    { "text": "ПОМОГАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.99, "end": 8.24, "lines": [
+    { "text": "ПРОКРАСТИНАЦИЯ", "accent": false, "size": "small" },
+    { "text": "ОТ СТРАХА НАЧАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.57, "end": 9.50, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ЛЕНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.92, "end": 12.65, "lines": [
+    { "text": "ТЕМА КАЖЕТСЯ", "accent": false, "size": "small" },
+    { "text": "СЛИШКОМ БОЛЬШОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.19, "end": 16.07, "lines": [
+    { "text": "РАЗБИВАЙ ЗАДАЧУ", "accent": false, "size": "small" },
+    { "text": "ДО МЕЛОЧЕЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.52, "end": 18.53, "lines": [
+    { "text": "НЕ ВЫУЧИТЬ ТЕМУ", "accent": false, "size": "small" },
+    { "text": "А ОТКРЫТЬ КАРТОЧКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.16, "end": 21.11, "lines": [
+    { "text": "МЕЛКИЙ ПЕРВЫЙ ШАГ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.23, "end": 23.21, "lines": [
+    { "text": "ПОЧТИ ВСЕГДА", "accent": false, "size": "small" },
+    { "text": "ПЕРЕРАСТАЕТ В ЗАНЯТИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.72, "end": 25.10, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

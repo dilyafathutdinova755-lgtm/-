@@ -1,0 +1,46 @@
+[
+  { "start": 0.72, "end": 1.89, "lines": [
+    { "text": "ЕГЭ И", "accent": false, "size": "small" },
+    { "text": "ПРОХОДНОЙ БАЛЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.43, "end": 4.08, "lines": [
+    { "text": "МЕХАНИКА ДЛЯ", "accent": false, "size": "small" },
+    { "text": "ЛЮБОГО ОТЦА", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.29, "end": 7.08, "lines": [
+    { "text": "ПРЕЖДЕ ЧЕМ", "accent": false, "size": "small" },
+    { "text": "ПАНИКОВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.65, "end": 9.33, "lines": [
+    { "text": "ПРОХОДНОЙ БАЛЛ", "accent": false, "size": "small" },
+    { "text": "ЭТО ЦИФРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.51, "end": 12.66, "lines": [
+    { "text": "ПОСЛЕДНЕГО ЗАЧИСЛЕННОГО", "accent": false, "size": "small" },
+    { "text": "ПО ИТОГАМ ГОДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.08, "end": 14.34, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ЗАРАНЕЕ ИЗВЕСТНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.82, "end": 18.81, "lines": [
+    { "text": "ЗАВИСИТ ОТ МЕСТ", "accent": false, "size": "small" },
+    { "text": "И ДРУГИХ АБИТУРИЕНТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.11, "end": 20.97, "lines": [
+    { "text": "А ЗНАЧИТ", "accent": false, "size": "small" },
+    { "text": "МЕНЯЕТСЯ ГОД ОТ ГОДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.45, "end": 24.99, "lines": [
+    { "text": "ОРИЕНТИР НА ПРОШЛЫЙ", "accent": false, "size": "small" },
+    { "text": "РИСКОВАННО", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.32, "end": 28.59, "lines": [
+    { "text": "ЛУЧШЕ С ЗАПАСОМ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.09, "end": 31.44, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,42 @@
+[
+  { "start": 2.92, "end": 3.79, "lines": [
+    { "text": "ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ЭТО ЛОТЕРЕЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.82, "end": 7.03, "lines": [
+    { "text": "ГОТОВЬСЯ НЕ ГОТОВЬСЯ", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТ ОТ ВЕЗЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.06, "end": 10.75, "lines": [
+    { "text": "УДОБНАЯ ФРАЗА", "accent": false, "size": "small" },
+    { "text": "ОПРАВДАТЬ НУЛЕВУЮ ПОДГОТОВКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.65, "end": 14.83, "lines": [
+    { "text": "ЧАСТЬ ПРАВДЫ", "accent": false, "size": "small" },
+    { "text": "В ЭТОМ ЕСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.86, "end": 16.96, "lines": [
+    { "text": "НО БАЗА ЗНАНИЙ", "accent": false, "size": "small" },
+    { "text": "НЕ СЛУЧАЙНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.99, "end": 19.57, "lines": [
+    { "text": "И РЕШАЕТ", "accent": false, "size": "small" },
+    { "text": "БОЛЬШУЮ ЧАСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.60, "end": 22.42, "lines": [
+    { "text": "ПРОВЕРЯЮ НА СЕБЕ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.45, "end": 23.95, "lines": [
+    { "text": "ЧЕМ БОЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ЗАНИМАЮСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.98, "end": 27.94, "lines": [
+    { "text": "ТЕМ МЕНЬШЕ МЕСТА", "accent": false, "size": "small" },
+    { "text": "ДЛЯ ЛОТЕРЕИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.97, "end": 30.01, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

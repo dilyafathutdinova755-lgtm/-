@@ -1,0 +1,38 @@
+[
+  { "start": 1.66, "end": 5.50, "lines": [
+    { "text": "НОВАЯ ТЕТРАДЬ", "accent": false, "size": "small" },
+    { "text": "ПО САМОМУ СТРАШНОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.56, "end": 9.15, "lines": [
+    { "text": "СПЕЦИАЛЬНО ЯРКУЮ", "accent": false, "size": "small" },
+    { "text": "ЧТОБЫ НЕ ПРЯТАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.22, "end": 11.60, "lines": [
+    { "text": "КАК ДЕЛАЛА", "accent": false, "size": "small" },
+    { "text": "ВЕСЬ ПРОШЛЫЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.68, "end": 14.10, "lines": [
+    { "text": "ЯРКАЯ ОБЛОЖКА", "accent": false, "size": "small" },
+    { "text": "НИЧЕГО НЕ МЕНЯЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.17, "end": 17.00, "lines": [
+    { "text": "НО СТАЛА", "accent": false, "size": "small" },
+    { "text": "НАПОМИНАНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.02, "end": 20.10, "lines": [
+    { "text": "НЕ ИЗБЕГАТЬ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.17, "end": 23.60, "lines": [
+    { "text": "РЯДОМ ДЕРЖУ ОТКРЫТЫМ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.68, "end": 27.25, "lines": [
+    { "text": "РАЗБОР ИМЕННО ТЕХ ТЕМ", "accent": false, "size": "small" },
+    { "text": "КОТОРЫХ БОЮСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.34, "end": 30.12, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

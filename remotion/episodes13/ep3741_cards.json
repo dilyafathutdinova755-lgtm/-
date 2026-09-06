@@ -1,0 +1,50 @@
+[
+  { "start": 0.60, "end": 2.61, "lines": [
+    { "text": "КУПИЛ ЕГЭ-КУРС", "accent": false, "size": "small" },
+    { "text": "ГАРАНТИЯ РЕЗУЛЬТАТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.79, "end": 3.63, "lines": [
+    { "text": "ИЛИ", "accent": false, "size": "small" },
+    { "text": "ВОЗВРАТ ДЕНЕГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.96, "end": 5.73, "lines": [
+    { "text": "ПРОДАВЕЦ ИСЧЕЗ", "accent": false, "size": "small" },
+    { "text": "ИЗ ЧАТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.00, "end": 7.71, "lines": [
+    { "text": "РОВНО ЧЕРЕЗ НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "ПОСЛЕ ОПЛАТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.95, "end": 10.35, "lines": [
+    { "text": "СПРОСИЛ ПРО МАТЕРИАЛЫ", "accent": false, "size": "small" },
+    { "text": "ТИШИНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.68, "end": 14.16, "lines": [
+    { "text": "ЕЩЁ РАЗ ЧЕРЕЗ ДНИ —", "accent": false, "size": "small" },
+    { "text": "АККАУНТ НЕ ОТВЕЧАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.43, "end": 16.80, "lines": [
+    { "text": "БУДТО ИСПАРИЛСЯ", "accent": false, "size": "small" },
+    { "text": "ВМЕСТЕ С ДЕНЬГАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.61, "end": 20.46, "lines": [
+    { "text": "ГАРАНТИЯ —", "accent": false, "size": "small" },
+    { "text": "КРАСИВОЕ СЛОВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.79, "end": 22.41, "lines": [
+    { "text": "БЕЗ ЕДИНОГО", "accent": false, "size": "small" },
+    { "text": "ОБЯЗАТЕЛЬСТВА", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.65, "end": 26.85, "lines": [
+    { "text": "БЕСПЛАТНЫЙ ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "НЕ ИСЧЕЗНЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.03, "end": 30.48, "lines": [
+    { "text": "ПОТОМУ ЧТО ПЛАТИТЬ", "accent": false, "size": "small" },
+    { "text": "НЕ НУЖНО БЫЛО", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.84, "end": 32.31, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,42 @@
+[
+  { "start": 0.63, "end": 2.61, "lines": [
+    { "text": "МАМА УВИДЕЛА", "accent": false, "size": "small" },
+    { "text": "РАСПИСАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.00, "end": 5.58, "lines": [
+    { "text": "НУ ВСЁ, ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ БЛИЗКО", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.85, "end": 8.85, "lines": [
+    { "text": "ТАКИМ ТОНОМ", "accent": false, "size": "small" },
+    { "text": "БУДТО ПЕРЕД УРАГАНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.06, "end": 12.06, "lines": [
+    { "text": "ПЫТАЮСЬ НЕ", "accent": false, "size": "small" },
+    { "text": "ПОДДАВАТЬСЯ ДРАМЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.21, "end": 14.67, "lines": [
+    { "text": "ХОТЯ ПРИЗНАЮ", "accent": false, "size": "small" },
+    { "text": "СМУТНОЕ БЕСПОКОЙСТВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.79, "end": 16.80, "lines": [
+    { "text": "ВСЁ ЖЕ", "accent": false, "size": "small" },
+    { "text": "ПОЯВИЛОСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.13, "end": 19.29, "lines": [
+    { "text": "РЕШИЛ НЕ СПОРИТЬ", "accent": false, "size": "small" },
+    { "text": "И НЕ ТРЕВОЖИТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.59, "end": 21.09, "lines": [
+    { "text": "А ПРОСТО ОТКРЫТЬ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.33, "end": 23.76, "lines": [
+    { "text": "ПОСМОТРЕТЬ, ИЗ ЧЕГО", "accent": false, "size": "small" },
+    { "text": "СОСТОИТ ПОДГОТОВКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.12, "end": 26.07, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

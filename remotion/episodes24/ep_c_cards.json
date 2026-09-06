@@ -1,0 +1,30 @@
+[
+  { "start": 4.50, "end": 5.70, "lines": [
+    { "text": "100 БАЛЛОВ", "accent": false, "size": "small" },
+    { "text": "ЗА 3 МЕСЯЦА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.06, "end": 7.62, "lines": [
+    { "text": "ПОДРУГА СКИНУЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.95, "end": 9.72, "lines": [
+    { "text": "ДУМАЛ ОПЯТЬ", "accent": false, "size": "small" },
+    { "text": "ЛЕКЦИИ НА 40 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.05, "end": 11.85, "lines": [
+    { "text": "А ТАМ КОРОТКИЕ ВИДЕО", "accent": false, "size": "small" },
+    { "text": "И СМЕШНЫЕ ТЕСТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.06, "end": 13.59, "lines": [
+    { "text": "ЗАЛИП НА 15 МИНУТ", "accent": false, "size": "small" },
+    { "text": "ЧИСТО ОТ СКУКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.89, "end": 17.22, "lines": [
+    { "text": "ЛИСТАЮ ВМЕСТО ЛЕНТЫ", "accent": false, "size": "small" },
+    { "text": "САМО ПОДТЯГИВАЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.49, "end": 18.84, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

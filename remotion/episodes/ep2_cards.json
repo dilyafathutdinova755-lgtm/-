@@ -1,0 +1,46 @@
+[
+  { "start": 0.50, "end": 2.66, "lines": [
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "ОТКРЫЛА И РАСТЕРЯЛАСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.90, "end": 4.64, "lines": [
+    { "text": "ПРЕДМЕТОВ МНОГО", "accent": false, "size": "small" },
+    { "text": "ТЕМ ЕЩЁ БОЛЬШЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.09, "end": 6.71, "lines": [
+    { "text": "НЕ ПОНИМАЛА", "accent": false, "size": "small" },
+    { "text": "ЗА ЧТО ХВАТАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.22, "end": 8.75, "lines": [
+    { "text": "ХОТЕЛОСЬ ЗАКРЫТЬ", "accent": false, "size": "small" },
+    { "text": "ВСЁ И СРАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.26, "end": 11.60, "lines": [
+    { "text": "ОТ ЭТОГО", "accent": false, "size": "small" },
+    { "text": "ОПУСТИЛИСЬ РУКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.17, "end": 15.20, "lines": [
+    { "text": "ЗАКРЫЛА ПРИЛОЖЕНИЕ", "accent": false, "size": "small" },
+    { "text": "НА ПАРУ ДНЕЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.44, "end": 16.64, "lines": [
+    { "text": "ВЕРНУЛАСЬ", "accent": false, "size": "small" },
+    { "text": "С ДРУГИМ НАСТРОЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.12, "end": 18.71, "lines": [
+    { "text": "ВЫБРАЛА", "accent": false, "size": "small" },
+    { "text": "ОДИН ПРЕДМЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.07, "end": 20.21, "lines": [
+    { "text": "ЗАБЫВ ПРО", "accent": false, "size": "small" },
+    { "text": "ОСТАЛЬНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.75, "end": 24.68, "lines": [
+    { "text": "СУЖЕНИЕ ФОКУСА", "accent": false, "size": "small" },
+    { "text": "УБРАЛО ПАНИКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.13, "end": 26.93, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

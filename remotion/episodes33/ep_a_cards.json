@@ -1,0 +1,42 @@
+[
+  { "start": 2.19, "end": 6.00, "lines": [
+    { "text": "РЕШИЛА", "accent": false, "size": "small" },
+    { "text": "ХОТЯ БЫ ЧТО-ТО ДРУГОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.06, "end": 9.35, "lines": [
+    { "text": "ПРОШЛОГОДНИЙ ПОДХОД", "accent": false, "size": "small" },
+    { "text": "НЕ СРАБОТАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.42, "end": 10.90, "lines": [
+    { "text": "СУДЯ ПО", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.98, "end": 13.85, "lines": [
+    { "text": "НЕ ГРАНДИОЗНЫЙ ПЛАН", "accent": false, "size": "small" },
+    { "text": "ПО ЧАСАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.92, "end": 16.20, "lines": [
+    { "text": "МАЛЕНЬКОЕ", "accent": false, "size": "small" },
+    { "text": "КОНКРЕТНОЕ ПРАВИЛО", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.29, "end": 19.00, "lines": [
+    { "text": "15 МИНУТ В ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ИСКЛЮЧЕНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.05, "end": 21.25, "lines": [
+    { "text": "ДАЖЕ В САМЫЙ", "accent": false, "size": "small" },
+    { "text": "УСТАВШИЙ ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.33, "end": 24.40, "lines": [
+    { "text": "НАЧАЛАСЬ", "accent": false, "size": "small" },
+    { "text": "ПРЯМО ПЕРВОГО ЧИСЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.51, "end": 28.50, "lines": [
+    { "text": "БЕЗ ПЕРЕНОСА", "accent": false, "size": "small" },
+    { "text": "НА СЛЕДУЮЩУЮ НЕДЕЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.56, "end": 31.40, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,30 @@
+[
+  { "start": 3.42, "end": 6.90, "lines": [
+    { "text": "ТОЛЬКО СТРАХУЕТ", "accent": false, "size": "small" },
+    { "text": "ЕСЛИ ВЫШЕ ПОРОГА ВУЗА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.83, "end": 9.45, "lines": [
+    { "text": "ФОРМАТЫ РАЗНЫЕ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ — АЛГОРИТМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.87, "end": 12.96, "lines": [
+    { "text": "ОЛИМПИАДА —", "accent": false, "size": "small" },
+    { "text": "НЕСТАНДАРТНАЯ ЛОГИКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.86, "end": 15.18, "lines": [
+    { "text": "БАЗА ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.42, "end": 17.55, "lines": [
+    { "text": "ДЕРЖУ ПАРАЛЛЕЛЬНО", "accent": false, "size": "small" },
+    { "text": "ПО 15 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.97, "end": 19.62, "lines": [
+    { "text": "ЧТОБЫ ФОРМАТ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗАБЫВАЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.58, "end": 22.68, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

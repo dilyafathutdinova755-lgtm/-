@@ -1,0 +1,46 @@
+[
+  { "start": 2.32, "end": 5.90, "lines": [
+    { "text": "РЕШАЕТ БУКВАЛЬНО", "accent": false, "size": "small" },
+    { "text": "ВСЁ В ЖИЗНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.98, "end": 8.70, "lines": [
+    { "text": "СКАЗАНО НА", "accent": false, "size": "small" },
+    { "text": "ПЕРВОМ ЖЕ УРОКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.89, "end": 11.15, "lines": [
+    { "text": "С МАКСИМАЛЬНО", "accent": false, "size": "small" },
+    { "text": "СЕРЬЁЗНЫМ ЛИЦОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.26, "end": 14.30, "lines": [
+    { "text": "ДРАМАТИЗАЦИЯ", "accent": false, "size": "small" },
+    { "text": "ПАРАЛИЗУЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.38, "end": 16.20, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ПОДТАЛКИВАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.27, "end": 18.30, "lines": [
+    { "text": "ПРОВЕРЕНО", "accent": false, "size": "small" },
+    { "text": "НА СЕБЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.37, "end": 20.28, "lines": [
+    { "text": "РАБОТАЕТ", "accent": false, "size": "small" },
+    { "text": "ПРОТИВОПОЛОЖНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.35, "end": 22.50, "lines": [
+    { "text": "РАЗБИТЬ", "accent": false, "size": "small" },
+    { "text": "ПУГАЮЩИЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.23, "end": 26.35, "lines": [
+    { "text": "НА 15 МИНУТ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.44, "end": 29.55, "lines": [
+    { "text": "БЕЗ МЫСЛЕЙ ПРО", "accent": false, "size": "small" },
+    { "text": "МАСШТАБ ЦЕЛОГО ГОДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.65, "end": 31.68, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

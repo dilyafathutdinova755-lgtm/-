@@ -1,0 +1,42 @@
+[
+  { "start": 2.49, "end": 6.12, "lines": [
+    { "text": "ЗАКРЫВАТЬ КАЖДУЮ ТЕМУ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ИСКЛЮЧЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.15, "end": 7.92, "lines": [
+    { "text": "ЭТО", "accent": false, "size": "small" },
+    { "text": "ЗАБЛУЖДЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.95, "end": 12.21, "lines": [
+    { "text": "СИЛЬНЫЕ УЧЕНИКИ", "accent": false, "size": "small" },
+    { "text": "РАСПЫЛЯЮТСЯ ВПУСТУЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.24, "end": 14.34, "lines": [
+    { "text": "РЕАЛЬНАЯ СТРАТЕГИЯ", "accent": false, "size": "small" },
+    { "text": "ЗАКРЫТЬ ТЕМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.37, "end": 17.49, "lines": [
+    { "text": "С ВЫСОКИМ ВЕСОМ", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ ПОЛНОСТЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.52, "end": 21.54, "lines": [
+    { "text": "РЕДКИЕ ТЕМЫ", "accent": false, "size": "small" },
+    { "text": "НА БАЗОВОМ УРОВНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.57, "end": 24.12, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "СТАТИСТИКА ПО ВЕСУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.15, "end": 26.64, "lines": [
+    { "text": "ПОМОГАЕТ РАССТАВИТЬ", "accent": false, "size": "small" },
+    { "text": "ПРИОРИТЕТЫ ЧЕСТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.67, "end": 28.17, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "НА ГЛАЗ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.20, "end": 30.15, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

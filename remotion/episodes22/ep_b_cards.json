@@ -1,0 +1,26 @@
+[
+  { "start": 4.80, "end": 8.04, "lines": [
+    { "text": "ПОРОВНУ НЕ СРАБОТАЛО", "accent": false, "size": "small" },
+    { "text": "МОЗГ НЕ ПЕРЕКЛЮЧАЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.00, "end": 10.74, "lines": [
+    { "text": "СПАСЛО РАЗДЕЛЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ПО ВРЕМЕНИ СУТОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.22, "end": 12.09, "lines": [
+    { "text": "УТРОМ", "accent": false, "size": "small" },
+    { "text": "ОЛИМПИАДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.63, "end": 15.12, "lines": [
+    { "text": "ВЕЧЕРОМ 15 МИНУТ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.93, "end": 18.15, "lines": [
+    { "text": "К СЕДЬМОМУ ДНЮ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСТАЛА ПУТАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.87, "end": 20.91, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

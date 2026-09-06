@@ -1,0 +1,46 @@
+[
+  { "start": 2.82, "end": 4.62, "lines": [
+    { "text": "РЕПЕТИТОРЫ", "accent": false, "size": "small" },
+    { "text": "ОДИНАКОВЫЕ?", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.65, "end": 7.05, "lines": [
+    { "text": "ПОПАЛСЯ ПОД ВИДЕО", "accent": false, "size": "small" },
+    { "text": "ВЫЗВАЛ СПОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.08, "end": 9.51, "lines": [
+    { "text": "НА ДОБРУЮ СОТНЮ", "accent": false, "size": "small" },
+    { "text": "ОТВЕТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.54, "end": 11.04, "lines": [
+    { "text": "НЕ СОГЛАСЕН", "accent": false, "size": "small" },
+    { "text": "ПОЛНОСТЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 12.36, "lines": [
+    { "text": "НО И", "accent": false, "size": "small" },
+    { "text": "НЕ СПОРИЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.39, "end": 14.70, "lines": [
+    { "text": "ПОНЯЛ ЧТО ФОРМАТ", "accent": false, "size": "small" },
+    { "text": "НЕ ВАЖЕН", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.73, "end": 17.10, "lines": [
+    { "text": "КАК", "accent": false, "size": "small" },
+    { "text": "СОДЕРЖАНИЕ ЗАНЯТИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.13, "end": 19.32, "lines": [
+    { "text": "ДЕРЖУ БАЗУ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.35, "end": 21.36, "lines": [
+    { "text": "ВНЕ ЗАВИСИМОСТИ", "accent": false, "size": "small" },
+    { "text": "КТО ПРАВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.39, "end": 23.67, "lines": [
+    { "text": "В ЭТОМ СПОРЕ", "accent": false, "size": "small" },
+    { "text": "В КОММЕНТАРИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.70, "end": 26.01, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

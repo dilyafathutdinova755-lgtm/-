@@ -1,0 +1,50 @@
+[
+  { "start": 0.69, "end": 2.76, "lines": [
+    { "text": "ЕГЭ-КУРС С", "accent": false, "size": "small" },
+    { "text": "БЕСПЛАТНЫМ ПРОБНЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.00, "end": 4.86, "lines": [
+    { "text": "ИНОГДА ПРОСТО", "accent": false, "size": "small" },
+    { "text": "ВОРОНКА ДЛЯ ПРОДАЖИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.33, "end": 7.26, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНАЯ ПОЛЬЗА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.86, "end": 11.01, "lines": [
+    { "text": "БЕСПЛАТНЫЙ ДОСТУП", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО К ПРОСТЫМ ТЕМАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.46, "end": 14.43, "lines": [
+    { "text": "А ЧЕРЕЗ НЕСКОЛЬКО ДНЕЙ", "accent": false, "size": "small" },
+    { "text": "НАСТОЙЧИВЫЕ НАПОМИНАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.76, "end": 17.40, "lines": [
+    { "text": "ОФОРМИТЬ ПОДПИСКУ", "accent": false, "size": "small" },
+    { "text": "ДЛЯ ОСТАЛЬНОГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.03, "end": 19.32, "lines": [
+    { "text": "ЭТО НЕ", "accent": false, "size": "small" },
+    { "text": "ОБЯЗАТЕЛЬНО ОБМАН", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.56, "end": 22.23, "lines": [
+    { "text": "НО СТОИТ ЗНАТЬ", "accent": false, "size": "small" },
+    { "text": "МЕХАНИКУ ЗАРАНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.19, "end": 26.82, "lines": [
+    { "text": "ПРОВЕРЯЮ: ОСТАЁТСЯ ЛИ", "accent": false, "size": "small" },
+    { "text": "ПОЛЕЗНЫМ БЕЗ ОПЛАТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.48, "end": 28.71, "lines": [
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.92, "end": 32.25, "lines": [
+    { "text": "БЕСПЛАТЕН ПОЛНОСТЬЮ", "accent": false, "size": "small" },
+    { "text": "А НЕ ДЛЯ ПРИМАНКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.85, "end": 34.29, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

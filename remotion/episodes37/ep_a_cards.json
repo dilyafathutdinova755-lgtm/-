@@ -1,0 +1,50 @@
+[
+  { "start": 2.70, "end": 4.95, "lines": [
+    { "text": "УЧИТЕЛЬ КАЗАЛСЯ", "accent": false, "size": "small" },
+    { "text": "САМЫМ СТРОГИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.95, "end": 7.68, "lines": [
+    { "text": "НЕОЖИДАННО НАШЁЛ", "accent": false, "size": "small" },
+    { "text": "ОБЩИЙ ЯЗЫК", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.71, "end": 9.90, "lines": [
+    { "text": "ПОСЛЕ ОДНОГО", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНОГО РАЗГОВОРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.93, "end": 11.16, "lines": [
+    { "text": "СПРОСИЛ", "accent": false, "size": "small" },
+    { "text": "НАПРЯМУЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.19, "end": 12.36, "lines": [
+    { "text": "ЧТО", "accent": false, "size": "small" },
+    { "text": "НЕПОНЯТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.39, "end": 16.29, "lines": [
+    { "text": "ВМЕСТО СТРАХА", "accent": false, "size": "small" },
+    { "text": "ПОДНЯТЬ РУКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.32, "end": 19.41, "lines": [
+    { "text": "ОКАЗАЛОСЬ ОБЪЯСНЯЕТ", "accent": false, "size": "small" },
+    { "text": "СПОКОЙНО ПОДРОБНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.44, "end": 21.30, "lines": [
+    { "text": "ЕСЛИ ВИДИТ", "accent": false, "size": "small" },
+    { "text": "РЕАЛЬНЫЙ ИНТЕРЕС", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.33, "end": 23.43, "lines": [
+    { "text": "А НЕ ПРОСТО", "accent": false, "size": "small" },
+    { "text": "ОТВЕЧАЮ У ДОСКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.46, "end": 25.83, "lines": [
+    { "text": "РАЗБИРАЮ ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "ЕГО ТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.86, "end": 28.50, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.53, "end": 30.39, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

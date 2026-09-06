@@ -1,0 +1,58 @@
+[
+  { "start": 2.51, "end": 4.22, "lines": [
+    { "text": "ПО КОНКРЕТНОЙ ТЕМЕ", "accent": false, "size": "small" },
+    { "text": "СЧИТАЕШЬ ГОТОВОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.25, "end": 8.06, "lines": [
+    { "text": "КОГДА ОДИН РАЗ", "accent": false, "size": "small" },
+    { "text": "РЕШИЛ БЕЗ ОШИБОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.09, "end": 10.10, "lines": [
+    { "text": "НО ЭТО ОЩУЩЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ОБМАНЧИВОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.13, "end": 12.86, "lines": [
+    { "text": "И ЧАСТО ПОДВОДИТ", "accent": false, "size": "small" },
+    { "text": "НА САМОМ ЭКЗАМЕНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.89, "end": 14.27, "lines": [
+    { "text": "ПРОВЕРЬ", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.30, "end": 17.09, "lines": [
+    { "text": "РЕШАЕШЬ ПОХОЖЕЕ", "accent": false, "size": "small" },
+    { "text": "НЕДЕЛЮ СПУСТЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.12, "end": 18.92, "lines": [
+    { "text": "БЕЗ ПОДСКАЗКИ", "accent": false, "size": "small" },
+    { "text": "ПОД РУКОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.95, "end": 21.89, "lines": [
+    { "text": "ОБЪЯСНЯЕШЬ ХОД РЕШЕНИЯ", "accent": false, "size": "small" },
+    { "text": "СЛОВАМИ ВСЛУХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.92, "end": 25.37, "lines": [
+    { "text": "А НЕ ПОМНИШЬ", "accent": false, "size": "small" },
+    { "text": "МЕХАНИЧЕСКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.40, "end": 27.77, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "СПЕЦИАЛЬНО ВОЗВРАЩАЯСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.80, "end": 29.27, "lines": [
+    { "text": "К ТЕМАМ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ВРЕМЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.30, "end": 31.88, "lines": [
+    { "text": "ЧТОБЫ ОТЛИЧИТЬ", "accent": false, "size": "small" },
+    { "text": "НАСТОЯЩУЮ ГОТОВНОСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.91, "end": 33.71, "lines": [
+    { "text": "ОТ", "accent": false, "size": "small" },
+    { "text": "РАЗОВОГО ВЕЗЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.74, "end": 35.99, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

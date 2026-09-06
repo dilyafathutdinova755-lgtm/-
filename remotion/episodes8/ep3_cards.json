@@ -1,0 +1,62 @@
+[
+  { "start": 0.72, "end": 2.46, "lines": [
+    { "text": "МИНИМАЛЬНЫЙ ПОРОГ", "accent": false, "size": "small" },
+    { "text": "БАЛЛОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.97, "end": 3.99, "lines": [
+    { "text": "ЧТО РЕАЛЬНО", "accent": false, "size": "small" },
+    { "text": "ПРОИСХОДИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.20, "end": 6.99, "lines": [
+    { "text": "ЕСЛИ НЕ НАБРАТЬ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ДРАМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.65, "end": 9.63, "lines": [
+    { "text": "ДЛЯ ОБЯЗАТЕЛЬНЫХ", "accent": false, "size": "small" },
+    { "text": "ПРЕДМЕТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.02, "end": 11.67, "lines": [
+    { "text": "ЭТО", "accent": false, "size": "small" },
+    { "text": "НЕВОЗМОЖНОСТЬ АТТЕСТАТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.91, "end": 13.62, "lines": [
+    { "text": "БЕЗ ПЕРЕСДАЧИ", "accent": false, "size": "small" },
+    { "text": "В СРОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.13, "end": 16.95, "lines": [
+    { "text": "ДЛЯ ПРЕДМЕТОВ", "accent": false, "size": "small" },
+    { "text": "ПО ВЫБОРУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.19, "end": 18.72, "lines": [
+    { "text": "НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ", "accent": false, "size": "small" },
+    { "text": "ПРИ ПОСТУПЛЕНИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.20, "end": 20.61, "lines": [
+    { "text": "НО АТТЕСТАТ", "accent": false, "size": "small" },
+    { "text": "НЕ ПОСТРАДАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.79, "end": 22.98, "lines": [
+    { "text": "ЕСЛИ ОБЯЗАТЕЛЬНЫЕ", "accent": false, "size": "small" },
+    { "text": "СДАНЫ УСПЕШНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.55, "end": 25.44, "lines": [
+    { "text": "ПОРОГ ОБЫЧНО", "accent": false, "size": "small" },
+    { "text": "НЕВЫСОКИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.95, "end": 28.95, "lines": [
+    { "text": "НЕ ДОСТИГАЮТ ЕГО", "accent": false, "size": "small" },
+    { "text": "ТЕ, КТО НЕ ГОТОВИЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.70, "end": 31.92, "lines": [
+    { "text": "РЕГУЛЯРНАЯ ПРАКТИКА", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.28, "end": 33.21, "lines": [
+    { "text": "СНИЖАЕТ", "accent": false, "size": "small" },
+    { "text": "ЭТОТ РИСК", "accent": true, "size": "big" }
+  ]},
+  { "start": 33.66, "end": 34.775, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

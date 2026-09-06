@@ -1,0 +1,46 @@
+[
+  { "start": 2.10, "end": 4.95, "lines": [
+    { "text": "ЗА ПЯТЬ МИНУТ", "accent": false, "size": "small" },
+    { "text": "ТРИЖДЫ ПРО ЕГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.04, "end": 6.80, "lines": [
+    { "text": "БУДТО ЭТО", "accent": false, "size": "small" },
+    { "text": "ЕДИНСТВЕННАЯ ТЕМА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.87, "end": 10.60, "lines": [
+    { "text": "КОТОРАЯ ВООБЩЕ", "accent": false, "size": "small" },
+    { "text": "СУЩЕСТВУЕТ В ГОДУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.68, "end": 12.00, "lines": [
+    { "text": "ПОНИМАЯ", "accent": false, "size": "small" },
+    { "text": "ИХ ТРЕВОГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.06, "end": 14.25, "lines": [
+    { "text": "ОТ НАПОМИНАНИЙ", "accent": false, "size": "small" },
+    { "text": "ХОЧЕТСЯ ПРОТИВОПОЛОЖНОГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.34, "end": 17.75, "lines": [
+    { "text": "РОВНО", "accent": false, "size": "small" },
+    { "text": "ПРОТИВ СОВЕТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.82, "end": 20.00, "lines": [
+    { "text": "ВМЕСТО СПОРА", "accent": false, "size": "small" },
+    { "text": "С ЗАВУЧЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.07, "end": 22.50, "lines": [
+    { "text": "ВЕЧЕРОМ ПРОСТО", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.04, "end": 26.40, "lines": [
+    { "text": "БЕЗ ПАФОСНЫХ РЕЧЕЙ", "accent": false, "size": "small" },
+    { "text": "КОНКРЕТНЫЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.46, "end": 29.90, "lines": [
+    { "text": "ПО СВОЕМУ", "accent": false, "size": "small" },
+    { "text": "А НЕ ПОТОМУ ЧТО ЗАСТАВИЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.06, "end": 32.52, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

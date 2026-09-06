@@ -1,0 +1,34 @@
+[
+  { "start": 3.03, "end": 4.77, "lines": [
+    { "text": "ОДИН ОБЩИЙ ПУНКТ", "accent": false, "size": "small" },
+    { "text": "В РАСПИСАНИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.58, "end": 8.61, "lines": [
+    { "text": "ФИКСИРОВАННЫЙ ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "НА РЕВИЗИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.00, "end": 9.78, "lines": [
+    { "text": "БЕЗ", "accent": false, "size": "small" },
+    { "text": "НОВЫХ ТЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.83, "end": 13.26, "lines": [
+    { "text": "РАЗ В НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "СЛУЧАЙНАЯ ПОДБОРКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.38, "end": 14.91, "lines": [
+    { "text": "ПО ЗАКРЫТЫМ", "accent": false, "size": "small" },
+    { "text": "ТЕМАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.12, "end": 16.17, "lines": [
+    { "text": "ЧЕРЕЗ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.13, "end": 19.17, "lines": [
+    { "text": "ТЕМА НЕ ВЫВЕТРИВАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ДО ЭКЗАМЕНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.19, "end": 22.17, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

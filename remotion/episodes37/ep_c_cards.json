@@ -1,0 +1,34 @@
+[
+  { "start": 2.37, "end": 4.02, "lines": [
+    { "text": "СКРЫВАЛ ОТ ДРУЗЕЙ", "accent": false, "size": "small" },
+    { "text": "СТЕСНЯЯСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.05, "end": 6.96, "lines": [
+    { "text": "ПОКАЗАТЬСЯ", "accent": false, "size": "small" },
+    { "text": "СЛИШКОМ СТАРАТЕЛЬНЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.99, "end": 9.78, "lines": [
+    { "text": "НА ЭТОЙ НЕДЕЛЕ", "accent": false, "size": "small" },
+    { "text": "РЕШИЛ НЕ СКРЫВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.81, "end": 13.83, "lines": [
+    { "text": "ПРЯМО СКАЗАЛ", "accent": false, "size": "small" },
+    { "text": "15 МИНУТ В ПРИЛОЖЕНИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.86, "end": 16.53, "lines": [
+    { "text": "РЕАКЦИЯ ОКАЗАЛАСЬ", "accent": false, "size": "small" },
+    { "text": "СПОКОЙНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.56, "end": 19.17, "lines": [
+    { "text": "ПАРА ЧЕЛОВЕК", "accent": false, "size": "small" },
+    { "text": "ЗАИНТЕРЕСОВАЛИСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.20, "end": 22.80, "lines": [
+    { "text": "ОТКРЫЛ ИМ", "accent": false, "size": "small" },
+    { "text": "ПРЯМО В ПЕРЕПИСКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.83, "end": 25.11, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

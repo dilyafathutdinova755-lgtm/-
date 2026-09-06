@@ -1,0 +1,50 @@
+[
+  { "start": 3.93, "end": 6.12, "lines": [
+    { "text": "ИЛИ СЛУХИ ОТ", "accent": false, "size": "small" },
+    { "text": "СТАРШЕКЛАССНИКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.93, "end": 9.24, "lines": [
+    { "text": "КАЛЬКУЛЯТОР", "accent": false, "size": "small" },
+    { "text": "НЕ НА ВСЕХ ПРЕДМЕТАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.48, "end": 10.56, "lines": [
+    { "text": "ТОЛЬКО НА", "accent": false, "size": "small" },
+    { "text": "ОПРЕДЕЛЁННЫХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.37, "end": 14.79, "lines": [
+    { "text": "ЛИНЕЙКА И ИНСТРУМЕНТЫ", "accent": false, "size": "small" },
+    { "text": "ЗАВИСЯТ ОТ ЭКЗАМЕНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.20, "end": 18.06, "lines": [
+    { "text": "ТЕЛЕФОН ПРИ СЕБЕ", "accent": false, "size": "small" },
+    { "text": "ПОД ЗАПРЕТОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.36, "end": 20.04, "lines": [
+    { "text": "НА ЛЮБОМ ПРЕДМЕТЕ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ИСКЛЮЧЕНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.73, "end": 21.99, "lines": [
+    { "text": "ДАЖЕ ВЫКЛЮЧЕННЫЙ", "accent": false, "size": "small" },
+    { "text": "В КАРМАНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.89, "end": 25.89, "lines": [
+    { "text": "НЕЗНАНИЕ ДЕТАЛЕЙ", "accent": false, "size": "small" },
+    { "text": "СОЗДАЁТ ЛИШНИЙ СТРЕСС", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.13, "end": 27.66, "lines": [
+    { "text": "ПРЯМО ПЕРЕД", "accent": false, "size": "small" },
+    { "text": "ВХОДОМ В АУДИТОРИЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.56, "end": 32.07, "lines": [
+    { "text": "СПИСОК ПРОВЕРЯЙ", "accent": false, "size": "small" },
+    { "text": "НА ОФИЦИАЛЬНЫХ ИСТОЧНИКАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 32.88, "end": 35.25, "lines": [
+    { "text": "МАТЕРИАЛ ГОТОВЬ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 36.00, "end": 37.68, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
