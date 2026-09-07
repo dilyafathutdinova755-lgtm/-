@@ -1,183 +1,183 @@
 [
   {
-    "start": 2.5,
-    "end": 4.65,
+    "start": 2.55,
+    "end": 4.1,
     "lines": [
       {
-        "text": "СМОТРЮ ВИДЕО",
+        "text": "УЖЕ ВИЖУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИННАДЦАТИКЛАССНИКОВ",
+        "text": "ЧТО БУДЕТ В СЕНТЯБРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.9,
-    "end": 6.3,
+    "start": 4.2,
+    "end": 6.1,
     "lines": [
       {
-        "text": "КАК ПРЕДСТАВЛЯЛИ",
+        "text": "БУДУТ ГОВОРИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЁБУ ЛЕТОМ",
+        "text": "ТОЛЬКО ПРО БАЛЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 8.1,
+    "start": 6.25,
+    "end": 7.4,
     "lines": [
       {
-        "text": "И КАК ВЫШЛО",
+        "text": "ПРЯМО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ДЕЛЕ",
+        "text": "ЗА ЗАВТРАКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 11.3,
+    "start": 8.1,
+    "end": 9.55,
     "lines": [
       {
-        "text": "ПЛАНИРОВАЛ",
+        "text": "ГОД НАЗАД Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРИ ЧАСА В ДЕНЬ",
+        "text": "ЗАЛИПАЛ В ТЕЛЕФОН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.6,
-    "end": 13.85,
+    "start": 9.75,
+    "end": 12.5,
     "lines": [
       {
-        "text": "В СЕНТЯБРЕ ОТКРЫЛ",
+        "text": "НЕ ДУМАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН РАЗ",
+        "text": "НИ ПРО КАКОЙ ЭКЗАМЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.4,
-    "end": 18.1,
+    "start": 12.8,
+    "end": 15.6,
     "lines": [
       {
-        "text": "УЗНАЮ ВСЕХ",
+        "text": "ЧЕРЕЗ ГОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВКЛЮЧАЯ СЕБЯ",
+        "text": "ТА ЖЕ ЖИЗНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.4,
-    "end": 19.95,
+    "start": 15.7,
+    "end": 17.2,
     "lines": [
       {
-        "text": "БЕЗ ИЛЛЮЗИЙ",
+        "text": "ТОЛЬКО С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "О ДИСЦИПЛИНЕ",
+        "text": "ФОНОВОЙ ТРЕВОГОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.75,
-    "end": 22.8,
+    "start": 17.45,
+    "end": 19.0,
     "lines": [
       {
-        "text": "КТО-ТО СКИНУЛ",
+        "text": "ВО ВСЕХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "РАЗГОВОРАХ В ЧАТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.1,
-    "end": 25.35,
+    "start": 19.05,
+    "end": 20.75,
     "lines": [
       {
-        "text": "ДЕСЯТЬ МИНУТ",
+        "text": "ПОКА ЭТА ПАНИКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕАЛИСТИЧНЕЕ",
+        "text": "МЕНЯ НЕ КОСНУЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.45,
-    "end": 26.55,
+    "start": 21.0,
+    "end": 24.3,
     "lines": [
       {
-        "text": "ЧЕМ",
+        "text": "ПРОСТО ОСТАВЛЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРИ ЧАСА КОНСПЕКТА",
+        "text": "ЕГЭ ТРЕНАЖЁР ФОНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.8,
-    "end": 28.3,
+    "start": 24.5,
+    "end": 25.45,
     "lines": [
       {
-        "text": "БЕРУ НА ЗАМЕТКУ",
+        "text": "БЕЗ ОБЯЗАТЕЛЬСТВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭТОТ ФОРМАТ",
+        "text": "ДЕЛАТЬ СЕЙЧАС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.35,
-    "end": 30.124,
+    "start": 25.6,
+    "end": 27.095,
     "lines": [
       {
         "text": "ССЫЛКА",
