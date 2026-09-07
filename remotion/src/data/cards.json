@@ -1,183 +1,183 @@
 [
   {
-    "start": 4.9,
-    "end": 6.75,
+    "start": 3.9,
+    "end": 6.15,
     "lines": [
       {
-        "text": "ПУТАТЬ ИХ",
+        "text": "ПОПРОБОВАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСТАЯ ОШИБКА",
+        "text": "СОВМЕСТИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 10.1,
+    "start": 6.3,
+    "end": 7.55,
     "lines": [
       {
-        "text": "СРЕДИ ТЕХ КТО МЕТИТ",
+        "text": "СЕМЬ ДНЕЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ПОДРЯД",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.35,
+    "end": 11.3,
+    "lines": [
+      {
+        "text": "ДЕНЬ ПЕРВЫЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ЧАСТИЧНО ОЛИМПИАДА",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.75,
+    "end": 14.35,
+    "lines": [
+      {
+        "text": "ДВАДЦАТЬ МИНУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА СТО БАЛЛОВ",
+        "text": "НА ЭКЗАМЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.0,
-    "end": 13.35,
+    "start": 14.95,
+    "end": 16.9,
     "lines": [
       {
-        "text": "ЕГЭ УСТРОЕН",
+        "text": "ДЕНЬ ТРЕТИЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ФОРМАТЫ ПУТАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 19.85,
+    "lines": [
+      {
+        "text": "РАЗВЕЛА ИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ЧЁТКИМ КРИТЕРИЯМ",
+        "text": "ПО ВРЕМЕНИ ДНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.65,
-    "end": 15.95,
+    "start": 20.85,
+    "end": 22.45,
     "lines": [
       {
-        "text": "КОНКРЕТНАЯ",
+        "text": "ДЕНЬ СЕДЬМОЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "КОРОТКИЙ ПРОБНИК",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 24.5,
+    "end": 26.65,
+    "lines": [
+      {
+        "text": "БАЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛИРОВКА",
+        "text": "НЕ ПРОСЕЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.1,
-    "end": 18.3,
+    "start": 26.7,
+    "end": 28.3,
     "lines": [
       {
-        "text": "КОНКРЕТНЫЕ БАЛЛЫ",
+        "text": "ЗА НЕДЕЛЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ШАГ",
+        "text": "ОЛИМПИАДНОГО ФОКУСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.75,
-    "end": 20.1,
+    "start": 28.7,
+    "end": 31.1,
     "lines": [
       {
-        "text": "СРОКИ",
+        "text": "СОВМЕЩАТЬ РЕАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЖЕ РАЗНЫЕ",
+        "text": "ЕСЛИ ЧЁТКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.35,
-    "end": 23.35,
+    "start": 32.05,
+    "end": 34.0,
     "lines": [
       {
-        "text": "ЭТАПЫ ОЛИМПИАД",
+        "text": "НЕ СМЕШИВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ОСЕНИ ДО ВЕСНЫ",
+        "text": "ФОРМАТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.6,
-    "end": 26.4,
-    "lines": [
-      {
-        "text": "А ЭКЗАМЕН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДНОЙ ДАТОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.9,
-    "end": 29.4,
-    "lines": [
-      {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАКРЫВАЮ ОТДЕЛЬНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.4,
-    "end": 32.3,
-    "lines": [
-      {
-        "text": "ФОРМАТ ЭКЗАМЕНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЧТОБЫ НЕ ТЕРЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.4,
-    "end": 34.55,
-    "lines": [
-      {
-        "text": "РАДИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕСТАНДАРТНОСТИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 35.1,
-    "end": 37.164,
+    "start": 34.3,
+    "end": 36.29,
     "lines": [
       {
         "text": "ССЫЛКА",
