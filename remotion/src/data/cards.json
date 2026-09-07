@@ -1,135 +1,135 @@
 [
   {
-    "start": 3.9,
-    "end": 6.5,
+    "start": 4.05,
+    "end": 5.95,
     "lines": [
       {
-        "text": "НА ЭТОЙ НЕДЕЛЕ",
+        "text": "ПРОЧИТАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЧИСЛЯЮ ОЧКИ",
+        "text": "В ОДНОМ РОЛИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.55,
-    "end": 9.15,
+    "start": 6.15,
+    "end": 8.65,
     "lines": [
+      {
+        "text": "РЕШИЛ ПРОВЕРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА СЕБЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.8,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "БЕЗ ДОВЕРИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАРАНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 13.55,
+    "lines": [
+      {
+        "text": "СЧИТАЮ ДНИ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "ПОДРЯД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.35,
-    "end": 10.6,
+    "start": 13.6,
+    "end": 16.7,
     "lines": [
       {
-        "text": "ГЛУПО",
-        "accent": true,
-        "size": "big"
-      },
-      {
-        "text": "ЗВУЧИТ СО СТОРОНЫ",
+        "text": "ИЗМЕНИТСЯ ЛИ",
         "accent": false,
         "size": "small"
+      },
+      {
+        "text": "ОЩУЩЕНИЕ",
+        "accent": true,
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.7,
-    "end": 13.65,
+    "start": 16.75,
+    "end": 18.6,
     "lines": [
       {
-        "text": "НО МОТИВАЦИЯ",
+        "text": "ПОКА РАНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫРОСЛА ЗАМЕТНЕЕ",
+        "text": "ДЕЛАТЬ ВЫВОДЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.7,
-    "end": 16.2,
+    "start": 18.65,
+    "end": 20.95,
     "lines": [
       {
-        "text": "ЧЕМ ОТ СЕРЬЁЗНЫХ",
+        "text": "САМ ПРОЦЕСС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗГОВОРОВ",
+        "text": "УЖЕ МОТИВИРУЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.3,
-    "end": 18.5,
+    "start": 21.0,
+    "end": 22.45,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "text": "НЕ ПРОПУСКАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛИЧНЫЙ СЧЁТ",
+        "text": "ДНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.6,
-    "end": 20.2,
-    "lines": [
-      {
-        "text": "СВОЙ СЧЁТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "И СТАТИСТИКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.6,
-    "end": 22.7,
-    "lines": [
-      {
-        "text": "ИГРА ИНОГДА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛУЧШЕ ДИСЦИПЛИНЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.9,
-    "end": 24.76,
+    "start": 22.55,
+    "end": 24.44,
     "lines": [
       {
         "text": "ССЫЛКА",
