@@ -1,47 +1,31 @@
 [
   {
-    "start": 2.5,
-    "end": 3.85,
+    "start": 2.4,
+    "end": 4.85,
     "lines": [
       {
-        "text": "КАК РОДИТЕЛЯ",
+        "text": "КАК ПРЕДЛОЖИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЦИОНАЛИСТА",
+        "text": "ПРИЛОЖЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.2,
-    "end": 5.7,
+    "start": 5.0,
+    "end": 7.1,
     "lines": [
       {
-        "text": "НЕ НАЙТИ",
+        "text": "ЧТОБЫ ОН САМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНСТРУМЕНТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.0,
-    "end": 7.5,
-    "lines": [
-      {
-        "text": "А ОТПУСТИТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОНТРОЛЬ",
+        "text": "ЗАХОТЕЛ",
         "accent": true,
         "size": "big"
       }
@@ -49,15 +33,15 @@
   },
   {
     "start": 7.7,
-    "end": 9.2,
+    "end": 9.45,
     "lines": [
       {
-        "text": "КАК ИМ",
+        "text": "НЕ ПРИСЫЛАЙТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛЬЗУЕТСЯ РЕБЁНОК",
+        "text": "ССЫЛКУ С ПОДПИСЬЮ",
         "accent": true,
         "size": "big"
       }
@@ -65,143 +49,127 @@
   },
   {
     "start": 9.6,
-    "end": 12.3,
+    "end": 12.9,
     "lines": [
       {
-        "text": "ПРИВЫКЛА",
+        "text": "ЭТО ВЫЗОВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИВАТЬ И СЧИТАТЬ",
+        "text": "ОБРАТНУЮ РЕАКЦИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.6,
-    "end": 14.1,
+    "start": 14.35,
+    "end": 16.5,
     "lines": [
       {
-        "text": "ЧИТАТЬ ОТЗЫВЫ",
+        "text": "ПОКАЖИТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ПОСЛЕ ВЫБОРА",
+        "text": "НА СВОЁМ ТЕЛЕФОНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.5,
-    "end": 16.1,
+    "start": 17.8,
+    "end": 20.3,
     "lines": [
       {
-        "text": "ХОЧЕТСЯ",
+        "text": "БЕЗ ОЖИДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯТЬ КАЖДЫЙ ШАГ",
+        "text": "МГНОВЕННОЙ РЕАКЦИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.3,
-    "end": 19.6,
+    "start": 20.7,
+    "end": 23.65,
     "lines": [
       {
-        "text": "НА ДЕЛЕ КОНТРОЛЬ",
+        "text": "ПРЕДЛОЖИТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗДРАЖАЕТ",
+        "text": "КАК ЭКСПЕРИМЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.55,
-    "end": 22.95,
+    "start": 23.9,
+    "end": 25.9,
     "lines": [
       {
-        "text": "СНИЖАЕТ ЖЕЛАНИЕ",
+        "text": "А НЕ ОБЯЗАТЕЛЬНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАТЬСЯ САМОМУ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.6,
-    "end": 25.3,
+    "start": 26.25,
+    "end": 29.15,
     "lines": [
       {
-        "text": "ПОКАЗАЛА СЫНУ",
+        "text": "НЕ СПРАШИВАЙТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "РЕЗУЛЬТАТ СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.55,
-    "end": 27.45,
+    "start": 29.4,
+    "end": 30.55,
     "lines": [
       {
-        "text": "ОБЪЯСНИЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОРОТКО",
+        "text": "ДАЙТЕ",
         "accent": true,
         "size": "big"
+      },
+      {
+        "text": "ПРОСТРАНСТВО",
+        "accent": false,
+        "size": "small"
       }
     ]
   },
   {
-    "start": 27.9,
-    "end": 30.2,
+    "start": 30.9,
+    "end": 34.1,
     "lines": [
       {
-        "text": "ПЕРЕСТАЛА СПРАШИВАТЬ",
+        "text": "ФОРМАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРО ПРОГРЕСС",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.95,
-    "end": 33.9,
-    "lines": [
-      {
-        "text": "РЕШЕНИЕ ОКАЗАЛОСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ В ИНСТРУМЕНТЕ",
+        "text": "КОРОТКИЙ И ИГРОВОЙ",
         "accent": true,
         "size": "big"
       }
@@ -209,23 +177,23 @@
   },
   {
     "start": 34.3,
-    "end": 35.6,
+    "end": 36.15,
     "lines": [
       {
-        "text": "А В",
+        "text": "ЧТОБЫ ОН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОВЕРИИ",
+        "text": "САМ ВЕРНУЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 36.1,
-    "end": 37.975,
+    "start": 36.5,
+    "end": 38.551,
     "lines": [
       {
         "text": "ССЫЛКА",

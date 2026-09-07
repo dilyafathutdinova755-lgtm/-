@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.55,
+    "end": 4.1,
+    "lines": [
+      {
+        "text": "УЖЕ ВИЖУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО БУДЕТ В СЕНТЯБРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.2,
+    "end": 6.1,
+    "lines": [
+      {
+        "text": "БУДУТ ГОВОРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО ПРО БАЛЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.25,
+    "end": 7.4,
+    "lines": [
+      {
+        "text": "ПРЯМО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ЗАВТРАКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 9.55,
+    "lines": [
+      {
+        "text": "ГОД НАЗАД Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАЛИПАЛ В ТЕЛЕФОН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 12.5,
+    "lines": [
+      {
+        "text": "НЕ ДУМАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИ ПРО КАКОЙ ЭКЗАМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 15.6,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ ГОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТА ЖЕ ЖИЗНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.7,
+    "end": 17.2,
+    "lines": [
+      {
+        "text": "ТОЛЬКО С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОНОВОЙ ТРЕВОГОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.45,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ВО ВСЕХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗГОВОРАХ В ЧАТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.05,
+    "end": 20.75,
+    "lines": [
+      {
+        "text": "ПОКА ЭТА ПАНИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЯ НЕ КОСНУЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 24.3,
+    "lines": [
+      {
+        "text": "ПРОСТО ОСТАВЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР ФОНОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.5,
+    "end": 25.45,
+    "lines": [
+      {
+        "text": "БЕЗ ОБЯЗАТЕЛЬСТВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАТЬ СЕЙЧАС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.6,
+    "end": 27.095,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

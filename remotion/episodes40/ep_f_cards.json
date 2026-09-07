@@ -1,154 +1,170 @@
 [
   {
     "start": 2.5,
-    "end": 3.85,
+    "end": 3.65,
     "lines": [
       {
-        "text": "КАК РОДИТЕЛЯ",
+        "text": "ВЕДЁТ СЕБЯ ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЦИОНАЛИСТА",
+        "text": "БУДТО ЗАВТРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.2,
-    "end": 5.7,
+    "start": 3.8,
+    "end": 6.1,
     "lines": [
       {
-        "text": "НЕ НАЙТИ",
+        "text": "МЕЖДУ НАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНСТРУМЕНТ",
+        "text": "И ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 7.5,
+    "start": 6.2,
+    "end": 7.65,
     "lines": [
       {
-        "text": "А ОТПУСТИТЬ",
+        "text": "ЦЕЛЫЙ ГОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНТРОЛЬ",
+        "text": "ЕЩЁ НЕ НАЧАЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.7,
-    "end": 9.2,
+    "start": 8.2,
+    "end": 9.9,
     "lines": [
       {
-        "text": "КАК ИМ",
+        "text": "УЗНАЛА СЛОВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛЬЗУЕТСЯ РЕБЁНОК",
+        "text": "ПРОБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.6,
-    "end": 12.3,
+    "start": 10.0,
+    "end": 11.2,
     "lines": [
       {
-        "text": "ПРИВЫКЛА",
+        "text": "ТОЛЬКО ИЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИВАТЬ И СЧИТАТЬ",
+        "text": "ЧУЖИХ СТОРИС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.6,
-    "end": 14.1,
+    "start": 11.4,
+    "end": 13.7,
     "lines": [
       {
-        "text": "ЧИТАТЬ ОТЗЫВЫ",
+        "text": "ПОКА БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ПОСЛЕ ВЫБОРА",
+        "text": "ЛИЧНОЙ ПАНИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.5,
-    "end": 16.1,
+    "start": 13.9,
+    "end": 15.3,
     "lines": [
       {
-        "text": "ХОЧЕТСЯ",
+        "text": "УЧИТЕЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯТЬ КАЖДЫЙ ШАГ",
+        "text": "УЖЕ НАМЕКАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.3,
-    "end": 19.6,
+    "start": 15.35,
+    "end": 16.7,
     "lines": [
       {
-        "text": "НА ДЕЛЕ КОНТРОЛЬ",
+        "text": "ОДНОКЛАССНИКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗДРАЖАЕТ",
+        "text": "НЕРВНИЧАЮТ В ЧАТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.55,
-    "end": 22.95,
+    "start": 17.5,
+    "end": 19.3,
     "lines": [
       {
-        "text": "СНИЖАЕТ ЖЕЛАНИЕ",
+        "text": "А Я ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАТЬСЯ САМОМУ",
+        "text": "ЖДУ ПЕРВОЕ СЕНТЯБРЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.6,
-    "end": 25.3,
+    "start": 19.35,
+    "end": 20.3,
     "lines": [
       {
-        "text": "ПОКАЗАЛА СЫНУ",
+        "text": "КАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЫЧНУЮ ДАТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.4,
+    "end": 22.6,
+    "lines": [
+      {
+        "text": "ГДЕ-ТО НА ФОНЕ",
         "accent": false,
         "size": "small"
       },
@@ -160,72 +176,24 @@
     ]
   },
   {
-    "start": 25.55,
-    "end": 27.45,
+    "start": 22.65,
+    "end": 25.95,
     "lines": [
       {
-        "text": "ОБЪЯСНИЛА",
+        "text": "СКИНУЛ ОТЛИЧНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКО",
+        "text": "НА ВСЯКИЙ СЛУЧАЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.9,
-    "end": 30.2,
-    "lines": [
-      {
-        "text": "ПЕРЕСТАЛА СПРАШИВАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРО ПРОГРЕСС",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.95,
-    "end": 33.9,
-    "lines": [
-      {
-        "text": "РЕШЕНИЕ ОКАЗАЛОСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ В ИНСТРУМЕНТЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 34.3,
-    "end": 35.6,
-    "lines": [
-      {
-        "text": "А В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДОВЕРИИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 36.1,
-    "end": 37.975,
+    "start": 26.4,
+    "end": 28.46,
     "lines": [
       {
         "text": "ССЫЛКА",

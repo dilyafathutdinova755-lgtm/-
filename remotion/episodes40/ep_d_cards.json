@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.5,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "СМОТРЮ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИННАДЦАТИКЛАССНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.9,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "КАК ПРЕДСТАВЛЯЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧЁБУ ЛЕТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "И КАК ВЫШЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ДЕЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 11.3,
+    "lines": [
+      {
+        "text": "ПЛАНИРОВАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ ЧАСА В ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.85,
+    "lines": [
+      {
+        "text": "В СЕНТЯБРЕ ОТКРЫЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 18.1,
+    "lines": [
+      {
+        "text": "УЗНАЮ ВСЕХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВКЛЮЧАЯ СЕБЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.4,
+    "end": 19.95,
+    "lines": [
+      {
+        "text": "БЕЗ ИЛЛЮЗИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "О ДИСЦИПЛИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.75,
+    "end": 22.8,
+    "lines": [
+      {
+        "text": "КТО-ТО СКИНУЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.1,
+    "end": 25.35,
+    "lines": [
+      {
+        "text": "ДЕСЯТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛИСТИЧНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.45,
+    "end": 26.55,
+    "lines": [
+      {
+        "text": "ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ ЧАСА КОНСПЕКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.8,
+    "end": 28.3,
+    "lines": [
+      {
+        "text": "БЕРУ НА ЗАМЕТКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОТ ФОРМАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.35,
+    "end": 30.124,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

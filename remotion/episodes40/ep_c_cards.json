@@ -1,231 +1,215 @@
 [
   {
     "start": 2.5,
-    "end": 3.85,
+    "end": 3.9,
     "lines": [
       {
-        "text": "КАК РОДИТЕЛЯ",
+        "text": "ПЕРЕД ТЕМ КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЦИОНАЛИСТА",
+        "text": "ПОРЕКОМЕНДОВАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.2,
-    "end": 5.7,
-    "lines": [
-      {
-        "text": "НЕ НАЙТИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИНСТРУМЕНТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.0,
+    "start": 5.4,
     "end": 7.5,
     "lines": [
       {
-        "text": "А ОТПУСТИТЬ",
+        "text": "НЕ НА ВЕРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНТРОЛЬ",
+        "text": "ОТЗЫВАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.7,
-    "end": 9.2,
+    "start": 7.9,
+    "end": 9.9,
     "lines": [
       {
-        "text": "КАК ИМ",
+        "text": "ПРОВЕРИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛЬЗУЕТСЯ РЕБЁНОК",
+        "text": "БАНК ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.6,
-    "end": 12.3,
+    "start": 9.95,
+    "end": 11.6,
     "lines": [
       {
-        "text": "ПРИВЫКЛА",
+        "text": "ОФИЦИАЛЬНОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИВАТЬ И СЧИТАТЬ",
+        "text": "ФИПИ ЛИЧНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.6,
-    "end": 14.1,
+    "start": 12.4,
+    "end": 13.75,
     "lines": [
       {
-        "text": "ЧИТАТЬ ОТЗЫВЫ",
+        "text": "А НЕ НА СЛОВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ПОСЛЕ ВЫБОРА",
+        "text": "РАЗРАБОТЧИКАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.5,
-    "end": 16.1,
+    "start": 14.2,
+    "end": 16.75,
     "lines": [
       {
-        "text": "ХОЧЕТСЯ",
+        "text": "ОБНОВЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯТЬ КАЖДЫЙ ШАГ",
+        "text": "ПОД ТЕКУЩИЙ ГОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.3,
-    "end": 19.6,
+    "start": 17.2,
+    "end": 18.65,
     "lines": [
       {
-        "text": "НА ДЕЛЕ КОНТРОЛЬ",
+        "text": "НЕ ОСТАЛСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗДРАЖАЕТ",
+        "text": "АРХИВНОЙ ВЕРСИЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.55,
-    "end": 22.95,
+    "start": 19.0,
+    "end": 20.8,
     "lines": [
       {
-        "text": "СНИЖАЕТ ЖЕЛАНИЕ",
+        "text": "ПРОШЛА САМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАТЬСЯ САМОМУ",
+        "text": "ОДНУ ТЕМУ ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.6,
-    "end": 25.3,
+    "start": 20.9,
+    "end": 23.1,
     "lines": [
       {
-        "text": "ПОКАЗАЛА СЫНУ",
+        "text": "ЧТОБЫ ПОНИМАТЬ",
         "accent": false,
         "size": "small"
       },
+      {
+        "text": "ФОРМАТ РЕБЁНКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.55,
+    "end": 25.6,
+    "lines": [
+      {
+        "text": "СРАВНИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОИМОСТЬ КОНКУРЕНТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.9,
+    "end": 28.6,
+    "lines": [
+      {
+        "text": "ОКАЗАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛНОСТЬЮ БЕСПЛАТНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.1,
+    "end": 30.85,
+    "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЁР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.55,
-    "end": 27.45,
-    "lines": [
-      {
-        "text": "ОБЪЯСНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКО",
+        "text": "ПРОШЁЛ ВСЁ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.9,
-    "end": 30.2,
+    "start": 30.85,
+    "end": 33.05,
     "lines": [
       {
-        "text": "ПЕРЕСТАЛА СПРАШИВАТЬ",
+        "text": "БЕЗ ЕДИНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРО ПРОГРЕСС",
+        "text": "ПРОПУСКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.95,
-    "end": 33.9,
-    "lines": [
-      {
-        "text": "РЕШЕНИЕ ОКАЗАЛОСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ В ИНСТРУМЕНТЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 34.3,
-    "end": 35.6,
-    "lines": [
-      {
-        "text": "А В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДОВЕРИИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 36.1,
-    "end": 37.975,
+    "start": 33.35,
+    "end": 35.244,
     "lines": [
       {
         "text": "ССЫЛКА",
