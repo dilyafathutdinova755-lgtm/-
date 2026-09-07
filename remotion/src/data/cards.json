@@ -1,183 +1,199 @@
 [
   {
-    "start": 2.55,
-    "end": 4.1,
+    "start": 2.5,
+    "end": 3.65,
     "lines": [
       {
-        "text": "УЖЕ ВИЖУ",
+        "text": "ВЕДЁТ СЕБЯ ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО БУДЕТ В СЕНТЯБРЕ",
+        "text": "БУДТО ЗАВТРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.2,
+    "start": 3.8,
     "end": 6.1,
     "lines": [
       {
-        "text": "БУДУТ ГОВОРИТЬ",
+        "text": "МЕЖДУ НАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ПРО БАЛЛЫ",
+        "text": "И ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.25,
-    "end": 7.4,
+    "start": 6.2,
+    "end": 7.65,
     "lines": [
       {
-        "text": "ПРЯМО",
+        "text": "ЦЕЛЫЙ ГОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ЗАВТРАКОМ",
+        "text": "ЕЩЁ НЕ НАЧАЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 9.55,
+    "start": 8.2,
+    "end": 9.9,
     "lines": [
       {
-        "text": "ГОД НАЗАД Я",
+        "text": "УЗНАЛА СЛОВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАЛИПАЛ В ТЕЛЕФОН",
+        "text": "ПРОБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.75,
-    "end": 12.5,
+    "start": 10.0,
+    "end": 11.2,
     "lines": [
       {
-        "text": "НЕ ДУМАЛ",
+        "text": "ТОЛЬКО ИЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИ ПРО КАКОЙ ЭКЗАМЕН",
+        "text": "ЧУЖИХ СТОРИС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.8,
-    "end": 15.6,
+    "start": 11.4,
+    "end": 13.7,
     "lines": [
       {
-        "text": "ЧЕРЕЗ ГОД",
+        "text": "ПОКА БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТА ЖЕ ЖИЗНЬ",
+        "text": "ЛИЧНОЙ ПАНИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.7,
-    "end": 17.2,
+    "start": 13.9,
+    "end": 15.3,
     "lines": [
       {
-        "text": "ТОЛЬКО С",
+        "text": "УЧИТЕЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОНОВОЙ ТРЕВОГОЙ",
+        "text": "УЖЕ НАМЕКАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.45,
-    "end": 19.0,
+    "start": 15.35,
+    "end": 16.7,
     "lines": [
       {
-        "text": "ВО ВСЕХ",
+        "text": "ОДНОКЛАССНИКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗГОВОРАХ В ЧАТЕ",
+        "text": "НЕРВНИЧАЮТ В ЧАТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.05,
-    "end": 20.75,
+    "start": 17.5,
+    "end": 19.3,
     "lines": [
       {
-        "text": "ПОКА ЭТА ПАНИКА",
+        "text": "А Я ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕНЯ НЕ КОСНУЛАСЬ",
+        "text": "ЖДУ ПЕРВОЕ СЕНТЯБРЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.0,
-    "end": 24.3,
+    "start": 19.35,
+    "end": 20.3,
     "lines": [
       {
-        "text": "ПРОСТО ОСТАВЛЮ",
+        "text": "КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР ФОНОМ",
+        "text": "ОБЫЧНУЮ ДАТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.5,
-    "end": 25.45,
+    "start": 20.4,
+    "end": 22.6,
     "lines": [
       {
-        "text": "БЕЗ ОБЯЗАТЕЛЬСТВ",
+        "text": "ГДЕ-ТО НА ФОНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛАТЬ СЕЙЧАС",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.6,
-    "end": 27.095,
+    "start": 22.65,
+    "end": 25.95,
+    "lines": [
+      {
+        "text": "СКИНУЛ ОТЛИЧНИК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВСЯКИЙ СЛУЧАЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.4,
+    "end": 28.46,
     "lines": [
       {
         "text": "ССЫЛКА",
