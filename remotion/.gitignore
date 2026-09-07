@@ -12,6 +12,7 @@ episodes39_out/
 # GitHub rejects files over 100MB on a normal push anyway.
 public/source.mp4
 sources/
+sources_int/
 
 # ASR scratch: the model and generated intermediates are regenerable from
 # the scripts in asr/ (see asr/*.py); only the scripts are tracked.
@@ -19,6 +20,7 @@ asr/sherpa-onnx-streaming-t-one-russian-2025-09-08/
 asr/*.wav
 asr/*.json
 asr/*.log
+asr_int/
 
 # Intermediate font staging (variable-weight originals); the static cuts
 # actually used by the composition live in public/.
