@@ -1,119 +1,130 @@
 [
   {
-    "start": 3.85,
-    "end": 6.2,
+    "start": 4.5,
+    "end": 5.4,
     "lines": [
       {
-        "text": "А ВЕЧЕРОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРАВНИЛ",
+        "text": "МЕСЯЦ НАЗАД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.25,
-    "end": 8.5,
+    "start": 5.8,
+    "end": 7.7,
     "lines": [
       {
-        "text": "ЧТО РЕАЛЬНО",
+        "text": "ПОЙМАЛ СЕБЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСПЕЛ",
+        "text": "НА ВРАНЬЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.9,
-    "end": 10.55,
+    "start": 7.75,
+    "end": 9.85,
     "lines": [
       {
-        "text": "СОВПАЛО",
+        "text": "САМ СЕБЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАПОЛОВИНУ",
+        "text": "ВСЁ РЕЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.7,
-    "end": 14.05,
+    "start": 10.45,
+    "end": 13.4,
     "lines": [
       {
-        "text": "СТАЛО НЕЛОВКО",
+        "text": "КАЛЕНДАРЬ СОКРАЩАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА СЕБЯ",
+        "text": "БЫСТРЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.1,
-    "end": 17.55,
+    "start": 13.45,
+    "end": 15.65,
     "lines": [
       {
-        "text": "ПЛАНЫ СКРОМНЕЕ",
+        "text": "ОЧЕРЕДНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТОБЫ ВЫПОЛНЯТЬ",
+        "text": "ОТГОВОРКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.6,
-    "end": 19.35,
+    "start": 15.7,
+    "end": 17.8,
     "lines": [
       {
-        "text": "ЧЕРЕЗ",
+        "text": "КАЖДЫЙ ВЕЧЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "ОТКРЫЛ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.5,
-    "end": 22.35,
+    "start": 17.85,
+    "end": 19.55,
     "lines": [
       {
-        "text": "СКРОМНЫЙ ПЛАН",
+        "text": "ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛУЧШЕ КРАСИВОГО",
+        "text": "САМООБМАНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.4,
-    "end": 24.28,
+    "start": 19.6,
+    "end": 22.55,
+    "lines": [
+      {
+        "text": "ЧЕСТНО ПОСМОТРЕЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО МАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.65,
+    "end": 24.76,
     "lines": [
       {
         "text": "ССЫЛКА",

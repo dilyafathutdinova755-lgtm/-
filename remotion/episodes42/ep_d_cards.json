@@ -1,111 +1,127 @@
 [
   {
-    "start": 3.85,
-    "end": 6.2,
+    "start": 3.6,
+    "end": 7.1,
     "lines": [
       {
-        "text": "А ВЕЧЕРОМ",
+        "text": "ПАНИКА ОТ ДАТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИЛ",
+        "text": "НА ДОСКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.25,
-    "end": 8.5,
+    "start": 7.25,
+    "end": 9.15,
     "lines": [
       {
-        "text": "ЧТО РЕАЛЬНО",
+        "text": "СРАВНИЛ РЕАКЦИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСПЕЛ",
+        "text": "ТОГДА И СЕЙЧАС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.9,
-    "end": 10.55,
+    "start": 9.2,
+    "end": 10.95,
     "lines": [
       {
-        "text": "СОВПАЛО",
+        "text": "ПЕРЕД НОВЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАПОЛОВИНУ",
+        "text": "ПРОБНИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.7,
-    "end": 14.05,
+    "start": 11.0,
+    "end": 12.15,
     "lines": [
       {
-        "text": "СТАЛО НЕЛОВКО",
+        "text": "ЗАМЕТИЛ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "РАЗНИЦУ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 15.75,
+    "lines": [
+      {
+        "text": "СПОКОЙНОЕ ЛЮБОПЫТСТВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА СЕБЯ",
+        "text": "ВМЕСТО СТРАХА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.1,
-    "end": 17.55,
+    "start": 15.8,
+    "end": 18.25,
     "lines": [
       {
-        "text": "ПЛАНЫ СКРОМНЕЕ",
+        "text": "РЕГУЛЯРНЫЕ ЗАНЯТИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТОБЫ ВЫПОЛНЯТЬ",
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.6,
-    "end": 19.35,
+    "start": 18.3,
+    "end": 20.95,
     "lines": [
       {
-        "text": "ЧЕРЕЗ",
+        "text": "СНИЗИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "ТРЕВОГУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.5,
-    "end": 22.35,
+    "start": 21.1,
+    "end": 22.3,
     "lines": [
       {
-        "text": "СКРОМНЫЙ ПЛАН",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛУЧШЕ КРАСИВОГО",
+        "text": "РЕЗКИХ СКАЧКОВ",
         "accent": true,
         "size": "big"
       }
@@ -113,7 +129,7 @@
   },
   {
     "start": 22.4,
-    "end": 24.28,
+    "end": 24.2,
     "lines": [
       {
         "text": "ССЫЛКА",

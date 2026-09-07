@@ -138,3 +138,10 @@ episodes41/render/
 episodes41_out/
 sources_iint/
 asr_iint/
+episodes42/*.mp4
+episodes42/*.wav
+episodes42/*.log
+episodes42/render/
+episodes42_out/
+sources_0622var/
+asr_0622var/
