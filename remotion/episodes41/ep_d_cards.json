@@ -1,0 +1,200 @@
+[
+  {
+    "start": 2.35,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "СЛУЧАЙНО ОТ СКУКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ОЧЕРЕДИ К ВРАЧУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.6,
+    "end": 7.15,
+    "lines": [
+      {
+        "text": "БЕЗ ПЛАНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОКАЗАТЬ СЕБЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "ТО В ОЧЕРЕДИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТО ПЕРЕД СНОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 11.2,
+    "lines": [
+      {
+        "text": "ВМЕСТО ЛЕНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.25,
+    "end": 13.7,
+    "lines": [
+      {
+        "text": "БЕЗ РАСПИСАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ОБЕЩАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.85,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "ОДНОКЛАССНИК ПРЕДЛОЖИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.3,
+    "end": 18.8,
+    "lines": [
+      {
+        "text": "РАДИ СПОРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ПОДГОТОВКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 20.55,
+    "lines": [
+      {
+        "text": "ОБА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОФИГЕЛИ ОДИНАКОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.6,
+    "end": 21.65,
+    "lines": [
+      {
+        "text": "ОН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТ ПРОИГРЫША",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.7,
+    "end": 24.45,
+    "lines": [
+      {
+        "text": "А Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАХОДЫ ПОВЛИЯЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.55,
+    "end": 25.68,
+    "lines": [
+      {
+        "text": "НИКАКОГО СЕКРЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.75,
+    "end": 29.28,
+    "lines": [
+      {
+        "text": "ЧАСТЫЕ И КОРОТКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТО МАРАФОНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.35,
+    "end": 31.16,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

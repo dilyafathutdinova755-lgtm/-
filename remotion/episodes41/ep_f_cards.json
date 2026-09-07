@@ -1,151 +1,178 @@
 [
   {
-    "start": 6.55,
-    "end": 9.55,
+    "start": 3.5,
+    "end": 5.4,
     "lines": [
       {
-        "text": "ИЩЕШЬ НЕ МОТИВАЦИЮ",
+        "text": "ДРУГ ХОЧЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А ОПТИМИЗАЦИЮ",
+        "text": "ТАБЛИЦУ И ЧАСЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.45,
-    "end": 12.7,
+    "start": 5.45,
+    "end": 8.25,
     "lines": [
       {
-        "text": "ЗАСЕКАЙ ВРЕМЯ",
+        "text": "А У МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА КАЖДОЕ ЗАДАНИЕ",
+        "text": "ТОЛЬКО СКРИНШОТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.8,
-    "end": 16.0,
+    "start": 8.4,
+    "end": 10.55,
     "lines": [
       {
-        "text": "НЕ ТОЛЬКО ИТОГ",
+        "text": "ОТКРЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А КАЖДЫЙ ПРОБНИК",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.85,
-    "end": 19.35,
+    "start": 10.65,
+    "end": 12.15,
     "lines": [
       {
-        "text": "СПИСОК",
+        "text": "ТЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮЩИХСЯ ОШИБОК",
+        "text": "ЗЕЛЁНЫМ ЦВЕТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.45,
-    "end": 22.8,
+    "start": 12.25,
+    "end": 14.5,
     "lines": [
       {
-        "text": "И СПИСОК НОВЫХ ТЕМ",
+        "text": "ПЛАН ЭТО И ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭТО РАЗНОЕ",
+        "text": "ОТКРЫВАТЬ ЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.65,
-    "end": 27.1,
+    "start": 14.55,
+    "end": 15.4,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОЛНЫЙ ПРОБНИК",
+        "text": "МЕЖДУ ДЕЛОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.95,
-    "end": 29.6,
+    "start": 15.65,
+    "end": 17.75,
     "lines": [
       {
-        "text": "А НЕ ТЕМЫ",
+        "text": "ОН НЕ ВПЕЧАТЛЁН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРАЗБРОС",
+        "text": "ОТСУТСТВИЕМ ТАБЛИЦЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.45,
-    "end": 32.6,
+    "start": 18.0,
+    "end": 21.0,
     "lines": [
       {
-        "text": "ДЛЯ ТЕХ КТО",
+        "text": "НЕ БУДУ ЗАВОДИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫШЕ СРЕДНЕГО",
+        "text": "РАДИ ВИДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.85,
-    "end": 35.8,
+    "start": 21.25,
+    "end": 22.4,
     "lines": [
       {
-        "text": "ЭКОНОМИЯ ВРЕМЕНИ",
+        "text": "У КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАЖНЕЕ МОТИВАЦИИ",
+        "text": "СВОЙ ФОРМАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 36.35,
-    "end": 38.6,
+    "start": 22.7,
+    "end": 25.45,
+    "lines": [
+      {
+        "text": "ЕМУ ТАБЛИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МНЕ ЖИВОЙ ПРОГРЕСС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.65,
+    "end": 27.05,
+    "lines": [
+      {
+        "text": "БЕЗ СТРОЧКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЭКСЕЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.3,
+    "end": 28.84,
     "lines": [
       {
         "text": "ССЫЛКА",

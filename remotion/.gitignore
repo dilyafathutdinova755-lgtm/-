@@ -131,3 +131,10 @@ episodes40/*.wav
 episodes40/*.log
 episodes40/render/
 episodes40_out/
+episodes41/*.mp4
+episodes41/*.wav
+episodes41/*.log
+episodes41/render/
+episodes41_out/
+sources_iint/
+asr_iint/
