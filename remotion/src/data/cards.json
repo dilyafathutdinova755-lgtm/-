@@ -1,189 +1,199 @@
 [
   {
     "start": 2.35,
-    "end": 4.5,
+    "end": 4.65,
     "lines": [
       {
-        "text": "СЛУЧАЙНО ОТ СКУКИ",
+        "text": "ОДНОКЛАССНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ОЧЕРЕДИ К ВРАЧУ",
+        "text": "ЗАДОЛБАЛ СКРИНАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.6,
-    "end": 7.15,
+    "start": 4.7,
+    "end": 6.85,
     "lines": [
       {
-        "text": "БЕЗ ПЛАНА",
+        "text": "ПРОГРЕССА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОКАЗАТЬ СЕБЕ",
+        "text": "КАЖДЫЙ ДЕНЬ В ЧАТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.2,
-    "end": 10.0,
+    "start": 6.9,
+    "end": 8.65,
     "lines": [
       {
-        "text": "ТО В ОЧЕРЕДИ",
+        "text": "ОЖИДАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТО ПЕРЕД СНОМ",
+        "text": "СКУЧНЫЙ СПИСОК ПРАВИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 11.2,
+    "start": 8.7,
+    "end": 10.75,
     "lines": [
       {
-        "text": "ВМЕСТО ЛЕНТЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.25,
-    "end": 13.7,
-    "lines": [
-      {
-        "text": "БЕЗ РАСПИСАНИЯ",
+        "text": "НАШЁЛ ИГРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ОБЕЩАНИЙ",
+        "text": "УГАДАЙ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.85,
-    "end": 16.2,
+    "start": 10.85,
+    "end": 13.05,
     "lines": [
       {
-        "text": "ОДНОКЛАССНИК ПРЕДЛОЖИЛ",
+        "text": "БЫСТРЕЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "ЧИТАЕШЬ ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.3,
-    "end": 18.8,
+    "start": 13.15,
+    "end": 15.3,
     "lines": [
       {
-        "text": "РАДИ СПОРА",
+        "text": "ТЕМА ПО ГЕОГРАФИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ПОДГОТОВКИ",
+        "text": "РАДИ ИНТЕРЕСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.0,
-    "end": 20.55,
+    "start": 15.85,
+    "end": 18.0,
     "lines": [
       {
-        "text": "ОБА",
+        "text": "БЕЗ ЦЕЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОФИГЕЛИ ОДИНАКОВО",
+        "text": "ГОТОВИТЬСЯ СЕРЬЁЗНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.6,
-    "end": 21.65,
+    "start": 18.05,
+    "end": 20.0,
     "lines": [
       {
-        "text": "ОН",
+        "text": "РЕЗУЛЬТАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ ПРОИГРЫША",
+        "text": "НЕОЖИДАННО ПРИЛИЧНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.7,
-    "end": 24.45,
+    "start": 20.4,
+    "end": 23.3,
     "lines": [
       {
-        "text": "А Я",
+        "text": "НЕ ОТКРЫВАЛ УЧЕБНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАХОДЫ ПОВЛИЯЛИ",
+        "text": "С ДЕСЯТОГО КЛАССА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.55,
-    "end": 25.68,
+    "start": 23.4,
+    "end": 24.6,
     "lines": [
       {
-        "text": "НИКАКОГО СЕКРЕТА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.75,
-    "end": 29.28,
-    "lines": [
-      {
-        "text": "ЧАСТЫЕ И КОРОТКИЕ",
+        "text": "ТРОЕЧНИК Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВМЕСТО МАРАФОНА",
+        "text": "ИЛИ НЕТ?",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.35,
-    "end": 31.16,
+    "start": 24.65,
+    "end": 26.25,
+    "lines": [
+      {
+        "text": "ФОРМАТ ОКАЗАЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕСКУЧНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.3,
+    "end": 29.15,
+    "lines": [
+      {
+        "text": "РЕДКОСТЬ ДЛЯ ВСЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СО СЛОВОМ ЭКЗАМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.2,
+    "end": 31.08,
     "lines": [
       {
         "text": "ССЫЛКА",
