@@ -1,0 +1,194 @@
+[
+  {
+    "start": 3.9,
+    "end": 6.15,
+    "lines": [
+      {
+        "text": "ПОПРОБОВАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВМЕСТИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.55,
+    "lines": [
+      {
+        "text": "СЕМЬ ДНЕЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ПОДРЯД",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.35,
+    "end": 11.3,
+    "lines": [
+      {
+        "text": "ДЕНЬ ПЕРВЫЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ЧАСТИЧНО ОЛИМПИАДА",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.75,
+    "end": 14.35,
+    "lines": [
+      {
+        "text": "ДВАДЦАТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЭКЗАМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.95,
+    "end": 16.9,
+    "lines": [
+      {
+        "text": "ДЕНЬ ТРЕТИЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ФОРМАТЫ ПУТАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 19.85,
+    "lines": [
+      {
+        "text": "РАЗВЕЛА ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ВРЕМЕНИ ДНЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.85,
+    "end": 22.45,
+    "lines": [
+      {
+        "text": "ДЕНЬ СЕДЬМОЙ",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "КОРОТКИЙ ПРОБНИК",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 24.5,
+    "end": 26.65,
+    "lines": [
+      {
+        "text": "БАЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПРОСЕЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.7,
+    "end": 28.3,
+    "lines": [
+      {
+        "text": "ЗА НЕДЕЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЛИМПИАДНОГО ФОКУСА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.7,
+    "end": 31.1,
+    "lines": [
+      {
+        "text": "СОВМЕЩАТЬ РЕАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ЧЁТКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.05,
+    "end": 34.0,
+    "lines": [
+      {
+        "text": "НЕ СМЕШИВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.3,
+    "end": 36.29,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

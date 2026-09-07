@@ -17,6 +17,7 @@ sources/
 asr/sherpa-onnx-streaming-t-one-russian-2025-09-08/
 asr/*.wav
 asr/*.json
+asr/*.log
 
 # Intermediate font staging (variable-weight originals); the static cuts
 # actually used by the composition live in public/.
@@ -118,3 +119,7 @@ episodes37/*.log
 episodes38/*.mp4
 episodes38/*.wav
 episodes38/*.log
+episodes39/*.mp4
+episodes39/*.wav
+episodes39/*.log
+episodes39/render/

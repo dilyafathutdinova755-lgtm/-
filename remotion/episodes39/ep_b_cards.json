@@ -1,0 +1,194 @@
+[
+  {
+    "start": 4.9,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "ПУТАТЬ ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСТАЯ ОШИБКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 10.1,
+    "lines": [
+      {
+        "text": "СРЕДИ ТЕХ КТО МЕТИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА СТО БАЛЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.0,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "ЕГЭ УСТРОЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ЧЁТКИМ КРИТЕРИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 15.95,
+    "lines": [
+      {
+        "text": "КОНКРЕТНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛИРОВКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.1,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "КОНКРЕТНЫЕ БАЛЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ШАГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.75,
+    "end": 20.1,
+    "lines": [
+      {
+        "text": "СРОКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЖЕ РАЗНЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.35,
+    "end": 23.35,
+    "lines": [
+      {
+        "text": "ЭТАПЫ ОЛИМПИАД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ОСЕНИ ДО ВЕСНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.6,
+    "end": 26.4,
+    "lines": [
+      {
+        "text": "А ЭКЗАМЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОЙ ДАТОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.9,
+    "end": 29.4,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫВАЮ ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.4,
+    "end": 32.3,
+    "lines": [
+      {
+        "text": "ФОРМАТ ЭКЗАМЕНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТОБЫ НЕ ТЕРЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.4,
+    "end": 34.55,
+    "lines": [
+      {
+        "text": "РАДИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕСТАНДАРТНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 35.1,
+    "end": 37.164,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
