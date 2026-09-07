@@ -104,7 +104,7 @@ ep1_intro = {"lines": ["БАЗУ УЖЕ", "ЗАКРЫЛ?"], "end": 2.3}
 ep1_cards = [
     {"start": 6.55, "end": 9.55, "lines": [
         {"text": "ИЩЕШЬ НЕ МОТИВАЦИЮ", "accent": False, "size": "small"},
-        {"text": "А ОПТИМИЗАЦИЮ", "accent": True, "size": "big"},
+        {"text": "КОНКРЕТИКУ", "accent": True, "size": "big"},
     ]},
     {"start": 10.45, "end": 12.70, "lines": [
         {"text": "ЗАСЕКАЙ ВРЕМЯ", "accent": False, "size": "small"},
@@ -115,8 +115,8 @@ ep1_cards = [
         {"text": "А КАЖДЫЙ ПРОБНИК", "accent": True, "size": "big"},
     ]},
     {"start": 16.85, "end": 19.35, "lines": [
-        {"text": "СПИСОК", "accent": False, "size": "small"},
-        {"text": "ПОВТОРЯЮЩИХСЯ ОШИБОК", "accent": True, "size": "big"},
+        {"text": "ПОВТОРЯЮЩИХСЯ", "accent": False, "size": "small"},
+        {"text": "ОШИБОК", "accent": True, "size": "big"},
     ]},
     {"start": 19.45, "end": 22.80, "lines": [
         {"text": "И СПИСОК НОВЫХ ТЕМ", "accent": False, "size": "small"},
@@ -171,8 +171,8 @@ ep2_cards = [
         {"text": "СИЛЬНЫЕ УЧЕНИКИ", "accent": True, "size": "big"},
     ]},
     {"start": 11.20, "end": 14.30, "lines": [
-        {"text": "СКРЫТОЕ", "accent": False, "size": "small"},
-        {"text": "ОГРАНИЧЕНИЕ", "accent": True, "size": "big"},
+        {"text": "СКРЫТАЯ", "accent": False, "size": "small"},
+        {"text": "ЛОВУШКА", "accent": True, "size": "big"},
     ]},
     {"start": 14.60, "end": 17.20, "lines": [
         {"text": "ЛЕГКО УПУСТИТЬ", "accent": False, "size": "small"},
@@ -187,8 +187,8 @@ ep2_cards = [
         {"text": "ЕСТЬ ИГРА", "accent": True, "size": "big"},
     ]},
     {"start": 23.35, "end": 25.75, "lines": [
-        {"text": "НА СКРЫТЫЕ", "accent": False, "size": "small"},
-        {"text": "ОГРАНИЧЕНИЯ", "accent": True, "size": "big"},
+        {"text": "НА ТАКИЕ", "accent": False, "size": "small"},
+        {"text": "ЛОВУШКИ", "accent": True, "size": "big"},
     ]},
     {"start": 26.00, "end": 29.50, "lines": [
         {"text": "ЗАМЕЧАТЬ РАНЬШЕ", "accent": False, "size": "small"},
@@ -200,7 +200,7 @@ ep2_cards = [
     ]},
     {"start": 32.40, "end": 35.25, "lines": [
         {"text": "ПОКА НЕ ПРОШЛА", "accent": False, "size": "small"},
-        {"text": "ЦЕЛЕНАПРАВЛЕННО", "accent": True, "size": "big"},
+        {"text": "СПЕЦИАЛЬНО", "accent": True, "size": "big"},
     ]},
     {"start": 35.90, "end": 37.88, "lines": [
         {"text": "ССЫЛКА", "accent": True, "size": "big"},
@@ -224,7 +224,7 @@ ep3_intro = {"lines": ["РАСПИСАНИЕ ЕСТЬ", "А РЕЗУЛЬТАТА
 ep3_cards = [
     {"start": 3.35, "end": 5.20, "lines": [
         {"text": "ЕСЛИ ВРЕМЯ", "accent": False, "size": "small"},
-        {"text": "УЖЕ ИСПОЛЬЗУЕТСЯ", "accent": True, "size": "big"},
+        {"text": "УЖЕ ЗАНЯТО", "accent": True, "size": "big"},
     ]},
     {"start": 5.30, "end": 8.35, "lines": [
         {"text": "НО ХОЧЕШЬ", "accent": False, "size": "small"},
@@ -256,7 +256,7 @@ ep3_cards = [
     ]},
     {"start": 26.55, "end": 28.35, "lines": [
         {"text": "АКТИВНОЕ ЗАКРЕПЛЕНИЕ", "accent": False, "size": "small"},
-        {"text": "А НЕ ПЕРЕЧИТЫВАНИЕ", "accent": True, "size": "big"},
+        {"text": "А НЕ ПОВТОР", "accent": True, "size": "big"},
     ]},
     {"start": 29.95, "end": 32.35, "lines": [
         {"text": "ОПТИМИЗАЦИЯ", "accent": False, "size": "small"},
@@ -264,7 +264,7 @@ ep3_cards = [
     ]},
     {"start": 32.65, "end": 35.10, "lines": [
         {"text": "А ПРО МЕНЬШЕ", "accent": False, "size": "small"},
-        {"text": "ПОТРАЧЕННОГО ВПУСТУЮ", "accent": True, "size": "big"},
+        {"text": "ПОТЕРЬ ВРЕМЕНИ", "accent": True, "size": "big"},
     ]},
     {"start": 35.50, "end": 37.56, "lines": [
         {"text": "ССЫЛКА", "accent": True, "size": "big"},
@@ -364,7 +364,7 @@ ep5_cards = [
     ]},
     {"start": 8.70, "end": 10.75, "lines": [
         {"text": "НАШЁЛ ИГРУ", "accent": False, "size": "small"},
-        {"text": "УГАДЫВАЙ ФОРМУЛИРОВКУ", "accent": True, "size": "big"},
+        {"text": "УГАДАЙ ЗАДАНИЕ", "accent": True, "size": "big"},
     ]},
     {"start": 10.85, "end": 13.05, "lines": [
         {"text": "БЫСТРЕЕ ЧЕМ", "accent": False, "size": "small"},
@@ -443,7 +443,7 @@ ep6_cards = [
     ]},
     {"start": 15.65, "end": 17.75, "lines": [
         {"text": "ОН НЕ ВПЕЧАТЛЁН", "accent": False, "size": "small"},
-        {"text": "ОТСУТСТВИЕМ ТАБЛИЦЫ", "accent": True, "size": "big"},
+        {"text": "БЕЗ ТАБЛИЦЫ", "accent": True, "size": "big"},
     ]},
     {"start": 18.00, "end": 21.00, "lines": [
         {"text": "НЕ БУДУ ЗАВОДИТЬ", "accent": False, "size": "small"},

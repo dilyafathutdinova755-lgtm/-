@@ -9,7 +9,7 @@
         "size": "small"
       },
       {
-        "text": "А ОПТИМИЗАЦИЮ",
+        "text": "КОНКРЕТИКУ",
         "accent": true,
         "size": "big"
       }
@@ -52,12 +52,12 @@
     "end": 19.35,
     "lines": [
       {
-        "text": "СПИСОК",
+        "text": "ПОВТОРЯЮЩИХСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮЩИХСЯ ОШИБОК",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }

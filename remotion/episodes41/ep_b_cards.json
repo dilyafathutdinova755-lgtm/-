@@ -52,12 +52,12 @@
     "end": 14.3,
     "lines": [
       {
-        "text": "СКРЫТОЕ",
+        "text": "СКРЫТАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОГРАНИЧЕНИЕ",
+        "text": "ЛОВУШКА",
         "accent": true,
         "size": "big"
       }
@@ -116,12 +116,12 @@
     "end": 25.75,
     "lines": [
       {
-        "text": "НА СКРЫТЫЕ",
+        "text": "НА ТАКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОГРАНИЧЕНИЯ",
+        "text": "ЛОВУШКИ",
         "accent": true,
         "size": "big"
       }
@@ -169,7 +169,7 @@
         "size": "small"
       },
       {
-        "text": "ЦЕЛЕНАПРАВЛЕННО",
+        "text": "СПЕЦИАЛЬНО",
         "accent": true,
         "size": "big"
       }

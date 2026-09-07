@@ -9,7 +9,7 @@
         "size": "small"
       },
       {
-        "text": "УЖЕ ИСПОЛЬЗУЕТСЯ",
+        "text": "УЖЕ ЗАНЯТО",
         "accent": true,
         "size": "big"
       }
@@ -137,7 +137,7 @@
         "size": "small"
       },
       {
-        "text": "А НЕ ПЕРЕЧИТЫВАНИЕ",
+        "text": "А НЕ ПОВТОР",
         "accent": true,
         "size": "big"
       }
@@ -169,7 +169,7 @@
         "size": "small"
       },
       {
-        "text": "ПОТРАЧЕННОГО ВПУСТУЮ",
+        "text": "ПОТЕРЬ ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
