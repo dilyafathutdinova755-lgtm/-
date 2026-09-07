@@ -1,183 +1,189 @@
 [
   {
-    "start": 3.35,
-    "end": 5.2,
+    "start": 2.35,
+    "end": 4.5,
     "lines": [
       {
-        "text": "ЕСЛИ ВРЕМЯ",
+        "text": "СЛУЧАЙНО ОТ СКУКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЖЕ ЗАНЯТО",
+        "text": "В ОЧЕРЕДИ К ВРАЧУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.3,
-    "end": 8.35,
+    "start": 4.6,
+    "end": 7.15,
     "lines": [
       {
-        "text": "НО ХОЧЕШЬ",
+        "text": "БЕЗ ПЛАНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫЖАТЬ БОЛЬШЕ",
+        "text": "ДОКАЗАТЬ СЕБЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.95,
-    "end": 12.7,
+    "start": 7.2,
+    "end": 10.0,
     "lines": [
       {
-        "text": "ОДНА ТЕМА",
+        "text": "ТО В ОЧЕРЕДИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН ИСТОЧНИК",
+        "text": "ТО ПЕРЕД СНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.85,
-    "end": 15.3,
+    "start": 10.05,
+    "end": 11.2,
     "lines": [
       {
-        "text": "ДВА УЧЕБНИКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБЪЯСНЯЮТ ОДНО",
+        "text": "ВМЕСТО ЛЕНТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.05,
-    "end": 17.0,
+    "start": 11.25,
+    "end": 13.7,
     "lines": [
       {
-        "text": "ОСТАВЬ",
+        "text": "БЕЗ РАСПИСАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН",
+        "text": "И ОБЕЩАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.75,
-    "end": 20.15,
+    "start": 13.85,
+    "end": 16.2,
     "lines": [
       {
-        "text": "ГРУППИРУЙ ПОХОЖИЕ",
+        "text": "ОДНОКЛАССНИК ПРЕДЛОЖИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ФОРМАТУ",
+        "text": "ПРОБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.2,
-    "end": 22.8,
+    "start": 16.3,
+    "end": 18.8,
     "lines": [
       {
-        "text": "ПОДРЯД",
+        "text": "РАДИ СПОРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ ВРАЗБРОС",
+        "text": "БЕЗ ПОДГОТОВКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.55,
-    "end": 25.75,
+    "start": 19.0,
+    "end": 20.55,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "text": "ОБА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСТРОЕНО РОВНО ТАК",
+        "text": "ОФИГЕЛИ ОДИНАКОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.55,
-    "end": 28.35,
+    "start": 20.6,
+    "end": 21.65,
     "lines": [
       {
-        "text": "АКТИВНОЕ ЗАКРЕПЛЕНИЕ",
+        "text": "ОН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ ПОВТОР",
+        "text": "ОТ ПРОИГРЫША",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.95,
-    "end": 32.35,
+    "start": 21.7,
+    "end": 24.45,
     "lines": [
       {
-        "text": "ОПТИМИЗАЦИЯ",
+        "text": "А Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПРО ЧАСЫ",
+        "text": "ЗАХОДЫ ПОВЛИЯЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.65,
-    "end": 35.1,
+    "start": 24.55,
+    "end": 25.68,
     "lines": [
       {
-        "text": "А ПРО МЕНЬШЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОТЕРЬ ВРЕМЕНИ",
+        "text": "НИКАКОГО СЕКРЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 35.5,
-    "end": 37.56,
+    "start": 25.75,
+    "end": 29.28,
+    "lines": [
+      {
+        "text": "ЧАСТЫЕ И КОРОТКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТО МАРАФОНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.35,
+    "end": 31.16,
     "lines": [
       {
         "text": "ССЫЛКА",
