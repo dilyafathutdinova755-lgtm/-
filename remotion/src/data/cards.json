@@ -1,215 +1,183 @@
 [
   {
     "start": 2.5,
-    "end": 3.9,
+    "end": 4.65,
     "lines": [
       {
-        "text": "ПЕРЕД ТЕМ КАК",
+        "text": "СМОТРЮ ВИДЕО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОРЕКОМЕНДОВАТЬ",
+        "text": "ОДИННАДЦАТИКЛАССНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.4,
-    "end": 7.5,
+    "start": 4.9,
+    "end": 6.3,
     "lines": [
       {
-        "text": "НЕ НА ВЕРУ",
+        "text": "КАК ПРЕДСТАВЛЯЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТЗЫВАМ",
+        "text": "УЧЁБУ ЛЕТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.9,
-    "end": 9.9,
+    "start": 6.9,
+    "end": 8.1,
     "lines": [
       {
-        "text": "ПРОВЕРИЛА",
+        "text": "И КАК ВЫШЛО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ЗАДАНИЙ",
+        "text": "НА ДЕЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.95,
-    "end": 11.6,
+    "start": 9.0,
+    "end": 11.3,
     "lines": [
       {
-        "text": "ОФИЦИАЛЬНОМУ",
+        "text": "ПЛАНИРОВАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ ЛИЧНО",
+        "text": "ТРИ ЧАСА В ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.4,
-    "end": 13.75,
+    "start": 11.6,
+    "end": 13.85,
     "lines": [
       {
-        "text": "А НЕ НА СЛОВО",
+        "text": "В СЕНТЯБРЕ ОТКРЫЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗРАБОТЧИКАМ",
+        "text": "ОДИН РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.2,
-    "end": 16.75,
+    "start": 15.4,
+    "end": 18.1,
     "lines": [
       {
-        "text": "ОБНОВЛЯЕТСЯ",
+        "text": "УЗНАЮ ВСЕХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОД ТЕКУЩИЙ ГОД",
+        "text": "ВКЛЮЧАЯ СЕБЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.2,
-    "end": 18.65,
+    "start": 18.4,
+    "end": 19.95,
     "lines": [
       {
-        "text": "НЕ ОСТАЛСЯ",
+        "text": "БЕЗ ИЛЛЮЗИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АРХИВНОЙ ВЕРСИЕЙ",
+        "text": "О ДИСЦИПЛИНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.0,
-    "end": 20.8,
+    "start": 20.75,
+    "end": 22.8,
     "lines": [
       {
-        "text": "ПРОШЛА САМА",
+        "text": "КТО-ТО СКИНУЛ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "ОДНУ ТЕМУ ЦЕЛИКОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.9,
-    "end": 23.1,
-    "lines": [
-      {
-        "text": "ЧТОБЫ ПОНИМАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ФОРМАТ РЕБЁНКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.55,
-    "end": 25.6,
-    "lines": [
-      {
-        "text": "СРАВНИЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТОИМОСТЬ КОНКУРЕНТОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.9,
-    "end": 28.6,
-    "lines": [
-      {
-        "text": "ОКАЗАЛОСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОЛНОСТЬЮ БЕСПЛАТНЫМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.1,
-    "end": 30.85,
-    "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЁР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОШЁЛ ВСЁ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.85,
-    "end": 33.05,
+    "start": 23.1,
+    "end": 25.35,
     "lines": [
       {
-        "text": "БЕЗ ЕДИНОГО",
+        "text": "ДЕСЯТЬ МИНУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПУСКА",
+        "text": "РЕАЛИСТИЧНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 33.35,
-    "end": 35.244,
+    "start": 25.45,
+    "end": 26.55,
+    "lines": [
+      {
+        "text": "ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ ЧАСА КОНСПЕКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.8,
+    "end": 28.3,
+    "lines": [
+      {
+        "text": "БЕРУ НА ЗАМЕТКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОТ ФОРМАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.35,
+    "end": 30.124,
     "lines": [
       {
         "text": "ССЫЛКА",
