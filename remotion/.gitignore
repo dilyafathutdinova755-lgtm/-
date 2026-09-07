@@ -6,6 +6,7 @@ dist
 # Ignore the output video from Git but not videos you import into src/.
 out
 render.log
+episodes39_out/
 
 # Source footage lives in GitHub Releases (see LOAD-ME.md), not in git —
 # GitHub rejects files over 100MB on a normal push anyway.
