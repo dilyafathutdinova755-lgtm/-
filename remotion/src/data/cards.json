@@ -1,71 +1,23 @@
 [
   {
     "start": 2.6,
-    "end": 3.6,
+    "end": 4.3,
     "lines": [
       {
-        "text": "СТРЕСС",
+        "text": "ОБЪЕДИНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕД ОЛИМПИАДОЙ",
+        "text": "РАЗМИНКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 6.1,
-    "lines": [
-      {
-        "text": "ОКАЗАЛИСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗНЫМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.75,
-    "end": 8.75,
-    "lines": [
-      {
-        "text": "ЗАМЕТИЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ЭТОЙ НЕДЕЛЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.9,
-    "end": 10.95,
-    "lines": [
-      {
-        "text": "ПАРАЛЛЕЛЬНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "К ОБОИМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.65,
-    "end": 12.6,
+    "start": 4.35,
+    "end": 5.9,
     "lines": [
       {
         "text": "ПЕРЕД",
@@ -73,103 +25,167 @@
         "size": "small"
       },
       {
-        "text": "ОЛИМПИАДОЙ",
+        "text": "ИНТЕНСИВОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.65,
+    "start": 6.0,
+    "end": 6.85,
+    "lines": [
+      {
+        "text": "НА ЭТОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДЕЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.2,
+    "end": 8.8,
+    "lines": [
+      {
+        "text": "ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЭКОНОМИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.9,
+    "end": 10.7,
+    "lines": [
+      {
+        "text": "УТРОМ ПЕРЕД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАГРУЗКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.5,
+    "end": 13.1,
+    "lines": [
+      {
+        "text": "ПЯТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.15,
     "end": 14.1,
     "lines": [
       {
-        "text": "ВОЛНЕНИЕ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АЗАРТ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.75,
-    "end": 17.1,
+    "start": 14.45,
+    "end": 16.15,
     "lines": [
       {
-        "text": "ПРЕДВКУШЕНИЕ",
+        "text": "РАЗОГРЕВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАЧИ",
+        "text": "МОЗГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.6,
-    "end": 20.55,
+    "start": 16.3,
+    "end": 18.8,
     "lines": [
       {
-        "text": "СКОРЕЕ",
+        "text": "ОТДЕЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАВЛЕНИЕ",
+        "text": "МЕТОДИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.65,
-    "end": 22.2,
+    "start": 19.9,
+    "end": 22.3,
     "lines": [
       {
-        "text": "ФОРМАЛЬНОСТИ",
+        "text": "ОДНО ДЕЙСТВИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИТОГИ",
+        "text": "ДВЕ ЗАДАЧИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.2,
-    "end": 23.45,
+    "start": 22.4,
+    "end": 24.2,
     "lines": [
       {
-        "text": "ДЛЯ ПОСТУПЛЕНИЯ",
+        "text": "ВМЕСТО ДВУХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЦЕЛОМ",
+        "text": "РИТУАЛОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.55,
-    "end": 27.05,
+    "start": 24.7,
+    "end": 26.4,
     "lines": [
       {
-        "text": "РАЗНЫЕ",
+        "text": "ЭКОНОМИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТНОШЕНИЯ",
+        "text": "ПРИЯТНАЯ",
         "accent": true,
         "size": "big"
       }
@@ -177,23 +193,7 @@
   },
   {
     "start": 27.5,
-    "end": 29.95,
-    "lines": [
-      {
-        "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "И ИНТЕНСИВЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.9,
-    "end": 32.789,
+    "end": 29.504,
     "lines": [
       {
         "text": "ССЫЛКА",
