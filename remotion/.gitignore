@@ -145,3 +145,10 @@ episodes42/render/
 episodes42_out/
 sources_0622var/
 asr_0622var/
+episodes43/*.mp4
+episodes43/*.wav
+episodes43/*.log
+episodes43/render/
+episodes43_out/
+sources_teatea1/
+asr_teatea1/
