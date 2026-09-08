@@ -1,0 +1,178 @@
+[
+  {
+    "start": 0.46,
+    "end": 3.82,
+    "lines": [
+      {
+        "text": "ПЛАНИРУЮ СДАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТОПОВЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.82,
+    "end": 7.69,
+    "lines": [
+      {
+        "text": "С ЗАПАСОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ ВПРИТЫК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.69,
+    "end": 9.91,
+    "lines": [
+      {
+        "text": "ВЕДУ ОТДЕЛЬНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК СЛАБЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.91,
+    "end": 12.52,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЮ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДУЮ НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.52,
+    "end": 15.52,
+    "lines": [
+      {
+        "text": "ГДЕ ТЕРЯЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАЛЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.52,
+    "end": 18.55,
+    "lines": [
+      {
+        "text": "ФОРМУЛИРОВКИ ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕГКО ОШИБИТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.55,
+    "end": 20.68,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "СТАЛ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 20.68,
+    "end": 22.57,
+    "lines": [
+      {
+        "text": "ИНСТРУМЕНТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ТОЧНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.57,
+    "end": 25.99,
+    "lines": [
+      {
+        "text": "ЗАКРЫВАЮТ ИМЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕ ПРОБЕЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.99,
+    "end": 28.72,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ Я НАХОЖУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В СВОЁМ СПИСКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.72,
+    "end": 31.42,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

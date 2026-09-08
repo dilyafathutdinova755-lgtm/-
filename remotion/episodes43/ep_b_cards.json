@@ -1,151 +1,119 @@
 [
   {
-    "start": 1.95,
-    "end": 3.69,
+    "start": 1.74,
+    "end": 5.13,
     "lines": [
       {
-        "text": "ПОСТАВИЛА",
+        "text": "ЕГЭ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕБЕ ЦЕЛЬ",
+        "text": "ВЫСОКИЙ БАЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.69,
-    "end": 6.0,
+    "start": 5.13,
+    "end": 7.8,
     "lines": [
       {
-        "text": "ЕЩЁ В НАЧАЛЕ",
+        "text": "ИНАЧЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "11 КЛАССА",
+        "text": "ОДНОКЛАССНИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 9.24,
+    "start": 7.8,
+    "end": 10.02,
     "lines": [
       {
-        "text": "БЕЗ СИСТЕМЫ",
+        "text": "ПЕРЕСТАЛА ЧИТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТУДА НЕ ПОПАСТЬ",
+        "text": "ОБЩИЕ СБОРНИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.24,
-    "end": 12.18,
+    "start": 10.02,
+    "end": 13.41,
     "lines": [
       {
-        "text": "ЧЕК-ЛИСТ ДЛЯ",
+        "text": "ТОЧЕЧНАЯ РАБОТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОДВИНУТЫХ",
+        "text": "С ОШИБКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.18,
-    "end": 15.78,
+    "start": 13.41,
+    "end": 17.16,
     "lines": [
       {
-        "text": "СЛОЖНЫЕ ЗАДАНИЯ",
+        "text": "ГДЕ СРЕЗАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ ЛЁГКИЕ",
+        "text": "ДАЖЕ СИЛЬНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.78,
-    "end": 19.35,
+    "start": 18.24,
+    "end": 20.22,
     "lines": [
       {
-        "text": "ФОРМАТ КРИТЕРИЕВ",
+        "text": "УЧЕНИКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ ТОЛЬКО СМЫСЛ",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.35,
-    "end": 21.11,
+    "start": 20.22,
+    "end": 22.86,
     "lines": [
       {
-        "text": "ТРЕНИРОВАТЬСЯ",
+        "text": "РЕАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА КИМАХ",
+        "text": "ПОМОГ С ЭТИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.11,
-    "end": 23.64,
-    "lines": [
-      {
-        "text": "А НЕ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "АБСТРАКЦИЯХ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.64,
+    "start": 22.86,
     "end": 26.37,
-    "lines": [
-      {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАШЛА ИМЕННО ЭТО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.37,
-    "end": 29.52,
     "lines": [
       {
         "text": "ВИДЕОРАЗБОРЫ",
@@ -153,63 +121,63 @@
         "size": "small"
       },
       {
-        "text": "С ЛОГИКОЙ ЭКСПЕРТА",
+        "text": "ЛОГИКА ОЦЕНКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.52,
-    "end": 31.32,
+    "start": 26.37,
+    "end": 29.79,
     "lines": [
       {
-        "text": "ЗАДАНИЯ КОТОРЫЕ",
+        "text": "ВИДНО КАЖДЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТ",
+        "text": "НЮАНС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.32,
-    "end": 34.44,
+    "start": 29.79,
+    "end": 32.34,
     "lines": [
       {
-        "text": "СТРУКТУРУ",
+        "text": "ДОБИРАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНА",
+        "text": "БАЛЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 34.44,
-    "end": 36.75,
+    "start": 32.34,
+    "end": 33.75,
     "lines": [
       {
-        "text": "ДЛЯ ТЕХ КТО",
+        "text": "НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТИТ В ТОП",
+        "text": "МЕЛОЧАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 36.75,
-    "end": 38.79,
+    "start": 33.75,
+    "end": 36.84,
     "lines": [
       {
         "text": "ССЫЛКА",
