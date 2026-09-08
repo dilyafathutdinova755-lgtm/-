@@ -1,106 +1,90 @@
 [
   {
-    "start": 2.4,
-    "end": 5.82,
+    "start": 1.14,
+    "end": 4.77,
     "lines": [
       {
-        "text": "ЕСЛИ ЧЕСТНО",
+        "text": "ОТКРОВЕННО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МНЕ БЫЛО ЛЕНЬ",
+        "text": "ЗАБИВАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.82,
-    "end": 9.69,
+    "start": 5.01,
+    "end": 7.68,
     "lines": [
       {
-        "text": "ТЯНУЛА",
+        "text": "КАЗАЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО ПОСЛЕДНЕГО",
+        "text": "УДЕЛ БОТАНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.69,
-    "end": 11.64,
+    "start": 8.07,
+    "end": 11.37,
     "lines": [
       {
-        "text": "ТОЛЬКО В",
+        "text": "У МЕНЯ И ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИННАДЦАТОМ",
+        "text": "ДЕЛ ХВАТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.64,
-    "end": 14.46,
+    "start": 11.37,
+    "end": 15.21,
     "lines": [
       {
-        "text": "РЕАЛЬНО",
+        "text": "В 11-М ПОНЯЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОШЛО",
+        "text": "ТЯНУТЬ НЕКУДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 18.03,
+    "start": 15.21,
+    "end": 17.61,
     "lines": [
       {
-        "text": "КУРСЫ ЗА",
+        "text": "КУРСЫ СТОЯТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "20 ТЫСЯЧ",
+        "text": "КАК ОТПУСК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.03,
-    "end": 20.31,
+    "start": 17.61,
+    "end": 19.89,
     "lines": [
       {
-        "text": "ЭТО НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРО МЕНЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.31,
-    "end": 23.34,
-    "lines": [
-      {
-        "text": "НАШЛА СЛУЧАЙНО",
+        "text": "НАШЛА",
         "accent": false,
         "size": "small"
       },
@@ -112,8 +96,24 @@
     ]
   },
   {
-    "start": 23.34,
-    "end": 26.31,
+    "start": 19.89,
+    "end": 21.51,
+    "lines": [
+      {
+        "text": "ИЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЮБОПЫТСТВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.51,
+    "end": 24.06,
     "lines": [
       {
         "text": "КОРОТКИЕ ВИДЕО",
@@ -121,47 +121,31 @@
         "size": "small"
       },
       {
-        "text": "БЕЗ ВОДЫ",
+        "text": "ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.31,
-    "end": 29.7,
+    "start": 24.06,
+    "end": 27.03,
     "lines": [
       {
-        "text": "ИГРЫ ГДЕ НЕ",
+        "text": "В ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕЧАЕШЬ",
+        "text": "РЕАЛЬНО ЗАЛИПАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.7,
-    "end": 33.27,
-    "lines": [
-      {
-        "text": "КОМУ ЛЕНЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЧИТАТЬ МЕТОДИЧКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.27,
-    "end": 34.98,
+    "start": 27.03,
+    "end": 29.95,
     "lines": [
       {
         "text": "ССЫЛКА",
