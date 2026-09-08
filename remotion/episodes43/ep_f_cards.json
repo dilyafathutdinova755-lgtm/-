@@ -1,0 +1,226 @@
+[
+  {
+    "start": 2.35,
+    "end": 3.6,
+    "lines": [
+      {
+        "text": "СЫН РЕЗКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСКОРИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.75,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "БЕЗ ВИДИМОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЧИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.6,
+    "end": 7.45,
+    "lines": [
+      {
+        "text": "ЗАНИМАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ ВЕЧЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.2,
+    "end": 10.9,
+    "lines": [
+      {
+        "text": "ПЕРВАЯ МЫСЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАДОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.0,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "ВТОРАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕВОГА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 14.5,
+    "lines": [
+      {
+        "text": "СТРАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫГОРАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.35,
+    "lines": [
+      {
+        "text": "РЫВОК ВПЕРЁД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСМОТРЕЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.45,
+    "end": 17.6,
+    "lines": [
+      {
+        "text": "ВНИМАТЕЛЬНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.9,
+    "end": 19.65,
+    "lines": [
+      {
+        "text": "ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УВЛЁКСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.75,
+    "end": 20.6,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.9,
+    "end": 22.8,
+    "lines": [
+      {
+        "text": "НЕ ГОНИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ЦИФРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.2,
+    "end": 25.35,
+    "lines": [
+      {
+        "text": "РАЗНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОТИВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.7,
+    "end": 27.67,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

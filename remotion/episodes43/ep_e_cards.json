@@ -1,0 +1,226 @@
+[
+  {
+    "start": 2.6,
+    "end": 3.7,
+    "lines": [
+      {
+        "text": "ДЛЯ ПЕРЕХОДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.95,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "ПО ТРЁМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЗНАКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.3,
+    "end": 6.5,
+    "lines": [
+      {
+        "text": "ВЫВЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ СЕБЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.55,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "МЕТОДОМ ПРОБ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ЭТО ВРЕМЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.05,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "РЕШАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.85,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "БЕЗ ОШИБОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЯТЬ РАЗ ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 13.7,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКЛЮЧЕНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.2,
+    "end": 16.1,
+    "lines": [
+      {
+        "text": "МОГУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.3,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "БЕЗ КОНСПЕКТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ГОЛОВЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 20.9,
+    "lines": [
+      {
+        "text": "ВООБЩЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.1,
+    "end": 22.95,
+    "lines": [
+      {
+        "text": "ПРИ БЫСТРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАЙМЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.5,
+    "end": 24.5,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.7,
+    "end": 27.35,
+    "lines": [
+      {
+        "text": "ВСЕ ТРИ ПУНКТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.4,
+    "end": 30.23,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

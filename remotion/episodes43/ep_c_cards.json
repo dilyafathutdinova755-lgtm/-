@@ -1,167 +1,183 @@
 [
   {
-    "start": 3.7,
-    "end": 4.95,
+    "start": 3.95,
+    "end": 5.55,
     "lines": [
       {
-        "text": "НАЧАЛА",
+        "text": "СРАВНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕСТНО",
+        "text": "СТАТИСТИКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.2,
-    "end": 6.95,
+    "start": 5.65,
+    "end": 7.9,
     "lines": [
       {
-        "text": "ВМЕСТО",
+        "text": "ПЕРВАЯ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЛЧАНИЯ",
+        "text": "ТЕКУЩАЯ НЕДЕЛЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.1,
-    "end": 8.98,
+    "start": 8.15,
+    "end": 9.65,
     "lines": [
       {
-        "text": "О БЮДЖЕТЕ",
+        "text": "СПЕЦИАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕМЬИ",
+        "text": "НАБЛЮДЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 11.85,
+    "start": 10.65,
+    "end": 11.8,
     "lines": [
       {
-        "text": "СКОЛЬКО ГОТОВА",
+        "text": "В НАЧАЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОТРАТИТЬ",
+        "text": "ТЕРЯЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.0,
-    "end": 15.2,
+    "start": 11.9,
+    "end": 13.1,
     "lines": [
       {
-        "text": "НАЧИНАЕМ",
+        "text": "В МЕЛКИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕСПЛАТНО",
+        "text": "ДЕТАЛЯХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.65,
-    "end": 18.1,
+    "start": 13.5,
+    "end": 15.3,
     "lines": [
       {
-        "text": "РЕАКЦИЯ",
+        "text": "КАЖДОЕ ТРЕТЬЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЗРОСЛЕЕ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.35,
-    "end": 19.8,
+    "start": 16.35,
+    "end": 18.3,
     "lines": [
       {
-        "text": "ОЦЕНИЛА",
+        "text": "СЕЙЧАС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫТОСТЬ",
+        "text": "РЕЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.85,
-    "end": 21.55,
+    "start": 19.75,
+    "end": 22.15,
     "lines": [
       {
-        "text": "БОЛЬШЕ ЧЕМ ОБИДУ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПРЕТ",
+        "text": "УСИЛИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.9,
-    "end": 24.3,
+    "start": 22.85,
+    "end": 23.9,
     "lines": [
       {
-        "text": "ПРОДОЛЖАЕМ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.4,
-    "end": 26.4,
+    "start": 23.95,
+    "end": 25.35,
     "lines": [
       {
-        "text": "ПОНИМАНИЕ",
+        "text": "ПРОГРЕСС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ОБЕИХ СТОРОН",
+        "text": "ПО ФОКУСУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.8,
-    "end": 28.8,
+    "start": 25.45,
+    "end": 26.9,
+    "lines": [
+      {
+        "text": "ВИДЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.2,
+    "end": 30.14,
     "lines": [
       {
         "text": "ССЫЛКА",
