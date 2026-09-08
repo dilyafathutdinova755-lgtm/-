@@ -1,199 +1,183 @@
 [
   {
-    "start": 2.6,
-    "end": 4.4,
+    "start": 3.95,
+    "end": 5.55,
     "lines": [
       {
-        "text": "ПЕРЕД СМЕНОЙ",
+        "text": "СРАВНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРАТЕГИИ",
+        "text": "СТАТИСТИКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.9,
-    "end": 7.65,
+    "start": 5.65,
+    "end": 7.9,
     "lines": [
       {
-        "text": "ОПРЕДЕЛИЛА",
+        "text": "ПЕРВАЯ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧИСЛО",
+        "text": "ТЕКУЩАЯ НЕДЕЛЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.3,
-    "end": 10.55,
+    "start": 8.15,
+    "end": 9.65,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "СПЕЦИАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНТУИЦИЕЙ",
+        "text": "НАБЛЮДЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.45,
-    "end": 12.65,
+    "start": 10.65,
+    "end": 11.8,
     "lines": [
       {
-        "text": "ТРИ ВАРИАНТА",
+        "text": "В НАЧАЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДРЯД",
+        "text": "ТЕРЯЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.8,
-    "end": 14.55,
+    "start": 11.9,
+    "end": 13.1,
     "lines": [
       {
-        "text": "ОДИНАКОВЫЙ",
+        "text": "В МЕЛКИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТ",
+        "text": "ДЕТАЛЯХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.85,
-    "end": 16.05,
+    "start": 13.5,
+    "end": 15.3,
     "lines": [
       {
-        "text": "СИГНАЛ",
+        "text": "КАЖДОЕ ТРЕТЬЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕНЯТЬ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.45,
-    "end": 17.85,
+    "start": 16.35,
+    "end": 18.3,
     "lines": [
       {
-        "text": "НЕ ДВА",
+        "text": "СЕЙЧАС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И НЕ ПЯТЬ",
+        "text": "РЕЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.55,
-    "end": 20.55,
+    "start": 19.75,
+    "end": 22.15,
     "lines": [
       {
-        "text": "МЕНЬШЕ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНО",
+        "text": "УСИЛИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.0,
-    "end": 22.95,
+    "start": 22.85,
+    "end": 23.9,
     "lines": [
       {
-        "text": "БОЛЬШЕ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВПУСТУЮ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.15,
-    "end": 24.85,
+    "start": 23.95,
+    "end": 25.35,
     "lines": [
       {
-        "text": "ЯВНО",
+        "text": "ПРОГРЕСС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ РАБОТАЕТ",
+        "text": "ПО ФОКУСУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.85,
-    "end": 28.25,
+    "start": 25.45,
+    "end": 26.9,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "text": "ВИДЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКА",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.4,
-    "end": 29.85,
-    "lines": [
-      {
-        "text": "ПО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВАРИАНТАМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.3,
-    "end": 32.17,
+    "start": 28.2,
+    "end": 30.14,
     "lines": [
       {
         "text": "ССЫЛКА",
