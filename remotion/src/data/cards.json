@@ -1,106 +1,90 @@
 [
   {
-    "start": 2.4,
-    "end": 5.82,
+    "start": 1.65,
+    "end": 4.8,
     "lines": [
       {
-        "text": "ЕСЛИ ЧЕСТНО",
+        "text": "ДО КОНЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МНЕ БЫЛО ЛЕНЬ",
+        "text": "9 КЛАССА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.82,
-    "end": 9.69,
+    "start": 5.37,
+    "end": 7.92,
     "lines": [
       {
-        "text": "ТЯНУЛА",
+        "text": "ВООБЩЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО ПОСЛЕДНЕГО",
+        "text": "ДУМАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.69,
-    "end": 11.64,
+    "start": 8.1,
+    "end": 10.44,
     "lines": [
       {
-        "text": "ТОЛЬКО В",
+        "text": "В 11-М",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИННАДЦАТОМ",
+        "text": "РЕЗКО НАКРЫЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.64,
-    "end": 14.46,
+    "start": 10.44,
+    "end": 12.87,
     "lines": [
       {
-        "text": "РЕАЛЬНО",
+        "text": "ВСЕ ОБСУЖДАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОШЛО",
+        "text": "БАЛЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 18.03,
+    "start": 14.1,
+    "end": 16.8,
     "lines": [
       {
-        "text": "КУРСЫ ЗА",
+        "text": "РОДИТЕЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "20 ТЫСЯЧ",
+        "text": "ПАНИКУЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.03,
-    "end": 20.31,
+    "start": 16.8,
+    "end": 18.96,
     "lines": [
       {
-        "text": "ЭТО НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРО МЕНЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.31,
-    "end": 23.34,
-    "lines": [
-      {
-        "text": "НАШЛА СЛУЧАЙНО",
+        "text": "СКАЧАЛА",
         "accent": false,
         "size": "small"
       },
@@ -112,56 +96,88 @@
     ]
   },
   {
-    "start": 23.34,
-    "end": 26.31,
+    "start": 18.96,
+    "end": 21.6,
     "lines": [
       {
-        "text": "КОРОТКИЕ ВИДЕО",
+        "text": "ЧТОБЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ВОДЫ",
+        "text": "ОТСТАЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.31,
-    "end": 29.7,
+    "start": 21.6,
+    "end": 23.94,
     "lines": [
       {
-        "text": "ИГРЫ ГДЕ НЕ",
+        "text": "КОРОТКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕЧАЕШЬ",
+        "text": "ВИДЕО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.7,
-    "end": 33.27,
+    "start": 23.94,
+    "end": 26.43,
     "lines": [
       {
-        "text": "КОМУ ЛЕНЬ",
+        "text": "И ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧИТАТЬ МЕТОДИЧКИ",
+        "text": "ВМЕСТО ЗУБРЁЖКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 33.27,
-    "end": 34.98,
+    "start": 26.43,
+    "end": 29.01,
+    "lines": [
+      {
+        "text": "НЕ СУПЕРМОТИВАЦИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО РАБОТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.01,
+    "end": 31.92,
+    "lines": [
+      {
+        "text": "КОГДА ЛЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫТЬ УЧЕБНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.92,
+    "end": 35.51,
     "lines": [
       {
         "text": "ССЫЛКА",
