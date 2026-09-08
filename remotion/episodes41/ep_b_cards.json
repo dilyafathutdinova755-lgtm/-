@@ -1,0 +1,162 @@
+[
+  {
+    "start": 0.27,
+    "end": 3.63,
+    "lines": [
+      {
+        "text": "КРИТЕРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕДКО ОБЪЯСНЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.81,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "ЧТОБЫ РОДИТЕЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.33,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "ВЕЧЕР НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СИСТЕМУ ОЦЕНИВАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 13.08,
+    "lines": [
+      {
+        "text": "БАЛЛЫ ТЕРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ФОРМУЛИРОВКАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.71,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАШЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.75,
+    "end": 18.51,
+    "lines": [
+      {
+        "text": "ЭКСПЕРТ ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ЧТО СНИМАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.07,
+    "end": 22.86,
+    "lines": [
+      {
+        "text": "ПОНЯТНЕЕ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕТОДИЧКИ ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.49,
+    "end": 25.62,
+    "lines": [
+      {
+        "text": "ДЛЯ ДОЧЕРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛЕЗНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.71,
+    "end": 29.22,
+    "lines": [
+      {
+        "text": "ЧЕМ КУРСЫ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "35 ТЫСЯЧ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.22,
+    "end": 32.07,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

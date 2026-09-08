@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.34,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ЧЕСТНО СРАВНИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ ВАРИАНТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 9.39,
+    "lines": [
+      {
+        "text": "РЕПЕТИТОР ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "2000₽ ЗА ЧАС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.39,
+    "end": 12.93,
+    "lines": [
+      {
+        "text": "КУРСЫ ПАКЕТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА 30-40 ТЫСЯЧ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.93,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "СМОТРЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТЗЫВЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 17.25,
+    "lines": [
+      {
+        "text": "СЧИТАЛА БЮДЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРАШИВАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.25,
+    "end": 19.56,
+    "lines": [
+      {
+        "text": "В ПЛАН ДОБАВИЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.56,
+    "end": 23.28,
+    "lines": [
+      {
+        "text": "БЕСПЛАТНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЛОЖЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.28,
+    "end": 26.94,
+    "lines": [
+      {
+        "text": "ВИДЕОРАЗБОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.94,
+    "end": 29.94,
+    "lines": [
+      {
+        "text": "МОЖНО ТРАТИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.94,
+    "end": 31.59,
+    "lines": [
+      {
+        "text": "ЗАКРЫВАТЬ ТЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛОТНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.59,
+    "end": 33.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
