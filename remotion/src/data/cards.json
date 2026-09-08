@@ -1,151 +1,167 @@
 [
   {
-    "start": 0.27,
-    "end": 3.63,
+    "start": 0.3,
+    "end": 3.78,
     "lines": [
       {
-        "text": "КРИТЕРИИ",
+        "text": "ГОТОВИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕДКО ОБЪЯСНЯЮТ",
+        "text": "ВСЯ СЕМЬЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.81,
-    "end": 5.82,
+    "start": 4.71,
+    "end": 6.6,
     "lines": [
       {
-        "text": "ЧТОБЫ РОДИТЕЛИ",
+        "text": "РЕШИЛА ПОДОЙТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯЛИ",
+        "text": "СИСТЕМНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
-    "end": 9.15,
+    "start": 7.2,
+    "end": 9.75,
     "lines": [
       {
-        "text": "ВЕЧЕР НА",
+        "text": "СОСТАВИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИСТЕМУ ОЦЕНИВАНИЯ",
+        "text": "СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.69,
-    "end": 13.08,
+    "start": 9.75,
+    "end": 11.94,
     "lines": [
       {
-        "text": "БАЛЛЫ ТЕРЯЮТСЯ",
+        "text": "ЧТО РЕАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ФОРМУЛИРОВКАХ",
+        "text": "РАБОТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.71,
-    "end": 15.63,
+    "start": 11.94,
+    "end": 14.13,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "text": "А ЧТО ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАШЛА",
+        "text": "КРАСИВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.75,
-    "end": 18.51,
+    "start": 14.13,
+    "end": 17.61,
     "lines": [
       {
-        "text": "ЭКСПЕРТ ПОКАЗЫВАЕТ",
+        "text": "КУРСЫ — ЛИШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ЧТО СНИМАЮТ",
+        "text": "ДОПОЛНЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.07,
-    "end": 22.86,
+    "start": 17.61,
+    "end": 19.26,
     "lines": [
       {
-        "text": "ПОНЯТНЕЕ ЧЕМ",
+        "text": "ОСНОВА —",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОДИЧКИ ФИПИ",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.49,
-    "end": 25.62,
+    "start": 19.26,
+    "end": 22.5,
     "lines": [
       {
-        "text": "ДЛЯ ДОЧЕРИ",
+        "text": "КОРОТКИЕ ВИДЕО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛЕЗНЕЕ",
+        "text": "И ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.71,
-    "end": 29.22,
+    "start": 23.88,
+    "end": 26.31,
     "lines": [
       {
-        "text": "ЧЕМ КУРСЫ ЗА",
+        "text": "И ВСЁ ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "35 ТЫСЯЧ",
+        "text": "БЕСПЛАТНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.22,
-    "end": 32.07,
+    "start": 26.31,
+    "end": 30.06,
+    "lines": [
+      {
+        "text": "ДОЧЬ ЗАНИМАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.06,
+    "end": 32.15,
     "lines": [
       {
         "text": "ССЫЛКА",
