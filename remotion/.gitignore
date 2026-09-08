@@ -152,3 +152,10 @@ episodes43/render/
 episodes43_out/
 sources_teatea1/
 asr_teatea1/
+episodes44/*.mp4
+episodes44/*.wav
+episodes44/*.log
+episodes44/render/
+episodes44_out/
+sources_coffee123/
+asr_coffee123/
