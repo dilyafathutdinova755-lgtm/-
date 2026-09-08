@@ -1,130 +1,146 @@
 [
   {
-    "start": 4.5,
-    "end": 5.4,
+    "start": 3.55,
+    "end": 6.35,
     "lines": [
       {
-        "text": "МЕСЯЦ НАЗАД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 5.8,
-    "end": 7.7,
-    "lines": [
-      {
-        "text": "ПОЙМАЛ СЕБЯ",
+        "text": "БУДТО ЦИФРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВРАНЬЕ",
+        "text": "ДЕЛАЮТ ХУЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.75,
-    "end": 9.85,
+    "start": 6.45,
+    "end": 8.75,
     "lines": [
       {
-        "text": "САМ СЕБЕ",
+        "text": "ПРОСТЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЁ РЕЖЕ",
+        "text": "ФАКТОМ ПРОСМОТРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.45,
+    "start": 8.8,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "ЗАСТАВИЛ СЕБЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСМОТРЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.7,
     "end": 13.4,
     "lines": [
       {
-        "text": "КАЛЕНДАРЬ СОКРАЩАЕТСЯ",
+        "text": "ОШИБКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРЕЕ",
+        "text": "КОНКРЕТНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.45,
-    "end": 15.65,
+    "start": 13.5,
+    "end": 16.15,
     "lines": [
       {
-        "text": "ОЧЕРЕДНАЯ",
+        "text": "А НЕ ПРИЗНАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТГОВОРКА",
+        "text": "КРАХА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.7,
-    "end": 17.8,
+    "start": 16.3,
+    "end": 17.55,
     "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕПЕРЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.6,
+    "end": 19.3,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "КАЖДЫЙ ВЕЧЕР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТКРЫЛ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.85,
-    "end": 19.55,
+    "start": 19.35,
+    "end": 20.2,
     "lines": [
       {
-        "text": "ВМЕСТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "САМООБМАНА",
+        "text": "БЕЗ СТРАХА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.6,
-    "end": 22.55,
+    "start": 20.3,
+    "end": 22.85,
     "lines": [
       {
-        "text": "ЧЕСТНО ПОСМОТРЕЛ",
+        "text": "НЕ ВРАГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО МАЯ",
+        "text": "А ИНСТРУМЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.65,
-    "end": 24.76,
+    "start": 22.95,
+    "end": 24.92,
     "lines": [
       {
         "text": "ССЫЛКА",
