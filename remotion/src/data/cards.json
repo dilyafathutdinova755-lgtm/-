@@ -1,106 +1,138 @@
 [
   {
-    "start": 2.64,
-    "end": 6.21,
+    "start": 1.8,
+    "end": 5.67,
     "lines": [
       {
-        "text": "НЕДОСТАТОЧНО",
+        "text": "ОТКРОВЕННО БОЮСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВА",
+        "text": "ОКАЗАТЬСЯ ХУЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.26,
-    "end": 9.15,
+    "start": 6.09,
+    "end": 8.67,
     "lines": [
       {
-        "text": "ПРОВЕРЬ",
+        "text": "ВРОДЕ БЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕБЯ",
+        "text": "ВСЕ УСПЕВАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.27,
-    "end": 11.91,
+    "start": 8.67,
+    "end": 10.92,
     "lines": [
       {
-        "text": "ЗА 10 СЕКУНД",
+        "text": "СОСТАВИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛУ?",
+        "text": "ЧЕК-ЛИСТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.69,
-    "end": 14.67,
+    "start": 10.92,
+    "end": 14.31,
     "lines": [
       {
-        "text": "У МЕНЯ",
+        "text": "ЧТО СНИЖАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕТ",
+        "text": "ТРЕВОГУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.67,
-    "end": 17.67,
+    "start": 14.31,
+    "end": 17.07,
     "lines": [
       {
-        "text": "НАЧАЛА ЛИСТАТЬ",
+        "text": "КОРОТКИЕ СЕССИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИЯ",
+        "text": "А НЕ МАРАФОНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.67,
-    "end": 19.47,
+    "start": 17.07,
+    "end": 20.55,
     "lines": [
       {
-        "text": "НАТКНУЛАСЬ НА",
+        "text": "КОНКРЕТНЫЕ ТЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "А НЕ ВСЁ СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.47,
-    "end": 21.63,
+    "start": 20.55,
+    "end": 23.52,
     "lines": [
       {
-        "text": "БЫСТРЫЕ ТЕСТЫ",
+        "text": "ОБРАТНАЯ СВЯЗЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ ТИШИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.52,
+    "end": 26.67,
+    "lines": [
+      {
+        "text": "ЗАКРЫЛ СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "3 ПУНКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.67,
+    "end": 28.41,
+    "lines": [
+      {
+        "text": "ВИДЕО-РАЗБОРЫ",
         "accent": false,
         "size": "small"
       },
@@ -112,88 +144,104 @@
     ]
   },
   {
-    "start": 21.63,
-    "end": 24.24,
+    "start": 28.41,
+    "end": 31.38,
     "lines": [
       {
-        "text": "СРАЗУ ВИДНО",
+        "text": "ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ХРОМАЕТ",
+        "text": "ЗАКРЕПЛЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.24,
-    "end": 25.71,
+    "start": 31.38,
+    "end": 33.33,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "ПОНЯТНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖЕТСЯ",
+        "text": "ПРОГРЕСС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.71,
-    "end": 28.44,
+    "start": 33.33,
+    "end": 34.47,
     "lines": [
       {
-        "text": "ИГРОВОЙ ФОРМАТ",
+        "text": "СТАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНИМАЕТ ТРЕВОГУ",
+        "text": "СПОКОЙНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.44,
-    "end": 31.17,
+    "start": 34.47,
+    "end": 36.96,
     "lines": [
       {
-        "text": "НЕ БОИШЬСЯ",
+        "text": "НЕ ПОТОМУ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБИТЬСЯ",
+        "text": "ПРОЩЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.17,
-    "end": 32.76,
+    "start": 36.96,
+    "end": 39.9,
     "lines": [
       {
-        "text": "ЭТО НЕ ЭКЗАМЕН",
+        "text": "А ПОТОМУ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А ТРЕНИРОВКА",
+        "text": "СТРУКТУРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.76,
-    "end": 36.06,
+    "start": 39.9,
+    "end": 40.89,
+    "lines": [
+      {
+        "text": "ПОЛНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 40.89,
+    "end": 43.2,
     "lines": [
       {
         "text": "ССЫЛКА",
