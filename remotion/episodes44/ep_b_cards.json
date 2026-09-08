@@ -1,79 +1,79 @@
 [
   {
     "start": 2.6,
-    "end": 4.5,
+    "end": 3.6,
     "lines": [
       {
-        "text": "ПЕРЕСЕКЛИСЬ",
+        "text": "СТРЕСС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ДАТАМ",
+        "text": "ПЕРЕД ОЛИМПИАДОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.2,
-    "end": 7.1,
+    "start": 4.0,
+    "end": 6.1,
     "lines": [
       {
-        "text": "ИДТИ ИЛИ",
+        "text": "ОКАЗАЛИСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПУСТИТЬ",
+        "text": "РАЗНЫМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.3,
-    "end": 8.2,
+    "start": 6.75,
+    "end": 8.75,
     "lines": [
       {
-        "text": "ДАЛОСЬ",
+        "text": "ЗАМЕТИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕПРОСТО",
+        "text": "НА ЭТОЙ НЕДЕЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.4,
-    "end": 9.45,
+    "start": 8.9,
+    "end": 10.95,
     "lines": [
       {
-        "text": "ПРИ ТЕКУЩЕЙ",
+        "text": "ПАРАЛЛЕЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАГРУЗКЕ",
+        "text": "К ОБОИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.3,
-    "end": 11.65,
+    "start": 11.65,
+    "end": 12.6,
     "lines": [
       {
-        "text": "ВЗВЕСИЛА",
+        "text": "ПЕРЕД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАНСЫ",
+        "text": "ОЛИМПИАДОЙ",
         "accent": true,
         "size": "big"
       }
@@ -81,135 +81,119 @@
   },
   {
     "start": 12.65,
-    "end": 14.4,
+    "end": 14.1,
     "lines": [
       {
-        "text": "ПРОТИВ",
+        "text": "ВОЛНЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЕНИ",
+        "text": "АЗАРТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.6,
-    "end": 16.5,
+    "start": 14.75,
+    "end": 17.1,
     "lines": [
       {
-        "text": "БАЗА",
+        "text": "ПРЕДВКУШЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОД ЕГЭ",
+        "text": "ЗАДАЧИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.3,
-    "end": 18.1,
+    "start": 19.6,
+    "end": 20.55,
     "lines": [
       {
-        "text": "РЕШИЛА",
+        "text": "СКОРЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЙТИ",
+        "text": "ДАВЛЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.6,
-    "end": 19.5,
+    "start": 20.65,
+    "end": 22.2,
     "lines": [
       {
-        "text": "НО",
+        "text": "ФОРМАЛЬНОСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОКРАТИТЬ",
+        "text": "ИТОГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.55,
-    "end": 20.45,
+    "start": 22.2,
+    "end": 23.45,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "ДЛЯ ПОСТУПЛЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "В ЦЕЛОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.5,
-    "end": 21.95,
+    "start": 24.55,
+    "end": 27.05,
     "lines": [
       {
-        "text": "НА ЭТУ НЕДЕЛЮ",
+        "text": "РАЗНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО МИНИМУМА",
+        "text": "ОТНОШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.15,
-    "end": 23.0,
+    "start": 27.5,
+    "end": 29.95,
     "lines": [
       {
-        "text": "РАДИ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАЛАНСА",
+        "text": "И ИНТЕНСИВЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.7,
-    "end": 26.45,
-    "lines": [
-      {
-        "text": "НЕ ВСЕГДА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДИНАКОВО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.6,
-    "end": 29.674,
+    "start": 30.9,
+    "end": 32.789,
     "lines": [
       {
         "text": "ССЫЛКА",
