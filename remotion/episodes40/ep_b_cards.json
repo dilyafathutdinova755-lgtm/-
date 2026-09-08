@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.8,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ОТКРОВЕННО БОЮСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОКАЗАТЬСЯ ХУЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.09,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "ВРОДЕ БЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕ УСПЕВАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 10.92,
+    "lines": [
+      {
+        "text": "СОСТАВИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕК-ЛИСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.92,
+    "end": 14.31,
+    "lines": [
+      {
+        "text": "ЧТО СНИЖАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕВОГУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.31,
+    "end": 17.07,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ СЕССИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ МАРАФОНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.07,
+    "end": 20.55,
+    "lines": [
+      {
+        "text": "КОНКРЕТНЫЕ ТЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ ВСЁ СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.55,
+    "end": 23.52,
+    "lines": [
+      {
+        "text": "ОБРАТНАЯ СВЯЗЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ ТИШИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.52,
+    "end": 26.67,
+    "lines": [
+      {
+        "text": "ЗАКРЫЛ СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "3 ПУНКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.67,
+    "end": 28.41,
+    "lines": [
+      {
+        "text": "ВИДЕО-РАЗБОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ТЕМАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.41,
+    "end": 31.38,
+    "lines": [
+      {
+        "text": "ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.38,
+    "end": 33.33,
+    "lines": [
+      {
+        "text": "ПОНЯТНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОГРЕСС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.33,
+    "end": 34.47,
+    "lines": [
+      {
+        "text": "СТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОКОЙНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.47,
+    "end": 36.96,
+    "lines": [
+      {
+        "text": "НЕ ПОТОМУ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЩЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 36.96,
+    "end": 39.9,
+    "lines": [
+      {
+        "text": "А ПОТОМУ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРУКТУРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 39.9,
+    "end": 40.89,
+    "lines": [
+      {
+        "text": "ПОЛНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 40.89,
+    "end": 43.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
