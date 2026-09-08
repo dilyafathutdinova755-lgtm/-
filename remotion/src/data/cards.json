@@ -1,154 +1,74 @@
 [
   {
-    "start": 1.74,
-    "end": 5.13,
+    "start": 0.46,
+    "end": 3.82,
     "lines": [
       {
-        "text": "ЕГЭ НА",
+        "text": "ПЛАНИРУЮ СДАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫСОКИЙ БАЛЛ",
+        "text": "НА ТОПОВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.13,
-    "end": 7.8,
+    "start": 3.82,
+    "end": 7.69,
     "lines": [
       {
-        "text": "ИНАЧЕ ЧЕМ",
+        "text": "С ЗАПАСОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОКЛАССНИКИ",
+        "text": "А НЕ ВПРИТЫК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 10.02,
+    "start": 7.69,
+    "end": 9.91,
     "lines": [
       {
-        "text": "ПЕРЕСТАЛА ЧИТАТЬ",
+        "text": "ВЕДУ ОТДЕЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЩИЕ СБОРНИКИ",
+        "text": "СПИСОК СЛАБЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.02,
-    "end": 13.41,
+    "start": 9.91,
+    "end": 12.52,
     "lines": [
       {
-        "text": "ТОЧЕЧНАЯ РАБОТА",
+        "text": "ОБНОВЛЯЮ ЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ОШИБКАМИ",
+        "text": "КАЖДУЮ НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.41,
-    "end": 17.16,
+    "start": 12.52,
+    "end": 15.52,
     "lines": [
       {
-        "text": "ГДЕ СРЕЗАЮТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДАЖЕ СИЛЬНЫЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.24,
-    "end": 20.22,
-    "lines": [
-      {
-        "text": "УЧЕНИКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕГЭ ТРЕНАЖЁР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.22,
-    "end": 22.86,
-    "lines": [
-      {
-        "text": "РЕАЛЬНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОМОГ С ЭТИМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.86,
-    "end": 26.37,
-    "lines": [
-      {
-        "text": "ВИДЕОРАЗБОРЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛОГИКА ОЦЕНКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.37,
-    "end": 29.79,
-    "lines": [
-      {
-        "text": "ВИДНО КАЖДЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЮАНС",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.79,
-    "end": 32.34,
-    "lines": [
-      {
-        "text": "ДОБИРАЕШЬ",
+        "text": "ГДЕ ТЕРЯЮ",
         "accent": false,
         "size": "small"
       },
@@ -160,24 +80,88 @@
     ]
   },
   {
-    "start": 32.34,
-    "end": 33.75,
+    "start": 15.52,
+    "end": 18.55,
     "lines": [
       {
-        "text": "НА",
+        "text": "ФОРМУЛИРОВКИ ГДЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЛОЧАХ",
+        "text": "ЛЕГКО ОШИБИТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 33.75,
-    "end": 36.84,
+    "start": 18.55,
+    "end": 20.68,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "СТАЛ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 20.68,
+    "end": 22.57,
+    "lines": [
+      {
+        "text": "ИНСТРУМЕНТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ТОЧНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.57,
+    "end": 25.99,
+    "lines": [
+      {
+        "text": "ЗАКРЫВАЮТ ИМЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕ ПРОБЕЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.99,
+    "end": 28.72,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ Я НАХОЖУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В СВОЁМ СПИСКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.72,
+    "end": 31.42,
     "lines": [
       {
         "text": "ССЫЛКА",
