@@ -1,135 +1,151 @@
 [
   {
-    "start": 3.95,
-    "end": 5.55,
+    "start": 2.4,
+    "end": 4.5,
     "lines": [
       {
-        "text": "СРАВНИЛА",
+        "text": "СЫН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКУ",
+        "text": "СПОКОЙНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.65,
-    "end": 7.9,
+    "start": 5.55,
+    "end": 6.9,
     "lines": [
       {
-        "text": "ПЕРВАЯ И",
+        "text": "ЕЩЁ МЕСЯЦ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКУЩАЯ НЕДЕЛЯ",
+        "text": "НАЗАД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.15,
-    "end": 9.65,
+    "start": 6.95,
+    "end": 8.9,
     "lines": [
       {
-        "text": "СПЕЦИАЛЬНО",
+        "text": "ЛЮБОЙ ВОПРОС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАБЛЮДЕНИЕ",
+        "text": "РАЗДРАЖАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.65,
-    "end": 11.8,
+    "start": 8.95,
+    "end": 10.1,
     "lines": [
       {
-        "text": "В НАЧАЛЕ",
+        "text": "И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРЯЛАСЬ",
+        "text": "КОРОТКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.9,
-    "end": 13.1,
+    "start": 10.5,
+    "end": 11.55,
     "lines": [
       {
-        "text": "В МЕЛКИХ",
+        "text": "РАЗНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕТАЛЯХ",
+        "text": "ПОЯВИЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.5,
-    "end": 15.3,
+    "start": 11.6,
+    "end": 14.2,
     "lines": [
       {
-        "text": "КАЖДОЕ ТРЕТЬЕ",
+        "text": "ПЕРЕСТАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "СПРАШИВАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.35,
-    "end": 18.3,
+    "start": 14.85,
+    "end": 16.7,
     "lines": [
       {
-        "text": "СЕЙЧАС",
+        "text": "ПАРУ РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЖЕ",
+        "text": "В НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.75,
-    "end": 22.15,
+    "start": 17.05,
+    "end": 19.65,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "МЕНЬШЕ ВОПРОСОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСИЛИЙ",
+        "text": "БОЛЬШЕ ОТКРЫТОСТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.85,
-    "end": 23.9,
+    "start": 19.9,
+    "end": 21.85,
+    "lines": [
+      {
+        "text": "СТРАННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПЕРВЫЙ ВЗГЛЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.25,
+    "end": 23.25,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -144,40 +160,24 @@
     ]
   },
   {
-    "start": 23.95,
-    "end": 25.35,
+    "start": 23.3,
+    "end": 24.98,
     "lines": [
       {
-        "text": "ПРОГРЕСС",
+        "text": "ОСТАЛЬНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ФОКУСУ",
+        "text": "СПОКОЙНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.45,
-    "end": 26.9,
-    "lines": [
-      {
-        "text": "ВИДЕН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТДЕЛЬНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.2,
-    "end": 30.14,
+    "start": 25.3,
+    "end": 27.29,
     "lines": [
       {
         "text": "ССЫЛКА",
