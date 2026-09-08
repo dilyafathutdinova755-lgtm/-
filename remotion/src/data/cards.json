@@ -1,183 +1,167 @@
 [
   {
-    "start": 2.6,
-    "end": 3.7,
+    "start": 2.35,
+    "end": 3.6,
     "lines": [
       {
-        "text": "ДЛЯ ПЕРЕХОДА",
+        "text": "СЫН РЕЗКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАЛЬШЕ",
+        "text": "УСКОРИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.95,
+    "start": 3.75,
     "end": 5.0,
     "lines": [
       {
-        "text": "ПО ТРЁМ",
+        "text": "БЕЗ ВИДИМОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЗНАКАМ",
+        "text": "ПРИЧИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.3,
-    "end": 6.5,
+    "start": 5.6,
+    "end": 7.45,
     "lines": [
       {
-        "text": "ВЫВЕЛА",
+        "text": "ЗАНИМАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ СЕБЯ",
+        "text": "ДОЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.55,
-    "end": 8.1,
+    "start": 7.5,
+    "end": 8.7,
     "lines": [
       {
-        "text": "МЕТОДОМ ПРОБ",
+        "text": "КАЖДЫЙ ВЕЧЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ЭТО ВРЕМЯ",
+        "text": "ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.05,
-    "end": 10.65,
+    "start": 9.2,
+    "end": 10.9,
     "lines": [
       {
-        "text": "РЕШАЯ",
+        "text": "ПЕРВАЯ МЫСЛЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "РАДОСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.85,
+    "start": 11.0,
     "end": 12.6,
     "lines": [
       {
-        "text": "БЕЗ ОШИБОК",
+        "text": "ВТОРАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЯТЬ РАЗ ПОДРЯД",
+        "text": "ТРЕВОГА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 13.7,
+    "start": 12.8,
+    "end": 14.5,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "СТРАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСКЛЮЧЕНИЙ",
+        "text": "ВЫГОРАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.2,
-    "end": 16.1,
+    "start": 14.6,
+    "end": 16.35,
     "lines": [
       {
-        "text": "МОГУ",
+        "text": "РЫВОК ВПЕРЁД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИТЬ",
+        "text": "ПОСМОТРЕЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.3,
-    "end": 17.8,
+    "start": 16.45,
+    "end": 17.6,
     "lines": [
       {
-        "text": "БЕЗ КОНСПЕКТА",
+        "text": "ВНИМАТЕЛЬНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ГОЛОВЕ",
+        "text": "ПОНЯЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.0,
-    "end": 20.9,
+    "start": 17.9,
+    "end": 19.65,
     "lines": [
       {
-        "text": "ВООБЩЕ НЕ",
+        "text": "ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЮ",
+        "text": "УВЛЁКСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.1,
-    "end": 22.95,
-    "lines": [
-      {
-        "text": "ПРИ БЫСТРОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТАЙМЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.5,
-    "end": 24.5,
+    "start": 19.75,
+    "end": 20.6,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -192,24 +176,40 @@
     ]
   },
   {
-    "start": 24.7,
-    "end": 27.35,
+    "start": 20.9,
+    "end": 22.8,
     "lines": [
       {
-        "text": "ВСЕ ТРИ ПУНКТА",
+        "text": "НЕ ГОНИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯЮ",
+        "text": "ЗА ЦИФРАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.4,
-    "end": 30.23,
+    "start": 23.2,
+    "end": 25.35,
+    "lines": [
+      {
+        "text": "РАЗНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОТИВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.7,
+    "end": 27.67,
     "lines": [
       {
         "text": "ССЫЛКА",
