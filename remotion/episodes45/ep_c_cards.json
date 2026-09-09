@@ -1,0 +1,162 @@
+[
+  {
+    "start": 0.57,
+    "end": 2.94,
+    "lines": [
+      {
+        "text": "РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТСЛЕЖИВАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.94,
+    "end": 4.62,
+    "lines": [
+      {
+        "text": "НЕ НА СЛОВАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А ПО ЦИФРАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.62,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "ЗАВЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 9.87,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ МЕСЯЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕСТНАЯ КАРТИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "ГДЕ РОСТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А ГДЕ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 15.45,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "ВСТРОИЛСЯ В СИСТЕМУ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.45,
+    "end": 17.22,
+    "lines": [
+      {
+        "text": "ПОСЛЕ ТЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ТЕСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 20.52,
+    "lines": [
+      {
+        "text": "БЕЗ МОИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОМЫСЛОВ И СПОРОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.52,
+    "end": 21.96,
+    "lines": [
+      {
+        "text": "Я ВСЁ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.96,
+    "end": 24.79,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "start": 0.75,
+    "end": 4.05,
+    "lines": [
+      {
+        "text": "ЕГЭ КАЖДЫЙ ГОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.05,
+    "end": 6.66,
+    "lines": [
+      {
+        "text": "СЛОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСЛЕДИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.98,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "СВЕРИЛА ФОРМАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ТЕКУЩИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.25,
+    "end": 13.89,
+    "lines": [
+      {
+        "text": "РАЗНИЦА ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И НЕ ОЧЕВИДНАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 17.04,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ ОБНОВЛЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.04,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "СРАЗУ ВИДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ЛОГИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.05,
+    "end": 21.15,
+    "lines": [
+      {
+        "text": "ОЦЕНИВАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМЕСТИЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.15,
+    "end": 22.89,
+    "lines": [
+      {
+        "text": "СНЯЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛАВНЫЙ СТРАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.89,
+    "end": 25.53,
+    "lines": [
+      {
+        "text": "ГОТОВИТЬСЯ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСТАРЕВШЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.53,
+    "end": 28.53,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

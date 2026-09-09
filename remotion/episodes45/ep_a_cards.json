@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.22,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "СНАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА РЕПЕТИТОРОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 6.39,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ МЕСЯЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСМОТРЕЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.39,
+    "end": 8.73,
+    "lines": [
+      {
+        "text": "ЧИТАЛА ОТЗЫВЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОДИТЕЛЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 10.77,
+    "lines": [
+      {
+        "text": "ПОЛОВИНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЖАЛУЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.77,
+    "end": 13.47,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЦЕНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.47,
+    "end": 16.23,
+    "lines": [
+      {
+        "text": "ОДИН РЕПЕТИТОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ПРОФИЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.23,
+    "end": 18.87,
+    "lines": [
+      {
+        "text": "ОСТАЛЬНОЕ ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.87,
+    "end": 21.9,
+    "lines": [
+      {
+        "text": "ВИДЕОРАЗБОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.9,
+    "end": 24.39,
+    "lines": [
+      {
+        "text": "РАЗНИЦА В БЮДЖЕТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЩУТИМАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.39,
+    "end": 28.35,
+    "lines": [
+      {
+        "text": "ПРОГРЕСС НЕ ХУЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ У ОДНОКЛАССНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.35,
+    "end": 31.23,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

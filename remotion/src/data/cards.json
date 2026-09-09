@@ -1,311 +1,151 @@
 [
   {
-    "start": 3.69,
-    "end": 6.63,
+    "start": 0.57,
+    "end": 2.94,
     "lines": [
       {
-        "text": "ОСТАЛОСЬ 300",
+        "text": "РЕШИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАЛОСЬ 250",
+        "text": "ОТСЛЕЖИВАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.26,
-    "end": 10.44,
+    "start": 2.94,
+    "end": 4.62,
     "lines": [
       {
-        "text": "КАК РАКЕТА",
+        "text": "НЕ НА СЛОВАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К ЗАПУСКУ",
+        "text": "А ПО ЦИФРАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.44,
-    "end": 14.04,
+    "start": 4.62,
+    "end": 7.65,
     "lines": [
       {
-        "text": "ЦИФРЫ ТОЛЬКО",
+        "text": "ЗАВЕЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕСЯТ",
+        "text": "ТАБЛИЦУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.04,
-    "end": 15.33,
+    "start": 7.65,
+    "end": 9.87,
     "lines": [
       {
-        "text": "ВМЕСТО ПОДСЧЁТА",
+        "text": "ЧЕРЕЗ МЕСЯЦ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДНЕЙ",
+        "text": "ЧЕСТНАЯ КАРТИНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 18.63,
+    "start": 9.87,
+    "end": 12.72,
     "lines": [
       {
-        "text": "ПРОСТО ОТКРЫВАЮ",
+        "text": "ГДЕ РОСТ",
         "accent": false,
         "size": "small"
       },
+      {
+        "text": "А ГДЕ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 15.45,
+    "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
+      },
+      {
+        "text": "ВСТРОИЛСЯ В СИСТЕМУ",
+        "accent": false,
+        "size": "small"
       }
     ]
   },
   {
-    "start": 18.63,
-    "end": 21.78,
+    "start": 15.45,
+    "end": 17.22,
     "lines": [
       {
-        "text": "КОРОТКИЕ ВИДЕО",
+        "text": "ПОСЛЕ ТЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ДРАМЫ",
+        "text": "ЕСТЬ ТЕСТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.78,
-    "end": 24.06,
+    "start": 17.22,
+    "end": 20.52,
     "lines": [
       {
-        "text": "БЕЗ ТАЙМЕРА",
+        "text": "БЕЗ МОИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЭКРАНЕ",
+        "text": "ДОМЫСЛОВ И СПОРОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.06,
-    "end": 27.0,
+    "start": 20.52,
+    "end": 21.96,
     "lines": [
       {
-        "text": "СПОКОЙНЕЕ",
+        "text": "Я ВСЁ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕМ ЛЮБОЙ ТАЙМЕР",
+        "text": "ЗНАЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.68,
-    "end": 31.77,
-    "lines": [
-      {
-        "text": "ГОТОВИТЬСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ ПАНИКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 31.77,
-    "end": 34.17,
-    "lines": [
-      {
-        "text": "ПРЕВРАТИЛСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В СОРЕВНОВАНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 34.17,
-    "end": 37.77,
-    "lines": [
-      {
-        "text": "КТО ПЕРВЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЫЛОЖИТ СКРИН",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 37.77,
-    "end": 40.23,
-    "lines": [
-      {
-        "text": "ЭТО РЕАЛЬНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТОКСИЧНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 40.23,
-    "end": 42.09,
-    "lines": [
-      {
-        "text": "Я",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИНЦИПИАЛЬНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 42.09,
-    "end": 44.4,
-    "lines": [
-      {
-        "text": "НЕ СРАВНИВАЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕЗУЛЬТАТЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 44.4,
-    "end": 47.82,
-    "lines": [
-      {
-        "text": "ЭТО ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОРТИТ НАСТРОЕНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 47.82,
-    "end": 50.91,
-    "lines": [
-      {
-        "text": "ДЕРЖИТ ФОКУС",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕГЭ ТРЕНАЖЁР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 50.91,
-    "end": 53.01,
-    "lines": [
-      {
-        "text": "ВИДЕОРАЗБОРЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "И ИГРЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 53.01,
-    "end": 56.34,
-    "lines": [
-      {
-        "text": "НИКАКИХ РЕЙТИНГОВ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "И СРАВНЕНИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 56.34,
-    "end": 58.98,
-    "lines": [
-      {
-        "text": "ЧЕСТНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТАК СПОКОЙНЕЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 58.98,
-    "end": 62.38,
+    "start": 21.96,
+    "end": 24.79,
     "lines": [
       {
         "text": "ССЫЛКА",
