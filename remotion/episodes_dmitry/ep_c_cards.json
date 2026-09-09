@@ -1,0 +1,46 @@
+[
+  { "start": 3.15, "end": 4.86, "lines": [
+    { "text": "С ПОЛНЫМ ПЕРЕЧНЕМ", "accent": false, "size": "small" },
+    { "text": "НОМЕРОВ ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.10, "end": 7.38, "lines": [
+    { "text": "И КОДИФИКАТОРОВ", "accent": false, "size": "small" },
+    { "text": "ПО ОДНОМУ ПРЕДМЕТУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.92, "end": 9.54, "lines": [
+    { "text": "НЕ ХВАТАЛО", "accent": false, "size": "small" },
+    { "text": "НИ ОДНОГО НОМЕРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.11, "end": 12.72, "lines": [
+    { "text": "ВСЕ 18 ЗАДАНИЙ", "accent": false, "size": "small" },
+    { "text": "ЗАКРЫТО ТЕМАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.23, "end": 15.42, "lines": [
+    { "text": "С ВИДЕО", "accent": false, "size": "small" },
+    { "text": "ДЛЯ РОДИТЕЛЯ РАЦИОНАЛИСТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.81, "end": 18.78, "lines": [
+    { "text": "ЭТО ВАЖНЕЕ", "accent": false, "size": "small" },
+    { "text": "ОБЩИХ СЛОВ О ПОЛНОТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.89, "end": 22.35, "lines": [
+    { "text": "ОТМЕТИЛ В ТАБЛИЦЕ", "accent": false, "size": "small" },
+    { "text": "КАЖДУЮ ТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.71, "end": 24.54, "lines": [
+    { "text": "ГАЛОЧКОЙ", "accent": false, "size": "small" },
+    { "text": "А НЕ ПОВЕРИЛ НА СЛОВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.05, "end": 26.46, "lines": [
+    { "text": "ПОЛНОЕ ПОКРЫТИЕ", "accent": false, "size": "small" },
+    { "text": "КОДИФИКАТОРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.58, "end": 29.61, "lines": [
+    { "text": "РЕШАЮЩИЙ АРГУМЕНТ", "accent": false, "size": "small" },
+    { "text": "ПРИ ВЫБОРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.57, "end": 32.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
