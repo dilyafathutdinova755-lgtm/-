@@ -8,36 +8,36 @@ YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
-Style: Card,Golos Text Black,112,&H00FFFFFF&,&H00FFFFFF&,&H00101010&,&H80000000&,0,0,0,0,100,100,1,0,1,4,3,5,70,70,0,204
+Style: Card,Golos Text Black,90,&H00FFFFFF&,&H00FFFFFF&,&H00101010&,&H80000000&,0,0,0,0,100,100,1,0,1,4,3,5,70,70,0,204
 Style: Run,PT Sans Narrow,42,&H00FFFFFF&,&H00FFFFFF&,&H00000000&,&HB0000000&,0,0,0,0,100,100,0,0,1,0,3,5,70,70,0,204
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:00.00,0:00:02.20,Card,,0,0,0,,{\an5\pos(540,1217)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs97\c&H00AAF5FC&}БЕЗ РЕПЕТИТОРА{\r}
-Dialogue: 1,0:00:00.00,0:00:02.20,Card,,0,0,0,,{\an5\pos(540,1283)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs51\c&H00AAF5FC&}МОЖНО ОБОГНАТЬ?{\r}
-Dialogue: 1,0:00:02.20,0:00:04.70,Card,,0,0,0,,{\an5\pos(540,1191)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs51\c&H00FFFFFF&\bord4\3c&H00101010&}ОБОГНАЛ{\r}
-Dialogue: 1,0:00:02.20,0:00:04.70,Card,,0,0,0,,{\an5\pos(540,1262)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs51\c&H00FFFFFF&\bord4\3c&H00101010&}С {\fs107\c&H00015DFD&\bord6\3c&H00015DFD&}РЕПЕТИТОРОМ{\r}
-Dialogue: 1,0:00:04.70,0:00:07.58,Card,,0,0,0,,{\an5\pos(540,1189)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs53\c&H00FFFFFF&\bord4\3c&H00101010&}ЗАНИМАЛСЯ ТОЛЬКО{\r}
-Dialogue: 1,0:00:04.70,0:00:07.58,Card,,0,0,0,,{\an5\pos(540,1263)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs113\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}ЕГЭ ТРЕНАЖЁР{\r}
-Dialogue: 1,0:00:07.58,0:00:10.62,Card,,0,0,0,,{\an5\pos(540,1196)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs48\c&H00FFFFFF&\bord4\3c&H00101010&}ОН ХОДИЛ{\r}
-Dialogue: 1,0:00:07.58,0:00:10.62,Card,,0,0,0,,{\an5\pos(540,1261)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs97\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}2 РАЗА В НЕДЕЛЮ{\r}
-Dialogue: 1,0:00:10.62,0:00:13.48,Card,,0,0,0,,{\an5\pos(540,1184)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs56\c&H00FFFFFF&\bord4\3c&H00101010&}Я ПРОСТО ОТКРЫВАЛ{\r}
-Dialogue: 1,0:00:10.62,0:00:13.48,Card,,0,0,0,,{\an5\pos(540,1265)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs123\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}15 МИНУТ{\r}
-Dialogue: 1,0:00:13.48,0:00:14.60,Card,,0,0,0,,{\an5\pos(540,1240)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs94\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}БЕЗ РАСПИСАНИЯ{\r}
-Dialogue: 1,0:00:14.60,0:00:17.55,Card,,0,0,0,,{\an5\pos(540,1191)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs51\c&H00FFFFFF&\bord4\3c&H00101010&}РЕЗУЛЬТАТ{\r}
-Dialogue: 1,0:00:14.60,0:00:17.55,Card,,0,0,0,,{\an5\pos(540,1262)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs107\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}УДИВИЛ ОБОИХ{\r}
-Dialogue: 1,0:00:17.55,0:00:21.22,Card,,0,0,0,,{\an5\pos(540,1204)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs43\c&H00FFFFFF&\bord4\3c&H00101010&}РАЗНИЦА В ПОЛЬЗУ{\r}
-Dialogue: 1,0:00:17.55,0:00:21.22,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs80\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}КОРОТКИХ ЗАХОДОВ{\r}
-Dialogue: 1,0:00:21.22,0:00:23.68,Card,,0,0,0,,{\an5\pos(540,1240)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs84\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}НИКАКОГО СЕКРЕТА{\r}
-Dialogue: 1,0:00:23.68,0:00:25.92,Card,,0,0,0,,{\an5\pos(540,1193)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs50\c&H00FFFFFF&\bord4\3c&H00101010&}КРОМЕ ТОГО{\r}
-Dialogue: 1,0:00:23.68,0:00:25.92,Card,,0,0,0,,{\an5\pos(540,1262)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs103\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}ЗАХОДИЛ ЧАЩЕ{\r}
-Dialogue: 1,0:00:25.92,0:00:27.71,Card,,0,0,0,,{\an5\pos(540,1240)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs123\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}А НЕ ДОЛЬШЕ{\r}
-Dialogue: 1,0:00:27.71,0:00:30.20,Card,,0,0,0,,{\an5\pos(540,1199)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs46\c&H00FFFFFF&\bord4\3c&H00101010&}СРЕДНИЙ УЧЕНИК{\r}
-Dialogue: 1,0:00:27.71,0:00:30.20,Card,,0,0,0,,{\an5\pos(540,1260)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs90\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}МОЖЕТ ОБОГНАТЬ{\r}
-Dialogue: 1,0:00:30.20,0:00:32.60,Card,,0,0,0,,{\an5\pos(540,1193)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs50\c&H00FFFFFF&\bord4\3c&H00101010&}ТОГО КТО{\r}
-Dialogue: 1,0:00:30.20,0:00:32.60,Card,,0,0,0,,{\an5\pos(540,1262)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs103\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}С РЕПЕТИТОРОМ{\r}
-Dialogue: 1,0:00:32.60,0:00:34.86,Card,,0,0,0,,{\an5\pos(540,1214)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs123\c&H00AAF5FC&\bord6\3c&H00AAF5FC&}ССЫЛКА{\r}
-Dialogue: 1,0:00:32.60,0:00:34.86,Card,,0,0,0,,{\an5\pos(540,1295)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs56\c&H00FFFFFF&\bord4\3c&H00101010&}в шапке профиля{\r}
+Dialogue: 1,0:00:00.00,0:00:02.20,Card,,0,0,0,,{\an5\pos(540,1220)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs90\c&H00AAF5FC&}БЕЗ РЕПЕТИТОРА{\r}
+Dialogue: 1,0:00:00.00,0:00:02.20,Card,,0,0,0,,{\an5\pos(540,1280)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00AAF5FC&}МОЖНО ОБОГНАТЬ?{\r}
+Dialogue: 1,0:00:02.20,0:00:04.70,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}ОБОГНАЛ{\r}
+Dialogue: 1,0:00:02.20,0:00:04.70,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}С {\fs99\c&H00015DFD&\bord3\3c&H00101010&}РЕПЕТИТОРОМ{\r}
+Dialogue: 1,0:00:04.70,0:00:07.58,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}ЗАНИМАЛСЯ ТОЛЬКО{\r}
+Dialogue: 1,0:00:04.70,0:00:07.58,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}ЕГЭ ТРЕНАЖЁР{\r}
+Dialogue: 1,0:00:07.58,0:00:10.62,Card,,0,0,0,,{\an5\pos(540,1196)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs43\c&H00FFFFFF&\bord4\3c&H00101010&}ОН ХОДИЛ{\r}
+Dialogue: 1,0:00:07.58,0:00:10.62,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs96\c&H00AAF5FC&\bord3\3c&H00101010&}2 РАЗА В НЕДЕЛЮ{\r}
+Dialogue: 1,0:00:10.62,0:00:13.48,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}Я ПРОСТО ОТКРЫВАЛ{\r}
+Dialogue: 1,0:00:10.62,0:00:13.48,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}15 МИНУТ{\r}
+Dialogue: 1,0:00:13.48,0:00:14.60,Card,,0,0,0,,{\an5\pos(540,1240)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs96\c&H00AAF5FC&\bord3\3c&H00101010&}БЕЗ РАСПИСАНИЯ{\r}
+Dialogue: 1,0:00:14.60,0:00:17.55,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}РЕЗУЛЬТАТ{\r}
+Dialogue: 1,0:00:14.60,0:00:17.55,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}УДИВИЛ ОБОИХ{\r}
+Dialogue: 1,0:00:17.55,0:00:21.22,Card,,0,0,0,,{\an5\pos(540,1204)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs38\c&H00FFFFFF&\bord4\3c&H00101010&}РАЗНИЦА В ПОЛЬЗУ{\r}
+Dialogue: 1,0:00:17.55,0:00:21.22,Card,,0,0,0,,{\an5\pos(540,1257)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs79\c&H00AAF5FC&\bord3\3c&H00101010&}КОРОТКИХ ЗАХОДОВ{\r}
+Dialogue: 1,0:00:21.22,0:00:23.68,Card,,0,0,0,,{\an5\pos(540,1240)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs82\c&H00AAF5FC&\bord3\3c&H00101010&}НИКАКОГО СЕКРЕТА{\r}
+Dialogue: 1,0:00:23.68,0:00:25.92,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}КРОМЕ ТОГО{\r}
+Dialogue: 1,0:00:23.68,0:00:25.92,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}ЗАХОДИЛ ЧАЩЕ{\r}
+Dialogue: 1,0:00:25.92,0:00:27.71,Card,,0,0,0,,{\an5\pos(540,1240)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}А НЕ ДОЛЬШЕ{\r}
+Dialogue: 1,0:00:27.71,0:00:30.20,Card,,0,0,0,,{\an5\pos(540,1198)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs42\c&H00FFFFFF&\bord4\3c&H00101010&}СРЕДНИЙ УЧЕНИК{\r}
+Dialogue: 1,0:00:27.71,0:00:30.20,Card,,0,0,0,,{\an5\pos(540,1258)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs92\c&H00AAF5FC&\bord3\3c&H00101010&}МОЖЕТ ОБОГНАТЬ{\r}
+Dialogue: 1,0:00:30.20,0:00:32.60,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}ТОГО КТО{\r}
+Dialogue: 1,0:00:30.20,0:00:32.60,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}С РЕПЕТИТОРОМ{\r}
+Dialogue: 1,0:00:32.60,0:00:34.86,Card,,0,0,0,,{\an5\pos(540,1220)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00AAF5FC&\bord3\3c&H00101010&}ССЫЛКА{\r}
+Dialogue: 1,0:00:32.60,0:00:34.86,Card,,0,0,0,,{\an5\pos(540,1284)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}в шапке профиля{\r}
 Dialogue: 0,0:00:00.00,0:00:00.68,Run,,0,0,0,,{\an5\pos(540,300)}обогнал
 Dialogue: 0,0:00:00.68,0:00:00.84,Run,,0,0,0,,{\an5\pos(540,300)}по
 Dialogue: 0,0:00:00.84,0:00:01.28,Run,,0,0,0,,{\an5\pos(540,300)}балам

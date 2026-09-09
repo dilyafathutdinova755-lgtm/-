@@ -14,7 +14,7 @@ F_BODY = "PT Sans Narrow"
 
 SIDE = 70
 CARD_MID = 1240          # центр полосы 55-75% (1056..1440)
-MAIN_PX, SMALL_PX, RUN_PX = 112, 56, 42
+MAIN_PX, SMALL_PX, RUN_PX = 90, 44, 42
 LINE_H = 0.90
 ACCENT_BOOST = 1.10       # accent-строка крупнее белой на 10%
 SLOT_RUN = (W // 2, 300)
@@ -77,8 +77,10 @@ def _render_block(lines, mp, sp, force_all_accent=False):
             tag = f"{{\\fs{size}\\c{color}}}"
             if not force_all_accent and _run_boost(c) and k == "main":
                 bsize = round(size * ACCENT_BOOST)
-                # своя обводка акцентным/оранжевым цветом поверх дефолтной чёрной
-                tag = f"{{\\fs{bsize}\\c{color}\\bord6\\3c{color}}}"
+                # крупнее белой (§1.4), но тонкая ТЁМНАЯ обводка, не заливка тем же
+                # цветом — прежний bord6 своим же цветом "съедал" буквы, читалось
+                # смазанным пятном, а не текстом (правка после отзыва о чёткости)
+                tag = f"{{\\fs{bsize}\\c{color}\\bord3\\3c&H00101010&}}"
             elif not force_all_accent:
                 tag = f"{{\\fs{size}\\c{color}\\bord4\\3c&H00101010&}}"
             sep = " " if i < len(ln) - 1 else ""
