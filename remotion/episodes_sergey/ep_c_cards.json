@@ -1,0 +1,42 @@
+[
+  { "start": 4.02, "end": 7.56, "lines": [
+    { "text": "СЫН ПЕРЕШЁЛ НА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.07, "end": 9.75, "lines": [
+    { "text": "РАНЬШЕ", "accent": false, "size": "small" },
+    { "text": "ПРИХОДИЛОСЬ ОТПРАШИВАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.93, "end": 12.18, "lines": [
+    { "text": "ПОРАНЬШЕ ЧТОБЫ", "accent": false, "size": "small" },
+    { "text": "ОТВЕСТИ НА ЗАНЯТИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.69, "end": 14.31, "lines": [
+    { "text": "ТЕПЕРЬ ОН", "accent": false, "size": "small" },
+    { "text": "ОТКРЫВАЕТ ТЕМУ САМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.73, "end": 17.01, "lines": [
+    { "text": "ВЕЧЕРОМ", "accent": false, "size": "small" },
+    { "text": "В ЛЮБОЕ ВРЕМЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.79, "end": 19.92, "lines": [
+    { "text": "МНЕ НЕ НУЖНО", "accent": false, "size": "small" },
+    { "text": "СОГЛАСОВЫВАТЬ НИЧЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.10, "end": 22.32, "lines": [
+    { "text": "КРОМЕ ТОГО ЧТО", "accent": false, "size": "small" },
+    { "text": "ОН ОТКРЫЛ ПРИЛОЖЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.10, "end": 24.75, "lines": [
+    { "text": "СВОБОДА", "accent": false, "size": "small" },
+    { "text": "В РАСПИСАНИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.08, "end": 27.60, "lines": [
+    { "text": "ЦЕННЕЕ СЭКОНОМЛЕННЫХ", "accent": false, "size": "small" },
+    { "text": "НА РЕПЕТИТОРЕ ДЕНЕГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.29, "end": 30.51, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

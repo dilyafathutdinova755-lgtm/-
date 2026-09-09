@@ -1,0 +1,46 @@
+[
+  { "start": 2.16, "end": 4.74, "lines": [
+    { "text": "НРАВИТСЯ ЛИ ЕМУ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.37, "end": 7.05, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ПРЕДПОЛОЖИЛ ЗА НЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.56, "end": 11.16, "lines": [
+    { "text": "ОН СКАЗАЛ", "accent": false, "size": "small" },
+    { "text": "ВИДЕО КОМПАКТНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.64, "end": 13.38, "lines": [
+    { "text": "И ЭТО СОВСЕМ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗАНУДНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.04, "end": 17.19, "lines": [
+    { "text": "РАНЬШЕ САМ РЕШАЛ", "accent": false, "size": "small" },
+    { "text": "ЧЕМ ЕМУ ЗАНИМАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.36, "end": 19.74, "lines": [
+    { "text": "ДАЖЕ НЕ", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЯ МНЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.25, "end": 22.35, "lines": [
+    { "text": "ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЮ РАЗ В НЕДЕЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.74, "end": 24.81, "lines": [
+    { "text": "ЧТО ПОНРАВИЛОСЬ", "accent": false, "size": "small" },
+    { "text": "ЧТО БЫЛО СЛОЖНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.35, "end": 27.57, "lines": [
+    { "text": "СЛУШАТЬ СЫНА", "accent": false, "size": "small" },
+    { "text": "ПОЛЕЗНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.93, "end": 30.63, "lines": [
+    { "text": "ЧЕМ КОНТРОЛИРОВАТЬ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ШАГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.41, "end": 34.14, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
