@@ -1,49 +1,45 @@
 [
-  { "start": 2.46, "end": 4.80, "lines": [
-    { "text": "УЧЕБНИК", "accent": false, "size": "small" },
-    { "text": "ДОЛЬШЕ 10 МИНУТ", "accent": true, "size": "big" }
+  { "start": 2.22, "end": 4.98, "lines": [
+    { "text": "РЕАЛЬНО СПАСАЕТ", "accent": false, "size": "small" },
+    { "text": "ТРОЕЧНИКА", "accent": true, "size": "big" }
   ]},
-  { "start": 5.40, "end": 8.82, "lines": [
-    { "text": "ПОКА НЕ ПОПРОБОВАЛ", "accent": false, "size": "small" },
+  { "start": 5.31, "end": 7.02, "lines": [
+    { "text": "НАЗЫВАЕТСЯ", "accent": false, "size": "small" },
     { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 9.72, "end": 12.39, "lines": [
-    { "text": "КОРОТКОЕ ВИДЕО", "accent": false, "size": "small" },
-    { "text": "И СРАЗУ ИГРА", "accent": true, "size": "big" }
+  { "start": 7.77, "end": 10.26, "lines": [
+    { "text": "СИЖУ ПОЧТИ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ВЕЧЕР", "accent": true, "size": "big" }
   ]},
-  { "start": 13.20, "end": 14.61, "lines": [
-    { "text": "А НЕ АБЗАЦ", "accent": false, "size": "small" },
-    { "text": "МЕЛКОГО ТЕКСТА", "accent": true, "size": "big" }
+  { "start": 10.83, "end": 12.78, "lines": [
+    { "text": "КОГДА ЛЕНЬ", "accent": false, "size": "small" },
+    { "text": "ЛИСТАЮ ВИДЕО", "accent": true, "size": "big" }
   ]},
-  { "start": 15.66, "end": 17.43, "lines": [
+  { "start": 13.17, "end": 16.89, "lines": [
+    { "text": "ПО ТЕМАМ", "accent": false, "size": "small" },
+    { "text": "КАК ОБЫЧНУЮ ЛЕНТУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.43, "end": 19.56, "lines": [
+    { "text": "КОГДА ЕСТЬ СИЛЫ", "accent": false, "size": "small" },
+    { "text": "ПРОХОЖУ ПРОБНИК", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.74, "end": 21.12, "lines": [
+    { "text": "СМОТРЮ", "accent": false, "size": "small" },
+    { "text": "ВИДЕОРАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.39, "end": 23.22, "lines": [
+    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "УГАДЫВАЮ ОТВЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.06, "end": 26.94, "lines": [
+    { "text": "НИКАКОГО ЗАНУДСТВА", "accent": false, "size": "small" },
+    { "text": "НИКАКИХ КОНСПЕКТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.60, "end": 29.94, "lines": [
     { "text": "15 МИНУТ", "accent": false, "size": "small" },
-    { "text": "НЕЗАМЕТНО", "accent": true, "size": "big" }
+    { "text": "ВМЕСТО ЛЕНТЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.85, "end": 20.70, "lines": [
-    { "text": "ФОРМАТ НЕ ПОХОЖ", "accent": false, "size": "small" },
-    { "text": "НА ЗАНЯТИЕ", "accent": true, "size": "big" }
-  ]},
-  { "start": 21.72, "end": 23.43, "lines": [
-    { "text": "ЗА МЕСЯЦ", "accent": false, "size": "small" },
-    { "text": "КОРОТКИХ ЗАХОДОВ", "accent": true, "size": "big" }
-  ]},
-  { "start": 24.24, "end": 26.22, "lines": [
-    { "text": "ЗАКРЫЛ", "accent": false, "size": "small" },
-    { "text": "БОЛЬШЕ ТЕМ", "accent": true, "size": "big" }
-  ]},
-  { "start": 26.43, "end": 28.32, "lines": [
-    { "text": "ЧЕМ ЗА ЛЕТО", "accent": false, "size": "small" },
-    { "text": "С КОНСПЕКТОМ", "accent": true, "size": "big" }
-  ]},
-  { "start": 29.55, "end": 31.56, "lines": [
-    { "text": "ПРОБЛЕМА НЕ В ЛЕНИ", "accent": false, "size": "small" },
-    { "text": "В ФОРМАТЕ", "accent": true, "size": "big" }
-  ]},
-  { "start": 32.13, "end": 34.89, "lines": [
-    { "text": "НЕ МОГ НАХОДИТЬСЯ", "accent": false, "size": "small" },
-    { "text": "ДОЛЬШЕ 5 МИНУТ", "accent": true, "size": "big" }
-  ]},
-  { "start": 36.18, "end": 38.97, "lines": [
+  { "start": 30.69, "end": 32.94, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
