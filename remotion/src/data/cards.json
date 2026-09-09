@@ -1,39 +1,39 @@
 [
   {
     "start": 2.6,
-    "end": 3.6,
+    "end": 4.3,
     "lines": [
       {
-        "text": "В ПРИЛОЖЕНИИ",
+        "text": "ДАЖЕ В ДНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ЕГЭ",
+        "text": "ЛЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.7,
-    "end": 4.9,
+    "start": 4.4,
+    "end": 5.9,
     "lines": [
-      {
-        "text": "КОТОРОЕ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "НАЗЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЛОЖЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.0,
-    "end": 6.0,
+    "start": 6.0,
+    "end": 6.95,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -48,168 +48,168 @@
     ]
   },
   {
-    "start": 6.1,
-    "end": 7.2,
+    "start": 7.05,
+    "end": 7.9,
     "lines": [
       {
-        "text": "УЗНАЛ",
+        "text": "ОТКРЫВАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСЛЕДНИМ",
+        "text": "ЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.7,
-    "end": 8.6,
+    "start": 7.95,
+    "end": 9.8,
     "lines": [
       {
-        "text": "ВСЕ",
+        "text": "ВМЕСТО ЛЕНТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХИТРИЛИ",
+        "text": "НА ОДНУ ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.65,
-    "end": 9.7,
+    "start": 9.95,
+    "end": 11.65,
     "lines": [
       {
-        "text": "ПРОСТО",
+        "text": "НЕ ОЩУЩАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛИСТАЮТ",
+        "text": "КАК УЧЁБА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.0,
-    "lines": [
-      {
-        "text": "А НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "САМОМ ДЕЛЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.1,
+    "start": 11.75,
     "end": 12.65,
     "lines": [
       {
-        "text": "ПРОХОДИЛИ",
+        "text": "15 МИНУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЫ",
+        "text": "ПРОХОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 14.4,
+    "start": 13.15,
+    "end": 14.45,
     "lines": [
       {
-        "text": "СКАЧАЛ",
+        "text": "БЫСТРЕЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ИНТЕРЕСА",
+        "text": "РОЛИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.55,
-    "end": 15.95,
+    "start": 14.5,
+    "end": 15.4,
     "lines": [
       {
-        "text": "ЗАВИС",
+        "text": "ПРО ЧУЖУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПОЛЧАСА",
+        "text": "ЖИЗНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.45,
-    "end": 17.35,
+    "start": 15.55,
+    "end": 16.8,
     "lines": [
       {
-        "text": "ВИДЕО",
+        "text": "ЗА МЕСЯЦ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКИЕ",
+        "text": "ЗАХОДОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.45,
-    "end": 18.3,
+    "start": 16.8,
+    "end": 17.65,
     "lines": [
       {
-        "text": "ИГРА",
+        "text": "ЗАКРЫЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСТАЯ",
+        "text": "БОЛЬШЕ ТЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.45,
-    "end": 20.15,
+    "start": 18.05,
+    "end": 19.75,
     "lines": [
       {
-        "text": "НЕ ПОХОЖЕ",
+        "text": "ЧЕМ ЗА ЛЕТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА УЧЕБНИК",
+        "text": "С УЧЕБНИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.75,
-    "end": 21.6,
+    "start": 20.35,
+    "end": 21.5,
+    "lines": [
+      {
+        "text": "ЛЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКУДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.55,
+    "end": 23.35,
     "lines": [
       {
         "text": "ТЕПЕРЬ",
@@ -217,47 +217,15 @@
         "size": "small"
       },
       {
-        "text": "Я ТОЖЕ",
+        "text": "РЕЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.65,
-    "end": 22.95,
-    "lines": [
-      {
-        "text": "ЧАСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОЛОВИНЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.05,
-    "end": 24.95,
-    "lines": [
-      {
-        "text": "ПРОСТО ТИХО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ ПОСТОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.1,
-    "end": 26.924,
+    "start": 23.5,
+    "end": 25.48,
     "lines": [
       {
         "text": "ССЫЛКА",
