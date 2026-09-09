@@ -1,41 +1,45 @@
 [
-  { "start": 4.23, "end": 7.68, "lines": [
-    { "text": "ЗАКРЫВАЮ ТЕМЫ", "accent": false, "size": "small" },
+  { "start": 2.16, "end": 4.74, "lines": [
+    { "text": "НРАВИТСЯ ЛИ ЕМУ", "accent": false, "size": "small" },
     { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 8.43, "end": 11.67, "lines": [
-    { "text": "КАЖДУЮ НЕДЕЛЮ", "accent": false, "size": "small" },
-    { "text": "СМОТРИМ СТАТИСТИКУ", "accent": true, "size": "big" }
+  { "start": 5.37, "end": 7.05, "lines": [
+    { "text": "А НЕ", "accent": false, "size": "small" },
+    { "text": "ПРЕДПОЛОЖИЛ ЗА НЕГО", "accent": true, "size": "big" }
   ]},
-  { "start": 12.15, "end": 13.65, "lines": [
-    { "text": "НЕ ТРАТЯ", "accent": false, "size": "small" },
-    { "text": "НИ РУБЛЯ СВЕРХУ", "accent": true, "size": "big" }
+  { "start": 7.56, "end": 11.16, "lines": [
+    { "text": "ОН СКАЗАЛ", "accent": false, "size": "small" },
+    { "text": "ВИДЕО КОМПАКТНЕЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.40, "end": 16.47, "lines": [
-    { "text": "ВИДЕОРАЗБОР", "accent": false, "size": "small" },
-    { "text": "ЛОГИКА РЕШЕНИЯ", "accent": true, "size": "big" }
+  { "start": 11.64, "end": 13.38, "lines": [
+    { "text": "И ЭТО СОВСЕМ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗАНУДНО", "accent": true, "size": "big" }
   ]},
-  { "start": 16.71, "end": 17.91, "lines": [
-    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
-    { "text": "ФИНАЛЬНЫЙ ОТВЕТ", "accent": true, "size": "big" }
+  { "start": 14.04, "end": 17.19, "lines": [
+    { "text": "РАНЬШЕ САМ РЕШАЛ", "accent": false, "size": "small" },
+    { "text": "ЧЕМ ЕМУ ЗАНИМАТЬСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.35, "end": 21.84, "lines": [
-    { "text": "СЫН ЗАНИМАЕТСЯ САМ", "accent": false, "size": "small" },
-    { "text": "15 МИНУТ ВЕЧЕРОМ", "accent": true, "size": "big" }
+  { "start": 18.36, "end": 19.74, "lines": [
+    { "text": "ДАЖЕ НЕ", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЯ МНЕНИЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 22.26, "end": 23.94, "lines": [
-    { "text": "БЕЗ МОЕГО", "accent": false, "size": "small" },
-    { "text": "ПОСТОЯННОГО КОНТРОЛЯ", "accent": true, "size": "big" }
+  { "start": 20.25, "end": 22.35, "lines": [
+    { "text": "ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЮ РАЗ В НЕДЕЛЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 24.63, "end": 26.04, "lines": [
-    { "text": "СЧИТАЮ", "accent": false, "size": "small" },
-    { "text": "СЕМЕЙНЫЙ БЮДЖЕТ", "accent": true, "size": "big" }
+  { "start": 22.74, "end": 24.81, "lines": [
+    { "text": "ЧТО ПОНРАВИЛОСЬ", "accent": false, "size": "small" },
+    { "text": "ЧТО БЫЛО СЛОЖНО", "accent": true, "size": "big" }
   ]},
-  { "start": 26.82, "end": 29.55, "lines": [
-    { "text": "ОЩУТИМАЯ ЭКОНОМИЯ", "accent": false, "size": "small" },
-    { "text": "БЕЗ ПОТЕРИ В КАЧЕСТВЕ", "accent": true, "size": "big" }
+  { "start": 25.35, "end": 27.57, "lines": [
+    { "text": "СЛУШАТЬ СЫНА", "accent": false, "size": "small" },
+    { "text": "ПОЛЕЗНЕЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 30.21, "end": 32.88, "lines": [
+  { "start": 27.93, "end": 30.63, "lines": [
+    { "text": "ЧЕМ КОНТРОЛИРОВАТЬ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ ШАГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 31.41, "end": 34.14, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
