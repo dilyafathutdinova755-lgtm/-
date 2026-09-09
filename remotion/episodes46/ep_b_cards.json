@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.38,
+    "end": 5.35,
+    "lines": [
+      {
+        "text": "В УСЛОВИЯХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК НА ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.04,
+    "end": 8.14,
+    "lines": [
+      {
+        "text": "ТАЙМЕР ТИШИНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКАКИХ ПОДСКАЗОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.86,
+    "end": 10.93,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЖЕ ЧЕМ ЖДАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 13.57,
+    "lines": [
+      {
+        "text": "НЕПРИЯТНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО ПОЛЕЗНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.38,
+    "end": 15.82,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗОБРАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.03,
+    "end": 18.88,
+    "lines": [
+      {
+        "text": "ГДЕ ПОТЕРЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ ВСЕГО БАЛЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.6,
+    "end": 23.38,
+    "lines": [
+      {
+        "text": "ВИДЕОРАЗБОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКА ЭКСПЕРТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.13,
+    "end": 26.38,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ 2 НЕДЕЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСДАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.92,
+    "end": 29.44,
+    "lines": [
+      {
+        "text": "РАЗНИЦА ЗАМЕТНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛНЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.89,
+    "end": 32.12,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

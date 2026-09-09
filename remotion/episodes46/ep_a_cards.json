@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.67,
+    "end": 5.28,
+    "lines": [
+      {
+        "text": "НЕ ТОЛЬКО ЗНАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАЙМ-МЕНЕДЖМЕНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 8.43,
+    "lines": [
+      {
+        "text": "ТРАЧУ НА ПОДГОТОВКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫЕ СЛОТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 12.18,
+    "lines": [
+      {
+        "text": "НЕ КОГДА УДОБНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А ПО ЧЕК-ЛИСТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.99,
+    "end": 15.03,
+    "lines": [
+      {
+        "text": "УТРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДЕОРАЗБОР ТЕМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.81,
+    "end": 18.33,
+    "lines": [
+      {
+        "text": "ВЕЧЕРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕСТ НА СКОРОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.96,
+    "end": 20.64,
+    "lines": [
+      {
+        "text": "В ВЫХОДНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛНЫЙ ПРОБНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.66,
+    "end": 24.12,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВПИСАЛСЯ ИДЕАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.78,
+    "end": 26.61,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СЪЕДАЮТ ЧАСЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.3,
+    "end": 30.06,
+    "lines": [
+      {
+        "text": "ТЕСТЫ СРАЗУ ПОКАЖУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ Я МЕДЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.99,
+    "end": 33.39,
+    "lines": [
+      {
+        "text": "НЕ КОЛИЧЕСТВО ЧАСОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А ДИСЦИПЛИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.2,
+    "end": 37.13,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,151 +1,119 @@
 [
   {
-    "start": 0.57,
-    "end": 2.94,
+    "start": 2.53,
+    "end": 4.42,
     "lines": [
       {
-        "text": "РЕШИЛА",
+        "text": "А ПО КАЖДОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТСЛЕЖИВАТЬ",
+        "text": "КРИТЕРИЮ ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.94,
-    "end": 4.62,
+    "start": 5.08,
+    "end": 6.94,
     "lines": [
       {
-        "text": "НЕ НА СЛОВАХ",
+        "text": "ТАК ВИДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А ПО ЦИФРАМ",
+        "text": "ГДЕ ПРОСЕДАЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.62,
-    "end": 7.65,
+    "start": 7.81,
+    "end": 11.44,
     "lines": [
       {
-        "text": "ЗАВЕЛА",
+        "text": "ЗАВЕЛА ТАБЛИЦУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАБЛИЦУ",
+        "text": "СРЕДНИЙ БАЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.65,
-    "end": 9.87,
+    "start": 11.74,
+    "end": 15.19,
     "lines": [
       {
-        "text": "ЧЕРЕЗ МЕСЯЦ",
+        "text": "ДИНАМИКА ЗА МЕСЯЦ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "ЧЕСТНАЯ КАРТИНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.87,
-    "end": 12.72,
-    "lines": [
-      {
-        "text": "ГДЕ РОСТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "А ГДЕ НЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.72,
-    "end": 15.45,
-    "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
-      },
-      {
-        "text": "ВСТРОИЛСЯ В СИСТЕМУ",
-        "accent": false,
-        "size": "small"
       }
     ]
   },
   {
-    "start": 15.45,
-    "end": 17.22,
+    "start": 15.46,
+    "end": 16.66,
     "lines": [
       {
-        "text": "ПОСЛЕ ТЕМЫ",
+        "text": "ЗАКРЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ТЕСТ",
+        "text": "СЛАБЫЕ КРИТЕРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.22,
-    "end": 20.52,
+    "start": 17.41,
+    "end": 20.98,
     "lines": [
       {
-        "text": "БЕЗ МОИХ",
+        "text": "ЗАДАНИЯ С РАЗБОРОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОМЫСЛОВ И СПОРОВ",
+        "text": "ПОДБИРАЮТ ТОЧЕЧНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.52,
-    "end": 21.96,
+    "start": 21.97,
+    "end": 25.24,
     "lines": [
       {
-        "text": "Я ВСЁ",
+        "text": "ЗА МЕСЯЦ БАЛЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАЮ",
+        "text": "ВЫРОС ЗАМЕТНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.96,
-    "end": 24.79,
+    "start": 25.84,
+    "end": 28.32,
     "lines": [
       {
         "text": "ССЫЛКА",

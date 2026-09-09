@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.53,
+    "end": 4.42,
+    "lines": [
+      {
+        "text": "А ПО КАЖДОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРИТЕРИЮ ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.08,
+    "end": 6.94,
+    "lines": [
+      {
+        "text": "ТАК ВИДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ПРОСЕДАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.81,
+    "end": 11.44,
+    "lines": [
+      {
+        "text": "ЗАВЕЛА ТАБЛИЦУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРЕДНИЙ БАЛЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.74,
+    "end": 15.19,
+    "lines": [
+      {
+        "text": "ДИНАМИКА ЗА МЕСЯЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.46,
+    "end": 16.66,
+    "lines": [
+      {
+        "text": "ЗАКРЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛАБЫЕ КРИТЕРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.41,
+    "end": 20.98,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ С РАЗБОРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДБИРАЮТ ТОЧЕЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.97,
+    "end": 25.24,
+    "lines": [
+      {
+        "text": "ЗА МЕСЯЦ БАЛЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫРОС ЗАМЕТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.84,
+    "end": 28.32,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
