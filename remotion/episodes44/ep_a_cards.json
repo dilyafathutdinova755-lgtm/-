@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.61,
+    "end": 4.44,
+    "lines": [
+      {
+        "text": "ШОУ ПРО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОБАЛЬНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.44,
+    "end": 8.07,
+    "lines": [
+      {
+        "text": "БУДТО НЕ ГЕНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ СДАВАЙСЯ?",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.07,
+    "end": 11.46,
+    "lines": [
+      {
+        "text": "ХОЧЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКАТИТЬ ГЛАЗА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.46,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "НЕ ВСЕ ОБЯЗАНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫТЬ СТОБАЛЬНИКАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 15.81,
+    "lines": [
+      {
+        "text": "И ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОРМАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.81,
+    "end": 18.51,
+    "lines": [
+      {
+        "text": "ВАЖНЕЕ ЗАКРЫТЬ ТЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ СТРЕССА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.51,
+    "end": 21.54,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОРЕВНОВАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.54,
+    "end": 23.76,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "УДОБНЫЙ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 23.76,
+    "end": 26.61,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ДАВЛЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.61,
+    "end": 28.23,
+    "lines": [
+      {
+        "text": "НЕ НАДО БЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛУЧШИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.23,
+    "end": 31.38,
+    "lines": [
+      {
+        "text": "СВОЙ ТЕМП",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ЭТОГО ДОСТАТОЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.38,
+    "end": 34.32,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
