@@ -1,71 +1,55 @@
 [
   {
-    "start": 2.28,
-    "end": 5.13,
+    "start": 3.6,
+    "end": 6.81,
     "lines": [
       {
-        "text": "ЗВУЧИТ МИЛО",
+        "text": "КАЗАЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЁ ПОЛУЧИТСЯ",
+        "text": "НИЧЕГО НЕ ДЕЛАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.34,
-    "end": 8.01,
+    "start": 7.41,
+    "end": 8.79,
     "lines": [
       {
-        "text": "БЕСПОЛЕЗНО",
+        "text": "РЕШИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОГДА НЕ ПОНИМАЕШЬ",
+        "text": "ПРОВЕРИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.73,
-    "end": 10.77,
+    "start": 8.97,
+    "end": 11.97,
     "lines": [
       {
-        "text": "НЕ НУЖНА ПОДДЕРЖКА",
+        "text": "ПОСМОТРЕЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАДИ ПОДДЕРЖКИ",
+        "text": "СТАТИСТИКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.37,
-    "end": 14.76,
-    "lines": [
-      {
-        "text": "НУЖЕН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОНКРЕТНЫЙ РАЗБОР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.63,
-    "end": 17.4,
+    "start": 12.63,
+    "end": 15.81,
     "lines": [
       {
         "text": "В ТРЕНАЖЁРЕ",
@@ -73,63 +57,95 @@
         "size": "small"
       },
       {
-        "text": "ЭТО ЕСТЬ",
+        "text": "БОЛЬШЕ ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.91,
-    "end": 21.36,
+    "start": 15.93,
+    "end": 17.55,
     "lines": [
       {
-        "text": "ВИДЕОРАЗБОРЫ",
+        "text": "ЧЕМ ВО ВСЕХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОГИКА ЭКСПЕРТА",
+        "text": "СОЦСЕТЯХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.2,
-    "end": 23.97,
+    "start": 18.21,
+    "end": 21.03,
     "lines": [
       {
-        "text": "БЕЗ ОБЩИХ",
+        "text": "ВИДЕО И ТЕСТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УТЕШЕНИЙ",
+        "text": "НЕ ПУСТОЙ СКРОЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.87,
-    "end": 27.27,
+    "start": 21.51,
+    "end": 23.79,
     "lines": [
       {
-        "text": "РЕАЛЬНАЯ ПОМОЩЬ",
+        "text": "ПРЕТЕНЗИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ОБНИМАШКИ",
+        "text": "ПРЕЖДЕВРЕМЕННЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.63,
-    "end": 31.61,
+    "start": 24.21,
+    "end": 25.5,
+    "lines": [
+      {
+        "text": "ЭТО МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УДИВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.98,
+    "end": 28.05,
+    "lines": [
+      {
+        "text": "ПОДОЗРЕВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕБЁНКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.2,
+    "end": 30.33,
     "lines": [
       {
         "text": "ССЫЛКА",
