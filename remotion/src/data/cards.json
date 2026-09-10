@@ -1,103 +1,151 @@
 [
   {
-    "start": 2.7,
-    "end": 6.66,
+    "start": 4.35,
+    "end": 7.05,
     "lines": [
       {
-        "text": "СПРОСИЛА У МАМ",
+        "text": "ТО НЕТ НАСТРОЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕМ ПОЛЬЗУЮТСЯ",
+        "text": "ТО УБОРКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.35,
-    "end": 10.02,
+    "start": 7.38,
+    "end": 8.61,
     "lines": [
       {
-        "text": "ПОЛОВИНА",
+        "text": "ТО ДОСМОТРЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАТНЫЕ КУРСЫ",
+        "text": "ЭПИЗОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 12.93,
+    "start": 9.24,
+    "end": 9.9,
     "lines": [
       {
-        "text": "НИКТО НЕ СЛЫШАЛ",
+        "text": "УЗНАЁШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРО БЕСПЛАТНОЕ",
+        "text": "СЕБЯ?",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.44,
-    "end": 14.91,
+    "start": 10.35,
+    "end": 14.34,
     "lines": [
       {
-        "text": "РАССКАЗАЛА",
+        "text": "СКОЛЬКО РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРО ТРЕНАЖЁР",
+        "text": "НАЧНУ ЗАВТРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 17.52,
+    "start": 15.21,
+    "end": 17.25,
     "lines": [
       {
-        "text": "ВИДЕОРАЗБОРЫ ИГРЫ",
+        "text": "У МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ОПЛАТЫ",
+        "text": "ПОЧТИ КАЖДЫЙ ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.03,
-    "end": 20.07,
+    "start": 19.11,
+    "end": 20.34,
     "lines": [
       {
-        "text": "3 МАМЫ",
+        "text": "РЕШИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСАЛИ СРАЗУ",
+        "text": "ПРОСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.76,
-    "end": 24.69,
+    "start": 20.88,
+    "end": 24.78,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР РЯДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ИКОНКОЙ СОЦСЕТЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.23,
+    "end": 27.87,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА АВТОПИЛОТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.62,
+    "end": 32.46,
+    "lines": [
+      {
+        "text": "ИГРЫ И ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТРЕБУЮТ НАСТРОЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.3,
+    "end": 36.46,
     "lines": [
       {
         "text": "ССЫЛКА",
