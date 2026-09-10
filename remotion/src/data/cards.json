@@ -1,151 +1,151 @@
 [
   {
-    "start": 3.6,
-    "end": 6.81,
+    "start": 2.67,
+    "end": 4.05,
     "lines": [
       {
-        "text": "КАЗАЛОСЬ",
+        "text": "ПЕРВИЧНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЧЕГО НЕ ДЕЛАЕТ",
+        "text": "БАЛЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.41,
-    "end": 8.79,
+    "start": 4.29,
+    "end": 6.3,
     "lines": [
       {
-        "text": "РЕШИЛА",
+        "text": "ВТОРИЧНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРИТЬ",
+        "text": "ВИДЯТ ВУЗЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.97,
-    "end": 11.97,
+    "start": 6.72,
+    "end": 9.12,
     "lines": [
       {
-        "text": "ПОСМОТРЕЛА",
+        "text": "РАЗНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКУ",
+        "text": "ПУТАЕТ РОДИТЕЛЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.63,
-    "end": 15.81,
+    "start": 9.69,
+    "end": 10.89,
     "lines": [
       {
-        "text": "В ТРЕНАЖЁРЕ",
+        "text": "РАЗБИРАЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЛЬШЕ ВРЕМЕНИ",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.93,
-    "end": 17.55,
+    "start": 11.01,
+    "end": 13.08,
     "lines": [
       {
-        "text": "ЧЕМ ВО ВСЕХ",
+        "text": "СКОЛЬКО НУЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОЦСЕТЯХ",
+        "text": "НАБРАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.21,
-    "end": 21.03,
+    "start": 13.29,
+    "end": 15.18,
     "lines": [
       {
-        "text": "ВИДЕО И ТЕСТЫ",
+        "text": "ПЕРВИЧНЫХ БАЛЛОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПУСТОЙ СКРОЛЛ",
+        "text": "ДЛЯ РЕЗУЛЬТАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.51,
-    "end": 23.79,
+    "start": 15.81,
+    "end": 19.62,
     "lines": [
       {
-        "text": "ПРЕТЕНЗИИ",
+        "text": "В ВИДЕОРАЗБОРАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕЖДЕВРЕМЕННЫЕ",
+        "text": "ЭКСПЕРТ ОБЪЯСНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.21,
-    "end": 25.5,
+    "start": 20.07,
+    "end": 21.51,
     "lines": [
       {
-        "text": "ЭТО МЕНЯ",
+        "text": "НА КОНКРЕТНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УДИВИЛО",
+        "text": "ПРИМЕРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.98,
-    "end": 28.05,
+    "start": 22.11,
+    "end": 25.65,
     "lines": [
       {
-        "text": "ПОДОЗРЕВАЕШЬ",
+        "text": "ТЕПЕРЬ ПОНИМАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕБЁНКА",
+        "text": "НА ЧТО СМОТРЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.2,
-    "end": 30.33,
+    "start": 26.28,
+    "end": 29.61,
     "lines": [
       {
         "text": "ССЫЛКА",
