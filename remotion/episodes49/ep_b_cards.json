@@ -1,0 +1,146 @@
+[
+  {
+    "start": 3.6,
+    "end": 6.03,
+    "lines": [
+      {
+        "text": "ТЫ СИЛЬНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВЕРХ ЗАКАТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.72,
+    "end": 9.57,
+    "lines": [
+      {
+        "text": "НЕ ДВИГАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИ НА ШАГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.38,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "ЗАКРЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕ ГРУППЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.06,
+    "end": 14.13,
+    "lines": [
+      {
+        "text": "ПОДПИСАЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 18.03,
+    "lines": [
+      {
+        "text": "ВМЕСТО ЦИТАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДЕО ПО ТЕМАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.48,
+    "end": 20.04,
+    "lines": [
+      {
+        "text": "РЕАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО-ТО ДАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.09,
+    "end": 22.41,
+    "lines": [
+      {
+        "text": "МОТИВАЦИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТО ХОРОШО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.1,
+    "end": 25.26,
+    "lines": [
+      {
+        "text": "БАЛЛЫ ПРИНОСЯТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЙСТВИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.86,
+    "end": 28.02,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

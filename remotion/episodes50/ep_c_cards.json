@@ -1,0 +1,114 @@
+[
+  {
+    "start": 2.7,
+    "end": 6.66,
+    "lines": [
+      {
+        "text": "СПРОСИЛА У МАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ ПОЛЬЗУЮТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 10.02,
+    "lines": [
+      {
+        "text": "ПОЛОВИНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАТНЫЕ КУРСЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 12.93,
+    "lines": [
+      {
+        "text": "НИКТО НЕ СЛЫШАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРО БЕСПЛАТНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "РАССКАЗАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРО ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.33,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "ВИДЕОРАЗБОРЫ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ОПЛАТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.03,
+    "end": 20.07,
+    "lines": [
+      {
+        "text": "3 МАМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПИСАЛИ СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.76,
+    "end": 24.69,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

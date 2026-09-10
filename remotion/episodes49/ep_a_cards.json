@@ -1,0 +1,194 @@
+[
+  {
+    "start": 3.66,
+    "end": 6.48,
+    "lines": [
+      {
+        "text": "СВЕЧКА КОФЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАНЕР С НАКЛЕЙКАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 9.42,
+    "lines": [
+      {
+        "text": "НОЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.26,
+    "end": 12.21,
+    "lines": [
+      {
+        "text": "СМОТРЮ И ДУМАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРАСИВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 14.37,
+    "lines": [
+      {
+        "text": "НО БАЛЛОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПРИБАВИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.12,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "ВАЖНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫТЬ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.88,
+    "end": 19.17,
+    "lines": [
+      {
+        "text": "ПРОЙТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛЬНУЮ ТЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.68,
+    "end": 21.48,
+    "lines": [
+      {
+        "text": "А НЕ СНИМАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭСТЕТИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.44,
+    "end": 25.86,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ СВЕЧЕК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.22,
+    "end": 26.91,
+    "lines": [
+      {
+        "text": "ЗАТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ПОЛЬЗОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.81,
+    "end": 30.6,
+    "lines": [
+      {
+        "text": "ПОДГОТОВКА СКУЧНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ В ТИКТОКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.17,
+    "end": 32.31,
+    "lines": [
+      {
+        "text": "И ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОРМАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.23,
+    "end": 38.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

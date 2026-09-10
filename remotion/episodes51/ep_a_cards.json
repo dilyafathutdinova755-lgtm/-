@@ -1,0 +1,162 @@
+[
+  {
+    "start": 4.35,
+    "end": 7.05,
+    "lines": [
+      {
+        "text": "ТО НЕТ НАСТРОЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТО УБОРКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 8.61,
+    "lines": [
+      {
+        "text": "ТО ДОСМОТРЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭПИЗОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.24,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "УЗНАЁШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕБЯ?",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 14.34,
+    "lines": [
+      {
+        "text": "СКОЛЬКО РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧНУ ЗАВТРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.21,
+    "end": 17.25,
+    "lines": [
+      {
+        "text": "У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЧТИ КАЖДЫЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.11,
+    "end": 20.34,
+    "lines": [
+      {
+        "text": "РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.88,
+    "end": 24.78,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР РЯДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ИКОНКОЙ СОЦСЕТЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.23,
+    "end": 27.87,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА АВТОПИЛОТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.62,
+    "end": 32.46,
+    "lines": [
+      {
+        "text": "ИГРЫ И ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТРЕБУЮТ НАСТРОЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.3,
+    "end": 36.46,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

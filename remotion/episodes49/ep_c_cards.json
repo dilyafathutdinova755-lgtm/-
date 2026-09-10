@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.28,
+    "end": 5.13,
+    "lines": [
+      {
+        "text": "ЗВУЧИТ МИЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЁ ПОЛУЧИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.34,
+    "end": 8.01,
+    "lines": [
+      {
+        "text": "БЕСПОЛЕЗНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОГДА НЕ ПОНИМАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 10.77,
+    "lines": [
+      {
+        "text": "НЕ НУЖНА ПОДДЕРЖКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАДИ ПОДДЕРЖКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.37,
+    "end": 14.76,
+    "lines": [
+      {
+        "text": "НУЖЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.63,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "В ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТО ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.91,
+    "end": 21.36,
+    "lines": [
+      {
+        "text": "ВИДЕОРАЗБОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКА ЭКСПЕРТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.2,
+    "end": 23.97,
+    "lines": [
+      {
+        "text": "БЕЗ ОБЩИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УТЕШЕНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.87,
+    "end": 27.27,
+    "lines": [
+      {
+        "text": "РЕАЛЬНАЯ ПОМОЩЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОБНИМАШКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.63,
+    "end": 31.61,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
