@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.61,
+    "end": 5.49,
+    "lines": [
+      {
+        "text": "ПЕРЕСТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "3 ЧАСА ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.24,
+    "end": 7.74,
+    "lines": [
+      {
+        "text": "СЕЙЧАС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТОЕ ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 10.08,
+    "lines": [
+      {
+        "text": "10 МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ БОЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.62,
+    "end": 14.16,
+    "lines": [
+      {
+        "text": "ЗАТО КАЖДЫЙ ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ТРЕНАЖЁРЕ УДОБНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 18.84,
+    "lines": [
+      {
+        "text": "ОТКРЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНА ИГРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.47,
+    "end": 22.38,
+    "lines": [
+      {
+        "text": "ЗАКРЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ЧУВСТВА ВИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.89,
+    "end": 24.9,
+    "lines": [
+      {
+        "text": "ЦЕЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАЛЕНЬКАЯ И РЕАЛЬНАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.74,
+    "end": 28.84,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

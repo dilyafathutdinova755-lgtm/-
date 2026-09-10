@@ -1,0 +1,178 @@
+[
+  {
+    "start": 4.2,
+    "end": 6.06,
+    "lines": [
+      {
+        "text": "ПОДРУГА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛЬНО ПЛАЧЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.84,
+    "end": 8.49,
+    "lines": [
+      {
+        "text": "Я РЯДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ДУМАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "МАКСИМУМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "60 БАЛЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 13.89,
+    "lines": [
+      {
+        "text": "И ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПАНИКУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.34,
+    "end": 17.73,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "10 МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.36,
+    "end": 20.49,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТО НЕРВОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.33,
+    "end": 22.83,
+    "lines": [
+      {
+        "text": "НЕ СТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТЛИЧНИЦЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.4,
+    "end": 25.8,
+    "lines": [
+      {
+        "text": "ПЕРЕСТАЛА БОЯТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫВАТЬ ТЕЛЕФОН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.31,
+    "end": 27.78,
+    "lines": [
+      {
+        "text": "И ВИДЕТЬ ТАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТЫ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.68,
+    "end": 30.81,
+    "lines": [
+      {
+        "text": "НЕПЛОХО ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРОЕЧНИЦЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.53,
+    "end": 35.32,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,119 +1,151 @@
 [
   {
-    "start": 2.53,
-    "end": 4.42,
+    "start": 3.66,
+    "end": 6.33,
     "lines": [
       {
-        "text": "А ПО КАЖДОМУ",
+        "text": "КАЖДЫЙ ДЕНЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КРИТЕРИЮ ОТДЕЛЬНО",
+        "text": "СПРАШИВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.08,
-    "end": 6.94,
+    "start": 6.9,
+    "end": 8.46,
     "lines": [
       {
-        "text": "ТАК ВИДНО",
+        "text": "ТРЕВОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГДЕ ПРОСЕДАЮ",
+        "text": "ВДВОЙНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.81,
-    "end": 11.44,
+    "start": 9.36,
+    "end": 10.89,
     "lines": [
       {
-        "text": "ЗАВЕЛА ТАБЛИЦУ",
+        "text": "ПОКАЗАЛА ЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРЕДНИЙ БАЛЛ",
+        "text": "ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.74,
-    "end": 15.19,
+    "start": 11.16,
+    "end": 14.13,
     "lines": [
       {
-        "text": "ДИНАМИКА ЗА МЕСЯЦ",
+        "text": "ЧТОБЫ ВИДЕЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "РЕАЛЬНЫЙ ПРОГРЕСС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.46,
-    "end": 16.66,
+    "start": 14.91,
+    "end": 16.47,
     "lines": [
       {
-        "text": "ЗАКРЫВАЕТ",
+        "text": "ТЕПЕРЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛАБЫЕ КРИТЕРИИ",
+        "text": "СМОТРИТ СТАТИСТИКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.41,
-    "end": 20.98,
+    "start": 16.74,
+    "end": 19.44,
     "lines": [
       {
-        "text": "ЗАДАНИЯ С РАЗБОРОМ",
+        "text": "ВМЕСТО ВОПРОСОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДБИРАЮТ ТОЧЕЧНО",
+        "text": "КАЖДЫЕ 5 МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.97,
-    "end": 25.24,
+    "start": 20.22,
+    "end": 22.89,
     "lines": [
       {
-        "text": "ЗА МЕСЯЦ БАЛЛ",
+        "text": "СНЯЛО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫРОС ЗАМЕТНО",
+        "text": "ПОЛОВИНУ НАПРЯЖЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.84,
-    "end": 28.32,
+    "start": 23.79,
+    "end": 26.46,
+    "lines": [
+      {
+        "text": "ВИДЕО И ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАЮТ ДЕЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.24,
+    "end": 29.1,
+    "lines": [
+      {
+        "text": "МАМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАКОНЕЦ РАССЛАБИЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.12,
+    "end": 34.05,
     "lines": [
       {
         "text": "ССЫЛКА",

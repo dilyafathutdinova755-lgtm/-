@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.61,
+    "end": 6.42,
+    "lines": [
+      {
+        "text": "НЕ ЗА НЕЗНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А ЗА НЕВНИМАТЕЛЬНОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.41,
+    "end": 8.82,
+    "lines": [
+      {
+        "text": "УЗНАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА СВОЕЙ ШКУРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.51,
+    "end": 12.42,
+    "lines": [
+      {
+        "text": "ПРОВЕРЬ СЕБЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 14.94,
+    "lines": [
+      {
+        "text": "НЕ ПЕРЕЧИТАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИЖДЫ ЗА ПРОБНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 21.0,
+    "lines": [
+      {
+        "text": "В ТРЕНАЖЁРЕ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДЕОРАЗБОРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.51,
+    "end": 24.78,
+    "lines": [
+      {
+        "text": "ПОКАЗЫВАЮТ ОШИБКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА РЕАЛЬНЫХ РАБОТАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.53,
+    "end": 28.08,
+    "lines": [
+      {
+        "text": "ПОМОГЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАТЬ ПОВТОРЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.01,
+    "end": 32.88,
+    "lines": [
+      {
+        "text": "ПЛЮС ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВНИМАТЕЛЬНОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.78,
+    "end": 36.71,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

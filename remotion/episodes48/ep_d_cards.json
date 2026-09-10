@@ -1,0 +1,162 @@
+[
+  {
+    "start": 3.66,
+    "end": 6.33,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРАШИВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.46,
+    "lines": [
+      {
+        "text": "ТРЕВОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВДВОЙНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 10.89,
+    "lines": [
+      {
+        "text": "ПОКАЗАЛА ЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.16,
+    "end": 14.13,
+    "lines": [
+      {
+        "text": "ЧТОБЫ ВИДЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛЬНЫЙ ПРОГРЕСС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 16.47,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМОТРИТ СТАТИСТИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.74,
+    "end": 19.44,
+    "lines": [
+      {
+        "text": "ВМЕСТО ВОПРОСОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДЫЕ 5 МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 22.89,
+    "lines": [
+      {
+        "text": "СНЯЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛОВИНУ НАПРЯЖЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.79,
+    "end": 26.46,
+    "lines": [
+      {
+        "text": "ВИДЕО И ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАЮТ ДЕЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.24,
+    "end": 29.1,
+    "lines": [
+      {
+        "text": "МАМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАКОНЕЦ РАССЛАБИЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.12,
+    "end": 34.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

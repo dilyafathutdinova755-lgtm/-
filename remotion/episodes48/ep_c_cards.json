@@ -1,0 +1,82 @@
+[
+  {
+    "start": 2.79,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "ПОЯВИЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДСКАЗУЕМОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.19,
+    "end": 7.56,
+    "lines": [
+      {
+        "text": "ВМЕСТО ЗУБРЁЖКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПОСЛЕДНИЙ МОМЕНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.52,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "ЗА НЕДЕЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "7 ТЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.71,
+    "end": 12.45,
+    "lines": [
+      {
+        "text": "БЕЗ ЕДИНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕРВНОГО ВЕЧЕРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
