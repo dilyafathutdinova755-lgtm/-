@@ -1,63 +1,63 @@
 [
   {
-    "start": 3.66,
-    "end": 6.33,
+    "start": 3.6,
+    "end": 6.03,
     "lines": [
       {
-        "text": "КАЖДЫЙ ДЕНЬ",
+        "text": "ТЫ СИЛЬНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПРАШИВАЕТ",
+        "text": "ПОВЕРХ ЗАКАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 8.46,
+    "start": 6.72,
+    "end": 9.57,
     "lines": [
       {
-        "text": "ТРЕВОЖНО",
+        "text": "НЕ ДВИГАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВДВОЙНЕ",
+        "text": "НИ НА ШАГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.36,
-    "end": 10.89,
+    "start": 10.38,
+    "end": 11.85,
     "lines": [
       {
-        "text": "ПОКАЗАЛА ЕЙ",
+        "text": "ЗАКРЫЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЁР",
+        "text": "ВСЕ ГРУППЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.16,
+    "start": 12.06,
     "end": 14.13,
     "lines": [
       {
-        "text": "ЧТОБЫ ВИДЕЛА",
+        "text": "ПОДПИСАЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕАЛЬНЫЙ ПРОГРЕСС",
+        "text": "НА ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
@@ -65,87 +65,71 @@
   },
   {
     "start": 14.91,
-    "end": 16.47,
+    "end": 18.03,
     "lines": [
       {
-        "text": "ТЕПЕРЬ",
+        "text": "ВМЕСТО ЦИТАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМОТРИТ СТАТИСТИКУ",
+        "text": "ВИДЕО ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.74,
-    "end": 19.44,
+    "start": 18.48,
+    "end": 20.04,
     "lines": [
       {
-        "text": "ВМЕСТО ВОПРОСОВ",
+        "text": "РЕАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДЫЕ 5 МИНУТ",
+        "text": "ЧТО-ТО ДАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.22,
-    "end": 22.89,
+    "start": 21.09,
+    "end": 22.41,
     "lines": [
       {
-        "text": "СНЯЛО",
+        "text": "МОТИВАЦИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛОВИНУ НАПРЯЖЕНИЯ",
+        "text": "ЭТО ХОРОШО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.79,
-    "end": 26.46,
+    "start": 23.1,
+    "end": 25.26,
     "lines": [
       {
-        "text": "ВИДЕО И ИГРЫ",
+        "text": "БАЛЛЫ ПРИНОСЯТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛАЮТ ДЕЛО",
+        "text": "ДЕЙСТВИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.24,
-    "end": 29.1,
-    "lines": [
-      {
-        "text": "МАМА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАКОНЕЦ РАССЛАБИЛАСЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.12,
-    "end": 34.05,
+    "start": 25.86,
+    "end": 28.02,
     "lines": [
       {
         "text": "ССЫЛКА",
