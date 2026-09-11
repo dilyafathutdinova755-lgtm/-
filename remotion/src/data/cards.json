@@ -1,41 +1,49 @@
 [
-  { "start": 2.46, "end": 4.44, "lines": [
-    { "text": "ОДНОКЛАССНИКА", "accent": false, "size": "small" },
-    { "text": "С РЕПЕТИТОРОМ", "accent": true, "size": "big" }
-  ]},
-  { "start": 4.95, "end": 7.17, "lines": [
-    { "text": "ЗАНИМАЛСЯ ТОЛЬКО", "accent": false, "size": "small" },
+  { "start": 2.46, "end": 4.92, "lines": [
+    { "text": "ГОТОВЛЮСЬ К ЕГЭ", "accent": false, "size": "small" },
     { "text": "ЧЕРЕЗ ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 8.04, "end": 10.56, "lines": [
-    { "text": "ОН ХОДИЛ", "accent": false, "size": "small" },
-    { "text": "2 РАЗА В НЕДЕЛЮ", "accent": true, "size": "big" }
+  { "start": 5.70, "end": 8.73, "lines": [
+    { "text": "ПОСЛЕ ТОГО КАК", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТ ВЫРОС", "accent": true, "size": "big" }
   ]},
-  { "start": 12.03, "end": 15.57, "lines": [
-    { "text": "Я ПРОСТО ОТКРЫВАЛ", "accent": false, "size": "small" },
-    { "text": "ПРИЛОЖЕНИЕ", "accent": true, "size": "big" }
+  { "start": 9.87, "end": 11.58, "lines": [
+    { "text": "РАНЬШЕ", "accent": false, "size": "small" },
+    { "text": "СТЕСНЯЛСЯ ПРИЗНАТЬСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.50, "end": 18.27, "lines": [
-    { "text": "РЕЗУЛЬТАТ", "accent": false, "size": "small" },
-    { "text": "УДИВИЛ ОБОИХ", "accent": true, "size": "big" }
+  { "start": 12.09, "end": 15.06, "lines": [
+    { "text": "ЧТО ВООБЩЕ ЧТО-ТО ДЕЛАЮ", "accent": false, "size": "small" },
+    { "text": "ДЛЯ ПОДГОТОВКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 18.90, "end": 22.05, "lines": [
-    { "text": "РАЗНИЦА В ПОЛЬЗУ", "accent": false, "size": "small" },
-    { "text": "КОРОТКИХ ЗАХОДОВ", "accent": true, "size": "big" }
+  { "start": 16.05, "end": 19.11, "lines": [
+    { "text": "ТЕПЕРЬ ПОКАЗЫВАЮ", "accent": false, "size": "small" },
+    { "text": "ЗЕЛЁНЫЕ ГАЛОЧКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 22.95, "end": 25.20, "lines": [
-    { "text": "НИКАКОГО СЕКРЕТА", "accent": false, "size": "small" },
-    { "text": "КРОМЕ ТОГО ЧТО", "accent": true, "size": "big" }
+  { "start": 19.53, "end": 20.61, "lines": [
+    { "text": "ЕСЛИ", "accent": false, "size": "small" },
+    { "text": "КТО-ТО СПРАШИВАЕТ", "accent": true, "size": "big" }
   ]},
-  { "start": 25.65, "end": 27.21, "lines": [
-    { "text": "ЗАХОДИЛ ЧАЩЕ", "accent": false, "size": "small" },
-    { "text": "А НЕ ДОЛЬШЕ", "accent": true, "size": "big" }
+  { "start": 22.05, "end": 23.07, "lines": [
+    { "text": "15 МИНУТ", "accent": false, "size": "small" },
+    { "text": "В ДЕНЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 28.17, "end": 32.07, "lines": [
+  { "start": 23.43, "end": 25.26, "lines": [
+    { "text": "НЕ ПОВОД", "accent": false, "size": "small" },
+    { "text": "ДЛЯ СТЫДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.95, "end": 27.21, "lines": [
+    { "text": "А", "accent": false, "size": "small" },
+    { "text": "РАБОЧИЙ МЕТОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 28.02, "end": 30.57, "lines": [
     { "text": "СРЕДНИЙ УЧЕНИК", "accent": false, "size": "small" },
-    { "text": "МОЖЕТ ОБОГНАТЬ", "accent": true, "size": "big" }
+    { "text": "МОЖЕТ ОТКРЫТО ГОТОВИТЬСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 32.97, "end": 35.04, "lines": [
+  { "start": 31.23, "end": 34.08, "lines": [
+    { "text": "НЕ ПРИТВОРЯЯСЬ", "accent": false, "size": "small" },
+    { "text": "ЧТО ВСЁ ЛЕГКО", "accent": true, "size": "big" }
+  ]},
+  { "start": 35.16, "end": 37.44, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
