@@ -1,55 +1,135 @@
 [
   {
     "start": 2.6,
-    "end": 4.2,
+    "end": 3.65,
     "lines": [
       {
-        "text": "С ЗАДАНИЕМ",
+        "text": "ОТДЕЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВЫВОД",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.3,
-    "end": 6.6,
+    "start": 3.75,
+    "end": 5.2,
     "lines": [
+      {
+        "text": "НА КУРСАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ СИЛЬНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.55,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОПУСКАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "НА ДЕЛЕ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "ТЕРЯЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БАЛЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.1,
-    "end": 8.05,
+    "start": 11.15,
+    "end": 12.95,
     "lines": [
       {
-        "text": "ОБЫЧНЫЕ",
+        "text": "В ДВУХ МЕСТАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРНИКИ",
+        "text": "РАЗНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.15,
-    "end": 9.7,
+    "start": 13.8,
+    "end": 14.85,
+    "lines": [
+      {
+        "text": "РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЛОЖЕНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.95,
+    "end": 16.3,
+    "lines": [
+      {
+        "text": "ПОКАЗАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОШАГОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 18.25,
+    "lines": [
+      {
+        "text": "НА КУРСАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕГЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.2,
     "lines": [
       {
         "text": "ОДНОЙ",
@@ -57,95 +137,15 @@
         "size": "small"
       },
       {
-        "text": "СТРОКОЙ",
+        "text": "ФРАЗОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.1,
-    "end": 12.25,
-    "lines": [
-      {
-        "text": "БЕЗ РАЗБОРА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛОГИКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.0,
-    "end": 13.9,
-    "lines": [
-      {
-        "text": "В ЕГЭ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.15,
-    "end": 15.45,
-    "lines": [
-      {
-        "text": "НАШЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРАКТИКУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.75,
-    "end": 17.45,
-    "lines": [
-      {
-        "text": "ИМЕННО НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЦЕПОЧКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.75,
-    "end": 19.05,
-    "lines": [
-      {
-        "text": "КАЖДЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ШАГ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.6,
-    "end": 21.65,
+    "start": 19.4,
+    "end": 21.4,
     "lines": [
       {
         "text": "ПОДРЯД",
@@ -153,95 +153,63 @@
         "size": "small"
       },
       {
-        "text": "НЕСКОЛЬКО",
+        "text": "ПЯТЬ ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.8,
-    "end": 22.9,
+    "start": 21.65,
+    "end": 23.4,
     "lines": [
       {
-        "text": "НАКОНЕЦ",
+        "text": "ПЕРЕСТАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВИДЕЛА",
+        "text": "ОШИБАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.9,
-    "end": 24.95,
+    "start": 24.85,
+    "end": 26.5,
     "lines": [
       {
-        "text": "КОТОРУЮ",
+        "text": "ЛЁГКАЯ НА ВИД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УПУСКАЛА",
+        "text": "ЗАДАЧА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.55,
-    "end": 26.9,
+    "start": 26.6,
+    "end": 28.9,
     "lines": [
       {
-        "text": "ДЛЯ",
+        "text": "САМЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АМБИЦИЙ",
+        "text": "СЛАБЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.2,
-    "end": 29.05,
-    "lines": [
-      {
-        "text": "УЗКИЕ ПРОБЕЛЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШАЮТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.35,
-    "end": 31.5,
-    "lines": [
-      {
-        "text": "ЧЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЕНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.0,
-    "end": 33.84,
+    "start": 29.45,
+    "end": 31.4,
     "lines": [
       {
         "text": "ССЫЛКА",
