@@ -1,47 +1,63 @@
 [
   {
     "start": 2.6,
-    "end": 3.95,
+    "end": 4.2,
     "lines": [
       {
-        "text": "ГОТОВИТСЯ",
+        "text": "КУРСЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИКАК",
+        "text": "КАЖДЫЙ МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 6.2,
+    "start": 4.3,
+    "end": 5.1,
     "lines": [
       {
-        "text": "ВСЕ СЧИТАЮТ",
+        "text": "УЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕНЕЕ ВАЖНЫМ",
+        "text": "ПОЛГОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.25,
-    "end": 7.55,
+    "start": 5.15,
+    "end": 6.6,
     "lines": [
       {
-        "text": "ЧЕМ",
+        "text": "НА ПОСЛЕДНЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЗОВОЕ",
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.65,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "ОКАЗАЛИСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИМИ",
         "accent": true,
         "size": "big"
       }
@@ -49,247 +65,167 @@
   },
   {
     "start": 8.2,
-    "end": 9.35,
+    "end": 9.3,
     "lines": [
       {
-        "text": "ТРЕНЕР",
+        "text": "РАЗНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОШУТИЛ",
+        "text": "В БАЛЛАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.5,
-    "end": 10.4,
+    "start": 10.3,
+    "end": 11.6,
     "lines": [
       {
-        "text": "ЧТО БАЛЛЫ",
+        "text": "ВСЁ ЭТО ВРЕМЯ",
         "accent": false,
         "size": "small"
       },
+      {
+        "text": "ТОЛЬКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.65,
+    "end": 12.8,
+    "lines": [
       {
         "text": "ЕГЭ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.5,
-    "end": 11.45,
-    "lines": [
-      {
-        "text": "НАЙДУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМИ",
+        "text": "ТРЕНАЖЕРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.45,
-    "end": 12.95,
+    "start": 12.95,
+    "end": 14.45,
     "lines": [
       {
-        "text": "ЕСЛИ ВЫИГРАЕМ",
+        "text": "БЕЗ ЕДИНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЛИМПИАДУ",
+        "text": "ЗАНЯТИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.6,
-    "end": 14.65,
+    "start": 14.7,
+    "end": 15.55,
     "lines": [
       {
-        "text": "Я В ЭТО",
+        "text": "ДРУГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОВЕРИЛА",
+        "text": "УДИВИЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.9,
-    "end": 16.25,
+    "start": 15.6,
+    "end": 16.5,
     "lines": [
       {
-        "text": "ТИХО",
+        "text": "БОЛЬШЕ МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОХОЖУ",
+        "text": "УЗНАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.55,
-    "end": 17.45,
+    "start": 16.5,
+    "end": 18.05,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "СКОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "ПОТРАТИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.55,
-    "end": 18.6,
+    "start": 18.35,
+    "end": 19.25,
     "lines": [
       {
-        "text": "МЕЖДУ",
+        "text": "ОДИНАКОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНИРОВОК",
+        "text": "РЕЗУЛЬТАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.0,
+    "start": 19.35,
     "end": 20.15,
     "lines": [
       {
-        "text": "НИКОМУ",
+        "text": "ЗА РАЗНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ГОВОРЯ",
+        "text": "ДЕНЬГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.7,
-    "end": 21.5,
+    "start": 20.2,
+    "end": 21.6,
     "lines": [
       {
-        "text": "15 МИНУТ",
+        "text": "ЗАСТАВИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРОМ",
+        "text": "ЗАДУМАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.55,
-    "end": 22.9,
-    "lines": [
-      {
-        "text": "ОДНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕМА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.1,
-    "end": 24.6,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБЪЯВЛЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.55,
-    "end": 26.9,
-    "lines": [
-      {
-        "text": "ЕСЛИ ДИПЛОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ЗАЩИТИТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.95,
-    "end": 28.25,
-    "lines": [
-      {
-        "text": "НА ВСЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТО ПРОЦЕНТОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.6,
-    "end": 30.35,
-    "lines": [
-      {
-        "text": "УЖЕ ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАКРЫТАЯ БАЗА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.9,
-    "end": 32.88,
+    "start": 21.8,
+    "end": 23.62,
     "lines": [
       {
         "text": "ССЫЛКА",
