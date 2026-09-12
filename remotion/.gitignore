@@ -180,3 +180,10 @@ episodes47/render/
 episodes47_out/
 sources_coffee123_4/
 asr_coffee123_4/
+episodes48/*.mp4
+episodes48/*.wav
+episodes48/*.log
+episodes48/render/
+episodes48_out/
+sources_coffee123_5/
+asr_coffee123_5/

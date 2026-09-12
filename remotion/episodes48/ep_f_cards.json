@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.6,
+    "end": 3.9,
+    "lines": [
+      {
+        "text": "НЕ ПЕРЕСЧИТЫВАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.23,
+    "end": 5.6,
+    "lines": [
+      {
+        "text": "ОТ НАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.55,
+    "lines": [
+      {
+        "text": "ЦЕЛИКОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 9.2,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОБАВЛЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.15,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДЕО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.17,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ПО ШАГАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЛУХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.48,
+    "end": 14.5,
+    "lines": [
+      {
+        "text": "НЕ МОЛЧА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.82,
+    "end": 16.95,
+    "lines": [
+      {
+        "text": "ПЕРЕСМОТРЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СНОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.19,
+    "end": 18.7,
+    "lines": [
+      {
+        "text": "СТОЛЬКО РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.99,
+    "end": 22.15,
+    "lines": [
+      {
+        "text": "ЗАПОМИНАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.35,
+    "end": 24.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

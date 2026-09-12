@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.6,
+    "end": 3.9,
+    "lines": [
+      {
+        "text": "НИЧЕГО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМНИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.9,
+    "end": 6.2,
+    "lines": [
+      {
+        "text": "А УТРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.02,
+    "end": 8.6,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЧКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.1,
+    "lines": [
+      {
+        "text": "КОМПАКТНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.95,
+    "lines": [
+      {
+        "text": "ОДИН ФАКТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА КАРТОЧКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.1,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "НЕ АБЗАЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ПОДХОДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЗДЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.1,
+    "end": 17.2,
+    "lines": [
+      {
+        "text": "ДАЖЕ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЧЕРЕДИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.5,
+    "end": 19.95,
+    "lines": [
+      {
+        "text": "ЗАПОМИНАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.0,
+    "end": 20.95,
+    "lines": [
+      {
+        "text": "ЧЕМ АБЗАЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕД СНОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.21,
+    "end": 22.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

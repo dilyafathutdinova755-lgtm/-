@@ -4,100 +4,52 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "ОЛИМПИАДА",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ЕГЭ",
+        "text": "СИСТЕМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.2,
+    "start": 4.0,
     "end": 5.6,
     "lines": [
       {
-        "text": "ЗАДАНИЯ",
+        "text": "КАЖДЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ДОРОГЕ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.76,
-    "end": 7.0,
+    "start": 5.7,
+    "end": 6.95,
     "lines": [
       {
-        "text": "МЕЖДУ",
+        "text": "ОДНО И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРАМИ",
+        "text": "ТО ЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.1,
+    "start": 7.23,
     "end": 8.6,
-    "lines": [
-      {
-        "text": "ИНТЕРНЕТА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕТ ВОВСЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.15,
-    "end": 10.6,
-    "lines": [
-      {
-        "text": "ИСКАТЬ СЕТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕКОГДА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.65,
-    "end": 12.1,
-    "lines": [
-      {
-        "text": "РАСПИСАНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ЖДЁТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.08,
-    "end": 14.65,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -105,127 +57,159 @@
         "size": "small"
       },
       {
-        "text": "ХРАНИТ БАНК",
+        "text": "САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.8,
-    "end": 16.55,
+    "start": 8.7,
+    "end": 9.7,
     "lines": [
       {
-        "text": "КОПИЯ",
+        "text": "ПОДСКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА УСТРОЙСТВЕ",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.19,
-    "end": 18.6,
+    "start": 9.81,
+    "end": 11.1,
     "lines": [
       {
-        "text": "ЗАДАНИЯ",
+        "text": "ПО СТАТИСТИКЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫТЫ",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.65,
-    "end": 19.9,
+    "start": 11.2,
+    "end": 13.25,
     "lines": [
       {
-        "text": "БЕЗ ЗАПРОСА",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К СЕРВЕРУ",
+        "text": "СЛУЧАЙНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.43,
-    "end": 21.85,
+    "start": 13.44,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.53,
-    "end": 23.95,
+    "start": 15.1,
+    "end": 17.05,
     "lines": [
       {
-        "text": "В ЛЮБОЙ ТОЧКЕ",
+        "text": "СПИСКОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МАРШРУТА",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.99,
-    "end": 26.5,
+    "start": 17.22,
+    "end": 18.7,
     "lines": [
       {
-        "text": "ПЛОХОЙ СИГНАЛ",
+        "text": "ЭКОНОМИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОМЕХА",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.7,
-    "end": 29.6,
+    "start": 18.8,
+    "end": 20.5,
     "lines": [
       {
-        "text": "ПОДГОТОВКА",
+        "text": "НЕ НАДО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ СТОИТ",
+        "text": "ДУМАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.15,
-    "end": 32.1,
+    "start": 20.79,
+    "end": 22.75,
+    "lines": [
+      {
+        "text": "ПОРЯДОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАТИСТИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.86,
+    "end": 24.05,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОНЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.24,
+    "end": 25.95,
     "lines": [
       {
         "text": "ССЫЛКА",

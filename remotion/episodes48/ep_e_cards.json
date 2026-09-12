@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.6,
+    "end": 3.9,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСПИСАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.56,
+    "end": 5.8,
+    "lines": [
+      {
+        "text": "НАПОМИНАНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 7.7,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 9.5,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМ РЕШАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 11.1,
+    "lines": [
+      {
+        "text": "ЕЖЕДНЕВНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МИССИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "ИГРА ИЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 15.4,
+    "lines": [
+      {
+        "text": "НЕ НАДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 18.5,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.81,
+    "end": 20.6,
+    "lines": [
+      {
+        "text": "БЕЗ РОДИТЕЛЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И УЧИТЕЛЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.88,
+    "end": 23.95,
+    "lines": [
+      {
+        "text": "ЗАДАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЛОЖЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.3,
+    "end": 26.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
