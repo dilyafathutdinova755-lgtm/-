@@ -4,7 +4,39 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "ДЕСЯТКИ",
+        "text": "ЗНАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАТЕРИАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.01,
+    "end": 6.5,
+    "lines": [
+      {
+        "text": "НО ТЕРЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТ ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.0,
+    "lines": [
+      {
+        "text": "А НЕ ОТ",
         "accent": false,
         "size": "small"
       },
@@ -16,168 +48,120 @@
     ]
   },
   {
-    "start": 3.93,
-    "end": 5.5,
+    "start": 10.92,
+    "end": 12.3,
     "lines": [
       {
-        "text": "ВОЗВРАЩАЕШЬСЯ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕТ",
+        "text": "ПРОБНИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.61,
-    "end": 6.9,
+    "start": 12.4,
+    "end": 13.6,
     "lines": [
       {
-        "text": "К ОШИБКАМ",
+        "text": "СТРОГО ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБЫТЫМ",
+        "text": "РЕГЛАМЕНТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.2,
-    "end": 8.65,
+    "start": 13.7,
+    "end": 15.1,
     "lines": [
       {
-        "text": "СЧИТАЯ",
+        "text": "НАСТОЯЩЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫТОЙ",
+        "text": "ЭКЗАМЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.2,
+    "start": 15.51,
+    "end": 17.0,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОРА",
+        "text": "ТАЙМЕРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.82,
-    "end": 13.2,
+    "start": 17.07,
+    "end": 19.05,
     "lines": [
       {
-        "text": "ОТКЛАДЫВАЕТ",
+        "text": "НЕЗАВИСИМО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКУ",
+        "text": "ОТ УЧЕНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.3,
-    "end": 15.2,
+    "start": 19.62,
+    "end": 21.95,
     "lines": [
       {
-        "text": "В ОТДЕЛЬНЫЙ",
+        "text": "ПРИВЫЧКА УКЛАДЫВАТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСОК",
+        "text": "ВОВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.47,
-    "end": 18.1,
+    "start": 22.26,
+    "end": 24.7,
     "lines": [
       {
-        "text": "МОЖНО",
+        "text": "СНИЖАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫТЬ",
+        "text": "СТРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.2,
-    "end": 19.6,
-    "lines": [
-      {
-        "text": "И ПРОЙТИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАНОВО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.31,
-    "end": 22.55,
-    "lines": [
-      {
-        "text": "ВОЗВРАТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАКРЫВАЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.59,
-    "end": 24.95,
-    "lines": [
-      {
-        "text": "ВЕРНЕЕ ЧЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НОВЫЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.68,
-    "end": 27.35,
+    "start": 25.29,
+    "end": 26.95,
     "lines": [
       {
         "text": "ССЫЛКА",
