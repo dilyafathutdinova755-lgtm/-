@@ -1,87 +1,87 @@
 [
   {
     "start": 2.6,
-    "end": 3.9,
+    "end": 4.35,
     "lines": [
       {
-        "text": "ОТДЕЛЬНЫЙ",
+        "text": "ВЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЮДЖЕТ",
+        "text": "УЧЕБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 5.6,
+    "start": 4.56,
+    "end": 5.9,
     "lines": [
       {
-        "text": "НА РЕПЕТИТОРЫ",
+        "text": "ЗА ОДИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧТИ",
+        "text": "ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 6.9,
+    "start": 5.9,
+    "end": 7.8,
     "lines": [
       {
-        "text": "ПО КАЖДОМУ",
+        "text": "ВМЕСТО ТОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТУ",
+        "text": "ЧТОБЫ РАЗБИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 8.2,
+    "start": 7.92,
+    "end": 9.85,
     "lines": [
       {
-        "text": "ЕСЛИ ПРЕДМЕТОВ",
+        "text": "РАСПРЕДЕЛИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕСКОЛЬКО",
+        "text": "ПО ДНЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.3,
-    "end": 10.3,
+    "start": 10.14,
+    "end": 11.0,
     "lines": [
       {
-        "text": "ОДНОВРЕМЕННО",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "СПЕШКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.07,
-    "end": 12.4,
+    "start": 12.36,
+    "end": 13.7,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -89,143 +89,111 @@
         "size": "small"
       },
       {
-        "text": "БЕСПЛАТНО",
+        "text": "КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.5,
-    "end": 13.9,
+    "start": 13.8,
+    "end": 15.1,
     "lines": [
       {
-        "text": "ДОСТУП К",
+        "text": "КРАТКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНКУ",
+        "text": "ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.0,
-    "end": 15.6,
+    "start": 15.45,
+    "end": 17.55,
     "lines": [
       {
-        "text": "ПО ВСЕМ",
+        "text": "ПЕРЕВЕРНУЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТАМ",
+        "text": "ГЛАВНОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.7,
-    "end": 17.0,
+    "start": 17.82,
+    "end": 20.7,
     "lines": [
       {
-        "text": "ШКОЛЬНОЙ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОГРАММЫ",
+        "text": "ПЕРЕСКАЗА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 18.5,
+    "start": 21.54,
+    "end": 24.4,
     "lines": [
       {
-        "text": "БЕЗ ОПЛАТЫ",
+        "text": "ПОДХОДИТ И ДЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА КАЖДЫЙ",
+        "text": "ОЛИМПИАДЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.17,
-    "end": 20.5,
+    "start": 24.6,
+    "end": 25.75,
     "lines": [
       {
-        "text": "ЭКОНОМИЯ",
+        "text": "И ДЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕТНА",
+        "text": "ЭКЗАМЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.6,
-    "end": 23.55,
+    "start": 26.28,
+    "end": 30.2,
     "lines": [
       {
-        "text": "ЕСЛИ ПРЕДМЕТОВ",
+        "text": "МЕНЬШЕ ВРЕМЕНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕТЫРЕ ПЯТЬ",
+        "text": "ЧЕМ ПОИСК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.18,
-    "end": 25.6,
-    "lines": [
-      {
-        "text": "ОДИН БАНК",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.7,
-    "end": 28.15,
-    "lines": [
-      {
-        "text": "БЮДЖЕТ НА РЕПЕТИТОРОВ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВСЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.74,
-    "end": 30.45,
+    "start": 30.81,
+    "end": 32.6,
     "lines": [
       {
         "text": "ССЫЛКА",

@@ -1,87 +1,55 @@
 [
   {
     "start": 2.6,
-    "end": 3.9,
+    "end": 4.2,
     "lines": [
       {
-        "text": "ОТДЕЛЬНЫЙ",
+        "text": "ПО КАКИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЮДЖЕТ",
+        "text": "ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 5.6,
+    "start": 4.32,
+    "end": 6.5,
     "lines": [
       {
-        "text": "НА РЕПЕТИТОРЫ",
+        "text": "БОЛЬШЕ ВСЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧТИ",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 6.9,
+    "start": 6.93,
+    "end": 9.45,
     "lines": [
       {
-        "text": "ПО КАЖДОМУ",
+        "text": "СПРОСИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТУ",
+        "text": "БЕСПОЛЕЗНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 8.2,
-    "lines": [
-      {
-        "text": "ЕСЛИ ПРЕДМЕТОВ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕСКОЛЬКО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.3,
-    "end": 10.3,
-    "lines": [
-      {
-        "text": "ОДНОВРЕМЕННО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРАЗУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.07,
-    "end": 12.4,
+    "start": 10.17,
+    "end": 11.5,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -89,143 +57,143 @@
         "size": "small"
       },
       {
-        "text": "БЕСПЛАТНО",
+        "text": "СТАТИСТИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.5,
-    "end": 13.9,
+    "start": 11.6,
+    "end": 13.35,
     "lines": [
-      {
-        "text": "ДОСТУП К",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БАНКУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.0,
-    "end": 15.6,
-    "lines": [
-      {
-        "text": "ПО ВСЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРЕДМЕТАМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.7,
-    "end": 17.0,
-    "lines": [
-      {
-        "text": "ШКОЛЬНОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОГРАММЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.1,
-    "end": 18.5,
-    "lines": [
-      {
-        "text": "БЕЗ ОПЛАТЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗА КАЖДЫЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.17,
-    "end": 20.5,
-    "lines": [
-      {
-        "text": "ЭКОНОМИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕТНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.6,
-    "end": 23.55,
-    "lines": [
-      {
-        "text": "ЕСЛИ ПРЕДМЕТОВ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЧЕТЫРЕ ПЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.18,
-    "end": 25.6,
-    "lines": [
-      {
-        "text": "ОДИН БАНК",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.7,
-    "end": 28.15,
-    "lines": [
-      {
-        "text": "БЮДЖЕТ НА РЕПЕТИТОРОВ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.74,
-    "end": 30.45,
+    "start": 13.8,
+    "end": 15.2,
+    "lines": [
+      {
+        "text": "ВЫДЕЛЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "С НАИБОЛЬШИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧИСЛОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.47,
+    "end": 18.35,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗГОВОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.93,
+    "end": 21.3,
+    "lines": [
+      {
+        "text": "МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.39,
+    "end": 22.65,
+    "lines": [
+      {
+        "text": "ЗА ПАРУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.19,
+    "end": 24.7,
+    "lines": [
+      {
+        "text": "ЦИФРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛАБОЕ МЕСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.87,
+    "end": 26.5,
+    "lines": [
+      {
+        "text": "ТОЧНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗГОВОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.03,
+    "end": 28.6,
     "lines": [
       {
         "text": "ССЫЛКА",
