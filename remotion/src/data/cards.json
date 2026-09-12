@@ -1,183 +1,183 @@
 [
   {
     "start": 2.6,
-    "end": 4.05,
+    "end": 3.9,
     "lines": [
       {
-        "text": "ЧУЖИЕ ОТВЕТЫ",
+        "text": "ДЕСЯТКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ РЕШЕБНИКА",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.41,
-    "end": 5.8,
+    "start": 3.93,
+    "end": 5.5,
     "lines": [
       {
-        "text": "НЕ ВИДИШЬ",
+        "text": "ВОЗВРАЩАЕШЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОГИКУ",
+        "text": "НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.66,
-    "end": 7.6,
+    "start": 5.61,
+    "end": 6.9,
     "lines": [
       {
-        "text": "КОТОРАЯ",
+        "text": "К ОШИБКАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИВЕЛА",
+        "text": "ЗАБЫТЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.95,
-    "end": 9.5,
+    "start": 7.2,
+    "end": 8.65,
     "lines": [
       {
-        "text": "НЕ МОЖЕШЬ",
+        "text": "СЧИТАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРИТЬ",
+        "text": "ЗАКРЫТОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.6,
-    "end": 11.3,
+    "start": 8.76,
+    "end": 10.2,
     "lines": [
       {
-        "text": "ПРИЕМ НА",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖЕМ",
+        "text": "РАЗБОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.18,
-    "end": 13.6,
+    "start": 11.82,
+    "end": 13.2,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "ОТКЛАДЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСЫВАЕТ",
+        "text": "ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.7,
-    "end": 15.9,
+    "start": 13.3,
+    "end": 15.2,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "В ОТДЕЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВИДЕО",
+        "text": "СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.59,
-    "end": 18.55,
+    "start": 16.47,
+    "end": 18.1,
     "lines": [
       {
-        "text": "КАЖДЫЙ ШАГ",
+        "text": "МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЛУХ",
+        "text": "ОТКРЫТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.93,
-    "end": 20.95,
+    "start": 18.2,
+    "end": 19.6,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "И ПРОЙТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ЦИФРА",
+        "text": "ЗАНОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.84,
-    "end": 23.8,
+    "start": 20.31,
+    "end": 22.55,
     "lines": [
       {
-        "text": "ПРИЕМ",
+        "text": "ВОЗВРАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВИДЕННЫЙ",
+        "text": "ЗАКРЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.12,
-    "end": 26.5,
+    "start": 22.59,
+    "end": 24.95,
     "lines": [
       {
-        "text": "УЗНАЕТСЯ",
+        "text": "ВЕРНЕЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМ СОБОЙ",
+        "text": "НОВЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.3,
-    "end": 29.1,
+    "start": 25.68,
+    "end": 27.35,
     "lines": [
       {
         "text": "ССЫЛКА",
