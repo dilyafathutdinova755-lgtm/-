@@ -1,58 +1,58 @@
 [
   {
     "start": 2.6,
-    "end": 3.6,
+    "end": 4.75,
     "lines": [
       {
-        "text": "ИЗ ЕГЭ",
+        "text": "СЛОЖНАЯ ТЕМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРА",
+        "text": "НА ВИДЕО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.85,
-    "end": 5.35,
+    "start": 5.15,
+    "end": 6.5,
     "lines": [
       {
-        "text": "Я ПОНЯЛА",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗОБРАЛСЯ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.4,
-    "end": 6.8,
+    "start": 6.95,
+    "end": 9.2,
     "lines": [
       {
-        "text": "ЛУЧШЕ ЧЕМ",
+        "text": "УЧИТЕЛЬ ЗА УРОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАНЬШЕ",
+        "text": "ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.4,
-    "end": 9.0,
+    "start": 9.55,
+    "end": 11.4,
     "lines": [
       {
-        "text": "ОБЫЧНО НА",
+        "text": "НЕ РАЗБИРАЯ",
         "accent": false,
         "size": "small"
       },
@@ -64,216 +64,104 @@
     ]
   },
   {
-    "start": 9.05,
-    "end": 9.95,
+    "start": 11.9,
+    "end": 14.6,
     "lines": [
       {
-        "text": "ОТВЕЧАЛ",
+        "text": "ТА ЖЕ ТЕМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКО",
+        "text": "ПО ШАГАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.95,
-    "end": 10.75,
+    "start": 14.9,
+    "end": 16.9,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "МОЖНО ВЗЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕТАЛЕЙ",
+        "text": "ПАУЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.85,
-    "end": 11.95,
+    "start": 17.4,
+    "end": 18.75,
     "lines": [
       {
-        "text": "ПОЧТИ БЕЗ",
+        "text": "ПЕРЕСМОТРЕЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНТЕРЕСА",
+        "text": "МОМЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.35,
-    "end": 13.3,
+    "start": 18.85,
+    "end": 20.9,
     "lines": [
       {
-        "text": "В ЭТОТ",
+        "text": "ТРИЖДЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗ",
+        "text": "ПРЕЖДЕ ЧЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.3,
-    "end": 14.1,
+    "start": 21.35,
+    "end": 22.25,
     "lines": [
       {
-        "text": "ДОСТАЛ",
+        "text": "ТАКОЙ ТЕМП",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕЛЕФОН",
+        "text": "ЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.25,
-    "end": 15.1,
+    "start": 22.3,
+    "end": 24.4,
     "lines": [
       {
-        "text": "СТАЛ",
+        "text": "ЛУЧШЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАТЬ",
+        "text": "ОБЩИЙ ТЕМП",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.1,
-    "end": 17.15,
-    "lines": [
-      {
-        "text": "КАК РЕШАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.75,
-    "end": 18.98,
-    "lines": [
-      {
-        "text": "СЛУШАЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ УЗНАВАЛА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.0,
-    "end": 19.95,
-    "lines": [
-      {
-        "text": "ПРЕЖНЮЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕОХОТУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.15,
-    "end": 21.5,
-    "lines": [
-      {
-        "text": "РАНЬШЕ САДИЛСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗА УРОКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.5,
-    "end": 24.35,
-    "lines": [
-      {
-        "text": "ЛУЧШИЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОКАЗАТЕЛЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.55,
-    "end": 26.4,
-    "lines": [
-      {
-        "text": "КОГДА САМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ХОЧЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.5,
-    "end": 27.35,
-    "lines": [
-      {
-        "text": "ТЕМУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РОДИТЕЛЯМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.75,
-    "end": 29.6,
+    "start": 24.85,
+    "end": 26.6,
     "lines": [
       {
         "text": "ССЫЛКА",
