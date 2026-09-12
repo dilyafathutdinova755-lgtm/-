@@ -1,31 +1,31 @@
 [
   {
     "start": 2.6,
-    "end": 3.95,
+    "end": 3.9,
     "lines": [
       {
-        "text": "ЦЕНЫ В ЧАТЕ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУГАЮТ",
+        "text": "СИСТЕМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.23,
+    "start": 4.0,
     "end": 5.6,
     "lines": [
       {
-        "text": "СУММА ЗА",
+        "text": "КАЖДЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
@@ -33,23 +33,23 @@
   },
   {
     "start": 5.7,
-    "end": 7.05,
+    "end": 6.95,
     "lines": [
       {
-        "text": "БОЛЬШЕ",
+        "text": "ОДНО И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРМАННЫХ",
+        "text": "ТО ЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.83,
-    "end": 9.1,
+    "start": 7.23,
+    "end": 8.6,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,119 +57,135 @@
         "size": "small"
       },
       {
-        "text": "ТОТ ЖЕ БАНК",
+        "text": "САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.2,
-    "end": 10.6,
+    "start": 8.7,
+    "end": 9.7,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "ПОДСКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕСПЛАТНО",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.77,
-    "end": 12.3,
+    "start": 9.81,
+    "end": 11.1,
     "lines": [
       {
-        "text": "БЕЗ РУБЛЯ",
+        "text": "ПО СТАТИСТИКЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ЧАС",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.4,
-    "end": 14.15,
+    "start": 11.2,
+    "end": 13.25,
     "lines": [
       {
-        "text": "ИЛИ",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ТЕМУ",
+        "text": "СЛУЧАЙНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 16.0,
+    "start": 13.44,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ЭКОНОМИЯ",
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕТНА",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
+    "start": 15.1,
+    "end": 17.05,
+    "lines": [
+      {
+        "text": "СПИСКОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
     "end": 18.7,
     "lines": [
       {
-        "text": "ЕСЛИ ПРЕДМЕТОВ",
+        "text": "ЭКОНОМИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕСКОЛЬКО",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.99,
-    "end": 20.3,
+    "start": 18.8,
+    "end": 20.5,
     "lines": [
       {
-        "text": "БЕСПЛАТНЫЙ",
+        "text": "НЕ НАДО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК",
+        "text": "ДУМАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.4,
-    "end": 22.55,
+    "start": 20.79,
+    "end": 22.75,
     "lines": [
       {
-        "text": "ЗАМЕНЯЕТ",
+        "text": "ПОРЯДОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАТНЫЙ ЧАС",
+        "text": "СТАТИСТИКА",
         "accent": true,
         "size": "big"
       }
@@ -177,7 +193,23 @@
   },
   {
     "start": 22.86,
-    "end": 24.6,
+    "end": 24.05,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОНЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.24,
+    "end": 25.95,
     "lines": [
       {
         "text": "ССЫЛКА",
