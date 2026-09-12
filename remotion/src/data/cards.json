@@ -4,36 +4,52 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "НИЧЕГО НЕ",
+        "text": "НЕДООЦЕНИВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМНИЛ",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.9,
-    "end": 6.2,
+    "start": 4.53,
+    "end": 5.8,
     "lines": [
       {
-        "text": "А УТРОМ",
+        "text": "ПОКА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ПРОБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.02,
-    "end": 8.6,
+    "start": 6.0,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "БЕЗ ПАУЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦЕЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.28,
+    "end": 9.6,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,127 +57,143 @@
         "size": "small"
       },
       {
-        "text": "КАРТОЧКИ",
+        "text": "СЧИТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 10.1,
+    "start": 9.7,
+    "end": 11.0,
     "lines": [
       {
-        "text": "КОМПАКТНЫЙ",
+        "text": "ВРЕМЯ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСОК",
+        "text": "ЗАДАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.95,
+    "start": 12.09,
+    "end": 13.6,
     "lines": [
       {
-        "text": "ОДИН ФАКТ",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА КАРТОЧКЕ",
+        "text": "ГДЕ ДОЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.1,
-    "end": 13.5,
+    "start": 13.7,
+    "end": 14.8,
     "lines": [
       {
-        "text": "НЕ АБЗАЦ",
+        "text": "БОЛЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТА",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.65,
-    "end": 15.9,
+    "start": 15.09,
+    "end": 16.5,
     "lines": [
       {
-        "text": "ПОДХОДИТ",
+        "text": "РАСКЛАДКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЗДЕ",
+        "text": "ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.1,
-    "end": 17.2,
+    "start": 16.6,
+    "end": 18.05,
     "lines": [
       {
-        "text": "ДАЖЕ В",
+        "text": "РАСПРЕДЕЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧЕРЕДИ",
+        "text": "СИЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.5,
-    "end": 19.95,
+    "start": 18.12,
+    "end": 19.0,
     "lines": [
       {
-        "text": "ЗАПОМИНАЕТСЯ",
+        "text": "НА ЭКЗАМЕНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧНЕЕ",
+        "text": "РЕАЛЬНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.0,
-    "end": 20.95,
+    "start": 19.32,
+    "end": 20.6,
     "lines": [
       {
-        "text": "ЧЕМ АБЗАЦ",
+        "text": "ВИДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕД СНОМ",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.21,
-    "end": 22.9,
+    "start": 20.7,
+    "end": 21.8,
+    "lines": [
+      {
+        "text": "ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСКОРИТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.04,
+    "end": 24.7,
     "lines": [
       {
         "text": "ССЫЛКА",
