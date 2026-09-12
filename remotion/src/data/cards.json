@@ -4,196 +4,292 @@
     "end": 3.95,
     "lines": [
       {
-        "text": "ПЕРЕД",
+        "text": "ГОТОВИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНЯТИЕМ",
+        "text": "НИКАК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.1,
-    "end": 5.85,
+    "start": 4.5,
+    "end": 6.2,
     "lines": [
       {
-        "text": "ВСКОЧИЛ",
+        "text": "ВСЕ СЧИТАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПАНИКЕ",
+        "text": "МЕНЕЕ ВАЖНЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.55,
-    "end": 8.4,
+    "start": 6.25,
+    "end": 7.55,
     "lines": [
       {
-        "text": "ВМЕСТО УЧЕБНИКА",
+        "text": "ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫЛ",
+        "text": "ПРИЗОВОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.5,
-    "end": 9.7,
+    "start": 8.2,
+    "end": 9.35,
     "lines": [
       {
-        "text": "ТЕМА",
+        "text": "ТРЕНЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАЛА",
+        "text": "ПОШУТИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.8,
-    "end": 10.8,
+    "start": 9.5,
+    "end": 10.4,
     "lines": [
       {
-        "text": "С ЗАВТРАШНЕЙ",
+        "text": "ЧТО БАЛЛЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРКОЙ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.9,
-    "end": 11.7,
+    "start": 10.5,
+    "end": 11.45,
     "lines": [
       {
-        "text": "ПРОБЕЖАЛ",
+        "text": "НАЙДУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДЕО",
+        "text": "САМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.8,
-    "end": 13.5,
+    "start": 11.45,
+    "end": 12.95,
     "lines": [
       {
-        "text": "КОРОТКУЮ",
+        "text": "ЕСЛИ ВЫИГРАЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРУ",
+        "text": "ОЛИМПИАДУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.55,
-    "end": 14.75,
+    "start": 13.6,
+    "end": 14.65,
     "lines": [
       {
-        "text": "ПРЯМО",
+        "text": "Я В ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В АВТОБУСЕ",
+        "text": "НЕ ПОВЕРИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.0,
-    "end": 16.95,
+    "start": 14.9,
+    "end": 16.25,
     "lines": [
       {
-        "text": "НАПИСАЛ",
+        "text": "ТИХО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛУЧШЕ",
+        "text": "ПРОХОЖУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.35,
-    "end": 18.7,
+    "start": 16.55,
+    "end": 17.45,
     "lines": [
       {
-        "text": "СПРОСОНЬЯ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 18.6,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРОВОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 20.15,
+    "lines": [
+      {
+        "text": "НИКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ГОВОРЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.7,
+    "end": 21.5,
+    "lines": [
       {
         "text": "15 МИНУТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.8,
-    "end": 19.7,
-    "lines": [
-      {
-        "text": "В ПРИЛОЖЕНИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕНИЛИ",
+        "text": "ВЕЧЕРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.8,
-    "end": 21.45,
+    "start": 21.55,
+    "end": 22.9,
     "lines": [
       {
-        "text": "ВЕЧЕР",
+        "text": "ОДНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСПАЛ",
+        "text": "ТЕМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.7,
-    "end": 23.49,
+    "start": 23.1,
+    "end": 24.6,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯВЛЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.55,
+    "end": 26.9,
+    "lines": [
+      {
+        "text": "ЕСЛИ ДИПЛОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ЗАЩИТИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.95,
+    "end": 28.25,
+    "lines": [
+      {
+        "text": "НА ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТО ПРОЦЕНТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.6,
+    "end": 30.35,
+    "lines": [
+      {
+        "text": "УЖЕ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫТАЯ БАЗА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.9,
+    "end": 32.88,
     "lines": [
       {
         "text": "ССЫЛКА",
