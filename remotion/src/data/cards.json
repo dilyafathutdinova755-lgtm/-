@@ -4,52 +4,68 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "НЕ ПЕРЕСЧИТЫВАЯ",
+        "text": "ГОТОВИШЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОД",
+        "text": "ОДИН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.23,
-    "end": 5.6,
+    "start": 5.34,
+    "end": 6.9,
     "lines": [
       {
-        "text": "ОТ НАЧАЛА",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО КОНЦА",
+        "text": "СОПЕРНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 7.55,
+    "start": 7.35,
+    "end": 9.0,
     "lines": [
       {
-        "text": "ЦЕЛИКОМ",
+        "text": "СОРЕВНОВАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЕ",
+        "text": "МОТИВИРУЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.95,
-    "end": 9.2,
+    "start": 9.2,
+    "end": 11.95,
+    "lines": [
+      {
+        "text": "ДОЛЬШЕ ВСЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРЕДИ СВОИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.05,
+    "end": 14.3,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,111 +73,143 @@
         "size": "small"
       },
       {
-        "text": "ДОБАВЛЯЕТ",
+        "text": "ДРУЗЬЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 10.15,
+    "start": 14.4,
+    "end": 16.3,
     "lines": [
       {
-        "text": "К ЗАДАНИЮ",
+        "text": "ОБЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДЕО",
+        "text": "РЕЙТИНГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.17,
-    "end": 12.3,
+    "start": 16.89,
+    "end": 18.1,
     "lines": [
       {
-        "text": "ПО ШАГАМ",
+        "text": "МЕСТО МЕНЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЛУХ",
+        "text": "ЗА ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.48,
-    "end": 14.5,
+    "start": 19.95,
+    "end": 21.65,
     "lines": [
       {
-        "text": "НЕ МОЛЧА",
+        "text": "И ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЕРКА",
+        "text": "МИССИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.95,
-    "lines": [
-      {
-        "text": "ПЕРЕСМОТРЕТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СНОВА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.19,
-    "end": 18.7,
-    "lines": [
-      {
-        "text": "СТОЛЬКО РАЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКОЛЬКО НУЖНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.99,
-    "end": 22.15,
-    "lines": [
-      {
-        "text": "ЗАПОМИНАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТОЧНЕЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.35,
+    "start": 22.47,
     "end": 24.0,
+    "lines": [
+      {
+        "text": "ДРУЗЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ КЛАССА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.1,
+    "end": 26.7,
+    "lines": [
+      {
+        "text": "ИЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРУЖКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.69,
+    "end": 29.0,
+    "lines": [
+      {
+        "text": "ПОДТАЛКИВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНИМАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.1,
+    "end": 30.5,
+    "lines": [
+      {
+        "text": "ЧАЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДЫЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.93,
+    "end": 33.05,
+    "lines": [
+      {
+        "text": "НЕ МЫСЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "О ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.05,
+    "end": 35.9,
     "lines": [
       {
         "text": "ССЫЛКА",
