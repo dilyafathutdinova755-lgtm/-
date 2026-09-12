@@ -1,191 +1,191 @@
 [
   {
     "start": 2.6,
-    "end": 4.2,
+    "end": 3.75,
     "lines": [
       {
-        "text": "С ЗАДАНИЕМ",
+        "text": "НА ГРАНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВЫВОД",
+        "text": "МОИХ СИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.3,
-    "end": 6.6,
+    "start": 4.15,
+    "end": 6.05,
     "lines": [
       {
-        "text": "ТЕРЯЛА",
+        "text": "СОБРАННЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАЛЛЫ",
+        "text": "ЗА МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.1,
+    "start": 6.65,
     "end": 8.05,
     "lines": [
       {
-        "text": "ОБЫЧНЫЕ",
+        "text": "ОБЫЧНЫЕ ТЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРНИКИ",
+        "text": "БЫСТРО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.15,
-    "end": 9.7,
+    "start": 8.3,
+    "end": 9.25,
     "lines": [
       {
-        "text": "ОДНОЙ",
+        "text": "А ЭТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРОКОЙ",
+        "text": "ОТКЛАДЫВАЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.1,
-    "end": 12.25,
+    "start": 9.3,
+    "end": 10.8,
     "lines": [
       {
-        "text": "БЕЗ РАЗБОРА",
+        "text": "НА ОТДЕЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОГИКИ",
+        "text": "ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.0,
-    "end": 13.9,
+    "start": 11.5,
+    "end": 13.2,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "СЕЙЧАС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "ТРИ ТИПА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.15,
+    "start": 13.3,
     "end": 15.45,
     "lines": [
       {
-        "text": "НАШЛА",
+        "text": "ОШИБАЮСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАКТИКУ",
+        "text": "ЧАЩЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.75,
-    "end": 17.45,
+    "start": 16.2,
+    "end": 17.0,
     "lines": [
       {
-        "text": "ИМЕННО НА",
+        "text": "КАЖДУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦЕПОЧКИ",
+        "text": "НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.75,
-    "end": 19.05,
+    "start": 17.05,
+    "end": 18.85,
     "lines": [
       {
-        "text": "КАЖДЫЙ",
+        "text": "ДОБАВЛЯЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГ",
+        "text": "ОДНО НОВОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.6,
-    "end": 21.65,
+    "start": 19.2,
+    "end": 21.45,
     "lines": [
       {
-        "text": "ПОДРЯД",
+        "text": "УБИРАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕСКОЛЬКО",
+        "text": "РЕШЁННОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.8,
-    "end": 22.9,
+    "start": 22.1,
+    "end": 23.4,
     "lines": [
       {
-        "text": "НАКОНЕЦ",
+        "text": "НА ГРАНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВИДЕЛА",
+        "text": "СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.9,
-    "end": 24.95,
+    "start": 23.55,
+    "end": 25.0,
     "lines": [
       {
-        "text": "КОТОРУЮ",
+        "text": "РАСТЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УПУСКАЛА",
+        "text": "МЕДЛЕННЕЕ",
         "accent": true,
         "size": "big"
       }
@@ -193,55 +193,23 @@
   },
   {
     "start": 25.55,
-    "end": 26.9,
+    "end": 27.2,
     "lines": [
       {
-        "text": "ДЛЯ",
+        "text": "ЗАТО НАГЛЯДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АМБИЦИЙ",
+        "text": "ПРОГРЕСС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.2,
-    "end": 29.05,
-    "lines": [
-      {
-        "text": "УЗКИЕ ПРОБЕЛЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШАЮТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.35,
-    "end": 31.5,
-    "lines": [
-      {
-        "text": "ЧЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЕНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.0,
-    "end": 33.84,
+    "start": 27.6,
+    "end": 29.25,
     "lines": [
       {
         "text": "ССЫЛКА",

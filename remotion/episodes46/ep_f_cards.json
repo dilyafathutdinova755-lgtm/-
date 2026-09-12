@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.6,
+    "end": 4.75,
+    "lines": [
+      {
+        "text": "СЛОЖНАЯ ТЕМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВИДЕО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.15,
+    "end": 6.5,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.95,
+    "end": 9.2,
+    "lines": [
+      {
+        "text": "УЧИТЕЛЬ ЗА УРОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦЕЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.55,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "НЕ РАЗБИРАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОПРОСЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.9,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "ТА ЖЕ ТЕМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ШАГАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.9,
+    "end": 16.9,
+    "lines": [
+      {
+        "text": "МОЖНО ВЗЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАУЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 18.75,
+    "lines": [
+      {
+        "text": "ПЕРЕСМОТРЕЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОМЕНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.85,
+    "end": 20.9,
+    "lines": [
+      {
+        "text": "ТРИЖДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕЖДЕ ЧЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.35,
+    "end": 22.25,
+    "lines": [
+      {
+        "text": "ТАКОЙ ТЕМП",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.3,
+    "end": 24.4,
+    "lines": [
+      {
+        "text": "ЛУЧШЕ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩИЙ ТЕМП",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.85,
+    "end": 26.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

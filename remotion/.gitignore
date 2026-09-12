@@ -166,3 +166,10 @@ episodes45/render/
 episodes45_out/
 sources_coffee123_2/
 asr_coffee123_2/
+episodes46/*.mp4
+episodes46/*.wav
+episodes46/*.log
+episodes46/render/
+episodes46_out/
+sources_coffee123_3/
+asr_coffee123_3/
