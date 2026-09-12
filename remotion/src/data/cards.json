@@ -1,263 +1,199 @@
 [
   {
     "start": 2.6,
-    "end": 3.65,
+    "end": 3.7,
     "lines": [
       {
-        "text": "НА ЕГЭ",
+        "text": "ВМЕСТО ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ВЕЧЕР",
+        "text": "ИКОНКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.8,
-    "end": 6.15,
+    "start": 3.75,
+    "end": 4.75,
     "lines": [
       {
-        "text": "ВОТ ЧТО ДАЛО",
+        "text": "НА ТЕЛЕФОНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА МЕСЯЦ",
+        "text": "В ТЕМНОТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 7.7,
+    "start": 4.9,
+    "end": 5.75,
     "lines": [
       {
-        "text": "ПЕРВЫЙ",
+        "text": "ХОТЕЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "ЗАКРЫТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.15,
-    "end": 9.85,
+    "start": 5.8,
+    "end": 6.7,
     "lines": [
       {
-        "text": "НА БАЛЛ",
+        "text": "НАЙТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЖЕ",
+        "text": "ИГРУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.1,
-    "end": 11.1,
+    "start": 6.85,
+    "end": 8.2,
     "lines": [
       {
-        "text": "СИЛЬНО",
+        "text": "НО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОГОРЧИЛАСЬ",
+        "text": "ЗАЦЕПИЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 14.55,
+    "start": 8.25,
+    "end": 9.5,
     "lines": [
+      {
+        "text": "НА ЭКРАНЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАЛИП",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "ВМЕСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УРОВНЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 12.4,
+    "lines": [
+      {
+        "text": "ПОЧТИ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "15 МИНУТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.6,
-    "end": 15.55,
+    "start": 12.6,
+    "end": 14.2,
     "lines": [
       {
-        "text": "КАЖДЫЙ ВЕЧЕР",
+        "text": "ИГРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВМЕСТО ЧАСА",
+        "text": "НЕТРОНУТОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.1,
-    "end": 16.95,
+    "start": 14.3,
+    "end": 15.4,
     "lines": [
       {
-        "text": "ЗА",
+        "text": "ЗАТО ТЕМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНСПЕКТОМ",
+        "text": "ЗАКРЫТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.2,
-    "end": 18.1,
+    "start": 16.35,
+    "end": 18.25,
     "lines": [
       {
-        "text": "ВТОРОЙ",
+        "text": "ПЕРЕПУТАННЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "ПОЛЕЗНЫМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.2,
-    "end": 19.7,
+    "start": 18.3,
+    "end": 19.25,
     "lines": [
       {
-        "text": "ВЫРОС СРАЗУ",
+        "text": "ДОВОЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА 8 БАЛЛОВ",
+        "text": "ОШИБКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.5,
-    "end": 21.7,
-    "lines": [
-      {
-        "text": "ОЛИМПИАДНОЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАСПИСАНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.7,
-    "end": 23.25,
-    "lines": [
-      {
-        "text": "ВРЕМЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЦЕЛО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.25,
-    "end": 24.1,
-    "lines": [
-      {
-        "text": "НИ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МИНУТУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.85,
-    "end": 26.95,
-    "lines": [
-      {
-        "text": "ВОСЕМЬ БАЛЛОВ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗА МЕСЯЦ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.2,
-    "end": 28.5,
-    "lines": [
-      {
-        "text": "ОКАЗАЛИСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СИЛЬНЕЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.55,
-    "end": 29.75,
-    "lines": [
-      {
-        "text": "ЛЮБОГО ПЛАНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА БУМАГЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.3,
-    "end": 32.3,
+    "start": 19.75,
+    "end": 21.591,
     "lines": [
       {
         "text": "ССЫЛКА",
