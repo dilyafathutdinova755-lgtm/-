@@ -1,55 +1,87 @@
 [
   {
     "start": 2.6,
-    "end": 3.9,
+    "end": 4.35,
     "lines": [
       {
-        "text": "ЗНАЕТ",
+        "text": "ВЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МАТЕРИАЛ",
+        "text": "УЧЕБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.01,
-    "end": 6.5,
+    "start": 4.56,
+    "end": 5.9,
     "lines": [
       {
-        "text": "НО ТЕРЯЕТСЯ",
+        "text": "ЗА ОДИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ ВРЕМЕНИ",
+        "text": "ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.6,
-    "end": 8.0,
+    "start": 5.9,
+    "end": 7.8,
     "lines": [
       {
-        "text": "А НЕ ОТ",
+        "text": "ВМЕСТО ТОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ЧТОБЫ РАЗБИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.92,
-    "end": 12.3,
+    "start": 7.92,
+    "end": 9.85,
+    "lines": [
+      {
+        "text": "РАСПРЕДЕЛИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ДНЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.14,
+    "end": 11.0,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПЕШКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 13.7,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,34 +89,82 @@
         "size": "small"
       },
       {
-        "text": "ПРОБНИКИ",
+        "text": "КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.4,
-    "end": 13.6,
+    "start": 13.8,
+    "end": 15.1,
     "lines": [
       {
-        "text": "СТРОГО ПО",
+        "text": "КРАТКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕГЛАМЕНТУ",
+        "text": "ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.7,
-    "end": 15.1,
+    "start": 15.45,
+    "end": 17.55,
     "lines": [
       {
-        "text": "НАСТОЯЩЕГО",
+        "text": "ПЕРЕВЕРНУЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛАВНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.82,
+    "end": 20.7,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСКАЗА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.54,
+    "end": 24.4,
+    "lines": [
+      {
+        "text": "ПОДХОДИТ И ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЛИМПИАДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.6,
+    "end": 25.75,
+    "lines": [
+      {
+        "text": "И ДЛЯ",
         "accent": false,
         "size": "small"
       },
@@ -96,72 +176,24 @@
     ]
   },
   {
-    "start": 15.51,
-    "end": 17.0,
+    "start": 26.28,
+    "end": 30.2,
     "lines": [
       {
-        "text": "С",
+        "text": "МЕНЬШЕ ВРЕМЕНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАЙМЕРОМ",
+        "text": "ЧЕМ ПОИСК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.07,
-    "end": 19.05,
-    "lines": [
-      {
-        "text": "НЕЗАВИСИМО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТ УЧЕНИКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.62,
-    "end": 21.95,
-    "lines": [
-      {
-        "text": "ПРИВЫЧКА УКЛАДЫВАТЬСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВОВРЕМЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.26,
-    "end": 24.7,
-    "lines": [
-      {
-        "text": "СНИЖАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТРАХ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.29,
-    "end": 26.95,
+    "start": 30.81,
+    "end": 32.6,
     "lines": [
       {
         "text": "ССЫЛКА",
