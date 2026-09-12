@@ -4,52 +4,84 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "НЕДООЦЕНИВАЕШЬ",
+        "text": "ЗНАЕШЬ ТЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЯ",
+        "text": "НО ПУТАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.53,
-    "end": 5.8,
+    "start": 4.0,
+    "end": 5.2,
     "lines": [
       {
-        "text": "ПОКА НЕ",
+        "text": "УДАРЕНИЯ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 7.9,
+    "start": 5.55,
+    "end": 7.2,
     "lines": [
       {
-        "text": "БЕЗ ПАУЗ",
+        "text": "КАК И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦЕЛИКОМ",
+        "text": "ВСЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 9.6,
+    "start": 7.62,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "ФОРМАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "НО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УВЕРЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 14.0,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,143 +89,127 @@
         "size": "small"
       },
       {
-        "text": "СЧИТАЕТ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.7,
-    "end": 11.0,
+    "start": 14.1,
+    "end": 16.75,
     "lines": [
       {
-        "text": "ВРЕМЯ ПО",
+        "text": "НА КАЖДУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЮ",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.09,
-    "end": 13.6,
-    "lines": [
-      {
-        "text": "ПОКАЗЫВАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ГДЕ ДОЛЬШЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.7,
-    "end": 14.8,
-    "lines": [
-      {
-        "text": "БОЛЬШЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МИНУТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.09,
-    "end": 16.5,
-    "lines": [
-      {
-        "text": "РАСКЛАДКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВРЕМЕНИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.6,
-    "end": 18.05,
-    "lines": [
-      {
-        "text": "РАСПРЕДЕЛЯЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СИЛЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.12,
+    "start": 17.49,
     "end": 19.0,
     "lines": [
       {
-        "text": "НА ЭКЗАМЕНЕ",
+        "text": "УДАРЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕАЛЬНОМ",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.32,
-    "end": 20.6,
+    "start": 19.1,
+    "end": 20.85,
     "lines": [
       {
-        "text": "ВИДНО",
+        "text": "ТЕРМИНЫ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "ДАТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.7,
-    "end": 21.8,
+    "start": 21.42,
+    "end": 23.9,
     "lines": [
       {
-        "text": "ГДЕ",
+        "text": "НЕ ОДИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСКОРИТЬСЯ",
+        "text": "ОБЩИЙ ТЕСТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.04,
-    "end": 24.7,
+    "start": 24.81,
+    "end": 26.3,
+    "lines": [
+      {
+        "text": "ТОЧЕЧНАЯ ИГРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.4,
+    "end": 27.9,
+    "lines": [
+      {
+        "text": "КОНКРЕТНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБЕЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.0,
+    "end": 29.5,
+    "lines": [
+      {
+        "text": "БЫСТРЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРАГРАФА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.18,
+    "end": 32.0,
     "lines": [
       {
         "text": "ССЫЛКА",
