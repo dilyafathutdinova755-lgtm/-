@@ -1,159 +1,175 @@
 [
   {
     "start": 2.6,
-    "end": 3.5,
+    "end": 3.6,
     "lines": [
       {
-        "text": "ЗАДАЮ",
+        "text": "ИЗ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЫНУ",
+        "text": "ТРЕНАЖЕРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.6,
-    "end": 4.4,
+    "start": 3.85,
+    "end": 5.35,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "Я ПОНЯЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "РАЗОБРАЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.75,
-    "end": 6.6,
+    "start": 5.4,
+    "end": 6.8,
     "lines": [
       {
-        "text": "НЕ ТОЛЬКО",
+        "text": "ЛУЧШЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "НА ОЦЕНКУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.05,
-    "end": 8.0,
-    "lines": [
       {
         "text": "РАНЬШЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СПРАШИВАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.05,
-    "end": 9.1,
+    "start": 7.4,
+    "end": 9.0,
     "lines": [
       {
-        "text": "ТОЛЬКО",
+        "text": "ОБЫЧНО НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАЛЛОВ",
+        "text": "ВОПРОСЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.15,
+    "start": 9.05,
+    "end": 9.95,
+    "lines": [
+      {
+        "text": "ОТВЕЧАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.95,
     "end": 10.75,
     "lines": [
       {
-        "text": "РАЗГОВОР",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНЧАЛСЯ",
+        "text": "ДЕТАЛЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.0,
+    "start": 10.85,
     "end": 11.95,
     "lines": [
       {
-        "text": "ТЕПЕРЬ",
+        "text": "ПОЧТИ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПРАШИВАЮ",
+        "text": "ИНТЕРЕСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.05,
-    "end": 14.4,
+    "start": 12.35,
+    "end": 13.3,
     "lines": [
       {
-        "text": "КАКОЙ ШАГ",
+        "text": "В ЭТОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРУДНЫМ",
+        "text": "РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.4,
-    "end": 15.35,
+    "start": 13.3,
+    "end": 14.1,
     "lines": [
       {
-        "text": "ИМЕННО",
+        "text": "ДОСТАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЭТОТ РАЗ",
+        "text": "ТЕЛЕФОН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.85,
-    "end": 17.7,
+    "start": 14.25,
+    "end": 15.1,
     "lines": [
       {
-        "text": "НАЧАЛ",
+        "text": "СТАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЯТЬ",
+        "text": "ПОКАЗЫВАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.1,
+    "end": 17.15,
+    "lines": [
+      {
+        "text": "КАК РЕШАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
@@ -161,87 +177,103 @@
   },
   {
     "start": 17.75,
-    "end": 18.55,
+    "end": 18.98,
     "lines": [
       {
-        "text": "ЭТО",
+        "text": "СЛУШАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "НЕ УЗНАВАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.65,
+    "start": 19.0,
     "end": 19.95,
     "lines": [
       {
-        "text": "БОЛЬШЕ ЧЕМ",
+        "text": "ПРЕЖНЮЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЦЕНКА",
+        "text": "НЕОХОТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.45,
-    "end": 21.75,
+    "start": 20.15,
+    "end": 21.5,
     "lines": [
       {
-        "text": "ТРИ",
+        "text": "РАНЬШЕ САДИЛСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОПРОСА",
+        "text": "ЗА УРОКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.85,
-    "end": 22.8,
+    "start": 22.5,
+    "end": 24.35,
     "lines": [
       {
-        "text": "РАБОТАЕТ",
+        "text": "ЛУЧШИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧНЕЕ",
+        "text": "ПОКАЗАТЕЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.8,
-    "end": 24.45,
+    "start": 24.55,
+    "end": 26.4,
     "lines": [
       {
-        "text": "ЧЕМ ВЗГЛЯД",
+        "text": "КОГДА САМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА БАЛЛ",
+        "text": "ХОЧЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.9,
-    "end": 26.69,
+    "start": 26.5,
+    "end": 27.35,
+    "lines": [
+      {
+        "text": "ТЕМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОДИТЕЛЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.75,
+    "end": 29.6,
     "lines": [
       {
         "text": "ССЫЛКА",
