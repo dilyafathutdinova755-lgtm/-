@@ -1,87 +1,55 @@
 [
   {
     "start": 2.6,
-    "end": 4.35,
+    "end": 4.2,
     "lines": [
       {
-        "text": "ВЕСЬ",
+        "text": "ПО КАКИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИК",
+        "text": "ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.56,
-    "end": 5.9,
+    "start": 4.32,
+    "end": 6.5,
     "lines": [
       {
-        "text": "ЗА ОДИН",
+        "text": "БОЛЬШЕ ВСЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕР",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.9,
-    "end": 7.8,
+    "start": 6.93,
+    "end": 9.45,
     "lines": [
       {
-        "text": "ВМЕСТО ТОГО",
+        "text": "СПРОСИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТОБЫ РАЗБИТЬ",
+        "text": "БЕСПОЛЕЗНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.92,
-    "end": 9.85,
-    "lines": [
-      {
-        "text": "РАСПРЕДЕЛИТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ДНЯМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.14,
-    "end": 11.0,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СПЕШКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.36,
-    "end": 13.7,
+    "start": 10.17,
+    "end": 11.5,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -89,7 +57,23 @@
         "size": "small"
       },
       {
-        "text": "КАРТОЧКИ",
+        "text": "СТАТИСТИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
@@ -97,39 +81,39 @@
   },
   {
     "start": 13.8,
-    "end": 15.1,
+    "end": 15.2,
     "lines": [
       {
-        "text": "КРАТКИЕ",
+        "text": "ВЫДЕЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ТЕМАМ",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.45,
-    "end": 17.55,
+    "start": 15.3,
+    "end": 16.2,
     "lines": [
       {
-        "text": "ПЕРЕВЕРНУЛ",
+        "text": "С НАИБОЛЬШИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГЛАВНОЕ",
+        "text": "ЧИСЛОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.82,
-    "end": 20.7,
+    "start": 16.47,
+    "end": 18.35,
     "lines": [
       {
         "text": "БЕЗ",
@@ -137,63 +121,79 @@
         "size": "small"
       },
       {
-        "text": "ПЕРЕСКАЗА",
+        "text": "РАЗГОВОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.54,
-    "end": 24.4,
+    "start": 18.93,
+    "end": 21.3,
     "lines": [
       {
-        "text": "ПОДХОДИТ И ДЛЯ",
+        "text": "МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЛИМПИАДЫ",
+        "text": "ВМЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.6,
-    "end": 25.75,
+    "start": 21.39,
+    "end": 22.65,
     "lines": [
       {
-        "text": "И ДЛЯ",
+        "text": "ЗА ПАРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНА",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.28,
-    "end": 30.2,
+    "start": 23.19,
+    "end": 24.7,
     "lines": [
       {
-        "text": "МЕНЬШЕ ВРЕМЕНИ",
+        "text": "ЦИФРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕМ ПОИСК",
+        "text": "СЛАБОЕ МЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.81,
-    "end": 32.6,
+    "start": 24.87,
+    "end": 26.5,
+    "lines": [
+      {
+        "text": "ТОЧНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗГОВОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.03,
+    "end": 28.6,
     "lines": [
       {
         "text": "ССЫЛКА",
