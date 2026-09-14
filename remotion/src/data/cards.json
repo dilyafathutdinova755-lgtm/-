@@ -1,41 +1,45 @@
 [
-  { "start": 2.76, "end": 4.74, "lines": [
-    { "text": "ПОСТ", "accent": false, "size": "small" },
-    { "text": "ЕГЭ БУДЕТ СЛОЖНЕЕ", "accent": true, "size": "big" }
+  { "start": 2.31, "end": 4.95, "lines": [
+    { "text": "ЧЕСТНО ДОЧЬ ПЕРЕСТАЛА", "accent": false, "size": "small" },
+    { "text": "РАССКАЗЫВАТЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 5.19, "end": 8.73, "lines": [
-    { "text": "ВЕСЬ ВЕЧЕР ЧИТАЛА", "accent": false, "size": "small" },
-    { "text": "КОММЕНТАРИИ", "accent": true, "size": "big" }
+  { "start": 5.28, "end": 7.56, "lines": [
+    { "text": "И ЭТО ЗАДЕЛО", "accent": false, "size": "small" },
+    { "text": "БОЛЬШЕ ЧЕМ БАЛЛЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.36, "end": 10.98, "lines": [
-    { "text": "У ПОСТА НЕ БЫЛО", "accent": false, "size": "small" },
-    { "text": "ТОЛЬКО ТРЕВОГИ", "accent": true, "size": "big" }
+  { "start": 8.25, "end": 9.75, "lines": [
+    { "text": "РАНЬШЕ ДЕЛИЛАСЬ", "accent": false, "size": "small" },
+    { "text": "КАЖДОЙ МЕЛОЧЬЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 11.13, "end": 14.31, "lines": [
-    { "text": "ДЕСЯТКИ РЕПОСТОВ", "accent": false, "size": "small" },
-    { "text": "ВОСКЛИЦАНИЯ", "accent": true, "size": "big" }
+  { "start": 9.87, "end": 12.45, "lines": [
+    { "text": "А ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "ОДНИМ СЛОВОМ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.00, "end": 16.44, "lines": [
-    { "text": "УТРОМ ЗАШЛА", "accent": false, "size": "small" },
-    { "text": "НА САЙТ", "accent": true, "size": "big" }
+  { "start": 12.93, "end": 14.91, "lines": [
+    { "text": "ПЕРЕСТАЛА СПРАШИВАТЬ", "accent": false, "size": "small" },
+    { "text": "ПРО ПРОГРЕСС", "accent": true, "size": "big" }
   ]},
-  { "start": 16.62, "end": 18.90, "lines": [
-    { "text": "НИЧЕГО ПУГАЮЩЕГО", "accent": false, "size": "small" },
-    { "text": "НЕ НАШЛА", "accent": true, "size": "big" }
-  ]},
-  { "start": 19.53, "end": 21.54, "lines": [
-    { "text": "С ДОЧЕРЬЮ ОТКРЫЛИ", "accent": false, "size": "small" },
+  { "start": 15.12, "end": 18.00, "lines": [
+    { "text": "ПРОСТО ОСТАВИЛА", "accent": false, "size": "small" },
     { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 21.75, "end": 24.63, "lines": [
-    { "text": "И ЗАКРЫЛИ ТЕМУ", "accent": false, "size": "small" },
-    { "text": "ВМЕСТО ПАНИКИ", "accent": true, "size": "big" }
+  { "start": 18.54, "end": 20.85, "lines": [
+    { "text": "ЧЕРЕЗ НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "САМА ПОКАЗАЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 25.29, "end": 28.23, "lines": [
-    { "text": "СТРАХ ИЗ ПОСТА", "accent": false, "size": "small" },
-    { "text": "НЕ СТОИТ ВЕЧЕРА", "accent": true, "size": "big" }
+  { "start": 21.06, "end": 22.83, "lines": [
+    { "text": "БЕЗ ЕДИНОГО", "accent": false, "size": "small" },
+    { "text": "МОЕГО ВОПРОСА", "accent": true, "size": "big" }
   ]},
-  { "start": 28.77, "end": 30.72, "lines": [
+  { "start": 23.46, "end": 25.35, "lines": [
+    { "text": "МОЛЧАНИЕ ИНОГДА", "accent": false, "size": "small" },
+    { "text": "НЕ ОТДАЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.56, "end": 27.12, "lines": [
+    { "text": "А ПРОСТО", "accent": false, "size": "small" },
+    { "text": "БЕЗ ОТЧЁТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.66, "end": 29.58, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

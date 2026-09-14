@@ -25,7 +25,7 @@
   ]},
   { "start": 18.54, "end": 20.85, "lines": [
     { "text": "ЧЕРЕЗ НЕДЕЛЮ", "accent": false, "size": "small" },
-    { "text": "ДОЧЬ САМА ПОКАЗАЛА", "accent": true, "size": "big" }
+    { "text": "САМА ПОКАЗАЛА", "accent": true, "size": "big" }
   ]},
   { "start": 21.06, "end": 22.83, "lines": [
     { "text": "БЕЗ ЕДИНОГО", "accent": false, "size": "small" },
