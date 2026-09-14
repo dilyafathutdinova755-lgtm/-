@@ -1,167 +1,119 @@
 [
   {
-    "start": 3.9,
-    "end": 6.75,
+    "start": 2.52,
+    "end": 4.98,
     "lines": [
       {
-        "text": "ВСЕ ВОКРУГ",
+        "text": "ТЕПЕРЬ СОБИРАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖДУТ ТОЛЬКО СТО",
+        "text": "ЛИЧНУЮ ПОДБОРКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.59,
-    "end": 10.14,
+    "start": 5.85,
+    "end": 8.34,
     "lines": [
       {
-        "text": "УЧИТЕЛЯ РОДИТЕЛИ",
+        "text": "БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОКЛАССНИКИ",
+        "text": "СЛОЖНЫХ СЛУЧАЕВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.65,
-    "end": 12.3,
+    "start": 9.21,
+    "end": 12.96,
     "lines": [
       {
-        "text": "ЭТО",
+        "text": "ЗАВИС ДОЛЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАННОСТЬ",
+        "text": "ОБЫЧНОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.87,
-    "end": 15.66,
+    "start": 13.5,
+    "end": 16.26,
     "lines": [
       {
-        "text": "ДАВИТ СИЛЬНЕЕ",
+        "text": "ДОБАВЛЯЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕМ САМИ ЗАДАНИЯ",
+        "text": "В СПИСОК ПОВТОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.65,
-    "end": 19.5,
+    "start": 17.28,
+    "end": 20.85,
     "lines": [
       {
-        "text": "СПРАВЛЯЮСЬ",
+        "text": "ТРЕНАЖЁР СТАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ОЖИДАНИЯМИ",
+        "text": "ИСТОЧНИКОМ ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.04,
-    "end": 22.05,
+    "start": 21.6,
+    "end": 24.45,
     "lines": [
       {
-        "text": "А КОНКРЕТНЫМ",
+        "text": "БЕРУ СЛОЖНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАНОМ В ТРЕНАЖЁРЕ",
+        "text": "НЕ ОБЩИЕ ТЕМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.83,
-    "end": 25.02,
+    "start": 25.32,
+    "end": 27.33,
     "lines": [
       {
-        "text": "ВИДЕОРАЗБОРЫ",
+        "text": "ПОДБОРКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧЕЧНАЯ РАБОТА",
+        "text": "УЖЕ 30 ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.26,
-    "end": 27.42,
-    "lines": [
-      {
-        "text": "СЛАБЫЕ МЕСТА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ШАГ ЗА ШАГОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.41,
-    "end": 29.76,
-    "lines": [
-      {
-        "text": "СМОТРЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ПРОЦЕСС",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.0,
-    "end": 32.79,
-    "lines": [
-      {
-        "text": "НЕ НА ОЖИДАНИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТАНОВЛЮСЬ СПОКОЙНЕЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.87,
-    "end": 37.28,
+    "start": 27.33,
+    "end": 29.65,
     "lines": [
       {
         "text": "ССЫЛКА",
