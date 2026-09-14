@@ -1,71 +1,71 @@
 [
   {
-    "start": 2.6,
-    "end": 3.9,
+    "start": 3.03,
+    "end": 4.2,
     "lines": [
       {
-        "text": "ЛЕГКО",
+        "text": "КОПИШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БРОСАЕТ",
+        "text": "ЗАКЛАДКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 4.85,
+    "start": 4.3,
+    "end": 5.75,
     "lines": [
       {
-        "text": "ПОДГОТОВКУ",
+        "text": "И ЗАМЕТКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К ЕГЭ",
+        "text": "В ТЕЛЕФОНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.28,
-    "end": 6.5,
+    "start": 6.18,
+    "end": 7.7,
     "lines": [
       {
-        "text": "ЕСЛИ",
+        "text": "ОТКРЫВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИКОГО",
+        "text": "РЕДКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.69,
-    "end": 8.0,
+    "start": 7.8,
+    "end": 8.9,
     "lines": [
       {
-        "text": "НЕ С КЕМ",
+        "text": "ПЕРЕД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИТЬ",
+        "text": "ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.85,
-    "end": 10.2,
+    "start": 9.93,
+    "end": 11.2,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,31 +73,127 @@
         "size": "small"
       },
       {
-        "text": "СПИСОК",
+        "text": "КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.3,
-    "end": 11.55,
+    "start": 11.3,
+    "end": 12.65,
     "lines": [
       {
-        "text": "ОДНОКЛАССНИКОВ",
+        "text": "КОРОТКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВНУТРИ",
+        "text": "ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.65,
-    "end": 12.5,
+    "start": 12.9,
+    "end": 14.8,
+    "lines": [
+      {
+        "text": "ВМЕСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКЛАДОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 16.95,
+    "lines": [
+      {
+        "text": "ОТКРЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА МИНУТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.16,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНЯТИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.41,
+    "end": 21.1,
+    "lines": [
+      {
+        "text": "И ЗАКРЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕЛЕФОН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.99,
+    "end": 23.85,
+    "lines": [
+      {
+        "text": "НЕ ТРЕБУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНТЕРНЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.03,
+    "end": 25.45,
+    "lines": [
+      {
+        "text": "ТА ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОРОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.53,
+    "end": 26.65,
     "lines": [
       {
         "text": "В",
@@ -105,127 +201,31 @@
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИИ",
+        "text": "ДОРОГЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.75,
-    "end": 14.55,
+    "start": 27.42,
+    "end": 30.95,
     "lines": [
       {
-        "text": "ПРОГРЕСС",
+        "text": "ОДНА КАРТОЧКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА НЕДЕЛЮ",
+        "text": "ЗАМЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.12,
-    "end": 16.5,
-    "lines": [
-      {
-        "text": "ОБНОВЛЯЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРАЗУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.59,
-    "end": 18.95,
-    "lines": [
-      {
-        "text": "КОГДА КТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАКРЫЛ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.53,
-    "end": 21.85,
-    "lines": [
-      {
-        "text": "МОЖНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКРЫТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.93,
-    "end": 23.25,
-    "lines": [
-      {
-        "text": "В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАСТРОЙКАХ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.94,
-    "end": 26.1,
-    "lines": [
-      {
-        "text": "ПРОГРЕСС ДРУГИХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МОТИВИРУЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.19,
-    "end": 27.5,
-    "lines": [
-      {
-        "text": "БОЛЬШЕ ЧЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗГОВОРЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.99,
-    "end": 29.75,
+    "start": 31.71,
+    "end": 33.45,
     "lines": [
       {
         "text": "ССЫЛКА",
