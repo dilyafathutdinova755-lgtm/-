@@ -4,52 +4,52 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "РЕШАЕШЬ КОНТРОЛЬНУЮ",
+        "text": "БЕЗ ДОСТУПА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАБОТУ",
+        "text": "К ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.99,
-    "end": 4.8,
+    "start": 4.0,
+    "end": 5.2,
     "lines": [
       {
-        "text": "И",
+        "text": "В ЛАГЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБЫВАЕШЬ",
+        "text": "НА СБОРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.89,
-    "end": 7.5,
+    "start": 5.3,
+    "end": 6.95,
     "lines": [
       {
-        "text": "ГДЕ БЫЛА",
+        "text": "ИНТЕРНЕТ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКА",
+        "text": "У КОРПУСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.56,
-    "end": 8.9,
+    "start": 7.29,
+    "end": 8.6,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,95 +57,31 @@
         "size": "small"
       },
       {
-        "text": "СОХРАНЯЕТ",
+        "text": "ОТКРЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 10.55,
+    "start": 8.7,
+    "end": 9.7,
     "lines": [
       {
-        "text": "КАЖДУЮ ОШИБКУ",
+        "text": "СОХРАНЕННОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТДЕЛЬНО",
+        "text": "УЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.77,
-    "end": 12.3,
-    "lines": [
-      {
-        "text": "ВМЕСТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАБЫТОГО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.51,
-    "end": 14.55,
-    "lines": [
-      {
-        "text": "РАЗДЕЛ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗА ОДИН КЛИК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.73,
-    "end": 16.9,
-    "lines": [
-      {
-        "text": "ПО КАЖДОМУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРЕДМЕТУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.13,
-    "end": 18.7,
-    "lines": [
-      {
-        "text": "МОЖНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТКРЫТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.72,
-    "end": 20.75,
+    "start": 9.96,
+    "end": 11.3,
     "lines": [
       {
         "text": "БЕЗ",
@@ -153,47 +89,111 @@
         "size": "small"
       },
       {
-        "text": "ПОИСКА",
+        "text": "ОБРАЩЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.03,
-    "end": 23.3,
+    "start": 11.4,
+    "end": 12.7,
     "lines": [
       {
-        "text": "ОШИБКА",
+        "text": "К СЕТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОСТУПНА",
+        "text": "КОРПУСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.43,
-    "end": 25.15,
+    "start": 12.99,
+    "end": 15.5,
     "lines": [
       {
-        "text": "СПУСТЯ",
+        "text": "РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦ",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.32,
-    "end": 26.95,
+    "start": 15.63,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАГРУЗКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.31,
+    "end": 19.55,
+    "lines": [
+      {
+        "text": "ДОСТУП",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВЕСЬ СРОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.68,
+    "end": 21.2,
+    "lines": [
+      {
+        "text": "НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРВЫЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.45,
+    "end": 24.45,
+    "lines": [
+      {
+        "text": "СБОРЫ БЕЗ СЕТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ПАУЗЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.66,
+    "end": 26.3,
     "lines": [
       {
         "text": "ССЫЛКА",
