@@ -1,55 +1,71 @@
 [
   {
-    "start": 2.73,
-    "end": 4.08,
+    "start": 2.52,
+    "end": 3.87,
     "lines": [
       {
-        "text": "В ЗАГОРОДНОМ ДОМЕ",
+        "text": "РЕБЕНОК ИСПРАВЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ РОУТЕРА",
+        "text": "ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.23,
-    "end": 5.88,
+    "start": 3.99,
+    "end": 5.16,
     "lines": [
       {
-        "text": "РЕБЕНОК ОТКЛАДЫВАЕТ",
+        "text": "В ЗАДАНИИ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "НА БУМАГЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 7.05,
+    "start": 5.46,
+    "end": 6.36,
     "lines": [
       {
-        "text": "ДО ВОЗВРАЩЕНИЯ",
+        "text": "И ТУТ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ГОРОД",
+        "text": "НАПРОЧЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.74,
-    "end": 9.09,
+    "start": 6.42,
+    "end": 7.25,
+    "lines": [
+      {
+        "text": "ОНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫВАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 8.85,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,159 +73,159 @@
         "size": "small"
       },
       {
-        "text": "КОПИРУЕТ БАНК",
+        "text": "СОХРАНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.24,
-    "end": 10.29,
+    "start": 9.03,
+    "end": 10.02,
     "lines": [
       {
-        "text": "ФИПИ В ПАМЯТЬ",
+        "text": "НЕВЕРНЫЙ ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕЛЕФОНА",
+        "text": "ВМЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.91,
+    "start": 10.14,
+    "end": 11.19,
     "lines": [
       {
-        "text": "ПРИ ПОСЛЕДНЕМ ПОДКЛЮЧЕНИИ",
+        "text": "С САМИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОМА",
+        "text": "ЗАДАНИЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.14,
+    "start": 11.28,
+    "end": 12.51,
     "lines": [
       {
-        "text": "И ДАЛЬШЕ СВЯЗЬ",
+        "text": "А НЕ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ РЕШЕНИЯ",
+        "text": "ВЕРСИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.2,
-    "end": 14.94,
+    "start": 12.66,
+    "end": 13.95,
     "lines": [
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ПОВЕРХ НЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ТРЕБУЕТСЯ ВООБЩЕ",
+        "text": "ВЕРНУТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.54,
-    "end": 16.41,
+    "start": 14.04,
+    "end": 14.97,
     "lines": [
       {
-        "text": "ЗАГОРОДНЫЙ ДОМ",
+        "text": "К ТАКОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЧЕМ",
+        "text": "ЗАДАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 18.06,
+    "start": 15.36,
+    "end": 16.44,
     "lines": [
       {
-        "text": "НЕ ОТЛИЧАЕТСЯ",
+        "text": "ЧЕРЕЗ ДЕНЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ КВАРТИРЫ",
+        "text": "ЧЕРЕЗ НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.18,
-    "end": 19.32,
+    "start": 16.86,
+    "end": 18.09,
     "lines": [
       {
-        "text": "ДЛЯ САМОГО",
+        "text": "ИЛИ ПРЯМО ПЕРЕД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИЯ",
+        "text": "ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.89,
-    "end": 20.76,
+    "start": 18.57,
+    "end": 19.71,
     "lines": [
       {
-        "text": "ВОЗВРАЩЕНИЕ",
+        "text": "ЗАБЫТАЯ НА БУМАГЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ГОРОД",
+        "text": "ОШИБКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.91,
-    "end": 23.64,
+    "start": 19.83,
+    "end": 21.9,
     "lines": [
       {
-        "text": "ПЕРЕСТАЕТ БЫТЬ",
+        "text": "ОСТАЕТСЯ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСЛОВИЕМ",
+        "text": "ПРИЛОЖЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.12,
-    "end": 25.8,
+    "start": 22.35,
+    "end": 24.03,
     "lines": [
       {
         "text": "ССЫЛКА",
