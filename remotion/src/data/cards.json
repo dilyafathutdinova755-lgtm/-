@@ -4,12 +4,12 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "ТЕРЯЕШЬ",
+        "text": "РАЗБИРАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОСТУП",
+        "text": "ОШИБКУ",
         "accent": true,
         "size": "big"
       }
@@ -17,55 +17,71 @@
   },
   {
     "start": 4.0,
-    "end": 5.1,
+    "end": 5.55,
     "lines": [
       {
-        "text": "КАЖДЫЙ РАЗ",
+        "text": "И ЗАБЫВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВМЕСТЕ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.3,
+    "start": 6.06,
+    "end": 7.6,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "НЕ ПРОВЕРЯЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНТЕРНЕТА",
+        "text": "СНОВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.72,
-    "end": 8.15,
+    "start": 7.71,
+    "end": 9.0,
     "lines": [
       {
-        "text": "ДОМА ИЛИ",
+        "text": "ТА ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ШКОЛЕ",
+        "text": "ЛОГИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.35,
+    "start": 9.1,
+    "end": 10.55,
+    "lines": [
+      {
+        "text": "В ДРУГИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.7,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,143 +89,143 @@
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "СОБИРАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.45,
-    "end": 11.95,
+    "start": 12.8,
+    "end": 14.55,
     "lines": [
       {
-        "text": "ПРЯМО НА",
+        "text": "ОШИБКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСТРОЙСТВЕ",
+        "text": "В РАЗДЕЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.48,
-    "end": 13.7,
+    "start": 15.03,
+    "end": 16.5,
     "lines": [
       {
-        "text": "ОТКРЫВАЕТ",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ПОХОЖЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.8,
-    "end": 15.15,
+    "start": 16.6,
+    "end": 18.3,
     "lines": [
       {
-        "text": "БЕЗ ЗАПРОСА",
+        "text": "ГДЕ ВСТРЕЧАЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К СЕРВЕРУ",
+        "text": "РАНЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.81,
-    "end": 17.0,
+    "start": 19.08,
+    "end": 20.6,
     "lines": [
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "ОБНОВЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 18.45,
+    "start": 20.7,
+    "end": 21.85,
     "lines": [
       {
-        "text": "ЗАГРУЖАЕТСЯ",
+        "text": "ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВМЕСТЕ",
+        "text": "РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.9,
-    "end": 20.7,
+    "start": 22.38,
+    "end": 24.55,
     "lines": [
       {
-        "text": "НЕ ПРОПАДАЕТ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ СЕТИ",
+        "text": "ПЕРЕНОСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.66,
-    "end": 23.0,
+    "start": 25.38,
+    "end": 27.5,
     "lines": [
       {
-        "text": "МЕСТО",
+        "text": "ПОВТОРНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ СВЯЗИ",
+        "text": "ЗА МИНУТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.1,
-    "end": 25.1,
+    "start": 27.78,
+    "end": 29.6,
     "lines": [
       {
-        "text": "НЕ ОТМЕНЯЕТ",
+        "text": "НЕ СЛУЧАЙНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНЯТИЯ",
+        "text": "НА ОЛИМПИАДЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.86,
-    "end": 27.6,
+    "start": 30.15,
+    "end": 31.95,
     "lines": [
       {
         "text": "ССЫЛКА",
