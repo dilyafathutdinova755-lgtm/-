@@ -1,71 +1,71 @@
 [
   {
     "start": 2.52,
-    "end": 3.87,
+    "end": 3.78,
     "lines": [
       {
-        "text": "РЕБЕНОК ИСПРАВЛЯЕТ",
+        "text": "ЗАСТАВИТЬ РЕБЕНКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКУ",
+        "text": "СЕСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.99,
-    "end": 5.16,
+    "start": 3.96,
+    "end": 4.8,
     "lines": [
       {
-        "text": "В ЗАДАНИИ ЕГЭ",
+        "text": "ЗА ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА БУМАГЕ",
+        "text": "ПОЛУЧАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.46,
-    "end": 6.36,
+    "start": 4.95,
+    "end": 6.15,
     "lines": [
       {
-        "text": "И ТУТ ЖЕ",
+        "text": "ТОЛЬКО ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАПРОЧЬ",
+        "text": "ДОЛГИЙ РАЗГОВОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.42,
-    "end": 7.25,
+    "start": 6.33,
+    "end": 7.2,
     "lines": [
       {
-        "text": "ОНИ",
+        "text": "С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБЫВАЮТ",
+        "text": "УГОВОРАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 8.85,
+    "start": 7.71,
+    "end": 9.0,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,159 +73,207 @@
         "size": "small"
       },
       {
-        "text": "СОХРАНЯЕТ",
+        "text": "САМ ПРЕДЛАГАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 10.02,
+    "start": 9.12,
+    "end": 10.2,
     "lines": [
       {
-        "text": "НЕВЕРНЫЙ ОТВЕТ",
+        "text": "КОРОТКОЕ ДЕЛО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВМЕСТЕ",
+        "text": "НА СЕГОДНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.14,
-    "end": 11.19,
+    "start": 10.38,
+    "end": 11.88,
     "lines": [
       {
-        "text": "С САМИМ",
+        "text": "СРАЗУ ПРИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕМ",
+        "text": "ОТКРЫТИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.28,
-    "end": 12.51,
+    "start": 12.33,
+    "end": 13.23,
     "lines": [
       {
-        "text": "А НЕ ТОЛЬКО",
+        "text": "БЕЗ ВСЯКОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРСИЮ",
+        "text": "РАЗГОВОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 13.95,
+    "start": 13.35,
+    "end": 14.85,
     "lines": [
       {
-        "text": "ПОВЕРХ НЕГО",
+        "text": "СО ВЗРОСЛЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНУТЬСЯ",
+        "text": "ДЕЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.04,
-    "end": 14.97,
+    "start": 14.97,
+    "end": 15.96,
     "lines": [
       {
-        "text": "К ТАКОМУ",
+        "text": "МЕНЯЕТСЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЮ",
+        "text": "СЛЕДУЮЩЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.36,
-    "end": 16.44,
+    "start": 16.02,
+    "end": 17.52,
     "lines": [
       {
-        "text": "ЧЕРЕЗ ДЕНЬ",
+        "text": "КАК ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ НЕДЕЛЮ",
+        "text": "ЗАКРЫТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.86,
-    "end": 18.09,
+    "start": 18.21,
+    "end": 19.11,
     "lines": [
       {
-        "text": "ИЛИ ПРЯМО ПЕРЕД",
+        "text": "ДЕЛО И ЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНОМ",
+        "text": "СТАТУС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.57,
-    "end": 19.71,
+    "start": 19.26,
+    "end": 20.19,
     "lines": [
       {
-        "text": "ЗАБЫТАЯ НА БУМАГЕ",
+        "text": "ВИДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКА",
+        "text": "РОДИТЕЛЮ ПРЯМО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.83,
-    "end": 21.9,
+    "start": 20.28,
+    "end": 21.6,
     "lines": [
       {
-        "text": "ОСТАЕТСЯ В",
+        "text": "В ПРИЛОЖЕНИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИИ",
+        "text": "БЕЗ ПЕРЕСКАЗА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.35,
-    "end": 24.03,
+    "start": 21.72,
+    "end": 22.62,
+    "lines": [
+      {
+        "text": "ОТДЕЛЬНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЧЕРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.31,
+    "end": 24.45,
+    "lines": [
+      {
+        "text": "ДОЛГИЙ РАЗГОВОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С УГОВОРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.54,
+    "end": 26.31,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТСЯ ОДНИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫТИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.82,
+    "end": 28.5,
     "lines": [
       {
         "text": "ССЫЛКА",
