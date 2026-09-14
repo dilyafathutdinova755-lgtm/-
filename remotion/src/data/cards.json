@@ -1,55 +1,39 @@
 [
   {
-    "start": 2.55,
+    "start": 2.6,
     "end": 3.7,
     "lines": [
       {
-        "text": "СВЕРЯЕШЬ",
+        "text": "ПОХОЖИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРНИК",
+        "text": "ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.84,
-    "end": 5.2,
+    "start": 3.78,
+    "end": 5.3,
     "lines": [
       {
-        "text": "НАХОДИШЬ",
+        "text": "НА КАЖДОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "РАБОТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.3,
-    "end": 6.5,
-    "lines": [
-      {
-        "text": "КОТОРОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "УЖЕ НЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.75,
-    "end": 8.1,
+    "start": 6.33,
+    "end": 7.6,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,143 +41,143 @@
         "size": "small"
       },
       {
-        "text": "УБИРАЕТ",
+        "text": "ИГРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.43,
+    "start": 7.7,
     "end": 9.8,
     "lines": [
       {
-        "text": "ИЗ БАНКА",
+        "text": "ИЗ ПОХОЖИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАРОЕ",
+        "text": "ТЕРМИНОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.9,
-    "end": 11.1,
+    "start": 9.93,
+    "end": 11.85,
     "lines": [
       {
-        "text": "НЕТ В",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРСИИ",
+        "text": "ВСЯ ТЕМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.61,
-    "end": 13.2,
+    "start": 12.06,
+    "end": 13.6,
     "lines": [
       {
-        "text": "СБОРНИК",
+        "text": "В ПАРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ НУЖЕН",
+        "text": "ТОЛЬКО ТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.3,
-    "end": 14.55,
+    "start": 13.7,
+    "end": 15.4,
     "lines": [
       {
-        "text": "ДЛЯ",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЕРКИ",
+        "text": "ПУТАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.6,
+    "start": 15.72,
+    "end": 17.4,
     "lines": [
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ПАРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПАДАЕТ",
+        "text": "МЕНЯЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.22,
-    "end": 19.1,
+    "start": 17.46,
+    "end": 19.9,
     "lines": [
       {
-        "text": "УВЕДОМЛЕНИЯ",
+        "text": "КОГДА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ",
+        "text": "ЗАПУТЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.47,
-    "end": 21.25,
+    "start": 20.19,
+    "end": 21.95,
     "lines": [
       {
-        "text": "ЧЕГО НЕТ",
+        "text": "ПРОЯСНЯЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЕГЭ",
+        "text": "БЫСТРО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.48,
-    "end": 23.15,
+    "start": 22.32,
+    "end": 23.8,
     "lines": [
       {
-        "text": "НЕ ОТНИМАЕТ",
+        "text": "ЗА ОДНУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЯ",
+        "text": "РАБОТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.37,
-    "end": 24.95,
+    "start": 24.03,
+    "end": 25.7,
     "lines": [
       {
         "text": "ССЫЛКА",
