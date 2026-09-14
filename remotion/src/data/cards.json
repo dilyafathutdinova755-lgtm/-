@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.46,
-    "end": 3.78,
+    "start": 2.55,
+    "end": 3.75,
     "lines": [
       {
-        "text": "СРАВНИВАЕШЬ",
+        "text": "БРОСАЕШЬ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПАМЯТИ",
+        "text": "В СЕРЕДИНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.87,
-    "end": 5.04,
+    "start": 4.32,
+    "end": 6.3,
     "lines": [
       {
-        "text": "СОБСТВЕННОЙ",
+        "text": "ЕСЛИ РЕЗУЛЬТАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПАМЯТЬЮ",
+        "text": "СРАВНИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.37,
-    "end": 6.24,
+    "start": 6.42,
+    "end": 7.25,
     "lines": [
       {
-        "text": "БЕЗ ДРУГИХ",
+        "text": "НЕ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОРИЕНТИРОВ",
+        "text": "КЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.99,
-    "end": 8.01,
+    "start": 7.77,
+    "end": 8.82,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,223 +57,191 @@
         "size": "small"
       },
       {
-        "text": "ДОБАВЛЯЕТ",
+        "text": "СЧИТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.22,
-    "end": 9.24,
+    "start": 9.06,
+    "end": 10.53,
     "lines": [
       {
-        "text": "ОБЩИЙ СЧЕТ",
+        "text": "ОБЩИЙ СРЕДИ ОДНОКЛАССНИКОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРЕДИ ДРУЗЕЙ",
+        "text": "БАЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.42,
-    "end": 10.44,
+    "start": 10.95,
+    "end": 11.85,
     "lines": [
       {
-        "text": "КОТОРЫЕ ДАЮТ",
+        "text": "ОБНОВЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОРИЕНТИР",
+        "text": "МЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.65,
-    "end": 11.79,
+    "start": 12.45,
+    "end": 13.92,
     "lines": [
       {
-        "text": "ТОЧНЕЕ",
+        "text": "ПОСЛЕ КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПАМЯТИ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.21,
-    "end": 13.23,
+    "start": 14.7,
+    "end": 16.17,
     "lines": [
       {
-        "text": "ОБНОВЛЯЕТСЯ СРАЗУ",
+        "text": "СПИСОК ВИДЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЧЕТ",
+        "text": "ВНУТРИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.35,
-    "end": 14.49,
+    "start": 16.44,
+    "end": 18.3,
     "lines": [
       {
-        "text": "КАК ТОЛЬКО",
+        "text": "И НЕ ТРЕБУЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КТО ТО",
+        "text": "ГРУППЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.67,
-    "end": 15.84,
+    "start": 19.02,
+    "end": 19.89,
     "lines": [
       {
-        "text": "ЗАКРЫВАЕТ",
+        "text": "СПИСОК ВИДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОВОЕ ЗАДАНИЕ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.2,
-    "end": 17.22,
+    "start": 20.04,
+    "end": 21.0,
     "lines": [
       {
-        "text": "СПИСОК ДРУЗЕЙ",
+        "text": "ПРИ ВХОДЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ СЧЕТА",
+        "text": "В ПРИЛОЖЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.4,
-    "end": 18.33,
+    "start": 21.51,
+    "end": 23.49,
     "lines": [
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "БЕЗ ПЕРЕХОДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН РАЗ",
+        "text": "В РАЗДЕЛ СТАТИСТИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.51,
-    "end": 19.5,
+    "start": 24.57,
+    "end": 25.83,
     "lines": [
       {
-        "text": "И НЕ",
+        "text": "СЕРЕДИНА МЕСЯЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕБУЕТ",
+        "text": "ПЕРЕСТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.62,
-    "end": 20.91,
+    "start": 25.98,
+    "end": 27.33,
     "lines": [
       {
-        "text": "ПРИГЛАШЕНИЯ",
+        "text": "БЫТЬ ТОЧКОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДУЮ НЕДЕЛЮ",
+        "text": "ГДЕ ПРОПАДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.33,
-    "end": 22.29,
+    "start": 27.51,
+    "end": 28.53,
     "lines": [
       {
-        "text": "ОБЩИЙ СЧЕТ",
+        "text": "ВЕСЬ ИНТЕРЕС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРЕДИ ДРУЗЕЙ",
+        "text": "ЗАНИМАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.47,
-    "end": 24.06,
-    "lines": [
-      {
-        "text": "СТАНОВИТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТОЧНЫМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.18,
-    "end": 25.38,
-    "lines": [
-      {
-        "text": "ЧЕМ ПАМЯТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "О НЕДЕЛЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.68,
-    "end": 27.3,
+    "start": 29.46,
+    "end": 31.2,
     "lines": [
       {
         "text": "ССЫЛКА",
