@@ -1,71 +1,55 @@
 [
   {
-    "start": 2.4,
+    "start": 2.43,
     "end": 3.66,
     "lines": [
       {
-        "text": "ПО НЕСКОЛЬКИМ",
+        "text": "СРАВНИВАЕШЬ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТАМ СРАЗУ",
+        "text": "И УЧЕБНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.17,
-    "end": 5.73,
+    "start": 4.2,
+    "end": 5.37,
     "lines": [
       {
-        "text": "НЕ ЗАМЕЧАЕШЬ",
+        "text": "ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАКОЙ ПРЕДМЕТ",
+        "text": "ИЗ ИНТЕРНЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.97,
-    "end": 6.9,
+    "start": 5.85,
+    "end": 7.98,
     "lines": [
       {
-        "text": "ЕГЭ",
+        "text": "НАХОДИШЬ РАЗНЫЕ ФОРМУЛИРОВКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСЕДАЕТ",
+        "text": "УСЛОВИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.02,
-    "end": 8.46,
-    "lines": [
-      {
-        "text": "НЕЗАМЕТНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ФОНЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.78,
-    "end": 11.46,
+    "start": 9.03,
+    "end": 10.14,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,71 +57,103 @@
         "size": "small"
       },
       {
-        "text": "СКЛАДЫВАЕТ",
+        "text": "ДЕРЖИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.64,
-    "end": 13.47,
+    "start": 10.32,
+    "end": 11.79,
     "lines": [
       {
-        "text": "ПО КАЖДОМУ",
+        "text": "ТОЛЬКО ДЕЙСТВУЮЩУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТУ",
+        "text": "ОДНУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.01,
-    "end": 16.11,
+    "start": 11.97,
+    "end": 13.32,
     "lines": [
       {
-        "text": "ВЫДЕЛЯЕТ ТОТ",
+        "text": "ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ОТСТАЕТ",
+        "text": "КОТОРАЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.07,
-    "end": 18.42,
+    "start": 13.44,
+    "end": 14.25,
     "lines": [
       {
-        "text": "КАРТИНА ПЕРЕСЧИТЫВАЕТСЯ",
+        "text": "МЕНЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМА",
+        "text": "ВСЛЕД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.72,
-    "end": 20.25,
+    "start": 14.55,
+    "end": 16.23,
     "lines": [
       {
-        "text": "ПОСЛЕ КАЖДОГО",
+        "text": "ЗА ОФИЦИАЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "ДЕМО ВЕРСИЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.56,
+    "end": 18.93,
+    "lines": [
+      {
+        "text": "УСТАРЕВШАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРСИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.14,
+    "end": 20.52,
+    "lines": [
+      {
+        "text": "ТОГО ЖЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТО",
         "accent": true,
         "size": "big"
       }
@@ -145,103 +161,119 @@
   },
   {
     "start": 20.85,
-    "end": 21.9,
+    "end": 21.87,
     "lines": [
       {
-        "text": "БЕЗ РУЧНОГО",
+        "text": "НЕ ВОЗНИКАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНЕНИЯ",
+        "text": "В ПРИЛОЖЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.86,
-    "end": 23.94,
+    "start": 22.56,
+    "end": 23.49,
     "lines": [
       {
-        "text": "ТАКАЯ КАРТИНА",
+        "text": "ФОРМУЛИРОВКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧИТЫВАЕТ",
+        "text": "ПРОВЕРКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.06,
-    "end": 25.71,
+    "start": 23.67,
+    "end": 24.87,
     "lines": [
       {
-        "text": "ТОЛЬКО РЕАЛЬНО",
+        "text": "АВТОМАТИЧЕСКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕННЫЕ",
+        "text": "ПРОИСХОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.19,
-    "end": 27.66,
+    "start": 25.41,
+    "end": 26.76,
     "lines": [
       {
-        "text": "А НЕ ОБЩЕЕ",
+        "text": "ПРИ КАЖДОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЯ",
+        "text": "ОБНОВЛЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.83,
-    "end": 30.45,
+    "start": 27.39,
+    "end": 28.89,
     "lines": [
       {
-        "text": "ОТСТАЮЩИЙ ПРЕДМЕТ",
+        "text": "БЕЗ СВЕРКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕТЕН",
+        "text": "ПО ДАТАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.57,
-    "end": 33.45,
+    "start": 29.7,
+    "end": 31.8,
     "lines": [
       {
-        "text": "РАНЬШЕ ЧЕМ",
+        "text": "РАЗНОЧТЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВЛИЯЕТ",
+        "text": "ПРОПАДАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 34.5,
-    "end": 36.15,
+    "start": 32.13,
+    "end": 33.99,
+    "lines": [
+      {
+        "text": "КОГДА ИСТОЧНИК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.98,
+    "end": 36.9,
     "lines": [
       {
         "text": "ССЫЛКА",
