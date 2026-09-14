@@ -1,167 +1,183 @@
 [
   {
-    "start": 4.17,
-    "end": 6.84,
+    "start": 1.53,
+    "end": 4.65,
     "lines": [
       {
-        "text": "ПЕРВАЯ ЭМОЦИЯ",
+        "text": "В ПРОШЛЫЙ РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАВИСТЬ",
+        "text": "НАПИСАЛА НА ДВОЙКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.05,
-    "end": 8.97,
+    "start": 5.31,
+    "end": 7.08,
     "lines": [
       {
-        "text": "ПОПОЛАМ",
+        "text": "СНАЧАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СО СТЫДОМ",
+        "text": "ОБИДНО ДО СЛЕЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.78,
-    "end": 10.95,
+    "start": 8.22,
+    "end": 10.38,
     "lines": [
       {
-        "text": "ПОСИДЕЛА",
+        "text": "ПОТОМ УСПОКОИЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ЧУВСТВОМ",
+        "text": "РЕШИЛА НЕ РЫДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.37,
-    "end": 14.73,
+    "start": 10.86,
+    "end": 13.05,
     "lines": [
       {
-        "text": "СПРОСИЛА",
+        "text": "А ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕМ ПОЛЬЗУЕТСЯ",
+        "text": "РАЗОБРАТЬ ГДЕ НАКОСЯЧИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 17.31,
+    "start": 13.77,
+    "end": 14.91,
     "lines": [
       {
-        "text": "ОКАЗАЛОСЬ",
+        "text": "ОТКРЫЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОТ ЖЕ ТРЕНАЖЁР",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.61,
-    "end": 19.83,
+    "start": 15.39,
+    "end": 17.97,
     "lines": [
       {
-        "text": "ТОЛЬКО ОНА",
+        "text": "ПРОШЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАЕТСЯ ЕЖЕДНЕВНО",
+        "text": "ВИДЕОРАЗБОР ПО ТЕМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.49,
-    "end": 21.39,
+    "start": 18.66,
+    "end": 21.63,
     "lines": [
       {
-        "text": "А Я",
+        "text": "ОШИБКА ГЛУПАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ РАЗ",
+        "text": "НО ЛЕГКО ИСПРАВИМАЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.99,
-    "end": 24.75,
+    "start": 22.32,
+    "end": 24.33,
     "lines": [
       {
-        "text": "НЕ СРАВНЕНИЕ",
+        "text": "НЕ СТАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕРЕГУЛЯРНОСТЬ",
+        "text": "ПЕРЕПИСЫВАТЬ ВЕСЬ ПЛАН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.17,
-    "end": 26.7,
+    "start": 24.87,
+    "end": 27.27,
     "lines": [
       {
-        "text": "С ЭТИМ",
+        "text": "ПРОСТО ДОБАВИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШИЛА РАЗОБРАТЬСЯ",
+        "text": "В ЕЖЕДНЕВНЫЙ СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.39,
-    "end": 30.63,
+    "start": 28.11,
+    "end": 30.09,
     "lines": [
       {
-        "text": "ЗАВИДУЕШЬ",
+        "text": "МАЛЕНЬКОЕ ДЕЙСТВИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧУЖИМ РЕЗУЛЬТАТАМ?",
+        "text": "ВМЕСТО ДРАМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.08,
-    "end": 32.96,
+    "start": 30.96,
+    "end": 33.21,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ РАССТРОИЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.21,
+    "end": 35.34,
     "lines": [
       {
         "text": "ССЫЛКА",
