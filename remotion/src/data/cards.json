@@ -4,36 +4,52 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "УВЕРЕН ЧТО",
+        "text": "РЕШАЕШЬ КОНТРОЛЬНУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗОБРАЛСЯ",
+        "text": "РАБОТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 6.35,
+    "start": 3.99,
+    "end": 4.8,
     "lines": [
       {
-        "text": "ПОКА НЕ УВИДИШЬ",
+        "text": "И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКУ",
+        "text": "ЗАБЫВАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.81,
-    "end": 8.2,
+    "start": 4.89,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "ГДЕ БЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.56,
+    "end": 8.9,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,79 +57,63 @@
         "size": "small"
       },
       {
-        "text": "СРАВНИВАЕТ",
+        "text": "СОХРАНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.3,
-    "end": 9.75,
+    "start": 9.0,
+    "end": 10.55,
     "lines": [
       {
-        "text": "РЕЗУЛЬТАТ ПО",
+        "text": "КАЖДУЮ ОШИБКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЕ",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.93,
-    "end": 11.5,
+    "start": 10.77,
+    "end": 12.3,
     "lines": [
       {
-        "text": "С ПРОШЛЫМ",
+        "text": "ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦЕМ",
+        "text": "ЗАБЫТОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.79,
-    "end": 14.1,
+    "start": 12.51,
+    "end": 14.55,
     "lines": [
       {
-        "text": "РАЗНИЦА",
+        "text": "РАЗДЕЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОЙ СТРОКОЙ",
+        "text": "ЗА ОДИН КЛИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 16.05,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЕРЕСЧЕТА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.35,
-    "end": 18.5,
+    "start": 14.73,
+    "end": 16.9,
     "lines": [
       {
         "text": "ПО КАЖДОМУ",
@@ -128,8 +128,24 @@
     ]
   },
   {
-    "start": 18.66,
-    "end": 21.3,
+    "start": 17.13,
+    "end": 18.7,
+    "lines": [
+      {
+        "text": "МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.72,
+    "end": 20.75,
     "lines": [
       {
         "text": "БЕЗ",
@@ -137,47 +153,47 @@
         "size": "small"
       },
       {
-        "text": "УСРЕДНЕНИЯ",
+        "text": "ПОИСКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.6,
-    "end": 24.4,
+    "start": 21.03,
+    "end": 23.3,
     "lines": [
       {
-        "text": "ПРОВЕРЯЕТСЯ",
+        "text": "ОШИБКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЩУЩЕНИЕ",
+        "text": "ДОСТУПНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.63,
-    "end": 25.85,
+    "start": 23.43,
+    "end": 25.15,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "СПУСТЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПАМЯТЬЮ",
+        "text": "МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.04,
-    "end": 27.6,
+    "start": 25.32,
+    "end": 26.95,
     "lines": [
       {
         "text": "ССЫЛКА",
