@@ -1,0 +1,42 @@
+[
+  { "start": 2.46, "end": 6.42, "lines": [
+    { "text": "СУББОТА ПЕРЕД ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ПРОСТО КОФЕ С ДОЧЕРЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.78, "end": 8.19, "lines": [
+    { "text": "БЕЗ РАЗГОВОРОВ", "accent": false, "size": "small" },
+    { "text": "О ПОДГОТОВКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.52, "end": 12.36, "lines": [
+    { "text": "ВЕСЬ АВГУСТ БОЯЛАСЬ", "accent": false, "size": "small" },
+    { "text": "ПОТЕРЯННОГО ВРЕМЕНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.63, "end": 14.37, "lines": [
+    { "text": "В КАФЕ ДОЧЬ", "accent": false, "size": "small" },
+    { "text": "ДОСТАЛА ТЕЛЕФОН", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.61, "end": 16.86, "lines": [
+    { "text": "ПОКАЗАЛА ТЕМУ", "accent": false, "size": "small" },
+    { "text": "В ЕГЭ ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.07, "end": 19.23, "lines": [
+    { "text": "ПОКА ЖДАЛИ ЗАКАЗ", "accent": false, "size": "small" },
+    { "text": "Я НЕ СПРАШИВАЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.44, "end": 21.48, "lines": [
+    { "text": "ПРОСТО УВИДЕЛА", "accent": false, "size": "small" },
+    { "text": "ЗЕЛЁНУЮ ГАЛОЧКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.81, "end": 23.82, "lines": [
+    { "text": "ВЫХОДНОЙ ОКАЗАЛСЯ", "accent": false, "size": "small" },
+    { "text": "НЕПОТЕРЯННЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.97, "end": 25.53, "lines": [
+    { "text": "А МАЛЕНЬКИМ", "accent": false, "size": "small" },
+    { "text": "ШАГОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.86, "end": 27.81, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

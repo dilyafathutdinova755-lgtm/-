@@ -1,0 +1,46 @@
+[
+  { "start": 2.31, "end": 4.95, "lines": [
+    { "text": "ЧЕСТНО ДОЧЬ ПЕРЕСТАЛА", "accent": false, "size": "small" },
+    { "text": "РАССКАЗЫВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.28, "end": 7.56, "lines": [
+    { "text": "И ЭТО ЗАДЕЛО", "accent": false, "size": "small" },
+    { "text": "БОЛЬШЕ ЧЕМ БАЛЛЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.25, "end": 9.75, "lines": [
+    { "text": "РАНЬШЕ ДЕЛИЛАСЬ", "accent": false, "size": "small" },
+    { "text": "КАЖДОЙ МЕЛОЧЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.87, "end": 12.45, "lines": [
+    { "text": "А ТЕПЕРЬ", "accent": false, "size": "small" },
+    { "text": "ОДНИМ СЛОВОМ ЗА УЖИНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.93, "end": 14.91, "lines": [
+    { "text": "ПЕРЕСТАЛА СПРАШИВАТЬ", "accent": false, "size": "small" },
+    { "text": "ПРО ПРОГРЕСС", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.12, "end": 18.00, "lines": [
+    { "text": "ПРОСТО ОСТАВИЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.54, "end": 20.85, "lines": [
+    { "text": "ЧЕРЕЗ НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "ДОЧЬ САМА ПОКАЗАЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.06, "end": 22.83, "lines": [
+    { "text": "БЕЗ ЕДИНОГО", "accent": false, "size": "small" },
+    { "text": "МОЕГО ВОПРОСА", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.46, "end": 25.35, "lines": [
+    { "text": "МОЛЧАНИЕ ИНОГДА", "accent": false, "size": "small" },
+    { "text": "НЕ ОТДАЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.56, "end": 27.12, "lines": [
+    { "text": "А ПРОСТО", "accent": false, "size": "small" },
+    { "text": "НЕЖЕЛАНИЕ ОТЧИТЫВАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.66, "end": 29.58, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
