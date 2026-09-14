@@ -1,39 +1,39 @@
 [
   {
-    "start": 2.55,
-    "end": 3.84,
+    "start": 2.34,
+    "end": 4.11,
     "lines": [
       {
-        "text": "ПУТАЕШЬ ФОРМУЛЫ",
+        "text": "ПОХОЖИЕ ДАТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ФИЗИКЕ",
+        "text": "ПО ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.32,
-    "end": 5.82,
+    "start": 4.23,
+    "end": 5.46,
     "lines": [
       {
-        "text": "КАЖДЫЙ КОНТРОЛЬНЫЙ",
+        "text": "ПРОХОДИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВТОРОЙ",
+        "text": "ПАРА ЛЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.78,
-    "end": 8.04,
+    "start": 5.82,
+    "end": 7.71,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,119 +41,167 @@
         "size": "small"
       },
       {
-        "text": "ВЫДЕЛЯЕТ",
+        "text": "ВЫДЕЛЯЕТ ИГРУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 9.66,
+    "start": 7.95,
+    "end": 9.21,
     "lines": [
       {
-        "text": "ПОД ТАКИЕ",
+        "text": "БЛИЗКИЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛЫ",
+        "text": "ВРЕМЕНИ ДАТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.84,
-    "end": 11.49,
+    "start": 9.36,
+    "end": 10.53,
     "lines": [
       {
-        "text": "ОТДЕЛЬНУЮ ИГРУ",
+        "text": "РАЗНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ВАРИАНТАМИ",
+        "text": "МЕЖДУ НИМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.42,
-    "end": 13.41,
+    "start": 10.71,
+    "end": 12.03,
     "lines": [
       {
-        "text": "ПОХОЖИМИ",
+        "text": "ЗАКРЕПЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДРУГ НА ДРУГА",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.65,
-    "end": 14.97,
+    "start": 12.21,
+    "end": 13.26,
     "lines": [
       {
-        "text": "СПЕЦИАЛЬНО",
+        "text": "ИГРА ПРЕДЛАГАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРА",
+        "text": "ТАКИЕ ПАРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.18,
-    "end": 16.02,
+    "start": 14.31,
+    "end": 15.3,
     "lines": [
       {
-        "text": "УСЛОЖНЯЕТСЯ",
+        "text": "ПУТАНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМА",
+        "text": "НЕ ПРОПАДЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.17,
-    "end": 17.91,
+    "start": 15.66,
+    "end": 16.92,
     "lines": [
       {
-        "text": "ПРОСТЫЕ ВАРИАНТЫ",
+        "text": "ПОДБИРАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕСТАЮТ",
+        "text": "ПАРА ДАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.23,
-    "end": 21.75,
+    "start": 17.04,
+    "end": 18.69,
     "lines": [
       {
-        "text": "ПЕРЕКЛЮЧАЕТСЯ САМА",
+        "text": "АВТОМАТИЧЕСКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ФОРМУЛУ",
+        "text": "БЕЗ ВЫБОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.84,
+    "end": 19.74,
+    "lines": [
+      {
+        "text": "КОНКРЕТНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.07,
+    "end": 21.21,
+    "lines": [
+      {
+        "text": "ПАРА ЛЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ СОБЫТИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.36,
+    "end": 22.2,
+    "lines": [
+      {
+        "text": "ПЕРЕСТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТИРАТЬСЯ",
         "accent": true,
         "size": "big"
       }
@@ -161,71 +209,23 @@
   },
   {
     "start": 22.44,
-    "end": 23.64,
+    "end": 23.55,
     "lines": [
       {
-        "text": "БЕЗ ВЫБОРА",
+        "text": "РАСПЛЫВЧАТЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЫ ВРУЧНУЮ",
+        "text": "ПЕРИОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.88,
-    "end": 24.93,
-    "lines": [
-      {
-        "text": "ПЕРЕД КАЖДЫМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАУНДОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.83,
-    "end": 27.6,
-    "lines": [
-      {
-        "text": "ПОХОЖИЕ ФОРМУЛЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.87,
-    "end": 29.91,
-    "lines": [
-      {
-        "text": "ЧЕРЕЗ НЕСКОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОРОТКИХ РАУНДОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.69,
-    "end": 32.4,
+    "start": 23.85,
+    "end": 25.6,
     "lines": [
       {
         "text": "ССЫЛКА",
