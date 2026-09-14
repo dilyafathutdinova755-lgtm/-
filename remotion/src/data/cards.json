@@ -1,55 +1,55 @@
 [
   {
     "start": 2.6,
-    "end": 3.9,
+    "end": 3.85,
     "lines": [
       {
-        "text": "БЕЗ ДОСТУПА",
+        "text": "КОНСПЕКТИРУЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ОТ РУКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 5.2,
+    "start": 4.14,
+    "end": 5.05,
     "lines": [
       {
-        "text": "В ЛАГЕРЕ",
+        "text": "ХОТЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА СБОРАХ",
+        "text": "НУЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.3,
-    "end": 6.95,
+    "start": 5.1,
+    "end": 7.65,
     "lines": [
       {
-        "text": "ИНТЕРНЕТ ТОЛЬКО",
+        "text": "ВСЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "У КОРПУСА",
+        "text": "ПАРА СТРОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.29,
-    "end": 8.6,
+    "start": 7.98,
+    "end": 10.15,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,143 +57,143 @@
         "size": "small"
       },
       {
-        "text": "ОТКРЫВАЕТ",
+        "text": "ЗАМЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.7,
-    "end": 9.7,
+    "start": 10.17,
+    "end": 11.1,
     "lines": [
       {
-        "text": "СОХРАНЕННОЕ",
+        "text": "КОНСПЕКТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЖЕ",
+        "text": "КАРТОЧКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.96,
-    "end": 11.3,
+    "start": 11.28,
+    "end": 13.15,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "ГЛАВНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБРАЩЕНИЯ",
+        "text": "НА ЭКРАНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.4,
-    "end": 12.7,
+    "start": 13.38,
+    "end": 14.85,
     "lines": [
       {
-        "text": "К СЕТИ",
+        "text": "ПОВТОРИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРПУСА",
+        "text": "ЗА МИНУТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 15.5,
+    "start": 15.03,
+    "end": 17.15,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "ПЕРЕПИСЫВАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "ВМЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.63,
-    "end": 17.1,
+    "start": 17.43,
+    "end": 20.0,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "ДЛЯ ПАУЗЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАГРУЗКИ",
+        "text": "МЕЖДУ УРОКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.31,
-    "end": 19.55,
+    "start": 20.16,
+    "end": 21.05,
     "lines": [
       {
-        "text": "ДОСТУП",
+        "text": "И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВЕСЬ СРОК",
+        "text": "ДОРОГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.68,
-    "end": 21.2,
+    "start": 21.21,
+    "end": 23.3,
     "lines": [
       {
-        "text": "НЕ ТОЛЬКО",
+        "text": "ПАРА СТРОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРВЫЙ ДЕНЬ",
+        "text": "ЭКОНОМИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.45,
-    "end": 24.45,
+    "start": 23.49,
+    "end": 25.0,
     "lines": [
       {
-        "text": "СБОРЫ БЕЗ СЕТИ",
+        "text": "ВЕРНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ПАУЗЫ",
+        "text": "ЛИСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.66,
-    "end": 26.3,
+    "start": 25.26,
+    "end": 26.9,
     "lines": [
       {
         "text": "ССЫЛКА",
