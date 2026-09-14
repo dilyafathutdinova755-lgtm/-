@@ -4,68 +4,52 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "ИСПРАВЛЕННАЯ",
+        "text": "ПРЕДМЕТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЦЕНКА",
+        "text": "ВПЕРЕМЕШКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 5.4,
+    "start": 4.68,
+    "end": 6.0,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "НЕ ЗАМЕЧАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОМЕТКИ",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 7.0,
+    "start": 7.53,
+    "end": 9.4,
     "lines": [
       {
-        "text": "НИ ОДНОЙ",
+        "text": "СЛАБЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСИ",
+        "text": "ОСТАЛЬНЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.1,
-    "end": 8.4,
-    "lines": [
-      {
-        "text": "О ХОДЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.15,
-    "end": 10.5,
+    "start": 10.47,
+    "end": 11.7,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,143 +57,143 @@
         "size": "small"
       },
       {
-        "text": "ВИДЕО",
+        "text": "УЧЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.6,
-    "end": 11.9,
+    "start": 11.8,
+    "end": 13.35,
     "lines": [
       {
-        "text": "К",
+        "text": "РЕШЕННЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЮ",
+        "text": "ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.12,
-    "end": 13.6,
+    "start": 13.86,
+    "end": 15.2,
     "lines": [
       {
-        "text": "РЕШЕНИЕ",
+        "text": "ПОДСВЕЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЛУХ",
+        "text": "ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.7,
-    "end": 14.5,
+    "start": 15.3,
+    "end": 16.9,
     "lines": [
       {
-        "text": "ШАГ ЗА",
+        "text": "ЗАМЕТНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГОМ",
+        "text": "БОЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.88,
-    "end": 16.5,
+    "start": 17.7,
+    "end": 19.35,
     "lines": [
       {
-        "text": "НЕ ОДНА",
+        "text": "ОБНОВЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦИФРА",
+        "text": "САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.16,
-    "end": 18.7,
+    "start": 19.56,
+    "end": 21.05,
     "lines": [
       {
-        "text": "РОЛИК",
+        "text": "ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХРАНИТСЯ",
+        "text": "ПРОБНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.87,
-    "end": 20.65,
+    "start": 22.05,
+    "end": 23.2,
     "lines": [
       {
-        "text": "НЕ ПРОПАДАЕТ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИКОГДА",
+        "text": "ПЕРЕСЧЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.33,
-    "end": 23.3,
+    "start": 24.24,
+    "end": 25.5,
     "lines": [
       {
-        "text": "ОЦЕНКА",
+        "text": "СЛАБОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТНА",
+        "text": "МЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.4,
-    "end": 24.8,
+    "start": 25.71,
+    "end": 27.8,
     "lines": [
       {
-        "text": "ЧЕГО РАНЬШЕ",
+        "text": "ДО КОНТРОЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ БЫЛО",
+        "text": "РАНЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.44,
-    "end": 27.1,
+    "start": 28.65,
+    "end": 30.4,
     "lines": [
       {
         "text": "ССЫЛКА",

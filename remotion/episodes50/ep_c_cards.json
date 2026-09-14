@@ -4,12 +4,12 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "ИСПРАВЛЕННАЯ",
+        "text": "РАЗБИРАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЦЕНКА",
+        "text": "ОШИБКУ",
         "accent": true,
         "size": "big"
       }
@@ -17,42 +17,154 @@
   },
   {
     "start": 4.0,
-    "end": 5.4,
+    "end": 5.55,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "И ЗАБЫВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОМЕТКИ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 7.0,
+    "start": 6.06,
+    "end": 7.6,
     "lines": [
       {
-        "text": "НИ ОДНОЙ",
+        "text": "НЕ ПРОВЕРЯЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСИ",
+        "text": "СНОВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.1,
-    "end": 8.4,
+    "start": 7.71,
+    "end": 9.0,
     "lines": [
       {
-        "text": "О ХОДЕ",
+        "text": "ТА ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 10.55,
+    "lines": [
+      {
+        "text": "В ДРУГИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.7,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБИРАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 14.55,
+    "lines": [
+      {
+        "text": "ОШИБКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В РАЗДЕЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.03,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "ГДЕ ВСТРЕЧАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАНЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.08,
+    "end": 20.6,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.7,
+    "end": 21.85,
+    "lines": [
+      {
+        "text": "ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
@@ -64,152 +176,56 @@
     ]
   },
   {
-    "start": 9.15,
-    "end": 10.5,
+    "start": 22.38,
+    "end": 24.55,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДЕО",
+        "text": "ПЕРЕНОСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.6,
-    "end": 11.9,
+    "start": 25.38,
+    "end": 27.5,
     "lines": [
       {
-        "text": "К",
+        "text": "ПОВТОРНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЮ",
+        "text": "ЗА МИНУТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.12,
-    "end": 13.6,
+    "start": 27.78,
+    "end": 29.6,
     "lines": [
       {
-        "text": "РЕШЕНИЕ",
+        "text": "НЕ СЛУЧАЙНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЛУХ",
+        "text": "НА ОЛИМПИАДЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.7,
-    "end": 14.5,
-    "lines": [
-      {
-        "text": "ШАГ ЗА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ШАГОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.88,
-    "end": 16.5,
-    "lines": [
-      {
-        "text": "НЕ ОДНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЦИФРА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.16,
-    "end": 18.7,
-    "lines": [
-      {
-        "text": "РОЛИК",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ХРАНИТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.87,
-    "end": 20.65,
-    "lines": [
-      {
-        "text": "НЕ ПРОПАДАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НИКОГДА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.33,
-    "end": 23.3,
-    "lines": [
-      {
-        "text": "ОЦЕНКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОНЯТНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.4,
-    "end": 24.8,
-    "lines": [
-      {
-        "text": "ЧЕГО РАНЬШЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ БЫЛО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.44,
-    "end": 27.1,
+    "start": 30.15,
+    "end": 31.95,
     "lines": [
       {
         "text": "ССЫЛКА",
