@@ -13,11 +13,11 @@
   ]},
   { "start": 11.13, "end": 14.31, "lines": [
     { "text": "ДЕСЯТКИ РЕПОСТОВ", "accent": false, "size": "small" },
-    { "text": "С ВОСКЛИЦАТЕЛЬНЫМИ", "accent": true, "size": "big" }
+    { "text": "ВОСКЛИЦАНИЯ", "accent": true, "size": "big" }
   ]},
   { "start": 15.00, "end": 16.44, "lines": [
     { "text": "УТРОМ ЗАШЛА", "accent": false, "size": "small" },
-    { "text": "НА ОФИЦИАЛЬНЫЙ САЙТ", "accent": true, "size": "big" }
+    { "text": "НА САЙТ", "accent": true, "size": "big" }
   ]},
   { "start": 16.62, "end": 18.90, "lines": [
     { "text": "НИЧЕГО ПУГАЮЩЕГО", "accent": false, "size": "small" },
