@@ -1,39 +1,39 @@
 [
   {
-    "start": 2.43,
-    "end": 3.48,
+    "start": 2.55,
+    "end": 3.84,
     "lines": [
       {
-        "text": "ТЕРЯЕШЬ ДЕНЬ",
+        "text": "ПУТАЕШЬ ФОРМУЛЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА РЫБАЛКЕ",
+        "text": "ПО ФИЗИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.66,
-    "end": 5.52,
+    "start": 4.32,
+    "end": 5.82,
     "lines": [
       {
-        "text": "СВЯЗЬ ПРОПАДАЕТ",
+        "text": "КАЖДЫЙ КОНТРОЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВЕСЬ ДЕНЬ",
+        "text": "ВТОРОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.88,
-    "end": 7.35,
+    "start": 6.78,
+    "end": 8.04,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,151 +41,103 @@
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТ БАНК",
+        "text": "ВЫДЕЛЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.44,
-    "end": 8.91,
+    "start": 8.28,
+    "end": 9.66,
     "lines": [
       {
-        "text": "В ПАМЯТИ",
+        "text": "ПОД ТАКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕЛЕФОНА",
+        "text": "ФОРМУЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.1,
-    "end": 9.93,
+    "start": 9.84,
+    "end": 11.49,
     "lines": [
       {
-        "text": "И ДЕНЬ",
+        "text": "ОТДЕЛЬНУЮ ИГРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА РЫБАЛКЕ",
+        "text": "С ВАРИАНТАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.34,
+    "start": 12.42,
+    "end": 13.41,
     "lines": [
       {
-        "text": "НЕ ВЫПАДАЕТ",
+        "text": "ПОХОЖИМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ПОДГОТОВКИ",
+        "text": "ДРУГ НА ДРУГА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.67,
-    "end": 12.5,
-    "lines": [
-      {
-        "text": "ОТКРЫВАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.6,
-    "end": 13.74,
-    "lines": [
-      {
-        "text": "ТАК ЖЕ РОВНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАК В КОМНАТЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.01,
+    "start": 13.65,
     "end": 14.97,
     "lines": [
       {
-        "text": "С ПОЛНЫМ",
+        "text": "СПЕЦИАЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛОМ СЕТИ",
+        "text": "ИГРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.39,
-    "end": 16.2,
+    "start": 15.18,
+    "end": 16.02,
     "lines": [
       {
-        "text": "ЛОВИТ СЕТЬ",
+        "text": "УСЛОЖНЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЛИ НЕТ",
+        "text": "САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.35,
-    "end": 18.18,
+    "start": 16.17,
+    "end": 17.91,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
+        "text": "ПРОСТЫЕ ВАРИАНТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИНАКОВО БЫСТРО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.2,
-    "end": 19.05,
-    "lines": [
-      {
-        "text": "ДЕНЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА РЫБАЛКЕ",
+        "text": "ПЕРЕСТАЮТ",
         "accent": true,
         "size": "big"
       }
@@ -193,23 +145,87 @@
   },
   {
     "start": 19.23,
-    "end": 21.45,
+    "end": 21.75,
     "lines": [
       {
-        "text": "ПЕРЕСТАЕТ ВЫПАДАТЬ",
+        "text": "ПЕРЕКЛЮЧАЕТСЯ САМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ГРАФИКА",
+        "text": "НА ФОРМУЛУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.75,
-    "end": 23.49,
+    "start": 22.44,
+    "end": 23.64,
+    "lines": [
+      {
+        "text": "БЕЗ ВЫБОРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМЫ ВРУЧНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.88,
+    "end": 24.93,
+    "lines": [
+      {
+        "text": "ПЕРЕД КАЖДЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАУНДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.83,
+    "end": 27.6,
+    "lines": [
+      {
+        "text": "ПОХОЖИЕ ФОРМУЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.87,
+    "end": 29.91,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИХ РАУНДОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.69,
+    "end": 32.4,
     "lines": [
       {
         "text": "ССЫЛКА",
