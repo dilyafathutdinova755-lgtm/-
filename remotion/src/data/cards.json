@@ -1,55 +1,71 @@
 [
   {
-    "start": 2.55,
-    "end": 3.75,
+    "start": 2.49,
+    "end": 3.33,
     "lines": [
       {
-        "text": "БРОСАЕШЬ ЗАДАНИЕ",
+        "text": "ОЛИМПИАДЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В СЕРЕДИНЕ",
+        "text": "С ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.32,
-    "end": 6.3,
+    "start": 3.75,
+    "end": 4.74,
     "lines": [
       {
-        "text": "ЕСЛИ РЕЗУЛЬТАТ",
+        "text": "ТРАТИШЬ ВРЕМЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИТЬ",
+        "text": "НА ПОИСК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.42,
-    "end": 7.25,
+    "start": 4.83,
+    "end": 6.0,
     "lines": [
       {
-        "text": "НЕ С",
+        "text": "К РЕПЕТИТОРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КЕМ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.77,
-    "end": 8.82,
+    "start": 6.12,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "ДОПОЛНИТЕЛЬНОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.96,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,191 +73,223 @@
         "size": "small"
       },
       {
-        "text": "СЧИТАЕТ",
+        "text": "ЗАКРЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.53,
+    "start": 10.14,
+    "end": 11.37,
     "lines": [
       {
-        "text": "ОБЩИЙ СРЕДИ ОДНОКЛАССНИКОВ",
+        "text": "ТАКИЕ ДОПОЛНИТЕЛЬНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАЛЛ",
+        "text": "ПРЕДМЕТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.95,
-    "end": 11.85,
+    "start": 11.82,
+    "end": 13.2,
     "lines": [
       {
-        "text": "ОБНОВЛЯЕТ",
+        "text": "БЕСПЛАТНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСТО",
+        "text": "БАНКОМ ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.45,
-    "end": 13.92,
+    "start": 13.47,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ПОСЛЕ КАЖДОГО",
+        "text": "И РАЗБОРАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "БЕЗ ПОИСКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.7,
-    "end": 16.17,
+    "start": 15.15,
+    "end": 16.11,
     "lines": [
       {
-        "text": "СПИСОК ВИДЕН",
+        "text": "ОТДЕЛЬНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВНУТРИ",
+        "text": "РЕПЕТИТОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.44,
-    "end": 18.3,
+    "start": 16.74,
+    "end": 18.21,
     "lines": [
       {
-        "text": "И НЕ ТРЕБУЕТ",
+        "text": "НА ПОИСК ОСВОБОЖДАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГРУППЫ",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 19.89,
+    "start": 18.33,
+    "end": 20.64,
     "lines": [
       {
-        "text": "СПИСОК ВИДНО",
+        "text": "ДЛЯ ЗАНЯТИЙ ОЛИМПИАДНЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "ЗАДАЧАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.04,
-    "end": 21.0,
+    "start": 21.39,
+    "end": 22.59,
     "lines": [
       {
-        "text": "ПРИ ВХОДЕ",
+        "text": "ОСВОБОДИВШЕЕСЯ ОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПРИЛОЖЕНИЕ",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.51,
-    "end": 23.49,
+    "start": 22.92,
+    "end": 24.27,
     "lines": [
       {
-        "text": "БЕЗ ПЕРЕХОДА",
+        "text": "ПОИСКОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В РАЗДЕЛ СТАТИСТИКИ",
+        "text": "МОЖНО СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.57,
-    "end": 25.83,
+    "start": 24.45,
+    "end": 25.92,
     "lines": [
       {
-        "text": "СЕРЕДИНА МЕСЯЦА",
+        "text": "ПОТРАТИТЬ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕСТАЕТ",
+        "text": "РАЗБОР СЛОЖНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.98,
-    "end": 27.33,
+    "start": 26.07,
+    "end": 26.97,
     "lines": [
       {
-        "text": "БЫТЬ ТОЧКОЙ",
+        "text": "ОЛИМПИАДНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГДЕ ПРОПАДАЕТ",
+        "text": "ЗАДАЧИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.51,
-    "end": 28.53,
+    "start": 27.78,
+    "end": 29.34,
     "lines": [
       {
-        "text": "ВЕСЬ ИНТЕРЕС",
+        "text": "ВРЕМЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАТЬСЯ",
+        "text": "ПОДГОТОВКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.46,
-    "end": 31.2,
+    "start": 29.76,
+    "end": 30.66,
+    "lines": [
+      {
+        "text": "БОЛЬШЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УХОДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.78,
+    "end": 32.52,
+    "lines": [
+      {
+        "text": "НА БЕСКОНЕЧНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОИСК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.18,
+    "end": 34.98,
     "lines": [
       {
         "text": "ССЫЛКА",
