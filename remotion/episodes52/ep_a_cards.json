@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.53,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "В ПРОШЛЫЙ РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАПИСАЛА НА ДВОЙКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 7.08,
+    "lines": [
+      {
+        "text": "СНАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБИДНО ДО СЛЕЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.22,
+    "end": 10.38,
+    "lines": [
+      {
+        "text": "ПОТОМ УСПОКОИЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШИЛА НЕ РЫДАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "А ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗОБРАТЬ ГДЕ НАКОСЯЧИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.77,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "ОТКРЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.39,
+    "end": 17.97,
+    "lines": [
+      {
+        "text": "ПРОШЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДЕОРАЗБОР ПО ТЕМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 21.63,
+    "lines": [
+      {
+        "text": "ОШИБКА ГЛУПАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО ЛЕГКО ИСПРАВИМАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.32,
+    "end": 24.33,
+    "lines": [
+      {
+        "text": "НЕ СТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПИСЫВАТЬ ВЕСЬ ПЛАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.87,
+    "end": 27.27,
+    "lines": [
+      {
+        "text": "ПРОСТО ДОБАВИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЕЖЕДНЕВНЫЙ СПИСОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.11,
+    "end": 30.09,
+    "lines": [
+      {
+        "text": "МАЛЕНЬКОЕ ДЕЙСТВИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТО ДРАМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.96,
+    "end": 33.21,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ РАССТРОИЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.21,
+    "end": 35.34,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

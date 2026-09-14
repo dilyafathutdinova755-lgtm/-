@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.92,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "РАЗНИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ В ЗНАНИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.12,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "А В НЕСКОЛЬКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТИПИЧНЫХ ОШИБКАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.31,
+    "end": 11.22,
+    "lines": [
+      {
+        "text": "ИЗУЧИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ЧУЖИМ РАЗБОРАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "СТОБАЛЛЬНИКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТЕРЯЮТ БАЛЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.72,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "НА ФОРМАЛЬНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕБОВАНИЯХ К ОТВЕТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.93,
+    "end": 21.54,
+    "lines": [
+      {
+        "text": "ИМЕННО ТУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРЕЗАЮТСЯ ДЕВЯНОСТНИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.56,
+    "end": 24.87,
+    "lines": [
+      {
+        "text": "В ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАШЛА ВИДЕОРАЗБОРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.11,
+    "end": 26.97,
+    "lines": [
+      {
+        "text": "ПОГРАНИЧНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.72,
+    "end": 29.79,
+    "lines": [
+      {
+        "text": "ЗНАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДЕАЛЬНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.39,
+    "end": 32.22,
+    "lines": [
+      {
+        "text": "А БАЛЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЖЕ МАКСИМУМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.24,
+    "end": 35.79,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ ПРОВЕРЯЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОФОРМЛЕНИЕ ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 36.63,
+    "end": 38.64,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

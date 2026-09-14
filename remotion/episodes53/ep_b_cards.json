@@ -1,0 +1,178 @@
+[
+  {
+    "start": 3.9,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "ВСЕ ВОКРУГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЖДУТ ТОЛЬКО СТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.59,
+    "end": 10.14,
+    "lines": [
+      {
+        "text": "УЧИТЕЛЯ РОДИТЕЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОКЛАССНИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.65,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАННОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.87,
+    "end": 15.66,
+    "lines": [
+      {
+        "text": "ДАВИТ СИЛЬНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ САМИ ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.65,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "СПРАВЛЯЮСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОЖИДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.04,
+    "end": 22.05,
+    "lines": [
+      {
+        "text": "А КОНКРЕТНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАНОМ В ТРЕНАЖЁРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.83,
+    "end": 25.02,
+    "lines": [
+      {
+        "text": "ВИДЕОРАЗБОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧЕЧНАЯ РАБОТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.26,
+    "end": 27.42,
+    "lines": [
+      {
+        "text": "СЛАБЫЕ МЕСТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАГ ЗА ШАГОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.41,
+    "end": 29.76,
+    "lines": [
+      {
+        "text": "СМОТРЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПРОЦЕСС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.0,
+    "end": 32.79,
+    "lines": [
+      {
+        "text": "НЕ НА ОЖИДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАНОВЛЮСЬ СПОКОЙНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.87,
+    "end": 37.28,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

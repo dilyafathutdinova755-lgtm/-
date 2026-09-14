@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.52,
+    "end": 4.98,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ СОБИРАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛИЧНУЮ ПОДБОРКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНЫХ СЛУЧАЕВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.21,
+    "end": 12.96,
+    "lines": [
+      {
+        "text": "ЗАВИС ДОЛЬШЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЫЧНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "ДОБАВЛЯЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В СПИСОК ПОВТОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.28,
+    "end": 20.85,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР СТАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОЧНИКОМ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.6,
+    "end": 24.45,
+    "lines": [
+      {
+        "text": "БЕРУ СЛОЖНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОБЩИЕ ТЕМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.32,
+    "end": 27.33,
+    "lines": [
+      {
+        "text": "ПОДБОРКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЖЕ 30 ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.33,
+    "end": 29.65,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
