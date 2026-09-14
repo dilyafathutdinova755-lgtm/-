@@ -4,68 +4,52 @@
     "end": 3.9,
     "lines": [
       {
-        "text": "ОТКЛАДЫВАЕТ",
+        "text": "ПРЕДМЕТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЕНИЕ",
+        "text": "ВПЕРЕМЕШКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.0,
-    "end": 5.55,
+    "start": 4.68,
+    "end": 6.0,
     "lines": [
       {
-        "text": "ДО",
+        "text": "НЕ ЗАМЕЧАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРА",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.88,
-    "end": 7.65,
+    "start": 7.53,
+    "end": 9.4,
     "lines": [
       {
-        "text": "ТОЛСТЫЙ",
+        "text": "СЛАБЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИК",
+        "text": "ОСТАЛЬНЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.71,
-    "end": 9.0,
-    "lines": [
-      {
-        "text": "ОТКРОВЕННО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛЕНЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.35,
-    "end": 11.55,
+    "start": 10.47,
+    "end": 11.7,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,55 +57,55 @@
         "size": "small"
       },
       {
-        "text": "КАРТОЧКИ",
+        "text": "УЧЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.65,
-    "end": 13.6,
+    "start": 11.8,
+    "end": 13.35,
     "lines": [
       {
-        "text": "ВМЕСТО",
+        "text": "РЕШЕННЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКА",
+        "text": "ПО ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.13,
-    "end": 15.75,
+    "start": 13.86,
+    "end": 15.2,
     "lines": [
       {
-        "text": "ГЛАВНОЕ",
+        "text": "ПОДСВЕЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЭКРАНЕ",
+        "text": "ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.93,
-    "end": 17.15,
+    "start": 15.3,
+    "end": 16.9,
     "lines": [
       {
-        "text": "ПРОЛИСТЫВАНИЯ",
+        "text": "ЗАМЕТНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ",
+        "text": "БОЛЬШЕ",
         "accent": true,
         "size": "big"
       }
@@ -129,71 +113,87 @@
   },
   {
     "start": 17.7,
-    "end": 20.0,
+    "end": 19.35,
     "lines": [
       {
-        "text": "ПЯТЬ МИНУТ",
+        "text": "ОБНОВЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕД СНОМ",
+        "text": "САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.13,
-    "end": 21.5,
+    "start": 19.56,
+    "end": 21.05,
     "lines": [
       {
-        "text": "ИЛИ В",
+        "text": "ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕРЫВЕ",
+        "text": "ПРОБНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.08,
-    "end": 24.5,
+    "start": 22.05,
+    "end": 23.2,
     "lines": [
       {
-        "text": "БОЛЬШЕ НЕ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦЕЛЫЙ ВЕЧЕР",
+        "text": "ПЕРЕСЧЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.63,
-    "end": 25.9,
+    "start": 24.24,
+    "end": 25.5,
     "lines": [
       {
-        "text": "С УЧЕБНИКОМ",
+        "text": "СЛАБОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В РУКАХ",
+        "text": "МЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.49,
-    "end": 28.15,
+    "start": 25.71,
+    "end": 27.8,
+    "lines": [
+      {
+        "text": "ДО КОНТРОЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАНЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.65,
+    "end": 30.4,
     "lines": [
       {
         "text": "ССЫЛКА",
