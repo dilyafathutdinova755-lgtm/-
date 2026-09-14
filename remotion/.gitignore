@@ -201,3 +201,10 @@ episodes50/render/
 episodes50_out/
 sources_coffee123_7/
 asr_coffee123_7/
+episodes51/*.mp4
+episodes51/*.wav
+episodes51/*.log
+episodes51/render/
+episodes51_out/
+sources_coffee123_8/
+asr_coffee123_8/

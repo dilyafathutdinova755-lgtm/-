@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.61,
-    "end": 4.1,
+    "start": 2.6,
+    "end": 3.85,
     "lines": [
       {
-        "text": "ВСЕ ПРЕДМЕТЫ",
+        "text": "КОНСПЕКТИРУЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "ОТ РУКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.29,
-    "end": 5.15,
+    "start": 4.14,
+    "end": 5.05,
     "lines": [
       {
-        "text": "ЗА ОДИН",
+        "text": "ХОТЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕР",
+        "text": "НУЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.7,
+    "start": 5.1,
+    "end": 7.65,
     "lines": [
       {
-        "text": "БРОСАЕШЬ",
+        "text": "ВСЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕСЯТЬ МИНУТ",
+        "text": "ПАРА СТРОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.41,
-    "end": 8.8,
+    "start": 7.98,
+    "end": 10.15,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,119 +57,103 @@
         "size": "small"
       },
       {
-        "text": "СУЖАЕТ",
+        "text": "ЗАМЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.9,
-    "end": 10.5,
+    "start": 10.17,
+    "end": 11.1,
     "lines": [
       {
-        "text": "ДО ОДНОГО",
+        "text": "КОНСПЕКТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛА",
+        "text": "КАРТОЧКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.71,
-    "end": 12.05,
+    "start": 11.28,
+    "end": 13.15,
     "lines": [
       {
-        "text": "ВМЕСТО ВСЕХ",
+        "text": "ГЛАВНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТОВ",
+        "text": "НА ЭКРАНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 14.25,
+    "start": 13.38,
+    "end": 14.85,
     "lines": [
       {
-        "text": "ПО СЛАБОЙ",
+        "text": "ПОВТОРИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЕ",
+        "text": "ЗА МИНУТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 16.25,
+    "start": 15.03,
+    "end": 17.15,
     "lines": [
       {
-        "text": "НЕ СЛУЧАЙНО",
+        "text": "ПЕРЕПИСЫВАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПЛАНУ",
+        "text": "ВМЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.77,
-    "end": 18.0,
+    "start": 17.43,
+    "end": 20.0,
     "lines": [
       {
-        "text": "СЛАБАЯ ТЕМА",
+        "text": "ДЛЯ ПАУЗЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОШИБКАМ",
+        "text": "МЕЖДУ УРОКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.1,
-    "end": 19.35,
+    "start": 20.16,
+    "end": 21.05,
     "lines": [
       {
-        "text": "НЕДАВНЯЯ",
+        "text": "И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.59,
-    "end": 20.75,
-    "lines": [
-      {
-        "text": "А НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАУГАД",
+        "text": "ДОРОГИ",
         "accent": true,
         "size": "big"
       }
@@ -180,36 +164,36 @@
     "end": 23.3,
     "lines": [
       {
-        "text": "КОРОТКИЙ ПУНКТ",
+        "text": "ПАРА СТРОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "ЭКОНОМИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.43,
-    "end": 24.95,
+    "start": 23.49,
+    "end": 25.0,
     "lines": [
       {
-        "text": "ДОЛЬШЕ ЧЕМ",
+        "text": "ВЕРНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАН СРАЗУ",
+        "text": "ЛИСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.56,
-    "end": 27.3,
+    "start": 25.26,
+    "end": 26.9,
     "lines": [
       {
         "text": "ССЫЛКА",

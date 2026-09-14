@@ -1,55 +1,39 @@
 [
   {
-    "start": 2.61,
-    "end": 4.1,
+    "start": 2.6,
+    "end": 3.7,
     "lines": [
       {
-        "text": "ВСЕ ПРЕДМЕТЫ",
+        "text": "ПОХОЖИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.29,
-    "end": 5.15,
+    "start": 3.78,
+    "end": 5.3,
     "lines": [
       {
-        "text": "ЗА ОДИН",
+        "text": "НА КАЖДОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕР",
+        "text": "РАБОТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.7,
-    "lines": [
-      {
-        "text": "БРОСАЕШЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДЕСЯТЬ МИНУТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.41,
-    "end": 8.8,
+    "start": 6.33,
+    "end": 7.6,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,111 +41,31 @@
         "size": "small"
       },
       {
-        "text": "СУЖАЕТ",
+        "text": "ИГРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.9,
-    "end": 10.5,
+    "start": 7.7,
+    "end": 9.8,
     "lines": [
       {
-        "text": "ДО ОДНОГО",
+        "text": "ИЗ ПОХОЖИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛА",
+        "text": "ТЕРМИНОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.71,
-    "end": 12.05,
-    "lines": [
-      {
-        "text": "ВМЕСТО ВСЕХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРЕДМЕТОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.66,
-    "end": 14.25,
-    "lines": [
-      {
-        "text": "ПО СЛАБОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕМЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.46,
-    "end": 16.25,
-    "lines": [
-      {
-        "text": "НЕ СЛУЧАЙНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ПЛАНУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.77,
-    "end": 18.0,
-    "lines": [
-      {
-        "text": "СЛАБАЯ ТЕМА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ОШИБКАМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.1,
-    "end": 19.35,
-    "lines": [
-      {
-        "text": "НЕДАВНЯЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТАТИСТИКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.59,
-    "end": 20.75,
+    "start": 9.93,
+    "end": 11.85,
     "lines": [
       {
         "text": "А НЕ",
@@ -169,47 +73,111 @@
         "size": "small"
       },
       {
-        "text": "НАУГАД",
+        "text": "ВСЯ ТЕМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.21,
-    "end": 23.3,
+    "start": 12.06,
+    "end": 13.6,
     "lines": [
       {
-        "text": "КОРОТКИЙ ПУНКТ",
+        "text": "В ПАРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "ТОЛЬКО ТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.43,
-    "end": 24.95,
+    "start": 13.7,
+    "end": 15.4,
     "lines": [
       {
-        "text": "ДОЛЬШЕ ЧЕМ",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАН СРАЗУ",
+        "text": "ПУТАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.56,
-    "end": 27.3,
+    "start": 15.72,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "ПАРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.46,
+    "end": 19.9,
+    "lines": [
+      {
+        "text": "КОГДА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПУТЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.19,
+    "end": 21.95,
+    "lines": [
+      {
+        "text": "ПРОЯСНЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.32,
+    "end": 23.8,
+    "lines": [
+      {
+        "text": "ЗА ОДНУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАБОТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.03,
+    "end": 25.7,
     "lines": [
       {
         "text": "ССЫЛКА",

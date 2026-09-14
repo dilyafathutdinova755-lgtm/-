@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.61,
-    "end": 4.1,
+    "start": 2.55,
+    "end": 3.7,
     "lines": [
       {
-        "text": "ВСЕ ПРЕДМЕТЫ",
+        "text": "СВЕРЯЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "СБОРНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.29,
-    "end": 5.15,
+    "start": 3.84,
+    "end": 5.2,
     "lines": [
       {
-        "text": "ЗА ОДИН",
+        "text": "НАХОДИШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕР",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.7,
+    "start": 5.3,
+    "end": 6.5,
     "lines": [
       {
-        "text": "БРОСАЕШЬ",
+        "text": "КОТОРОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕСЯТЬ МИНУТ",
+        "text": "УЖЕ НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.41,
-    "end": 8.8,
+    "start": 6.75,
+    "end": 8.1,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,159 +57,143 @@
         "size": "small"
       },
       {
-        "text": "СУЖАЕТ",
+        "text": "УБИРАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.9,
-    "end": 10.5,
+    "start": 8.43,
+    "end": 9.8,
     "lines": [
       {
-        "text": "ДО ОДНОГО",
+        "text": "ИЗ БАНКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛА",
+        "text": "СТАРОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.71,
-    "end": 12.05,
+    "start": 9.9,
+    "end": 11.1,
     "lines": [
       {
-        "text": "ВМЕСТО ВСЕХ",
+        "text": "НЕТ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТОВ",
+        "text": "ВЕРСИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 14.25,
+    "start": 11.61,
+    "end": 13.2,
     "lines": [
       {
-        "text": "ПО СЛАБОЙ",
+        "text": "СБОРНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЕ",
+        "text": "НЕ НУЖЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 16.25,
+    "start": 13.3,
+    "end": 14.55,
     "lines": [
       {
-        "text": "НЕ СЛУЧАЙНО",
+        "text": "ДЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПЛАНУ",
+        "text": "СВЕРКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.77,
-    "end": 18.0,
+    "start": 14.82,
+    "end": 16.6,
     "lines": [
       {
-        "text": "СЛАБАЯ ТЕМА",
+        "text": "ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОШИБКАМ",
+        "text": "ПРОПАДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.1,
-    "end": 19.35,
+    "start": 17.22,
+    "end": 19.1,
     "lines": [
       {
-        "text": "НЕДАВНЯЯ",
+        "text": "УВЕДОМЛЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКА",
+        "text": "БЕЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.59,
-    "end": 20.75,
+    "start": 19.47,
+    "end": 21.25,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "ЧЕГО НЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАУГАД",
+        "text": "НА ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.21,
-    "end": 23.3,
+    "start": 21.48,
+    "end": 23.15,
     "lines": [
       {
-        "text": "КОРОТКИЙ ПУНКТ",
+        "text": "НЕ ОТНИМАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.43,
+    "start": 23.37,
     "end": 24.95,
-    "lines": [
-      {
-        "text": "ДОЛЬШЕ ЧЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЛАН СРАЗУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.56,
-    "end": 27.3,
     "lines": [
       {
         "text": "ССЫЛКА",

@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.61,
-    "end": 4.1,
+    "start": 2.6,
+    "end": 3.9,
     "lines": [
       {
-        "text": "ВСЕ ПРЕДМЕТЫ",
+        "text": "БЕЗ ДОСТУПА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "К ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.29,
-    "end": 5.15,
+    "start": 4.0,
+    "end": 5.2,
     "lines": [
       {
-        "text": "ЗА ОДИН",
+        "text": "В ЛАГЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕР",
+        "text": "НА СБОРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.7,
+    "start": 5.3,
+    "end": 6.95,
     "lines": [
       {
-        "text": "БРОСАЕШЬ",
+        "text": "ИНТЕРНЕТ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕСЯТЬ МИНУТ",
+        "text": "У КОРПУСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.41,
-    "end": 8.8,
+    "start": 7.29,
+    "end": 8.6,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,159 +57,143 @@
         "size": "small"
       },
       {
-        "text": "СУЖАЕТ",
+        "text": "ОТКРЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.9,
-    "end": 10.5,
+    "start": 8.7,
+    "end": 9.7,
     "lines": [
       {
-        "text": "ДО ОДНОГО",
+        "text": "СОХРАНЕННОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛА",
+        "text": "УЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.71,
-    "end": 12.05,
+    "start": 9.96,
+    "end": 11.3,
     "lines": [
       {
-        "text": "ВМЕСТО ВСЕХ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТОВ",
+        "text": "ОБРАЩЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 14.25,
+    "start": 11.4,
+    "end": 12.7,
     "lines": [
       {
-        "text": "ПО СЛАБОЙ",
+        "text": "К СЕТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЕ",
+        "text": "КОРПУСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 16.25,
+    "start": 12.99,
+    "end": 15.5,
     "lines": [
       {
-        "text": "НЕ СЛУЧАЙНО",
+        "text": "РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПЛАНУ",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.77,
-    "end": 18.0,
+    "start": 15.63,
+    "end": 17.1,
     "lines": [
       {
-        "text": "СЛАБАЯ ТЕМА",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОШИБКАМ",
+        "text": "ЗАГРУЗКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.1,
-    "end": 19.35,
+    "start": 17.31,
+    "end": 19.55,
     "lines": [
       {
-        "text": "НЕДАВНЯЯ",
+        "text": "ДОСТУП",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКА",
+        "text": "НА ВЕСЬ СРОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.59,
-    "end": 20.75,
+    "start": 19.68,
+    "end": 21.2,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "НЕ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАУГАД",
+        "text": "ПЕРВЫЙ ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.21,
-    "end": 23.3,
+    "start": 21.45,
+    "end": 24.45,
     "lines": [
       {
-        "text": "КОРОТКИЙ ПУНКТ",
+        "text": "СБОРЫ БЕЗ СЕТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "БЕЗ ПАУЗЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.43,
-    "end": 24.95,
-    "lines": [
-      {
-        "text": "ДОЛЬШЕ ЧЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЛАН СРАЗУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.56,
-    "end": 27.3,
+    "start": 24.66,
+    "end": 26.3,
     "lines": [
       {
         "text": "ССЫЛКА",
