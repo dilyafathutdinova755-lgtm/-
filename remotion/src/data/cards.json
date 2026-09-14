@@ -1,39 +1,7 @@
 [
   {
-    "start": 3.03,
-    "end": 4.2,
-    "lines": [
-      {
-        "text": "КОПИШЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАКЛАДКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.3,
-    "end": 5.75,
-    "lines": [
-      {
-        "text": "И ЗАМЕТКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В ТЕЛЕФОНЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.18,
-    "end": 7.7,
+    "start": 2.6,
+    "end": 3.5,
     "lines": [
       {
         "text": "ОТКРЫВАЕШЬ",
@@ -48,27 +16,91 @@
     ]
   },
   {
-    "start": 7.8,
-    "end": 8.9,
+    "start": 3.93,
+    "end": 4.85,
     "lines": [
       {
-        "text": "ПЕРЕД",
+        "text": "РАЗ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНОМ",
+        "text": "НЕСКОЛЬКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.93,
-    "end": 11.2,
+    "start": 5.19,
+    "end": 6.5,
+    "lines": [
+      {
+        "text": "НАВЕРСТЫВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.25,
+    "lines": [
+      {
+        "text": "ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.09,
+    "end": 10.4,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ ДЕЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 12.4,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕГОДНЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.05,
+    "end": 14.35,
+    "lines": [
+      {
+        "text": "ИГРА",
         "accent": false,
         "size": "small"
       },
@@ -80,152 +112,120 @@
     ]
   },
   {
-    "start": 11.3,
-    "end": 12.65,
+    "start": 14.45,
+    "end": 15.3,
     "lines": [
       {
-        "text": "КОРОТКИЕ",
+        "text": "ИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ТЕМАМ",
+        "text": "ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 14.8,
+    "start": 15.96,
+    "end": 17.6,
     "lines": [
       {
-        "text": "ВМЕСТО",
+        "text": "МЕНЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКЛАДОК",
+        "text": "ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.42,
-    "end": 16.95,
+    "start": 17.79,
+    "end": 20.6,
     "lines": [
       {
-        "text": "ОТКРЫТЬ",
+        "text": "ЧЕМ ОДНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА МИНУТУ",
+        "text": "ПОПЫТКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.16,
-    "end": 19.05,
+    "start": 21.51,
+    "end": 24.65,
     "lines": [
       {
-        "text": "МЕЖДУ",
+        "text": "ОТМЕТКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНЯТИЯМИ",
+        "text": "В ПРИЛОЖЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.41,
-    "end": 21.1,
+    "start": 25.2,
+    "end": 26.7,
     "lines": [
       {
-        "text": "И ЗАКРЫТЬ",
+        "text": "БЕЗ СПИСКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕЛЕФОН",
+        "text": "НА БУМАГЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.99,
-    "end": 23.85,
+    "start": 27.45,
+    "end": 29.9,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТ",
+        "text": "ПРОПУСК ДНЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНТЕРНЕТА",
+        "text": "НЕ СТРАШЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.03,
-    "end": 25.45,
+    "start": 30.15,
+    "end": 31.25,
     "lines": [
       {
-        "text": "ТА ЖЕ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОРОСТЬ",
+        "text": "ДОЛГОГО ВЕЧЕРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.53,
-    "end": 26.65,
-    "lines": [
-      {
-        "text": "В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДОРОГЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.42,
-    "end": 30.95,
-    "lines": [
-      {
-        "text": "ОДНА КАРТОЧКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 31.71,
-    "end": 33.45,
+    "start": 32.19,
+    "end": 34.1,
     "lines": [
       {
         "text": "ССЫЛКА",
