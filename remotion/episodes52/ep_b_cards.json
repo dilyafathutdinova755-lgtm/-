@@ -1,0 +1,226 @@
+[
+  {
+    "start": 2.43,
+    "end": 3.48,
+    "lines": [
+      {
+        "text": "ТЕРЯЕШЬ ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА РЫБАЛКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "СВЯЗЬ ПРОПАДАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВЕСЬ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.88,
+    "end": 7.35,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕРЖИТ БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.44,
+    "end": 8.91,
+    "lines": [
+      {
+        "text": "В ПАМЯТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕЛЕФОНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 9.93,
+    "lines": [
+      {
+        "text": "И ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА РЫБАЛКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "НЕ ВЫПАДАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ПОДГОТОВКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.67,
+    "end": 12.5,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 13.74,
+    "lines": [
+      {
+        "text": "ТАК ЖЕ РОВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК В КОМНАТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.01,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "С ПОЛНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СИГНАЛОМ СЕТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.39,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "ЛОВИТ СЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЛИ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.35,
+    "end": 18.18,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИНАКОВО БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.2,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА РЫБАЛКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.23,
+    "end": 21.45,
+    "lines": [
+      {
+        "text": "ПЕРЕСТАЕТ ВЫПАДАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ГРАФИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.75,
+    "end": 23.49,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

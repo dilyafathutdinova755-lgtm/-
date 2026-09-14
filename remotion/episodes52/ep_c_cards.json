@@ -1,0 +1,242 @@
+[
+  {
+    "start": 2.55,
+    "end": 3.84,
+    "lines": [
+      {
+        "text": "ПУТАЕШЬ ФОРМУЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ФИЗИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ КОНТРОЛЬНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВТОРОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.78,
+    "end": 8.04,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫДЕЛЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.28,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "ПОД ТАКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 11.49,
+    "lines": [
+      {
+        "text": "ОТДЕЛЬНУЮ ИГРУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ВАРИАНТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.42,
+    "end": 13.41,
+    "lines": [
+      {
+        "text": "ПОХОЖИМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДРУГ НА ДРУГА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "СПЕЦИАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 16.02,
+    "lines": [
+      {
+        "text": "УСЛОЖНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.17,
+    "end": 17.91,
+    "lines": [
+      {
+        "text": "ПРОСТЫЕ ВАРИАНТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.23,
+    "end": 21.75,
+    "lines": [
+      {
+        "text": "ПЕРЕКЛЮЧАЕТСЯ САМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ФОРМУЛУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.44,
+    "end": 23.64,
+    "lines": [
+      {
+        "text": "БЕЗ ВЫБОРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМЫ ВРУЧНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.88,
+    "end": 24.93,
+    "lines": [
+      {
+        "text": "ПЕРЕД КАЖДЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАУНДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.83,
+    "end": 27.6,
+    "lines": [
+      {
+        "text": "ПОХОЖИЕ ФОРМУЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.87,
+    "end": 29.91,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИХ РАУНДОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.69,
+    "end": 32.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

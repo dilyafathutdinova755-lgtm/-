@@ -1,0 +1,306 @@
+[
+  {
+    "start": 2.49,
+    "end": 3.33,
+    "lines": [
+      {
+        "text": "ОЛИМПИАДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.75,
+    "end": 4.74,
+    "lines": [
+      {
+        "text": "ТРАТИШЬ ВРЕМЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПОИСК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 6.0,
+    "lines": [
+      {
+        "text": "К РЕПЕТИТОРУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.12,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "ДОПОЛНИТЕЛЬНОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.14,
+    "end": 11.37,
+    "lines": [
+      {
+        "text": "ТАКИЕ ДОПОЛНИТЕЛЬНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "БЕСПЛАТНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНКОМ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.47,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "И РАЗБОРАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ПОИСКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.15,
+    "end": 16.11,
+    "lines": [
+      {
+        "text": "ОТДЕЛЬНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕПЕТИТОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.74,
+    "end": 18.21,
+    "lines": [
+      {
+        "text": "НА ПОИСК ОСВОБОЖДАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.33,
+    "end": 20.64,
+    "lines": [
+      {
+        "text": "ДЛЯ ЗАНЯТИЙ ОЛИМПИАДНЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАЧАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.39,
+    "end": 22.59,
+    "lines": [
+      {
+        "text": "ОСВОБОДИВШЕЕСЯ ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.92,
+    "end": 24.27,
+    "lines": [
+      {
+        "text": "ПОИСКОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.45,
+    "end": 25.92,
+    "lines": [
+      {
+        "text": "ПОТРАТИТЬ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР СЛОЖНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.07,
+    "end": 26.97,
+    "lines": [
+      {
+        "text": "ОЛИМПИАДНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАЧИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.78,
+    "end": 29.34,
+    "lines": [
+      {
+        "text": "ВРЕМЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГОТОВКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.76,
+    "end": 30.66,
+    "lines": [
+      {
+        "text": "БОЛЬШЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УХОДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.78,
+    "end": 32.52,
+    "lines": [
+      {
+        "text": "НА БЕСКОНЕЧНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОИСК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.18,
+    "end": 34.98,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

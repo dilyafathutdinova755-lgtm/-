@@ -1,0 +1,258 @@
+[
+  {
+    "start": 2.55,
+    "end": 3.75,
+    "lines": [
+      {
+        "text": "БРОСАЕШЬ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В СЕРЕДИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "ЕСЛИ РЕЗУЛЬТАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАВНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.42,
+    "end": 7.25,
+    "lines": [
+      {
+        "text": "НЕ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.77,
+    "end": 8.82,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧИТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.06,
+    "end": 10.53,
+    "lines": [
+      {
+        "text": "ОБЩИЙ СРЕДИ ОДНОКЛАССНИКОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАЛЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.45,
+    "end": 13.92,
+    "lines": [
+      {
+        "text": "ПОСЛЕ КАЖДОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 16.17,
+    "lines": [
+      {
+        "text": "СПИСОК ВИДЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВНУТРИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.44,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "И НЕ ТРЕБУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГРУППЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.02,
+    "end": 19.89,
+    "lines": [
+      {
+        "text": "СПИСОК ВИДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.04,
+    "end": 21.0,
+    "lines": [
+      {
+        "text": "ПРИ ВХОДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПРИЛОЖЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.51,
+    "end": 23.49,
+    "lines": [
+      {
+        "text": "БЕЗ ПЕРЕХОДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В РАЗДЕЛ СТАТИСТИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.57,
+    "end": 25.83,
+    "lines": [
+      {
+        "text": "СЕРЕДИНА МЕСЯЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.98,
+    "end": 27.33,
+    "lines": [
+      {
+        "text": "БЫТЬ ТОЧКОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ПРОПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.51,
+    "end": 28.53,
+    "lines": [
+      {
+        "text": "ВЕСЬ ИНТЕРЕС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНИМАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.46,
+    "end": 31.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

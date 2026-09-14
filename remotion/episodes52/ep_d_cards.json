@@ -1,0 +1,242 @@
+[
+  {
+    "start": 2.34,
+    "end": 4.11,
+    "lines": [
+      {
+        "text": "ПОХОЖИЕ ДАТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.23,
+    "end": 5.46,
+    "lines": [
+      {
+        "text": "ПРОХОДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРА ЛЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.82,
+    "end": 7.71,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫДЕЛЯЕТ ИГРУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 9.21,
+    "lines": [
+      {
+        "text": "БЛИЗКИЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЕНИ ДАТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 10.53,
+    "lines": [
+      {
+        "text": "РАЗНИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ НИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.71,
+    "end": 12.03,
+    "lines": [
+      {
+        "text": "ЗАКРЕПЛЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.21,
+    "end": 13.26,
+    "lines": [
+      {
+        "text": "ИГРА ПРЕДЛАГАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАКИЕ ПАРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.31,
+    "end": 15.3,
+    "lines": [
+      {
+        "text": "ПУТАНИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПРОПАДЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.66,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "ПОДБИРАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРА ДАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.04,
+    "end": 18.69,
+    "lines": [
+      {
+        "text": "АВТОМАТИЧЕСКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ВЫБОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.84,
+    "end": 19.74,
+    "lines": [
+      {
+        "text": "КОНКРЕТНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.07,
+    "end": 21.21,
+    "lines": [
+      {
+        "text": "ПАРА ЛЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ СОБЫТИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.36,
+    "end": 22.2,
+    "lines": [
+      {
+        "text": "ПЕРЕСТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТИРАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.44,
+    "end": 23.55,
+    "lines": [
+      {
+        "text": "РАСПЛЫВЧАТЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРИОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.85,
+    "end": 25.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
