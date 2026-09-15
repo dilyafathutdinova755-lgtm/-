@@ -13,7 +13,7 @@
   ]},
   { "start": 9.87, "end": 12.45, "lines": [
     { "text": "А ТЕПЕРЬ", "accent": false, "size": "small" },
-    { "text": "ОДНИМ СЛОВОМ", "accent": true, "size": "big" }
+    { "text": "ОДНИМ СЛОВОМ ЗА УЖИНОМ", "accent": true, "size": "big" }
   ]},
   { "start": 12.93, "end": 14.91, "lines": [
     { "text": "ПЕРЕСТАЛА СПРАШИВАТЬ", "accent": false, "size": "small" },
@@ -25,7 +25,7 @@
   ]},
   { "start": 18.54, "end": 20.85, "lines": [
     { "text": "ЧЕРЕЗ НЕДЕЛЮ", "accent": false, "size": "small" },
-    { "text": "САМА ПОКАЗАЛА", "accent": true, "size": "big" }
+    { "text": "ДОЧЬ САМА ПОКАЗАЛА", "accent": true, "size": "big" }
   ]},
   { "start": 21.06, "end": 22.83, "lines": [
     { "text": "БЕЗ ЕДИНОГО", "accent": false, "size": "small" },
@@ -37,7 +37,7 @@
   ]},
   { "start": 25.56, "end": 27.12, "lines": [
     { "text": "А ПРОСТО", "accent": false, "size": "small" },
-    { "text": "БЕЗ ОТЧЁТОВ", "accent": true, "size": "big" }
+    { "text": "НЕЖЕЛАНИЕ ОТЧИТЫВАТЬСЯ", "accent": true, "size": "big" }
   ]},
   { "start": 27.66, "end": 29.58, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },

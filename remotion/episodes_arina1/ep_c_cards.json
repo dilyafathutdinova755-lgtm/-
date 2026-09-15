@@ -1,7 +1,7 @@
 [
   { "start": 2.46, "end": 6.42, "lines": [
     { "text": "СУББОТА ПЕРЕД ЕГЭ", "accent": false, "size": "small" },
-    { "text": "КОФЕ С ДОЧЕРЬЮ", "accent": true, "size": "big" }
+    { "text": "ПРОСТО КОФЕ С ДОЧЕРЬЮ", "accent": true, "size": "big" }
   ]},
   { "start": 6.78, "end": 8.19, "lines": [
     { "text": "БЕЗ РАЗГОВОРОВ", "accent": false, "size": "small" },
@@ -9,7 +9,7 @@
   ]},
   { "start": 8.52, "end": 12.36, "lines": [
     { "text": "ВЕСЬ АВГУСТ БОЯЛАСЬ", "accent": false, "size": "small" },
-    { "text": "ВРЕМЯ ВПУСТУЮ", "accent": true, "size": "big" }
+    { "text": "ПОТЕРЯННОГО ВРЕМЕНИ", "accent": true, "size": "big" }
   ]},
   { "start": 12.63, "end": 14.37, "lines": [
     { "text": "В КАФЕ ДОЧЬ", "accent": false, "size": "small" },
