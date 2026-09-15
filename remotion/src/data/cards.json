@@ -1,41 +1,41 @@
 [
-  { "start": 2.28, "end": 3.81, "lines": [
-    { "text": "СРЕДНИЙ БАЛЛ", "accent": false, "size": "small" },
-    { "text": "НА ЕГЭ", "accent": true, "size": "big" }
+  { "start": 2.07, "end": 3.84, "lines": [
+    { "text": "МАКСИМУМ ИЗ", "accent": false, "size": "small" },
+    { "text": "БАНКА ЕГЭ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.02, "end": 6.33, "lines": [
-    { "text": "ОНИ НИКОГДА", "accent": false, "size": "small" },
-    { "text": "НЕ ГОВОРИЛИ", "accent": true, "size": "big" }
+  { "start": 4.08, "end": 6.03, "lines": [
+    { "text": "БАЗОВЫЙ УРОВЕНЬ", "accent": false, "size": "small" },
+    { "text": "УЖЕ ПОЗАДИ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.68, "end": 9.84, "lines": [
-    { "text": "ЭТОТ СТРАХ", "accent": false, "size": "small" },
-    { "text": "САМА ПРИДУМАЛА", "accent": true, "size": "big" }
+  { "start": 6.48, "end": 8.76, "lines": [
+    { "text": "НЕ ПОДРЯД", "accent": false, "size": "small" },
+    { "text": "ВСЕ ТЕМЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.99, "end": 12.27, "lines": [
-    { "text": "ЧУЖИЕ ДЕТИ", "accent": false, "size": "small" },
-    { "text": "ВЫСОКИЕ БАЛЛЫ", "accent": true, "size": "big" }
+  { "start": 8.94, "end": 11.58, "lines": [
+    { "text": "НАЧНИТЕ С ТЕХ", "accent": false, "size": "small" },
+    { "text": "ГДЕ ЧАЩЕ ОШИБКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.84, "end": 14.49, "lines": [
-    { "text": "ОТ СТРАХА", "accent": false, "size": "small" },
-    { "text": "РУКИ ОПУСКАЮТСЯ", "accent": true, "size": "big" }
+  { "start": 12.09, "end": 14.37, "lines": [
+    { "text": "ИСПОЛЬЗУЙТЕ РЕЖИМ", "accent": false, "size": "small" },
+    { "text": "ПОЛНОГО ПРОБНИКА", "accent": true, "size": "big" }
   ]},
-  { "start": 14.76, "end": 17.10, "lines": [
-    { "text": "ЖЕЛАНИЕ ЗАНИМАТЬСЯ", "accent": false, "size": "small" },
-    { "text": "ПРОПАДАЕТ", "accent": true, "size": "big" }
+  { "start": 14.58, "end": 16.62, "lines": [
+    { "text": "НЕ В РАЗБРОС", "accent": false, "size": "small" },
+    { "text": "ПО НАСТРОЕНИЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.64, "end": 19.65, "lines": [
-    { "text": "ПОМОГЛО НЕ", "accent": false, "size": "small" },
-    { "text": "БУДЕТ ХОРОШО", "accent": true, "size": "big" }
+  { "start": 17.01, "end": 19.95, "lines": [
+    { "text": "ВОЗВРАЩАЙТЕСЬ К", "accent": false, "size": "small" },
+    { "text": "ВЕРНЫМ ОТВЕТАМ", "accent": true, "size": "big" }
   ]},
-  { "start": 20.10, "end": 23.67, "lines": [
-    { "text": "КОНКРЕТНОЕ ДЕЙСТВИЕ", "accent": false, "size": "small" },
-    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  { "start": 20.10, "end": 21.90, "lines": [
+    { "text": "ПУТЬ ЗАНЯЛ", "accent": false, "size": "small" },
+    { "text": "ДОЛЬШЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 24.36, "end": 27.75, "lines": [
-    { "text": "РАЗОЧАРОВАНИЕ ЖИВЁТ", "accent": false, "size": "small" },
-    { "text": "В ГОЛОВЕ", "accent": true, "size": "big" }
+  { "start": 22.32, "end": 26.01, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ДОСТАТОЧНО", "accent": true, "size": "big" }
   ]},
-  { "start": 28.38, "end": 30.24, "lines": [
+  { "start": 26.25, "end": 28.11, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
