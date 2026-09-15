@@ -1,41 +1,41 @@
 [
-  { "start": 2.70, "end": 6.00, "lines": [
-    { "text": "ТЕРЯЛА БАЛЛЫ", "accent": false, "size": "small" },
-    { "text": "ДАЖЕ ОТЛИЧНИЦА", "accent": true, "size": "big" }
+  { "start": 2.46, "end": 4.80, "lines": [
+    { "text": "ПОРА ПЕРЕХОДИТЬ", "accent": false, "size": "small" },
+    { "text": "К СЛОЖНЫМ ТЕМАМ", "accent": true, "size": "big" }
   ]},
-  { "start": 6.30, "end": 7.47, "lines": [
-    { "text": "ОТВЕТ КАЖЕТСЯ", "accent": false, "size": "small" },
-    { "text": "ОЧЕВИДНЫМ", "accent": true, "size": "big" }
+  { "start": 4.92, "end": 6.33, "lines": [
+    { "text": "НЕ АДАПТИРОВАТЬСЯ", "accent": false, "size": "small" },
+    { "text": "ИЗ ОСТОРОЖНОСТИ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.74, "end": 10.56, "lines": [
-    { "text": "ЗАДАНИЕ ТРЕБУЕТ", "accent": false, "size": "small" },
-    { "text": "ФОРМАТ ЗАПИСИ", "accent": true, "size": "big" }
+  { "start": 6.93, "end": 10.92, "lines": [
+    { "text": "ПЕРВЫЙ ПРИЗНАК", "accent": false, "size": "small" },
+    { "text": "БЕЗ ОШИБОК", "accent": true, "size": "big" }
   ]},
-  { "start": 10.89, "end": 13.08, "lines": [
-    { "text": "ВЕРНОЕ ЧИСЛО", "accent": false, "size": "small" },
-    { "text": "БАЛЛОВ НЕ ДАЁТ", "accent": true, "size": "big" }
+  { "start": 11.76, "end": 13.29, "lines": [
+    { "text": "ВТОРОЙ ПРИЗНАК", "accent": false, "size": "small" },
+    { "text": "НА ПРОБНИКЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 13.32, "end": 16.29, "lines": [
-    { "text": "НЕВНИМАТЕЛЬНОСТЬ", "accent": false, "size": "small" },
-    { "text": "НЕ ТА ОШИБКА", "accent": true, "size": "big" }
+  { "start": 13.44, "end": 16.56, "lines": [
+    { "text": "НЕ ХВАТАЕТ ВРЕМЕНИ", "accent": false, "size": "small" },
+    { "text": "НА СЛОЖНЫЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.47, "end": 18.36, "lines": [
-    { "text": "РЕШЕНИЕ БЫЛО", "accent": false, "size": "small" },
-    { "text": "ПРАВИЛЬНЫМ", "accent": true, "size": "big" }
-  ]},
-  { "start": 18.75, "end": 21.81, "lines": [
+  { "start": 17.16, "end": 18.96, "lines": [
     { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "РАЗБОР ФОРМАТА", "accent": true, "size": "big" }
+    { "text": "СПЕЦИАЛЬНО", "accent": true, "size": "big" }
   ]},
-  { "start": 22.05, "end": 23.28, "lines": [
-    { "text": "НЕ ТОЛЬКО СУТЬ", "accent": false, "size": "small" },
-    { "text": "НО И ФОРМАТ", "accent": true, "size": "big" }
+  { "start": 19.17, "end": 20.55, "lines": [
+    { "text": "ПО ОДНОЙ ТЕМЕ", "accent": false, "size": "small" },
+    { "text": "В НЕДЕЛЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 23.55, "end": 26.28, "lines": [
-    { "text": "ТОЧНЫЙ ФОРМАТ", "accent": false, "size": "small" },
-    { "text": "ЭКОНОМИТ БАЛЛЫ", "accent": true, "size": "big" }
+  { "start": 21.00, "end": 22.41, "lines": [
+    { "text": "НЕ УБИРАЯ ЛЁГКИЕ", "accent": false, "size": "small" },
+    { "text": "ПОЛНОСТЬЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 26.70, "end": 28.44, "lines": [
+  { "start": 22.95, "end": 26.70, "lines": [
+    { "text": "РАННИЙ ПЕРЕХОД", "accent": false, "size": "small" },
+    { "text": "ЧАЩЕ ПУГАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.15, "end": 29.01, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
