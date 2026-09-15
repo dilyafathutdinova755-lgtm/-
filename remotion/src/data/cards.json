@@ -1,41 +1,41 @@
 [
-  { "start": 2.07, "end": 3.84, "lines": [
-    { "text": "МАКСИМУМ ИЗ", "accent": false, "size": "small" },
-    { "text": "БАНКА ЕГЭ", "accent": true, "size": "big" }
+  { "start": 2.25, "end": 4.29, "lines": [
+    { "text": "ТЕТРАДЬ С ПЛАНАМИ", "accent": false, "size": "small" },
+    { "text": "НА ЛЕТО", "accent": true, "size": "big" }
   ]},
-  { "start": 4.08, "end": 6.03, "lines": [
-    { "text": "БАЗОВЫЙ УРОВЕНЬ", "accent": false, "size": "small" },
-    { "text": "УЖЕ ПОЗАДИ", "accent": true, "size": "big" }
+  { "start": 4.86, "end": 6.39, "lines": [
+    { "text": "НЕ ВЫПОЛНИЛА", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ НИ ОДНОГО", "accent": true, "size": "big" }
   ]},
-  { "start": 6.48, "end": 8.76, "lines": [
-    { "text": "НЕ ПОДРЯД", "accent": false, "size": "small" },
-    { "text": "ВСЕ ТЕМЫ", "accent": true, "size": "big" }
+  { "start": 7.68, "end": 10.23, "lines": [
+    { "text": "ПЕРВАЯ РЕАКЦИЯ", "accent": false, "size": "small" },
+    { "text": "СТЫД", "accent": true, "size": "big" }
   ]},
-  { "start": 8.94, "end": 11.58, "lines": [
-    { "text": "НАЧНИТЕ С ТЕХ", "accent": false, "size": "small" },
-    { "text": "ГДЕ ЧАЩЕ ОШИБКИ", "accent": true, "size": "big" }
+  { "start": 10.38, "end": 12.42, "lines": [
+    { "text": "ЗАКРЫТЬ ТЕТРАДЬ", "accent": false, "size": "small" },
+    { "text": "ОБРАТНО В ШКАФ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.09, "end": 14.37, "lines": [
-    { "text": "ИСПОЛЬЗУЙТЕ РЕЖИМ", "accent": false, "size": "small" },
-    { "text": "ПОЛНОГО ПРОБНИКА", "accent": true, "size": "big" }
+  { "start": 13.14, "end": 16.71, "lines": [
+    { "text": "ВТОРАЯ РЕАКЦИЯ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
   ]},
-  { "start": 14.58, "end": 16.62, "lines": [
-    { "text": "НЕ В РАЗБРОС", "accent": false, "size": "small" },
-    { "text": "ПО НАСТРОЕНИЮ", "accent": true, "size": "big" }
+  { "start": 16.89, "end": 19.29, "lines": [
+    { "text": "БЕЗ ПОПЫТКИ", "accent": false, "size": "small" },
+    { "text": "НАВЕРСТАТЬ ВСЁ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.01, "end": 19.95, "lines": [
-    { "text": "ВОЗВРАЩАЙТЕСЬ К", "accent": false, "size": "small" },
-    { "text": "ВЕРНЫМ ОТВЕТАМ", "accent": true, "size": "big" }
+  { "start": 20.49, "end": 22.44, "lines": [
+    { "text": "СРЕДНИЙ ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "БЕЗ ИДЕАЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 20.10, "end": 21.90, "lines": [
-    { "text": "ПУТЬ ЗАНЯЛ", "accent": false, "size": "small" },
-    { "text": "ДОЛЬШЕ", "accent": true, "size": "big" }
+  { "start": 22.65, "end": 24.27, "lines": [
+    { "text": "ЭТО ПРОГРЕСС", "accent": false, "size": "small" },
+    { "text": "А НЕ НОЛЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 22.32, "end": 26.01, "lines": [
-    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ДОСТАТОЧНО", "accent": true, "size": "big" }
+  { "start": 24.84, "end": 27.99, "lines": [
+    { "text": "СТАРЫЕ ПЛАНЫ", "accent": false, "size": "small" },
+    { "text": "БЕЗ СУДА", "accent": true, "size": "big" }
   ]},
-  { "start": 26.25, "end": 28.11, "lines": [
+  { "start": 28.50, "end": 30.24, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
