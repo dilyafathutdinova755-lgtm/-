@@ -1,41 +1,45 @@
 [
-  { "start": 2.13, "end": 5.19, "lines": [
-    { "text": "ВЕСЬ АВГУСТ", "accent": false, "size": "small" },
-    { "text": "ИЗБЕГАЛА ТЕМЫ", "accent": true, "size": "big" }
+  { "start": 2.19, "end": 4.11, "lines": [
+    { "text": "ТЕСТ НА 30 СЕКУНД", "accent": false, "size": "small" },
+    { "text": "УГАДАЙТЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 5.64, "end": 8.58, "lines": [
-    { "text": "САМА ПОПРОСИЛА", "accent": false, "size": "small" },
-    { "text": "ПОМОЩЬ С ТЕМОЙ", "accent": true, "size": "big" }
+  { "start": 4.29, "end": 7.14, "lines": [
+    { "text": "В РОДИТЕЛЬСКОМ ЧАТЕ", "accent": false, "size": "small" },
+    { "text": "ХОТЯ БЫ РАЗ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.06, "end": 10.29, "lines": [
-    { "text": "НЕ СТАЛА", "accent": false, "size": "small" },
-    { "text": "ЧИТАТЬ ЛЕКЦИЮ", "accent": true, "size": "big" }
+  { "start": 7.32, "end": 10.11, "lines": [
+    { "text": "ПРЕЖДЕ ЧЕМ ПЛАТИТЬ", "accent": false, "size": "small" },
+    { "text": "ЗА КУРСЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 10.44, "end": 12.93, "lines": [
-    { "text": "ПРОСТО ОТКРЫЛА", "accent": false, "size": "small" },
-    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  { "start": 10.68, "end": 11.76, "lines": [
+    { "text": "ОТВЕТ", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ НИКТО", "accent": true, "size": "big" }
   ]},
-  { "start": 13.50, "end": 15.18, "lines": [
-    { "text": "ПРОШЛА ТЕМУ", "accent": false, "size": "small" },
-    { "text": "ЗА 15 МИНУТ", "accent": true, "size": "big" }
+  { "start": 12.03, "end": 14.34, "lines": [
+    { "text": "СПРОСИЛА ПРЯМО", "accent": false, "size": "small" },
+    { "text": "В ЧАТЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.48, "end": 17.94, "lines": [
-    { "text": "Я СИДЕЛА РЯДОМ", "accent": false, "size": "small" },
-    { "text": "НЕ ВМЕШИВАЯСЬ", "accent": true, "size": "big" }
+  { "start": 14.88, "end": 16.89, "lines": [
+    { "text": "БОЛЬШИНСТВО СРАЗУ", "accent": false, "size": "small" },
+    { "text": "ПЛАТНЫЙ ВАРИАНТ", "accent": true, "size": "big" }
   ]},
-  { "start": 18.42, "end": 20.43, "lines": [
-    { "text": "НА СЛЕДУЮЩИЙ ДЕНЬ", "accent": false, "size": "small" },
-    { "text": "ОТКРЫЛА САМА", "accent": true, "size": "big" }
+  { "start": 17.04, "end": 19.74, "lines": [
+    { "text": "ДАЖЕ НЕ ПРОВЕРИВ", "accent": false, "size": "small" },
+    { "text": "ЧТО УЖЕ ЕСТЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 20.67, "end": 22.02, "lines": [
-    { "text": "БЕЗ МОЕГО", "accent": false, "size": "small" },
-    { "text": "НАПОМИНАНИЯ", "accent": true, "size": "big" }
+  { "start": 20.22, "end": 22.02, "lines": [
+    { "text": "ОТКРЫЛА ПЕРВОЙ", "accent": false, "size": "small" },
+    { "text": "С ДОЧЕРЬЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 22.77, "end": 26.52, "lines": [
-    { "text": "ОДИН ТИХИЙ ВЕЧЕР", "accent": false, "size": "small" },
-    { "text": "БОЛЬШЕ МЕСЯЦА", "accent": true, "size": "big" }
+  { "start": 22.17, "end": 24.54, "lines": [
+    { "text": "РАССКАЗАЛА О", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 27.06, "end": 28.74, "lines": [
+  { "start": 25.08, "end": 28.62, "lines": [
+    { "text": "САМЫЙ ДЕШЁВЫЙ", "accent": false, "size": "small" },
+    { "text": "НЕ ПРОВЕРЯЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.16, "end": 31.08, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
