@@ -1,0 +1,46 @@
+[
+  { "start": 2.19, "end": 4.11, "lines": [
+    { "text": "ТЕСТ НА 30 СЕКУНД", "accent": false, "size": "small" },
+    { "text": "УГАДАЙТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.29, "end": 7.14, "lines": [
+    { "text": "В РОДИТЕЛЬСКОМ ЧАТЕ", "accent": false, "size": "small" },
+    { "text": "ХОТЯ БЫ РАЗ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.32, "end": 10.11, "lines": [
+    { "text": "ПРЕЖДЕ ЧЕМ ПЛАТИТЬ", "accent": false, "size": "small" },
+    { "text": "ЗА КУРСЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.68, "end": 11.76, "lines": [
+    { "text": "ОТВЕТ", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ НИКТО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.03, "end": 14.34, "lines": [
+    { "text": "СПРОСИЛА ПРЯМО", "accent": false, "size": "small" },
+    { "text": "В ЧАТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.88, "end": 16.89, "lines": [
+    { "text": "БОЛЬШИНСТВО СРАЗУ", "accent": false, "size": "small" },
+    { "text": "ПЛАТНЫЙ ВАРИАНТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.04, "end": 19.74, "lines": [
+    { "text": "ДАЖЕ НЕ ПРОВЕРИВ", "accent": false, "size": "small" },
+    { "text": "ЧТО УЖЕ ЕСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.22, "end": 22.02, "lines": [
+    { "text": "ОТКРЫЛА ПЕРВОЙ", "accent": false, "size": "small" },
+    { "text": "С ДОЧЕРЬЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.17, "end": 24.54, "lines": [
+    { "text": "РАССКАЗАЛА О", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.08, "end": 28.62, "lines": [
+    { "text": "САМЫЙ ДЕШЁВЫЙ", "accent": false, "size": "small" },
+    { "text": "НЕ ПРОВЕРЯЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.16, "end": 31.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
