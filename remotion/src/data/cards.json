@@ -1,135 +1,183 @@
 [
   {
-    "start": 2.91,
-    "end": 4.11,
+    "start": 2.97,
+    "end": 5.64,
     "lines": [
       {
-        "text": "КОГДА НЕ",
+        "text": "ДЕТСТВО ЗАКОНЧИЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНИМАЮ ТЕМУ",
+        "text": "ГОТОВЬСЯ СЕРЬЁЗНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.74,
-    "end": 6.39,
+    "start": 6.45,
+    "end": 9.63,
     "lines": [
       {
-        "text": "БОЮСЬ",
+        "text": "ДО 11 КЛАССА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗАТЬСЯ ТУПОЙ",
+        "text": "МОЖНО НЕ ГОТОВИТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 10.5,
+    "start": 10.05,
+    "end": 11.34,
     "lines": [
       {
-        "text": "РАНЬШЕ КИВАЛА",
+        "text": "А ТЕПЕРЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛАЛА ВИД",
+        "text": "РЕЗКО НЕЛЬЗЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.28,
-    "end": 12.63,
+    "start": 12.42,
+    "end": 15.27,
     "lines": [
       {
-        "text": "А ДОМА",
+        "text": "СМЕШНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫЛО ЛЕНЬ",
+        "text": "МОЖНО И РАНЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.56,
-    "end": 15.87,
+    "start": 15.81,
+    "end": 16.68,
     "lines": [
       {
-        "text": "ТЕПЕРЬ ОТКРЫВАЮ",
+        "text": "ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "БЕЗ ДРАМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.38,
-    "end": 18.78,
+    "start": 16.77,
+    "end": 17.76,
     "lines": [
       {
-        "text": "ПЕРЕСМАТРИВАЮ",
+        "text": "В ПОДПИСИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГДЕ ЗАСТРЯЛА",
+        "text": "ПОД ПОСТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.47,
-    "end": 22.08,
+    "start": 18.69,
+    "end": 21.06,
     "lines": [
       {
-        "text": "НИКТО НЕ ВИДИТ",
+        "text": "ОТКРЫВАЮ ТРЕНАЖЁР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО НЕ ПОНЯЛА",
+        "text": "БЕЗ НАДРЫВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.98,
-    "end": 24.78,
+    "start": 21.75,
+    "end": 24.51,
     "lines": [
       {
-        "text": "ОКАЗАЛОСЬ",
+        "text": "КОРОТКИЕ ВИДЕО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАМНОГО СПОКОЙНЕЕ",
+        "text": "ОБЫЧНАЯ РУТИНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.78,
-    "end": 26.62,
+    "start": 24.81,
+    "end": 26.7,
+    "lines": [
+      {
+        "text": "НЕ ТРАГЕДИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕЛЕНСКОГО МАСШТАБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.66,
+    "end": 31.17,
+    "lines": [
+      {
+        "text": "ДРАМАТИЗАЦИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УСКОРЯЕТ ДЕЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.04,
+    "end": 33.66,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ТОЖЕ УСТАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.66,
+    "end": 36.14,
     "lines": [
       {
         "text": "ССЫЛКА",
