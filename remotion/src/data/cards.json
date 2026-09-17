@@ -1,183 +1,151 @@
 [
   {
-    "start": 2.97,
-    "end": 5.64,
+    "start": 2.85,
+    "end": 3.93,
     "lines": [
       {
-        "text": "ДЕТСТВО ЗАКОНЧИЛОСЬ",
+        "text": "ЗА ТРИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВЬСЯ СЕРЬЁЗНО",
+        "text": "ТЫСЯЧИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.45,
-    "end": 9.63,
+    "start": 4.71,
+    "end": 6.84,
     "lines": [
       {
-        "text": "ДО 11 КЛАССА",
+        "text": "СТИКЕРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО НЕ ГОТОВИТЬСЯ",
+        "text": "12 ЦВЕТОВ МАРКЕРОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 11.34,
+    "start": 7.56,
+    "end": 9.45,
     "lines": [
       {
-        "text": "А ТЕПЕРЬ",
+        "text": "А ТЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗКО НЕЛЬЗЯ",
+        "text": "НЕРАЗОБРАНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.42,
-    "end": 15.27,
+    "start": 10.23,
+    "end": 13.77,
     "lines": [
       {
-        "text": "СМЕШНО",
+        "text": "КРАСИВЫЙ КОНСПЕКТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО И РАНЬШЕ",
+        "text": "НЕ ЗАМЕНЯЕТ ЗНАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.81,
-    "end": 16.68,
+    "start": 14.22,
+    "end": 15.96,
     "lines": [
       {
-        "text": "ПРОСТО",
+        "text": "КАК БЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ДРАМЫ",
+        "text": "ГРУСТНО НИ ЗВУЧАЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.77,
-    "end": 17.76,
+    "start": 17.22,
+    "end": 18.75,
     "lines": [
       {
-        "text": "В ПОДПИСИ",
+        "text": "ОБХОЖУСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОД ПОСТОМ",
+        "text": "ЕГЭ ТРЕНАЖЁРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.69,
-    "end": 21.06,
+    "start": 19.26,
+    "end": 22.32,
     "lines": [
       {
-        "text": "ОТКРЫВАЮ ТРЕНАЖЁР",
+        "text": "ВСЁ СТРУКТУРИРОВАНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ НАДРЫВА",
+        "text": "МАРКЕРЫ НЕ НУЖНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.75,
-    "end": 24.51,
+    "start": 23.13,
+    "end": 24.78,
     "lines": [
       {
-        "text": "КОРОТКИЕ ВИДЕО",
+        "text": "ЭКОНОМЛЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЫЧНАЯ РУТИНА",
+        "text": "ДЕНЬГИ И ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.81,
-    "end": 26.7,
+    "start": 24.96,
+    "end": 26.1,
     "lines": [
       {
-        "text": "НЕ ТРАГЕДИЯ",
+        "text": "ОФОРМЛЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЕЛЕНСКОГО МАСШТАБА",
+        "text": "НИКТО НЕ ПРОВЕРЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.66,
-    "end": 31.17,
-    "lines": [
-      {
-        "text": "ДРАМАТИЗАЦИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ УСКОРЯЕТ ДЕЛО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.04,
-    "end": 33.66,
-    "lines": [
-      {
-        "text": "СОХРАНИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕСЛИ ТОЖЕ УСТАЛ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.66,
-    "end": 36.14,
+    "start": 26.1,
+    "end": 29.05,
     "lines": [
       {
         "text": "ССЫЛКА",
