@@ -1,0 +1,42 @@
+[
+  { "start": 1.23, "end": 3.24, "lines": [
+    { "text": "СТЕСНЯЛСЯ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСПРАШИВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.42, "end": 5.40, "lines": [
+    { "text": "ОДНУ ТЕМУ", "accent": false, "size": "small" },
+    { "text": "ВО ВТОРОЙ РАЗ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.91, "end": 7.95, "lines": [
+    { "text": "БОЯЛСЯ", "accent": false, "size": "small" },
+    { "text": "НЕПОНЯТЛИВЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.49, "end": 11.94, "lines": [
+    { "text": "В ЕГЭ ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "СКОЛЬКО НУЖНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.42, "end": 14.22, "lines": [
+    { "text": "НИКТО НЕ", "accent": false, "size": "small" },
+    { "text": "СМОТРИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.88, "end": 17.10, "lines": [
+    { "text": "ЗА МЕСЯЦ", "accent": false, "size": "small" },
+    { "text": "ЧЕТЫРЕ РАЗА", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.43, "end": 19.68, "lines": [
+    { "text": "ПОКА НЕ", "accent": false, "size": "small" },
+    { "text": "РАЗОБРАЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.31, "end": 24.30, "lines": [
+    { "text": "С РЕПЕТИТОРОМ", "accent": false, "size": "small" },
+    { "text": "ДОРОГИХ ЗАНЯТИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 24.99, "end": 28.92, "lines": [
+    { "text": "СМУЩЕНИЕ МЕШАЕТ", "accent": false, "size": "small" },
+    { "text": "СИЛЬНЕЕ ТЕМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.55, "end": 31.59, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

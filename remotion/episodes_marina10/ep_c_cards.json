@@ -1,0 +1,42 @@
+[
+  { "start": 1.05, "end": 3.60, "lines": [
+    { "text": "ВОЗИЛА СЫНА", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ВЕСЬ ГОРОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.99, "end": 7.86, "lines": [
+    { "text": "ТУДА И ОБРАТНО", "accent": false, "size": "small" },
+    { "text": "ЦЕЛЫЙ ЧАС", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.06, "end": 11.52, "lines": [
+    { "text": "ЗАМЕНИЛА ЧАС", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.79, "end": 14.49, "lines": [
+    { "text": "15 МИНУТ ВЕЧЕРОМ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ПРОБОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.18, "end": 17.40, "lines": [
+    { "text": "ЗА МЕСЯЦ", "accent": false, "size": "small" },
+    { "text": "НЕСКОЛЬКО ЧАСОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.85, "end": 19.92, "lines": [
+    { "text": "РАНЬШЕ УХОДИЛИ", "accent": false, "size": "small" },
+    { "text": "НА ДОРОГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.67, "end": 22.20, "lines": [
+    { "text": "ПРОГРЕСС СЫНА", "accent": false, "size": "small" },
+    { "text": "НЕ ПРОСЕЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.53, "end": 24.81, "lines": [
+    { "text": "СУДЯ ПО ПРОБНИКАМ", "accent": false, "size": "small" },
+    { "text": "РЕЗУЛЬТАТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.92, "end": 29.67, "lines": [
+    { "text": "ЭТО НЕ ПРО ДЕНЬГИ", "accent": false, "size": "small" },
+    { "text": "СВОБОДНЫЙ ЧАС", "accent": true, "size": "big" }
+  ]},
+  { "start": 30.33, "end": 32.31, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
