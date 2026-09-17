@@ -1,151 +1,135 @@
 [
   {
-    "start": 3.18,
-    "end": 5.79,
+    "start": 2.91,
+    "end": 4.11,
     "lines": [
       {
-        "text": "ГОТОВИЛАСЬ",
+        "text": "КОГДА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЕГО ПАРУ НЕДЕЛЬ",
+        "text": "ПОНИМАЮ ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
-    "end": 7.53,
+    "start": 4.74,
+    "end": 6.39,
     "lines": [
       {
-        "text": "НЕ РАССЧИТЫВАЛА",
+        "text": "БОЮСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА МНОГОЕ",
+        "text": "ПОКАЗАТЬСЯ ТУПОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.43,
-    "end": 10.65,
+    "start": 7.8,
+    "end": 10.5,
     "lines": [
       {
-        "text": "РЕЗУЛЬТАТ",
+        "text": "РАНЬШЕ КИВАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫШЕ ПРОШЛОГО",
+        "text": "ДЕЛАЛА ВИД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.83,
-    "end": 13.35,
+    "start": 11.28,
+    "end": 12.63,
     "lines": [
       {
-        "text": "НА ПРИЛИЧНОЕ",
+        "text": "А ДОМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОЛИЧЕСТВО БАЛЛОВ",
+        "text": "БЫЛО ЛЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.01,
-    "end": 15.42,
+    "start": 13.56,
+    "end": 15.87,
     "lines": [
       {
-        "text": "ПЕРЕЧИТАЛА",
+        "text": "ТЕПЕРЬ ОТКРЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВАЖДЫ",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.9,
-    "end": 16.59,
+    "start": 16.38,
+    "end": 18.78,
     "lines": [
       {
-        "text": "НЕ ВЕРЯ",
+        "text": "ПЕРЕСМАТРИВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГЛАЗАМ",
+        "text": "ГДЕ ЗАСТРЯЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.4,
-    "end": 20.13,
+    "start": 19.47,
+    "end": 22.08,
     "lines": [
       {
-        "text": "КОРОТКИЕ ВИДЕО",
+        "text": "НИКТО НЕ ВИДИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ДВЕ НЕДЕЛИ",
+        "text": "ЧТО НЕ ПОНЯЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.85,
-    "end": 23.67,
+    "start": 22.98,
+    "end": 24.78,
     "lines": [
       {
-        "text": "БОЛЬШЕ ЧЕМ",
+        "text": "ОКАЗАЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦ С УЧЕБНИКОМ",
+        "text": "НАМНОГО СПОКОЙНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.54,
-    "end": 27.66,
-    "lines": [
-      {
-        "text": "НЕ ОЖИДАЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТАКОГО ЭФФЕКТА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.44,
-    "end": 31.98,
+    "start": 24.78,
+    "end": 26.62,
     "lines": [
       {
         "text": "ССЫЛКА",
