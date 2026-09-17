@@ -1,0 +1,46 @@
+[
+  { "start": 3.18, "end": 5.01, "lines": [
+    { "text": "ПРОСТО ОТКРЫВАЮ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ТРЕНАЖЁР", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.19, "end": 7.89, "lines": [
+    { "text": "МЕЖДУ ДОМАШКОЙ", "accent": false, "size": "small" },
+    { "text": "НА 15 МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.27, "end": 11.37, "lines": [
+    { "text": "РАНЬШЕ ОТКЛАДЫВАЛА", "accent": false, "size": "small" },
+    { "text": "ЦЕЛЫЙ ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.39, "end": 14.16, "lines": [
+    { "text": "ВЕЧЕР ОБЫЧНО", "accent": false, "size": "small" },
+    { "text": "ПРОВАЛИВАЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.79, "end": 16.29, "lines": [
+    { "text": "КОРОТКИЕ ВСТАВКИ", "accent": false, "size": "small" },
+    { "text": "МЕЖДУ УРОКАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.54, "end": 20.16, "lines": [
+    { "text": "НЕ ОБЯЗАННОСТЬ", "accent": false, "size": "small" },
+    { "text": "ПРОСТО ПЕРЕРЫВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.91, "end": 23.07, "lines": [
+    { "text": "ЗА МЕСЯЦ ВСТАВОК", "accent": false, "size": "small" },
+    { "text": "БОЛЬШЕ ТЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.25, "end": 24.93, "lines": [
+    { "text": "ЧЕМ ЗА ОДИН", "accent": false, "size": "small" },
+    { "text": "ПЛАНОВЫЙ ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.86, "end": 27.54, "lines": [
+    { "text": "ПРОЩЕ ВСТРОИТЬ", "accent": false, "size": "small" },
+    { "text": "15 МИНУТ В ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.69, "end": 28.86, "lines": [
+    { "text": "ЧЕМ НАЙТИ", "accent": false, "size": "small" },
+    { "text": "ЦЕЛЫЙ ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.49, "end": 31.35, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
