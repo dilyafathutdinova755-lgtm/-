@@ -1,0 +1,42 @@
+[
+  { "start": 3.48, "end": 6.03, "lines": [
+    { "text": "ИГРУ В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "НА ЗАКРЕПЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.45, "end": 7.56, "lines": [
+    { "text": "ОШИБЛАСЬ", "accent": false, "size": "small" },
+    { "text": "ТРИЖДЫ ПОДРЯД", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.16, "end": 10.20, "lines": [
+    { "text": "ОКАЗАЛОСЬ ПУТАЛА", "accent": false, "size": "small" },
+    { "text": "ДВА ТЕРМИНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.32, "end": 12.57, "lines": [
+    { "text": "ЗВУЧАТ ПОЧТИ", "accent": false, "size": "small" },
+    { "text": "ОДИНАКОВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.08, "end": 15.09, "lines": [
+    { "text": "ВИДЕОРАЗБОР", "accent": false, "size": "small" },
+    { "text": "НА ПРИМЕРАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.36, "end": 17.55, "lines": [
+    { "text": "НЕ СУХИМ", "accent": false, "size": "small" },
+    { "text": "ОПРЕДЕЛЕНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.06, "end": 19.68, "lines": [
+    { "text": "ЕЩЁ РАЗ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.83, "end": 21.33, "lines": [
+    { "text": "И НАКОНЕЦ", "accent": false, "size": "small" },
+    { "text": "НИ РАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.17, "end": 25.68, "lines": [
+    { "text": "УВЕРЕННОСТЬ И ЗНАНИЕ", "accent": false, "size": "small" },
+    { "text": "ЕСТЬ РАЗНИЦА", "accent": true, "size": "big" }
+  ]},
+  { "start": 26.25, "end": 28.11, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

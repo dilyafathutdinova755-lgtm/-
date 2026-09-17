@@ -1,0 +1,34 @@
+[
+  { "start": 7.38, "end": 9.96, "lines": [
+    { "text": "ЛОГИКА ПО ШАГАМ", "accent": false, "size": "small" },
+    { "text": "НЕ ОДНОЙ ФРАЗОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.47, "end": 12.15, "lines": [
+    { "text": "ДВА УЧЕБНИКА", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО ФОРМУЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.30, "end": 14.49, "lines": [
+    { "text": "БЕЗ ОБЪЯСНЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ОТКУДА БЕРЁТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.78, "end": 19.47, "lines": [
+    { "text": "ВЫВОД ФОРМУЛЫ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕД ЗАДАЧЕЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.92, "end": 21.60, "lines": [
+    { "text": "ПРОШЛА ЕЩЁ", "accent": false, "size": "small" },
+    { "text": "ПЯТЬ ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.72, "end": 23.13, "lines": [
+    { "text": "ПЕРЕСТАЛА", "accent": false, "size": "small" },
+    { "text": "ПУТАТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.67, "end": 26.91, "lines": [
+    { "text": "ВАЖНО ПОНИМАНИЕ", "accent": false, "size": "small" },
+    { "text": "ОТКУДА ОТВЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 27.39, "end": 29.31, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
