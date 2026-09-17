@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.97,
+    "end": 5.64,
+    "lines": [
+      {
+        "text": "ДЕТСТВО ЗАКОНЧИЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОТОВЬСЯ СЕРЬЁЗНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "ДО 11 КЛАССА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО НЕ ГОТОВИТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "А ТЕПЕРЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗКО НЕЛЬЗЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.42,
+    "end": 15.27,
+    "lines": [
+      {
+        "text": "СМЕШНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО И РАНЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.81,
+    "end": 16.68,
+    "lines": [
+      {
+        "text": "ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ДРАМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.77,
+    "end": 17.76,
+    "lines": [
+      {
+        "text": "В ПОДПИСИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОД ПОСТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.69,
+    "end": 21.06,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЮ ТРЕНАЖЁР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ НАДРЫВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.75,
+    "end": 24.51,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЫЧНАЯ РУТИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.81,
+    "end": 26.7,
+    "lines": [
+      {
+        "text": "НЕ ТРАГЕДИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕЛЕНСКОГО МАСШТАБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.66,
+    "end": 31.17,
+    "lines": [
+      {
+        "text": "ДРАМАТИЗАЦИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УСКОРЯЕТ ДЕЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.04,
+    "end": 33.66,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ТОЖЕ УСТАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.66,
+    "end": 36.14,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

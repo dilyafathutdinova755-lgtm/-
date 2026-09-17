@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.85,
+    "end": 3.93,
+    "lines": [
+      {
+        "text": "ЗА ТРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЫСЯЧИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 6.84,
+    "lines": [
+      {
+        "text": "СТИКЕРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "12 ЦВЕТОВ МАРКЕРОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.56,
+    "end": 9.45,
+    "lines": [
+      {
+        "text": "А ТЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕРАЗОБРАНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.23,
+    "end": 13.77,
+    "lines": [
+      {
+        "text": "КРАСИВЫЙ КОНСПЕКТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ЗАМЕНЯЕТ ЗНАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.22,
+    "end": 15.96,
+    "lines": [
+      {
+        "text": "КАК БЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГРУСТНО НИ ЗВУЧАЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 18.75,
+    "lines": [
+      {
+        "text": "ОБХОЖУСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.26,
+    "end": 22.32,
+    "lines": [
+      {
+        "text": "ВСЁ СТРУКТУРИРОВАНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАРКЕРЫ НЕ НУЖНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.13,
+    "end": 24.78,
+    "lines": [
+      {
+        "text": "ЭКОНОМЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬГИ И ВРЕМЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.96,
+    "end": 26.1,
+    "lines": [
+      {
+        "text": "ОФОРМЛЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКТО НЕ ПРОВЕРЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.1,
+    "end": 29.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.49,
+    "end": 4.08,
+    "lines": [
+      {
+        "text": "НЕДАВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАВАЛИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.56,
+    "end": 6.96,
+    "lines": [
+      {
+        "text": "РЕШИЛА РАЗОБРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕСЬ ХОД МЫСЛЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.44,
+    "end": 8.97,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНЫЙ ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.96,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "ОШИБЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ В ЗНАНИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.03,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "ТОРОПИЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПЕРЕЧИТАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.17,
+    "end": 19.41,
+    "lines": [
+      {
+        "text": "В ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИЕ ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.13,
+    "end": 23.64,
+    "lines": [
+      {
+        "text": "ТРЕНИРУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИВЫЧКУ ПЕРЕЧИТЫВАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.6,
+    "end": 26.13,
+    "lines": [
+      {
+        "text": "МЕЛОЧЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО ЦЕНА ВЫСОКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.13,
+    "end": 28.11,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

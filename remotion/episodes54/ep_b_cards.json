@@ -1,0 +1,178 @@
+[
+  {
+    "start": 3.45,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "СНАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А УЧИТЕЛЬ СКАЗАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.78,
+    "end": 7.98,
+    "lines": [
+      {
+        "text": "У ТЕБЯ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТЕНЦИАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 9.27,
+    "lines": [
+      {
+        "text": "НЕ ЗАНИЖАЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАНКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 12.03,
+    "lines": [
+      {
+        "text": "ЗВУЧАЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ДАВЛЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.66,
+    "end": 14.37,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 16.35,
+    "lines": [
+      {
+        "text": "ИМЕННО ТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕГО НЕ ХВАТАЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.28,
+    "end": 19.23,
+    "lines": [
+      {
+        "text": "КТО-ТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРИТ БОЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.34,
+    "end": 22.5,
+    "lines": [
+      {
+        "text": "ПОДТЯГИВАЮ ЗНАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕРЕЗ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.22,
+    "end": 26.91,
+    "lines": [
+      {
+        "text": "АМБИЦИЮ ДЕРЖУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЛАГОДАРЯ РАЗГОВОРУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.84,
+    "end": 31.26,
+    "lines": [
+      {
+        "text": "ЧУЖАЯ ВЕРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНЕЕ СВОЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.34,
+    "end": 35.85,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

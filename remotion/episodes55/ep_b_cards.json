@@ -1,0 +1,162 @@
+[
+  {
+    "start": 3.18,
+    "end": 5.79,
+    "lines": [
+      {
+        "text": "ГОТОВИЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕГО ПАРУ НЕДЕЛЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.33,
+    "end": 7.53,
+    "lines": [
+      {
+        "text": "НЕ РАССЧИТЫВАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА МНОГОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.43,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫШЕ ПРОШЛОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.83,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "НА ПРИЛИЧНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОЛИЧЕСТВО БАЛЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.01,
+    "end": 15.42,
+    "lines": [
+      {
+        "text": "ПЕРЕЧИТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВАЖДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 16.59,
+    "lines": [
+      {
+        "text": "НЕ ВЕРЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛАЗАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 20.13,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ ВИДЕО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ДВЕ НЕДЕЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.85,
+    "end": 23.67,
+    "lines": [
+      {
+        "text": "БОЛЬШЕ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСЯЦ С УЧЕБНИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.54,
+    "end": 27.66,
+    "lines": [
+      {
+        "text": "НЕ ОЖИДАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАКОГО ЭФФЕКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.44,
+    "end": 31.98,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

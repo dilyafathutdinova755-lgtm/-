@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.91,
+    "end": 4.11,
+    "lines": [
+      {
+        "text": "КОГДА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНИМАЮ ТЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 6.39,
+    "lines": [
+      {
+        "text": "БОЮСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗАТЬСЯ ТУПОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "РАНЬШЕ КИВАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАЛА ВИД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.28,
+    "end": 12.63,
+    "lines": [
+      {
+        "text": "А ДОМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫЛО ЛЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.56,
+    "end": 15.87,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ ОТКРЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.38,
+    "end": 18.78,
+    "lines": [
+      {
+        "text": "ПЕРЕСМАТРИВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ЗАСТРЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.47,
+    "end": 22.08,
+    "lines": [
+      {
+        "text": "НИКТО НЕ ВИДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО НЕ ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.98,
+    "end": 24.78,
+    "lines": [
+      {
+        "text": "ОКАЗАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАМНОГО СПОКОЙНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.78,
+    "end": 26.62,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

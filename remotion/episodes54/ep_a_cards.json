@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.49,
+    "end": 5.13,
+    "lines": [
+      {
+        "text": "СТОЯТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗНОГО ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.97,
+    "end": 8.49,
+    "lines": [
+      {
+        "text": "СЧИТАЮ ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ИНВЕСТИЦИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.44,
+    "lines": [
+      {
+        "text": "НЕ ТРАЧУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРОВНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.13,
+    "end": 13.44,
+    "lines": [
+      {
+        "text": "ОДИН ПРЕДМЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЁТ БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 16.89,
+    "lines": [
+      {
+        "text": "ДРУГОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕДЛЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "СКОЛЬКО НИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНИМАЙСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.11,
+    "end": 22.77,
+    "lines": [
+      {
+        "text": "В ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАВНИВАЮ ДИНАМИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.22,
+    "end": 24.51,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТЫ ТЕСТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.32,
+    "end": 28.8,
+    "lines": [
+      {
+        "text": "ПЕРЕРАСПРЕДЕЛИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПОЛЬЗУ СИЛЬНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.55,
+    "end": 31.59,
+    "lines": [
+      {
+        "text": "СРЕДНИЙ БАЛЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫРОС ЗАМЕТНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.58,
+    "end": 33.66,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧИТАЕШЬ ТАК ЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.47,
+    "end": 37.14,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
