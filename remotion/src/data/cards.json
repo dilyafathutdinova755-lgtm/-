@@ -1,167 +1,135 @@
 [
   {
-    "start": 3.45,
-    "end": 6.18,
+    "start": 2.49,
+    "end": 4.08,
     "lines": [
       {
-        "text": "СНАЧАЛА",
+        "text": "НЕДАВНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А УЧИТЕЛЬ СКАЗАЛ",
+        "text": "ЗАВАЛИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.78,
-    "end": 7.98,
+    "start": 4.56,
+    "end": 6.96,
     "lines": [
       {
-        "text": "У ТЕБЯ ЕСТЬ",
+        "text": "РЕШИЛА РАЗОБРАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОТЕНЦИАЛ",
+        "text": "ВЕСЬ ХОД МЫСЛЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.34,
-    "end": 9.27,
+    "start": 7.44,
+    "end": 8.97,
     "lines": [
       {
-        "text": "НЕ ЗАНИЖАЙ",
+        "text": "А НЕ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАНКУ",
+        "text": "ПРАВИЛЬНЫЙ ОТВЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 12.03,
+    "start": 9.96,
+    "end": 11.7,
     "lines": [
       {
-        "text": "ЗВУЧАЛО",
+        "text": "ОШИБЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК ДАВЛЕНИЕ",
+        "text": "НЕ В ЗНАНИЯХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 14.37,
+    "start": 12.03,
+    "end": 15.15,
     "lines": [
       {
-        "text": "А ПОТОМ",
+        "text": "ТОРОПИЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯЛА",
+        "text": "НЕ ПЕРЕЧИТАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.18,
-    "end": 16.35,
+    "start": 16.17,
+    "end": 19.41,
     "lines": [
       {
-        "text": "ИМЕННО ТО",
+        "text": "В ТРЕНАЖЁРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕГО НЕ ХВАТАЛО",
+        "text": "ПОХОЖИЕ ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.28,
-    "end": 19.23,
+    "start": 20.13,
+    "end": 23.64,
     "lines": [
       {
-        "text": "КТО-ТО",
+        "text": "ТРЕНИРУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРИТ БОЛЬШЕ",
+        "text": "ПРИВЫЧКУ ПЕРЕЧИТЫВАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.34,
-    "end": 22.5,
+    "start": 24.6,
+    "end": 26.13,
     "lines": [
       {
-        "text": "ПОДТЯГИВАЮ ЗНАНИЯ",
+        "text": "МЕЛОЧЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ТРЕНАЖЁР",
+        "text": "НО ЦЕНА ВЫСОКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.22,
-    "end": 26.91,
-    "lines": [
-      {
-        "text": "АМБИЦИЮ ДЕРЖУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЛАГОДАРЯ РАЗГОВОРУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.84,
-    "end": 31.26,
-    "lines": [
-      {
-        "text": "ЧУЖАЯ ВЕРА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НУЖНЕЕ СВОЕЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.34,
-    "end": 35.85,
+    "start": 26.13,
+    "end": 28.11,
     "lines": [
       {
         "text": "ССЫЛКА",
