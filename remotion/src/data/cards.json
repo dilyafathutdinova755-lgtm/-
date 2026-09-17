@@ -1,135 +1,183 @@
 [
   {
-    "start": 2.49,
-    "end": 4.08,
+    "start": 3.57,
+    "end": 4.44,
     "lines": [
       {
-        "text": "НЕДАВНО",
+        "text": "ГОТОВЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАВАЛИЛА",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.56,
-    "end": 6.96,
+    "start": 5.16,
+    "end": 6.66,
     "lines": [
       {
-        "text": "РЕШИЛА РАЗОБРАТЬ",
+        "text": "Я НЕ ГОТОВИЛСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕСЬ ХОД МЫСЛЕЙ",
+        "text": "И ЖАЛЕЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.44,
-    "end": 8.97,
+    "start": 7.62,
+    "end": 10.14,
     "lines": [
       {
-        "text": "А НЕ ТОЛЬКО",
+        "text": "ОБЫЧНО ИГНОРИРУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНЫЙ ОТВЕТ",
+        "text": "ТАКИЕ СОВЕТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.96,
-    "end": 11.7,
+    "start": 10.74,
+    "end": 12.39,
     "lines": [
       {
-        "text": "ОШИБЛАСЬ",
+        "text": "В ЭТОТ РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ В ЗНАНИЯХ",
+        "text": "ЗАДУМАЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.03,
-    "end": 15.15,
+    "start": 13.17,
+    "end": 14.88,
     "lines": [
       {
-        "text": "ТОРОПИЛАСЬ",
+        "text": "СПРОСИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПЕРЕЧИТАЛА",
+        "text": "ЧЕМ БЫ ВОСПОЛЬЗОВАЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.17,
-    "end": 19.41,
+    "start": 15.51,
+    "end": 17.22,
     "lines": [
       {
-        "text": "В ТРЕНАЖЁРЕ",
+        "text": "БУДЬ ОН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖИЕ ЗАДАНИЯ",
+        "text": "НА МОЕМ МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.13,
-    "end": 23.64,
+    "start": 18.0,
+    "end": 21.06,
     "lines": [
       {
-        "text": "ТРЕНИРУЮ",
+        "text": "СКАЗАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИВЫЧКУ ПЕРЕЧИТЫВАТЬ",
+        "text": "ТРЕНАЖЁР ЗАШЁЛ БЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.6,
-    "end": 26.13,
+    "start": 21.69,
+    "end": 22.56,
     "lines": [
       {
-        "text": "МЕЛОЧЬ",
+        "text": "БЫЛО БЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НО ЦЕНА ВЫСОКА",
+        "text": "У НЕГО ТОГДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.13,
-    "end": 28.11,
+    "start": 23.49,
+    "end": 26.31,
+    "lines": [
+      {
+        "text": "СКАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ УПРЯМСТВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.88,
+    "end": 28.59,
+    "lines": [
+      {
+        "text": "ОСТАЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТОМУ ЧТО УДОБНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.46,
+    "end": 30.48,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ТОЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.63,
+    "end": 33.9,
     "lines": [
       {
         "text": "ССЫЛКА",
