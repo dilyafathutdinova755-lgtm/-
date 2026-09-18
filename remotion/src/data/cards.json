@@ -1,167 +1,135 @@
 [
   {
-    "start": 1.83,
-    "end": 5.43,
+    "start": 2.67,
+    "end": 4.68,
     "lines": [
       {
-        "text": "ПЕРЕЖИВАЮТ",
+        "text": "ТЕРЯЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБУДУТ ОШИБКУ",
+        "text": "ОТ БЫСТРЫХ ВИДЕО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.76,
-    "end": 6.78,
+    "start": 4.92,
+    "end": 7.83,
     "lines": [
       {
-        "text": "НА СЛЕДУЮЩИЙ",
+        "text": "ОБЪЯСНЯЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕНЬ",
+        "text": "СЛИШКОМ БЫСТРО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.04,
-    "end": 11.34,
+    "start": 9.03,
+    "end": 11.37,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР СТАВИТ",
+        "text": "ТРЕНАЖЁР ДЕЛАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОМЕТКУ",
+        "text": "ЗВУКОВОЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.76,
-    "end": 13.92,
+    "start": 11.49,
+    "end": 13.2,
     "lines": [
       {
-        "text": "ПРЯМО У ЗАДАНИЯ",
+        "text": "С ПАУЗАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ИСЧЕЗАЕТ",
+        "text": "МЕЖДУ ШАГАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.13,
-    "end": 15.84,
+    "start": 13.71,
+    "end": 15.24,
     "lines": [
       {
-        "text": "ПОСЛЕ ПЕРВОГО",
+        "text": "ВМЕСТО СПЛОШНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТА",
+        "text": "БЫСТРОЙ РЕЧИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.8,
-    "end": 20.34,
+    "start": 16.2,
+    "end": 19.47,
     "lines": [
       {
-        "text": "НАЙТИ ЧЕРЕЗ",
+        "text": "МОЖНО ОСТАНОВИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦ",
+        "text": "И ПЕРЕСЛУШАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.36,
-    "end": 23.04,
+    "start": 20.49,
+    "end": 24.0,
     "lines": [
       {
-        "text": "ТРЕВОГА ЗАБЫТЬ",
+        "text": "РАЗБОР ЖДЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УРОК",
+        "text": "СКОЛЬКО НУЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.28,
-    "end": 25.47,
+    "start": 24.99,
+    "end": 28.65,
     "lines": [
       {
-        "text": "ПОМЕТКА НЕ",
+        "text": "БЫСТРОЕ ОБЪЯСНЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПАДАЕТ",
+        "text": "В СВОЁМ ТЕМПЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.4,
-    "end": 27.99,
-    "lines": [
-      {
-        "text": "РАЗОБРАННЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МЕСЯЦ НАЗАД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.41,
-    "end": 30.66,
-    "lines": [
-      {
-        "text": "НАХОДИТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАК ВЧЕРАШНИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 31.29,
-    "end": 33.79,
+    "start": 29.52,
+    "end": 32.05,
     "lines": [
       {
         "text": "ССЫЛКА",
