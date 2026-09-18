@@ -1,79 +1,79 @@
 [
   {
-    "start": 2.31,
-    "end": 5.61,
+    "start": 3.18,
+    "end": 5.13,
     "lines": [
       {
-        "text": "В ДРУГИХ",
+        "text": "ГАРАНТИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИЯХ",
+        "text": "90 БАЛЛОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.15,
-    "end": 7.74,
+    "start": 6.96,
+    "end": 9.48,
     "lines": [
       {
-        "text": "ЛИСТАЕШЬ",
+        "text": "ТРЕНАЖЁР НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ЧИТАЯ",
+        "text": "ОБЕЩАЕТ БАЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.82,
-    "end": 12.45,
+    "start": 10.02,
+    "end": 14.01,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ПОКАЗЫВАЕТ",
+        "text": "ПРОСТО ДАЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНО ЗАДАНИЕ ДНЯ",
+        "text": "БЕСПЛАТНЫЙ БАНК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 15.78,
+    "start": 14.79,
+    "end": 16.71,
     "lines": [
       {
-        "text": "ВМЕСТО СТРАНИЦЫ",
+        "text": "ПРОВЕРИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВЕТОВ И ЦИТАТ",
+        "text": "МОЖНО САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.56,
+    "start": 17.22,
     "end": 19.26,
     "lines": [
       {
-        "text": "ПОДБИРАЕТСЯ",
+        "text": "РЕШАЯ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО СЛАБОЙ ТЕМЕ",
+        "text": "БЕЗ ОПЛАТЫ",
         "accent": true,
         "size": "big"
       }
@@ -81,55 +81,71 @@
   },
   {
     "start": 19.95,
-    "end": 21.87,
+    "end": 22.2,
     "lines": [
       {
-        "text": "БЕЗ БАННЕРА",
+        "text": "ДОСТУП НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЕРХУ",
+        "text": "ИСЧЕЗАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.62,
-    "end": 26.25,
+    "start": 22.5,
+    "end": 24.12,
     "lines": [
       {
-        "text": "ЗАКРЫЛ И ЗАБЫЛ",
+        "text": "В ОТЛИЧИЕ ОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ЦИТАТ РЯДОМ",
+        "text": "РЕКЛАМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.45,
-    "end": 30.9,
+    "start": 24.9,
+    "end": 27.0,
     "lines": [
       {
-        "text": "ОДНО КОРОТКОЕ ДЕЛО",
+        "text": "ПРОВЕРКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕНЯЕТ ЦИТАТЫ",
+        "text": "САМОСТОЯТЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.47,
-    "end": 33.88,
+    "start": 27.54,
+    "end": 29.55,
+    "lines": [
+      {
+        "text": "А НЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧУЖОМУ ОБЕЩАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.33,
+    "end": 32.22,
     "lines": [
       {
         "text": "ССЫЛКА",
