@@ -1,0 +1,210 @@
+[
+  {
+    "start": 2.37,
+    "end": 3.57,
+    "lines": [
+      {
+        "text": "ВСПОМИНАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО ИЗ СМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 4.92,
+    "lines": [
+      {
+        "text": "УЖЕ ЗАКРЫЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.13,
+    "end": 6.54,
+    "lines": [
+      {
+        "text": "ДНЯ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.72,
+    "end": 8.04,
+    "lines": [
+      {
+        "text": "ДАЕТ ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕЕ ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.19,
+    "end": 9.06,
+    "lines": [
+      {
+        "text": "ДНЯ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕЙ СМЕНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.18,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "ВОЖАТЫХ СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.68,
+    "end": 11.67,
+    "lines": [
+      {
+        "text": "МОЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЮБОЙ ИЗ СМЕНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.91,
+    "end": 13.29,
+    "lines": [
+      {
+        "text": "А НЕ СТРОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.59,
+    "end": 15.42,
+    "lines": [
+      {
+        "text": "УТОЧНЯТЬ ПО КРУГУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО РЕШИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.66,
+    "end": 16.86,
+    "lines": [
+      {
+        "text": "НЕ ПРИХОДИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.92,
+    "end": 17.91,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ДНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 20.07,
+    "lines": [
+      {
+        "text": "ЛЮБОЙ ИЗ СМЕНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ УТОЧНЕНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.31,
+    "end": 21.84,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,39 +1,71 @@
 [
   {
-    "start": 2.43,
+    "start": 2.76,
     "end": 3.99,
     "lines": [
       {
-        "text": "РАСКЛАДЫВАЕШЬ",
+        "text": "ОКАЗЫВАЕШЬСЯ ТАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧКИ",
+        "text": "ЧАСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.14,
-    "end": 5.97,
+    "start": 4.23,
+    "end": 5.73,
     "lines": [
       {
-        "text": "ЕГЭ ПО ТЕМАМ",
+        "text": "НЕТ СВЯЗИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ДЕЛАМИ",
+        "text": "ЗАДАНИЕ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.36,
-    "end": 7.44,
+    "start": 5.94,
+    "end": 7.53,
+    "lines": [
+      {
+        "text": "НУЖНО РЕШИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО СЕЙЧАС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 8.9,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТУРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 10.59,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,215 +73,151 @@
         "size": "small"
       },
       {
-        "text": "ГРУППИРУЕТ",
+        "text": "ВЫГРУЖАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.62,
-    "end": 8.79,
+    "start": 10.74,
+    "end": 11.91,
     "lines": [
       {
-        "text": "КАРТОЧКИ В НАБОР",
+        "text": "ЗАДАНИЕ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ТЕМЕ",
+        "text": "ВКЛАДКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 9.84,
+    "start": 12.24,
+    "end": 13.74,
     "lines": [
       {
-        "text": "САМ БЕЗ",
+        "text": "НА ПОТОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУЧНОЙ",
+        "text": "ОДНИМ СВАЙПОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.96,
-    "end": 10.92,
+    "start": 14.04,
+    "end": 15.54,
     "lines": [
       {
-        "text": "СОРТИРОВКИ",
+        "text": "ЕЩЕ ДОМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПАПКАМ",
+        "text": "ВКЛАДКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.16,
-    "end": 12.27,
+    "start": 15.69,
+    "end": 16.62,
     "lines": [
       {
-        "text": "НАБОР ПОД",
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНКРЕТНУЮ ТЕМУ",
+        "text": "БЕЗ СВЯЗИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.42,
-    "end": 13.32,
+    "start": 16.8,
+    "end": 18.48,
     "lines": [
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "В ЛЮБОЙ МОМЕНТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "ХОТЬ В ПЕРЕРЫВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.62,
-    "end": 14.94,
+    "start": 18.57,
+    "end": 20.46,
     "lines": [
       {
-        "text": "ЕЩЕ ДО",
+        "text": "МЕЖДУ ТУРАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫТИЯ",
+        "text": "ИСКАТЬ СЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.12,
-    "end": 16.83,
+    "start": 20.55,
+    "end": 21.99,
     "lines": [
       {
-        "text": "РАСКЛАДЫВАТЬ КАРТОЧКИ",
+        "text": "СПЕЦИАЛЬНО РАДИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ДЕЛАМИ",
+        "text": "ОДНОГО ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.01,
-    "end": 18.06,
+    "start": 22.26,
+    "end": 24.24,
     "lines": [
       {
-        "text": "ПО ТЕМАМ",
+        "text": "НЕ ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.42,
-    "end": 19.44,
+    "start": 24.42,
+    "end": 26.01,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ",
+        "text": "ИЗ ВКЛАДКИ ОТКРЫВАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСКАТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.59,
-    "end": 20.94,
-    "lines": [
-      {
-        "text": "НУЖНУЮ ПАПКУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРЕДИ ДЕСЯТКОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.12,
-    "end": 22.29,
-    "lines": [
-      {
-        "text": "ВРУЧНУЮ НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИХОДИТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.56,
-    "end": 24.3,
-    "lines": [
-      {
-        "text": "КАРТОЧКИ ГРУППИРУЮТСЯ ПО ТЕМЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "САМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.51,
-    "end": 25.98,
-    "lines": [
-      {
-        "text": "БЕЗ РУЧНОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАСКЛАДКИ",
+        "text": "ПОТОМ",
         "accent": true,
         "size": "big"
       }
@@ -257,7 +225,39 @@
   },
   {
     "start": 26.22,
-    "end": 27.9,
+    "end": 27.33,
+    "lines": [
+      {
+        "text": "БЕЗ СВЯЗИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЛЮБОЙ МОМЕНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.54,
+    "end": 28.95,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТУРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.95,
+    "end": 30.72,
     "lines": [
       {
         "text": "ССЫЛКА",

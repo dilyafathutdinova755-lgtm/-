@@ -1,39 +1,39 @@
 [
   {
-    "start": 2.43,
-    "end": 3.99,
+    "start": 2.82,
+    "end": 4.32,
     "lines": [
       {
-        "text": "РАСКЛАДЫВАЕШЬ",
+        "text": "НЕ ПОНИМАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧКИ",
+        "text": "СТАЛИ ЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.14,
-    "end": 5.97,
+    "start": 4.47,
+    "end": 6.42,
     "lines": [
       {
-        "text": "ЕГЭ ПО ТЕМАМ",
+        "text": "РЕШАТЬ ЗАДАНИЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ДЕЛАМИ",
+        "text": "БЫСТРЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.36,
-    "end": 7.44,
+    "start": 7.23,
+    "end": 8.43,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,223 +41,223 @@
         "size": "small"
       },
       {
-        "text": "ГРУППИРУЕТ",
+        "text": "СРАВНИВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.62,
-    "end": 8.79,
+    "start": 8.61,
+    "end": 9.72,
     "lines": [
       {
-        "text": "КАРТОЧКИ В НАБОР",
+        "text": "СРЕДНЮЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ТЕМЕ",
+        "text": "СКОРОСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 9.84,
+    "start": 9.93,
+    "end": 11.16,
     "lines": [
       {
-        "text": "САМ БЕЗ",
+        "text": "СЕГОДНЯ СО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУЧНОЙ",
+        "text": "СКОРОСТЬЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.96,
-    "end": 10.92,
+    "start": 11.37,
+    "end": 13.11,
     "lines": [
       {
-        "text": "СОРТИРОВКИ",
+        "text": "НЕДЕЛЮ НАЗАД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПАПКАМ",
+        "text": "ОДНОЙ СТРЕЛКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.16,
-    "end": 12.27,
+    "start": 13.23,
+    "end": 14.1,
     "lines": [
       {
-        "text": "НАБОР ПОД",
+        "text": "ВВЕРХ ИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНКРЕТНУЮ ТЕМУ",
+        "text": "ВНИЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.42,
-    "end": 13.32,
+    "start": 14.82,
+    "end": 15.99,
     "lines": [
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "СТРЕЛКА ОБНОВЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.62,
-    "end": 14.94,
+    "start": 16.26,
+    "end": 17.67,
     "lines": [
       {
-        "text": "ЕЩЕ ДО",
+        "text": "ПОСЛЕ КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫТИЯ",
+        "text": "ЗАКРЫТОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.12,
-    "end": 16.83,
+    "start": 18.0,
+    "end": 18.96,
     "lines": [
       {
-        "text": "РАСКЛАДЫВАТЬ КАРТОЧКИ",
+        "text": "БЕЗ РУЧНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ДЕЛАМИ",
+        "text": "ПОДСЧЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.01,
-    "end": 18.06,
+    "start": 19.77,
+    "end": 20.61,
     "lines": [
       {
-        "text": "ПО ТЕМАМ",
+        "text": "НАПРАВЛЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "СТРЕЛКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.42,
-    "end": 19.44,
+    "start": 20.76,
+    "end": 22.47,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ",
+        "text": "ПОНЯТНО СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСКАТЬ",
+        "text": "БЕЗ ИЗУЧЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.59,
-    "end": 20.94,
+    "start": 22.62,
+    "end": 23.76,
     "lines": [
       {
-        "text": "НУЖНУЮ ПАПКУ",
+        "text": "ГРАФИКА ИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРЕДИ ДЕСЯТКОВ",
+        "text": "ТАБЛИЦЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.12,
-    "end": 22.29,
+    "start": 23.91,
+    "end": 25.5,
     "lines": [
       {
-        "text": "ВРУЧНУЮ НЕ",
+        "text": "ЦИФР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИХОДИТСЯ",
+        "text": "СКОРОСТЬ РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.56,
-    "end": 24.3,
+    "start": 25.68,
+    "end": 27.18,
     "lines": [
       {
-        "text": "КАРТОЧКИ ГРУППИРУЮТСЯ ПО ТЕМЕ",
+        "text": "ЗАДАНИЯ ВИДНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМИ",
+        "text": "ОДНОЙ СТРЕЛКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.51,
-    "end": 25.98,
+    "start": 27.6,
+    "end": 28.5,
     "lines": [
       {
-        "text": "БЕЗ РУЧНОЙ",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСКЛАДКИ",
+        "text": "ТАБЛИЦЕЙ ЦИФР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.22,
-    "end": 27.9,
+    "start": 29.22,
+    "end": 30.84,
     "lines": [
       {
         "text": "ССЫЛКА",
