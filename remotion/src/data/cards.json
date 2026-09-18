@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.7,
-    "end": 3.6,
+    "start": 2.73,
+    "end": 3.99,
     "lines": [
       {
-        "text": "ЧТО УТРОМ",
+        "text": "НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕД ШКОЛОЙ",
+        "text": "СЕРЕДИНЕ И ПОТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.81,
-    "end": 4.92,
+    "start": 4.26,
+    "end": 5.43,
     "lines": [
       {
-        "text": "НА ЗАДАНИЕ ДНЯ ПО",
+        "text": "НЕ ПОМНЯТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "НА КАКОМ ЗАДАНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.07,
-    "end": 6.3,
+    "start": 5.61,
+    "end": 6.69,
     "lines": [
       {
-        "text": "СОВСЕМ НЕ",
+        "text": "ОСТАНОВИЛИСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАЕТСЯ ВРЕМЕНИ",
+        "text": "ПРОШЛЫЙ РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.99,
-    "end": 8.01,
+    "start": 7.53,
+    "end": 8.76,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,119 +57,87 @@
         "size": "small"
       },
       {
-        "text": "ПОЗВОЛЯЕТ",
+        "text": "ЗАПОМИНАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 8.97,
+    "start": 9.06,
+    "end": 10.26,
     "lines": [
       {
-        "text": "ЗАКРЫТЬ",
+        "text": "ТОЧНОЕ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ ДНЯ",
+        "text": "НА КОТОРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.09,
-    "end": 9.9,
+    "start": 10.47,
+    "end": 11.97,
     "lines": [
       {
-        "text": "ЗАРАНЕЕ С",
+        "text": "ПРОБНИК БЫЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРА",
+        "text": "ПРЕРВАН В ПРОШЛЫЙ РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.11,
-    "end": 11.73,
+    "start": 12.63,
+    "end": 14.52,
     "lines": [
       {
-        "text": "ЕСЛИ УТРО",
+        "text": "ПРОДОЛЖИТЬ МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧНО ПЛОТНЫМ",
+        "text": "РОВНО С ЭТОГО МЕСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.27,
-    "end": 13.23,
+    "start": 15.03,
+    "end": 16.02,
     "lines": [
       {
-        "text": "ЗАДАНИЕ НЕ",
+        "text": "БЕЗ ПРОЛИСТЫВАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПАДАЮТ",
+        "text": "ВСЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.35,
-    "end": 14.55,
+    "start": 16.11,
+    "end": 17.85,
     "lines": [
       {
-        "text": "И НЕ СГОРАЮТ ЕСЛИ",
+        "text": "ВАРИАНТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.67,
-    "end": 16.11,
-    "lines": [
-      {
-        "text": "ПОДСТРАИВАТЬСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАКАНУНЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.26,
-    "end": 17.88,
-    "lines": [
-      {
-        "text": "ПОД СВОБОДНОЕ УТРО КАЖДЫЙ РАЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАНОВО",
+        "text": "ВСПОМИНАТЬ",
         "accent": true,
         "size": "big"
       }
@@ -177,55 +145,87 @@
   },
   {
     "start": 18.06,
-    "end": 19.62,
+    "end": 19.2,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ",
+        "text": "МЕСТО ОСТАНОВКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ ДНЯ",
+        "text": "ПО ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.8,
-    "end": 20.94,
+    "start": 19.53,
+    "end": 20.4,
     "lines": [
       {
-        "text": "МОЖНО",
+        "text": "БОЛЬШЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫТЬ ЗАРАНЕЕ",
+        "text": "ТРЕБУЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.12,
-    "end": 22.74,
+    "start": 21.36,
+    "end": 22.47,
     "lines": [
       {
-        "text": "ВЕЧЕРОМ ЕСЛИ",
+        "text": "МЕСТО ОСТАНОВКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УТРО ПЛОТНЫМ",
+        "text": "В ПРОБНИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.22,
-    "end": 24.9,
+    "start": 22.71,
+    "end": 23.7,
+    "lines": [
+      {
+        "text": "ЗАПОМИНАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.3,
+    "end": 25.86,
+    "lines": [
+      {
+        "text": "БЕЗ ПРОЛИСТЫВАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТА ЗАНОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.55,
+    "end": 27.96,
     "lines": [
       {
         "text": "ССЫЛКА",
