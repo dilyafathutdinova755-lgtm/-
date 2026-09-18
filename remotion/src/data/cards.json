@@ -1,135 +1,119 @@
 [
   {
-    "start": 2.67,
-    "end": 4.68,
+    "start": 2.22,
+    "end": 4.92,
     "lines": [
       {
-        "text": "ТЕРЯЮТСЯ",
+        "text": "НЕ ЗНАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ БЫСТРЫХ ВИДЕО",
+        "text": "С ЧЕГО НАЧАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.92,
-    "end": 7.83,
+    "start": 6.03,
+    "end": 9.57,
     "lines": [
       {
-        "text": "ОБЪЯСНЯЮТ",
+        "text": "ТРЕНАЖЁР САМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛИШКОМ БЫСТРО",
+        "text": "ПОДБИРАЕТ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 11.37,
+    "start": 10.02,
+    "end": 12.36,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ДЕЛАЕТ",
+        "text": "ВМЕСТО РАЗМЫТОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗВУКОВОЙ РАЗБОР",
+        "text": "ПОЗАНИМАЙСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.49,
-    "end": 13.2,
+    "start": 13.32,
+    "end": 15.99,
     "lines": [
       {
-        "text": "С ПАУЗАМИ",
+        "text": "МЕНЯЕТСЯ КАЖДЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ШАГАМИ",
+        "text": "РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.71,
-    "end": 15.24,
+    "start": 16.47,
+    "end": 18.03,
     "lines": [
       {
-        "text": "ВМЕСТО СПЛОШНОЙ",
+        "text": "БЕЗ ВЫБОРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРОЙ РЕЧИ",
+        "text": "ВРУЧНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.2,
-    "end": 19.47,
+    "start": 19.02,
+    "end": 22.53,
     "lines": [
       {
-        "text": "МОЖНО ОСТАНОВИТЬ",
+        "text": "ТРЕВОГА СНИМАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ПЕРЕСЛУШАТЬ",
+        "text": "КОНКРЕТНЫМ ПУНКТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.49,
-    "end": 24.0,
+    "start": 23.46,
+    "end": 27.42,
     "lines": [
       {
-        "text": "РАЗБОР ЖДЁТ",
+        "text": "С ЧЕГО НАЧАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОЛЬКО НУЖНО",
+        "text": "РЕШЕНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.99,
-    "end": 28.65,
-    "lines": [
-      {
-        "text": "БЫСТРОЕ ОБЪЯСНЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В СВОЁМ ТЕМПЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.52,
-    "end": 32.05,
+    "start": 28.17,
+    "end": 30.03,
     "lines": [
       {
         "text": "ССЫЛКА",
