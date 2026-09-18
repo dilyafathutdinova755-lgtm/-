@@ -1,151 +1,183 @@
 [
   {
-    "start": 2.37,
-    "end": 3.57,
+    "start": 2.3,
+    "end": 3.63,
     "lines": [
       {
-        "text": "ВСПОМИНАЮТ",
+        "text": "НЕ ПОНИМАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КТО ИЗ СМЕНА",
+        "text": "НАСКОЛЬКО СИЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.69,
-    "end": 4.92,
+    "start": 3.93,
+    "end": 4.77,
     "lines": [
       {
-        "text": "УЖЕ ЗАКРЫЛ",
+        "text": "ОДИН ПРЕДМЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.13,
-    "end": 6.54,
+    "start": 4.98,
+    "end": 6.42,
     "lines": [
       {
-        "text": "ДНЯ ПО",
+        "text": "ОТСТАЕТ",
         "accent": false,
         "size": "small"
       },
+      {
+        "text": "ОТ САМОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 7.95,
+    "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.72,
-    "end": 8.04,
-    "lines": [
-      {
-        "text": "ДАЕТ ОДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЩЕЕ ЗАДАНИЕ",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.19,
-    "end": 9.06,
+    "start": 8.1,
+    "end": 9.57,
     "lines": [
       {
-        "text": "ДНЯ ДЛЯ",
+        "text": "РАЗНИЦУ МЕЖДУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЕЙ СМЕНЫ",
+        "text": "ЛУЧШИМ И ХУДШИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.18,
-    "end": 10.56,
+    "start": 9.69,
+    "end": 11.01,
     "lines": [
       {
-        "text": "ВОЖАТЫХ СРАЗУ",
+        "text": "ПРЕДМЕТОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫТЬ",
+        "text": "ОДНОЙ ЦИФРОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.68,
-    "end": 11.67,
+    "start": 11.16,
+    "end": 12.54,
     "lines": [
       {
-        "text": "МОЖЕТ",
+        "text": "НА ГЛАВНОМ ЭКРАНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛЮБОЙ ИЗ СМЕНЫ",
+        "text": "РАЗНИЦА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.91,
-    "end": 13.29,
+    "start": 12.69,
+    "end": 14.19,
     "lines": [
       {
-        "text": "А НЕ СТРОГО",
+        "text": "ВИДНА СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДЫЙ",
+        "text": "БЕЗ СРАВНЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.59,
-    "end": 15.42,
+    "start": 14.34,
+    "end": 15.63,
     "lines": [
       {
-        "text": "УТОЧНЯТЬ ПО КРУГУ",
+        "text": "ПРЕДМЕТОВ ПО ОТДЕЛЬНОСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КТО РЕШИЛ",
+        "text": "ВСЕХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.66,
-    "end": 16.86,
+    "start": 15.93,
+    "end": 17.16,
+    "lines": [
+      {
+        "text": "ПОНИМАТЬ МАСШТАБ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТСТАВАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.34,
+    "end": 18.21,
+    "lines": [
+      {
+        "text": "ПО ОЩУЩЕНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.36,
+    "end": 19.56,
     "lines": [
       {
         "text": "НЕ ПРИХОДИТСЯ",
@@ -153,47 +185,95 @@
         "size": "small"
       },
       {
-        "text": "ОБЩЕЕ",
+        "text": "ОТКРЫВАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.92,
-    "end": 17.91,
+    "start": 19.68,
+    "end": 21.06,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ДНЯ",
+        "text": "ОТДЕЛЬНУЮ ТАБЛИЦУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫВАЕТ",
+        "text": "С ПРОЦЕНТАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.09,
-    "end": 20.07,
+    "start": 21.21,
+    "end": 22.02,
     "lines": [
       {
-        "text": "ЛЮБОЙ ИЗ СМЕНЫ",
+        "text": "ПО КАЖДОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ УТОЧНЕНИЙ",
+        "text": "ПРЕДМЕТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.31,
-    "end": 21.84,
+    "start": 22.32,
+    "end": 23.52,
+    "lines": [
+      {
+        "text": "НЕ ТРЕБУЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗНИЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.64,
+    "end": 24.69,
+    "lines": [
+      {
+        "text": "МЕЖДУ ЛУЧШИМ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХУДШИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.78,
+    "end": 26.46,
+    "lines": [
+      {
+        "text": "ПРЕДМЕТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДНА ОДНОЙ ЦИФРОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.15,
+    "end": 28.86,
     "lines": [
       {
         "text": "ССЫЛКА",
