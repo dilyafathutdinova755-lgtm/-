@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.67,
+    "end": 4.68,
+    "lines": [
+      {
+        "text": "ТЕРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТ БЫСТРЫХ ВИДЕО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.92,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЯЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛИШКОМ БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.03,
+    "end": 11.37,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ДЕЛАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗВУКОВОЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.49,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "С ПАУЗАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ ШАГАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.71,
+    "end": 15.24,
+    "lines": [
+      {
+        "text": "ВМЕСТО СПЛОШНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРОЙ РЕЧИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 19.47,
+    "lines": [
+      {
+        "text": "МОЖНО ОСТАНОВИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ПЕРЕСЛУШАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.49,
+    "end": 24.0,
+    "lines": [
+      {
+        "text": "РАЗБОР ЖДЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.99,
+    "end": 28.65,
+    "lines": [
+      {
+        "text": "БЫСТРОЕ ОБЪЯСНЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В СВОЁМ ТЕМПЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.52,
+    "end": 32.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

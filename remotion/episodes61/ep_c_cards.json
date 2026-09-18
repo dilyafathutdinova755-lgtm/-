@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.22,
+    "end": 4.92,
+    "lines": [
+      {
+        "text": "НЕ ЗНАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ЧЕГО НАЧАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.03,
+    "end": 9.57,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР САМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДБИРАЕТ ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.02,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "ВМЕСТО РАЗМЫТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЗАНИМАЙСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.32,
+    "end": 15.99,
+    "lines": [
+      {
+        "text": "МЕНЯЕТСЯ КАЖДЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.47,
+    "end": 18.03,
+    "lines": [
+      {
+        "text": "БЕЗ ВЫБОРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРУЧНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.02,
+    "end": 22.53,
+    "lines": [
+      {
+        "text": "ТРЕВОГА СНИМАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫМ ПУНКТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.46,
+    "end": 27.42,
+    "lines": [
+      {
+        "text": "С ЧЕГО НАЧАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.17,
+    "end": 30.03,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
