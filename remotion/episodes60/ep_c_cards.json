@@ -1,0 +1,162 @@
+[
+  {
+    "start": 3.18,
+    "end": 5.13,
+    "lines": [
+      {
+        "text": "ГАРАНТИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "90 БАЛЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 9.48,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЕЩАЕТ БАЛЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.02,
+    "end": 14.01,
+    "lines": [
+      {
+        "text": "ПРОСТО ДАЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕСПЛАТНЫЙ БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 16.71,
+    "lines": [
+      {
+        "text": "ПРОВЕРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 19.26,
+    "lines": [
+      {
+        "text": "РЕШАЯ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ОПЛАТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.95,
+    "end": 22.2,
+    "lines": [
+      {
+        "text": "ДОСТУП НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСЧЕЗАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.5,
+    "end": 24.12,
+    "lines": [
+      {
+        "text": "В ОТЛИЧИЕ ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕКЛАМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.9,
+    "end": 27.0,
+    "lines": [
+      {
+        "text": "ПРОВЕРКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМОСТОЯТЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.54,
+    "end": 29.55,
+    "lines": [
+      {
+        "text": "А НЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧУЖОМУ ОБЕЩАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.33,
+    "end": 32.22,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

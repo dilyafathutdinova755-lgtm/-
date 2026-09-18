@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.34,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "БЕЗ ИНТЕРНЕТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОСТУПНЫ ЗАРАНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.37,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "ПОКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРИШЬ САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.82,
+    "end": 12.63,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ЗАГРУЖАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ ЗАРАНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 16.08,
+    "lines": [
+      {
+        "text": "НИКАКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗВЁЗДОЧЕК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 20.34,
+    "lines": [
+      {
+        "text": "ПОДЪЕЗД БЕЗ СЕТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЧЕГО НЕ МЕНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.42,
+    "end": 24.6,
+    "lines": [
+      {
+        "text": "ПРОВЕРЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.32,
+    "end": 27.42,
+    "lines": [
+      {
+        "text": "ОБЕЩАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДТВЕРЖДЕНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.63,
+    "end": 29.79,
+    "lines": [
+      {
+        "text": "ОДИН РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И НЕ ОБСУЖДАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.48,
+    "end": 32.96,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
