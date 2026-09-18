@@ -1,0 +1,162 @@
+[
+  {
+    "start": 3.03,
+    "end": 5.16,
+    "lines": [
+      {
+        "text": "СРАЗУ ПО ТРЁМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОФИЛЬНЫМ ПРЕДМЕТАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "ПУТАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕДКИЕ ТЕРМИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.64,
+    "end": 11.31,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ДЕРЖИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИНЫ ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 13.23,
+    "lines": [
+      {
+        "text": "КАРТОЧНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОЛОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "БЕЗ СМЕШЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.23,
+    "end": 19.74,
+    "lines": [
+      {
+        "text": "НАЙТИ КАРТОЧКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА СЕКУНДУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.67,
+    "end": 23.34,
+    "lines": [
+      {
+        "text": "КАРТОЧКИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУТАЮТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.58,
+    "end": 24.69,
+    "lines": [
+      {
+        "text": "В ОДНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.8,
+    "end": 28.74,
+    "lines": [
+      {
+        "text": "ТЕРМИНЫ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУТАЮТСЯ В ГОЛОВЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.85,
+    "end": 31.79,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

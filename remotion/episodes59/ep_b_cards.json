@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.61,
+    "end": 6.33,
+    "lines": [
+      {
+        "text": "ТЕРЯЮТ СЕКУНДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА СЛОЖНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.02,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "А НЕ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЁГКИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 11.01,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ДЕЛИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЯ СДАЧИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.52,
+    "end": 13.08,
+    "lines": [
+      {
+        "text": "ПО КАЖДОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 16.11,
+    "lines": [
+      {
+        "text": "ОБЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕКУНДОМЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 19.74,
+    "lines": [
+      {
+        "text": "СЛОЖНЫЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧАЮТ МЕТКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.28,
+    "end": 22.5,
+    "lines": [
+      {
+        "text": "ЕСЛИ УШЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.37,
+    "end": 25.68,
+    "lines": [
+      {
+        "text": "МЕТКА СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕ СДАЧИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.4,
+    "end": 27.48,
+    "lines": [
+      {
+        "text": "БЕЗ ПЕРЕСЧЁТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРУЧНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.53,
+    "end": 30.57,
+    "lines": [
+      {
+        "text": "ПОТЕРЯННЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕКУНДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.87,
+    "end": 33.24,
+    "lines": [
+      {
+        "text": "ЗАМЕТНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАНЬШЕ ЭКЗАМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.23,
+    "end": 36.78,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
