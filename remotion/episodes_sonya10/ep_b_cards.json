@@ -1,0 +1,42 @@
+[
+  { "start": 4.08, "end": 5.61, "lines": [
+    { "text": "ПОКАЗЫВАЕТ", "accent": false, "size": "small" },
+    { "text": "ТРИ ОШИБКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.96, "end": 8.91, "lines": [
+    { "text": "ОДНИМ СПИСКОМ", "accent": false, "size": "small" },
+    { "text": "НЕ ВРАЗБРОС", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.51, "end": 12.21, "lines": [
+    { "text": "РАНЬШЕ ВЕЛА", "accent": false, "size": "small" },
+    { "text": "СПИСОК САМА", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.42, "end": 14.58, "lines": [
+    { "text": "БЫСТРО", "accent": false, "size": "small" },
+    { "text": "ТЕРЯЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.15, "end": 17.16, "lines": [
+    { "text": "ТЕПЕРЬ СПИСОК", "accent": false, "size": "small" },
+    { "text": "АВТОМАТИЧЕСКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.40, "end": 19.86, "lines": [
+    { "text": "СТОИТ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ПРОБНИКИ И ИГРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.37, "end": 22.86, "lines": [
+    { "text": "ТРИ СЛАБЫХ", "accent": false, "size": "small" },
+    { "text": "МЕСТА ОТДЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 23.22, "end": 25.08, "lines": [
+    { "text": "УВИДЕЛА РЕЗУЛЬТАТ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ НЕДЕЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.62, "end": 28.59, "lines": [
+    { "text": "ЭКОНОМИТ ВРЕМЯ", "accent": false, "size": "small" },
+    { "text": "НА УЧЁТЕ ОШИБОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 29.01, "end": 30.84, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
