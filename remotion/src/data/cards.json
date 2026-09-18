@@ -1,183 +1,135 @@
 [
   {
-    "start": 3.36,
-    "end": 5.19,
+    "start": 2.07,
+    "end": 5.46,
     "lines": [
       {
-        "text": "МЕТОДЫ",
+        "text": "РЕШИЛА ПОСЧИТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО МЕШАЮТ",
+        "text": "А НЕ ГАДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.88,
-    "end": 7.59,
+    "start": 6.21,
+    "end": 10.02,
     "lines": [
       {
-        "text": "ГЛУБОКО ДЫШАТЬ",
+        "text": "СРАВНИЛА ТЕСТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕД ЭКЗАМЕНОМ",
+        "text": "АВГУСТ И СЕНТЯБРЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.98,
-    "end": 11.1,
+    "start": 10.98,
+    "end": 13.71,
     "lines": [
       {
-        "text": "ПРЕДСТАВИТЬ",
+        "text": "СРЕДНИЙ БАЛЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХУДШИЙ СЦЕНАРИЙ",
+        "text": "+11%",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.06,
-    "end": 14.01,
+    "start": 14.37,
+    "end": 15.15,
     "lines": [
       {
-        "text": "ПРОВЕРЬ",
+        "text": "И ЭТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО РАБОТАЕТ",
+        "text": "ЦИФРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.02,
+    "start": 15.45,
+    "end": 17.52,
     "lines": [
       {
-        "text": "У МЕНЯ",
+        "text": "НЕ СУБЪЕКТИВНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ДЫХАНИЕ",
+        "text": "ЧУВСТВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.47,
-    "end": 18.36,
+    "start": 18.36,
+    "end": 20.16,
     "lines": [
       {
-        "text": "А ПРОСТО",
+        "text": "КАЗАЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАНИЕ НА ЗУБОК",
+        "text": "ТОПЧУСЬ НА МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.17,
-    "end": 21.06,
+    "start": 20.61,
+    "end": 21.87,
     "lines": [
       {
-        "text": "В ТРЕНАЖЁРЕ",
+        "text": "НА ДЕЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛАЮ СТАВКУ",
+        "text": "РОСТ БЫЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.36,
-    "end": 24.06,
+    "start": 22.35,
+    "end": 23.91,
     "lines": [
       {
-        "text": "ВИДЕОРАЗБОРЫ",
+        "text": "ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ТЕСТЫ",
+        "text": "НЕЗАМЕТНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.36,
-    "end": 25.74,
-    "lines": [
-      {
-        "text": "ВМЕСТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДЫХАТЕЛЬНЫХ ПРАКТИК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.37,
-    "end": 28.83,
-    "lines": [
-      {
-        "text": "СПОКОЙСТВИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ОТ ТЕХНИК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.67,
-    "end": 32.55,
-    "lines": [
-      {
-        "text": "А ОТ ТОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЧТО ЗНАЮ МАТЕРИАЛ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.3,
-    "end": 37.27,
+    "start": 24.69,
+    "end": 28.32,
     "lines": [
       {
         "text": "ССЫЛКА",
