@@ -1,39 +1,71 @@
 [
   {
-    "start": 2.94,
-    "end": 4.62,
+    "start": 2.76,
+    "end": 3.99,
     "lines": [
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "ОКАЗЫВАЕШЬСЯ ТАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЗАДАНИИ ЕГЭ",
+        "text": "ЧАСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.89,
-    "end": 6.45,
+    "start": 4.23,
+    "end": 5.73,
     "lines": [
       {
-        "text": "ЕСЛИ ОБА ПОДХОДЯТ ПОД ОБЩЕЕ",
+        "text": "НЕТ СВЯЗИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОПИСАНИЕ",
+        "text": "ЗАДАНИЕ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.45,
-    "end": 7.44,
+    "start": 5.94,
+    "end": 7.53,
+    "lines": [
+      {
+        "text": "НУЖНО РЕШИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО СЕЙЧАС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 8.9,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТУРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 10.59,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,167 +73,103 @@
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ВЫГРУЖАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.43,
-    "end": 9.54,
+    "start": 10.74,
+    "end": 11.91,
     "lines": [
       {
-        "text": "УТВЕРЖДЕНИЕ И",
+        "text": "ЗАДАНИЕ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСИТ",
+        "text": "ВКЛАДКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.66,
-    "end": 10.56,
+    "start": 12.24,
+    "end": 13.74,
     "lines": [
       {
-        "text": "ОПРЕДЕЛИТЬ",
+        "text": "НА ПОТОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К КАКОМУ",
+        "text": "ОДНИМ СВАЙПОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.68,
-    "end": 11.73,
+    "start": 14.04,
+    "end": 15.54,
     "lines": [
       {
-        "text": "ИЗ ДВУХ",
+        "text": "ЕЩЕ ДОМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖИХ ПОНЯТИЙ",
+        "text": "ВКЛАДКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.03,
-    "end": 13.2,
-    "lines": [
-      {
-        "text": "ОНО ОТНОСИТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРЯМОГО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.32,
-    "end": 14.37,
-    "lines": [
-      {
-        "text": "ВОПРОСА ЧТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЭТО ЗДЕСЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.55,
-    "end": 15.48,
-    "lines": [
-      {
-        "text": "НЕ ЗАДАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТОЛЬКО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.6,
+    "start": 15.69,
     "end": 16.62,
     "lines": [
       {
-        "text": "УТВЕРЖДЕНИЕ",
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ВЫБОРА",
+        "text": "БЕЗ СВЯЗИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.89,
-    "end": 17.94,
+    "start": 16.8,
+    "end": 18.48,
     "lines": [
       {
-        "text": "НОВОЕ УТВЕРЖДЕНИЕ",
+        "text": "В ЛЮБОЙ МОМЕНТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАЩЕ",
+        "text": "ХОТЬ В ПЕРЕРЫВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.09,
-    "end": 19.08,
+    "start": 18.57,
+    "end": 20.46,
     "lines": [
       {
-        "text": "КАСАЕТСЯ ТЕХ",
+        "text": "МЕЖДУ ТУРАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.2,
-    "end": 20.28,
-    "lines": [
-      {
-        "text": "ГДЕ УЖЕ БЫЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПУТАНИЦА",
+        "text": "ИСКАТЬ СЕТЬ",
         "accent": true,
         "size": "big"
       }
@@ -209,39 +177,87 @@
   },
   {
     "start": 20.55,
-    "end": 22.11,
+    "end": 21.99,
     "lines": [
       {
-        "text": "ОПРЕДЕЛЯЕТСЯ ПО УТВЕРЖДЕНИЮ",
+        "text": "СПЕЦИАЛЬНО РАДИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТИЕ",
+        "text": "ОДНОГО ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.35,
-    "end": 23.88,
+    "start": 22.26,
+    "end": 24.24,
     "lines": [
       {
-        "text": "А НЕ ПО",
+        "text": "НЕ ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЯМОМУ ВОПРОСУ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.15,
-    "end": 25.77,
+    "start": 24.42,
+    "end": 26.01,
+    "lines": [
+      {
+        "text": "ИЗ ВКЛАДКИ ОТКРЫВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.22,
+    "end": 27.33,
+    "lines": [
+      {
+        "text": "БЕЗ СВЯЗИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЛЮБОЙ МОМЕНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.54,
+    "end": 28.95,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТУРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.95,
+    "end": 30.72,
     "lines": [
       {
         "text": "ССЫЛКА",
