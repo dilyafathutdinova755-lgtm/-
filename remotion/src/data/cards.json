@@ -1,151 +1,167 @@
 [
   {
-    "start": 3.18,
-    "end": 5.13,
+    "start": 1.83,
+    "end": 5.43,
     "lines": [
       {
-        "text": "ГАРАНТИЯ",
+        "text": "ПЕРЕЖИВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "90 БАЛЛОВ",
+        "text": "ЗАБУДУТ ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 9.48,
+    "start": 5.76,
+    "end": 6.78,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР НЕ",
+        "text": "НА СЛЕДУЮЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЕЩАЕТ БАЛЛ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.02,
-    "end": 14.01,
+    "start": 8.04,
+    "end": 11.34,
     "lines": [
       {
-        "text": "ПРОСТО ДАЁТ",
+        "text": "ТРЕНАЖЁР СТАВИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕСПЛАТНЫЙ БАНК",
+        "text": "ПОМЕТКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 16.71,
+    "start": 11.76,
+    "end": 13.92,
     "lines": [
       {
-        "text": "ПРОВЕРИТЬ",
+        "text": "ПРЯМО У ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО САМ",
+        "text": "НЕ ИСЧЕЗАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.22,
-    "end": 19.26,
+    "start": 14.13,
+    "end": 15.84,
     "lines": [
       {
-        "text": "РЕШАЯ ЗАДАНИЯ",
+        "text": "ПОСЛЕ ПЕРВОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ОПЛАТЫ",
+        "text": "ОТВЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.95,
-    "end": 22.2,
+    "start": 16.8,
+    "end": 20.34,
     "lines": [
       {
-        "text": "ДОСТУП НЕ",
+        "text": "НАЙТИ ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСЧЕЗАЕТ",
+        "text": "МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.5,
-    "end": 24.12,
+    "start": 21.36,
+    "end": 23.04,
     "lines": [
       {
-        "text": "В ОТЛИЧИЕ ОТ",
+        "text": "ТРЕВОГА ЗАБЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕКЛАМЫ",
+        "text": "УРОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.9,
-    "end": 27.0,
+    "start": 23.28,
+    "end": 25.47,
     "lines": [
       {
-        "text": "ПРОВЕРКА",
+        "text": "ПОМЕТКА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОСТОЯТЕЛЬНО",
+        "text": "ПРОПАДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.54,
-    "end": 29.55,
+    "start": 26.4,
+    "end": 27.99,
     "lines": [
       {
-        "text": "А НЕ ПО",
+        "text": "РАЗОБРАННЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧУЖОМУ ОБЕЩАНИЮ",
+        "text": "МЕСЯЦ НАЗАД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.33,
-    "end": 32.22,
+    "start": 28.41,
+    "end": 30.66,
+    "lines": [
+      {
+        "text": "НАХОДИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ВЧЕРАШНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.29,
+    "end": 33.79,
     "lines": [
       {
         "text": "ССЫЛКА",
