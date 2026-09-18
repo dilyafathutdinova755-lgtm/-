@@ -1,183 +1,135 @@
 [
   {
-    "start": 2.07,
-    "end": 3.69,
+    "start": 2.01,
+    "end": 3.12,
     "lines": [
       {
-        "text": "БОЯТСЯ САДИТЬСЯ",
+        "text": "ПУТАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ПОЛНЫЙ ВАРИАНТ",
+        "text": "ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.26,
-    "end": 6.54,
+    "start": 3.75,
+    "end": 7.08,
     "lines": [
       {
-        "text": "ВРЕМЕНИ НЕ",
+        "text": "ПРОХОДИЛИ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХВАТАЕТ",
+        "text": "ДЕВЯТОМ КЛАССЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 10.38,
+    "start": 8.01,
+    "end": 11.85,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР",
+        "text": "ТРЕНАЖЁР СОБИРАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБИВАЕТ ВАРИАНТ",
+        "text": "КОРОТКИЕ КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.98,
-    "end": 13.08,
+    "start": 12.51,
+    "end": 15.54,
     "lines": [
       {
-        "text": "НА КОРОТКИЕ",
+        "text": "БЫСТРЫЙ ПОВТОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТРЕЗКИ",
+        "text": "БЕЗ УЧЕБНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.59,
-    "end": 15.18,
+    "start": 16.38,
+    "end": 19.02,
     "lines": [
       {
-        "text": "ВМЕСТО ДОЛГОГО",
+        "text": "ЗА МИНУТУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАХОДА",
+        "text": "ПЕРЕД КОНТРОЛЬНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
-    "end": 18.15,
+    "start": 19.86,
+    "end": 21.81,
     "lines": [
       {
-        "text": "МОЖНО ЗАКРЫТЬ",
+        "text": "ПО СЛАБЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТДЕЛЬНО",
+        "text": "ТЕМАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.72,
-    "end": 21.0,
+    "start": 22.44,
+    "end": 24.87,
     "lines": [
       {
-        "text": "ВЕРНУТЬСЯ ПОЗЖЕ",
+        "text": "ПО ВСЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ТОТ ЖЕ",
+        "text": "ПРОГРАММЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.11,
-    "end": 24.18,
+    "start": 24.99,
+    "end": 28.59,
     "lines": [
       {
-        "text": "РЕЗУЛЬТАТ СКЛАДЫВАЕТСЯ",
+        "text": "ТЕРМИНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ОТРЕЗКОВ",
+        "text": "ВОЗВРАЩАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.72,
-    "end": 26.34,
-    "lines": [
-      {
-        "text": "ДАЖЕ НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОДРЯД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.36,
-    "end": 28.95,
-    "lines": [
-      {
-        "text": "ДОЛГИЙ ВАРИАНТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ПУГАЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.43,
-    "end": 31.53,
-    "lines": [
-      {
-        "text": "С ОДНОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОРОТКОГО ОТРЕЗКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.49,
-    "end": 35.02,
+    "start": 29.46,
+    "end": 31.31,
     "lines": [
       {
         "text": "ССЫЛКА",
