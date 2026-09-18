@@ -1,151 +1,135 @@
 [
   {
-    "start": 3.03,
-    "end": 5.16,
+    "start": 2.34,
+    "end": 4.95,
     "lines": [
       {
-        "text": "СРАЗУ ПО ТРЁМ",
+        "text": "БЕЗ ИНТЕРНЕТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОФИЛЬНЫМ ПРЕДМЕТАМ",
+        "text": "ДОСТУПНЫ ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.85,
+    "start": 5.37,
     "end": 7.65,
     "lines": [
       {
-        "text": "ПУТАЮТ",
+        "text": "ПОКА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕДКИЕ ТЕРМИНЫ",
+        "text": "ПРОВЕРИШЬ САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.64,
-    "end": 11.31,
+    "start": 8.82,
+    "end": 12.63,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ДЕРЖИТ",
+        "text": "ТРЕНАЖЁР ЗАГРУЖАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРМИНЫ ОТДЕЛЬНО",
+        "text": "БАНК ФИПИ ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.7,
-    "end": 13.23,
+    "start": 13.2,
+    "end": 16.08,
     "lines": [
       {
-        "text": "КАРТОЧНАЯ",
+        "text": "НИКАКИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОЛОДА",
+        "text": "ЗВЁЗДОЧЕК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.83,
-    "end": 15.36,
+    "start": 16.86,
+    "end": 20.34,
     "lines": [
       {
-        "text": "БЕЗ СМЕШЕНИЯ",
+        "text": "ПОДЪЕЗД БЕЗ СЕТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТОВ",
+        "text": "НИЧЕГО НЕ МЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.23,
-    "end": 19.74,
+    "start": 21.42,
+    "end": 24.6,
     "lines": [
       {
-        "text": "НАЙТИ КАРТОЧКУ",
+        "text": "ПРОВЕРЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА СЕКУНДУ",
+        "text": "ОДИН РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.67,
-    "end": 23.34,
+    "start": 25.32,
+    "end": 27.42,
     "lines": [
       {
-        "text": "КАРТОЧКИ НЕ",
+        "text": "ОБЕЩАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЮТСЯ",
+        "text": "ПОДТВЕРЖДЕНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.58,
-    "end": 24.69,
+    "start": 27.63,
+    "end": 29.79,
     "lines": [
       {
-        "text": "В ОДНОМ",
+        "text": "ОДИН РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСКЕ",
+        "text": "И НЕ ОБСУЖДАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.8,
-    "end": 28.74,
-    "lines": [
-      {
-        "text": "ТЕРМИНЫ НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПУТАЮТСЯ В ГОЛОВЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.85,
-    "end": 31.79,
+    "start": 30.48,
+    "end": 32.96,
     "lines": [
       {
         "text": "ССЫЛКА",
