@@ -1,71 +1,39 @@
 [
   {
-    "start": 2.76,
-    "end": 3.99,
+    "start": 2.82,
+    "end": 4.32,
     "lines": [
       {
-        "text": "ОКАЗЫВАЕШЬСЯ ТАМ",
+        "text": "НЕ ПОНИМАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСТО",
+        "text": "СТАЛИ ЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.23,
-    "end": 5.73,
+    "start": 4.47,
+    "end": 6.42,
     "lines": [
       {
-        "text": "НЕТ СВЯЗИ",
+        "text": "РЕШАТЬ ЗАДАНИЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ ЕГЭ",
+        "text": "БЫСТРЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.94,
-    "end": 7.53,
-    "lines": [
-      {
-        "text": "НУЖНО РЕШИТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИМЕННО СЕЙЧАС",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.92,
-    "end": 8.9,
-    "lines": [
-      {
-        "text": "МЕЖДУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТУРАМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.36,
-    "end": 10.59,
+    "start": 7.23,
+    "end": 8.43,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -73,191 +41,223 @@
         "size": "small"
       },
       {
-        "text": "ВЫГРУЖАЕТ",
+        "text": "СРАВНИВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.74,
-    "end": 11.91,
+    "start": 8.61,
+    "end": 9.72,
     "lines": [
       {
-        "text": "ЗАДАНИЕ В",
+        "text": "СРЕДНЮЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВКЛАДКУ",
+        "text": "СКОРОСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.24,
-    "end": 13.74,
+    "start": 9.93,
+    "end": 11.16,
     "lines": [
       {
-        "text": "НА ПОТОМ",
+        "text": "СЕГОДНЯ СО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ СВАЙПОМ",
+        "text": "СКОРОСТЬЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.04,
-    "end": 15.54,
+    "start": 11.37,
+    "end": 13.11,
     "lines": [
       {
-        "text": "ЕЩЕ ДОМА",
+        "text": "НЕДЕЛЮ НАЗАД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВКЛАДКА",
+        "text": "ОДНОЙ СТРЕЛКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.69,
-    "end": 16.62,
+    "start": 13.23,
+    "end": 14.1,
     "lines": [
       {
-        "text": "ОТКРЫВАЕТСЯ",
+        "text": "ВВЕРХ ИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ СВЯЗИ",
+        "text": "ВНИЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.8,
-    "end": 18.48,
+    "start": 14.82,
+    "end": 15.99,
     "lines": [
       {
-        "text": "В ЛЮБОЙ МОМЕНТ",
+        "text": "СТРЕЛКА ОБНОВЛЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОТЬ В ПЕРЕРЫВЕ",
+        "text": "САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.57,
-    "end": 20.46,
+    "start": 16.26,
+    "end": 17.67,
     "lines": [
       {
-        "text": "МЕЖДУ ТУРАМИ",
+        "text": "ПОСЛЕ КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСКАТЬ СЕТЬ",
+        "text": "ЗАКРЫТОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.55,
-    "end": 21.99,
+    "start": 18.0,
+    "end": 18.96,
     "lines": [
       {
-        "text": "СПЕЦИАЛЬНО РАДИ",
+        "text": "БЕЗ РУЧНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОГО ЗАДАНИЯ",
+        "text": "ПОДСЧЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.26,
-    "end": 24.24,
+    "start": 19.77,
+    "end": 20.61,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ",
+        "text": "НАПРАВЛЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "СТРЕЛКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.42,
-    "end": 26.01,
+    "start": 20.76,
+    "end": 22.47,
     "lines": [
       {
-        "text": "ИЗ ВКЛАДКИ ОТКРЫВАЮТСЯ",
+        "text": "ПОНЯТНО СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОТОМ",
+        "text": "БЕЗ ИЗУЧЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.22,
-    "end": 27.33,
+    "start": 22.62,
+    "end": 23.76,
     "lines": [
       {
-        "text": "БЕЗ СВЯЗИ",
+        "text": "ГРАФИКА ИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЛЮБОЙ МОМЕНТ",
+        "text": "ТАБЛИЦЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.54,
-    "end": 28.95,
+    "start": 23.91,
+    "end": 25.5,
     "lines": [
       {
-        "text": "МЕЖДУ",
+        "text": "ЦИФР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТУРАМИ",
+        "text": "СКОРОСТЬ РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.95,
-    "end": 30.72,
+    "start": 25.68,
+    "end": 27.18,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ВИДНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОЙ СТРЕЛКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.6,
+    "end": 28.5,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦЕЙ ЦИФР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.22,
+    "end": 30.84,
     "lines": [
       {
         "text": "ССЫЛКА",
