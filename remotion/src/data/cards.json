@@ -1,106 +1,154 @@
 [
   {
-    "start": 3.6,
-    "end": 7.41,
+    "start": 3.18,
+    "end": 4.83,
     "lines": [
       {
-        "text": "ЦВЕТНЫЕ БЛОКИ",
+        "text": "СПРОСИЛА УЧИТЕЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДЪЁМ В 6",
+        "text": "НА КОНСУЛЬТАЦИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.95,
-    "end": 10.38,
+    "start": 5.31,
+    "end": 7.23,
     "lines": [
       {
-        "text": "ПОПАЛОСЬ В ЛЕНТЕ",
+        "text": "ПОСМОТРЕЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ЗАЦЕПИЛО",
+        "text": "СТАТИСТИКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 11.76,
+    "start": 7.92,
+    "end": 11.4,
     "lines": [
       {
-        "text": "БУДТО Я",
+        "text": "УЧИТЕЛЬ ОТМЕТИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТСТАЮ ОТ ВСЕХ",
+        "text": "СТАЛА УВЕРЕННЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.63,
-    "end": 13.95,
+    "start": 11.91,
+    "end": 12.72,
     "lines": [
       {
-        "text": "ПОСИДЕЛА",
+        "text": "А В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ЭТИМ ЧУВСТВОМ",
+        "text": "ТРЕНАЖЁРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.43,
-    "end": 16.23,
+    "start": 13.05,
+    "end": 15.87,
     "lines": [
       {
-        "text": "ЧЕСТНО",
+        "text": "ВИЖУ ТЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЗНАЛАСЬ СЕБЕ",
+        "text": "КОТОРЫЕ ЗАКРЫЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.13,
-    "end": 18.63,
+    "start": 16.68,
+    "end": 17.91,
     "lines": [
       {
-        "text": "У МЕНЯ",
+        "text": "ДВА ИСТОЧНИКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАК НЕ ПОЛУЧИТСЯ",
+        "text": "СОВПАЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.08,
-    "end": 20.22,
+    "start": 18.36,
+    "end": 21.69,
     "lines": [
       {
-        "text": "И ЭТО",
+        "text": "ЭТО УСПОКОИЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ ЧЕМ ПОРОЗНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.47,
+    "end": 24.72,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ СВЕРЯЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБА ВЗГЛЯДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.99,
+    "end": 26.76,
+    "lines": [
+      {
+        "text": "НЕ ПОЛАГАЮСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО НА СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.09,
+    "end": 27.72,
+    "lines": [
+      {
+        "text": "ВСЁ",
         "accent": false,
         "size": "small"
       },
@@ -112,72 +160,8 @@
     ]
   },
   {
-    "start": 21.15,
-    "end": 22.47,
-    "lines": [
-      {
-        "text": "ВЕРНУЛАСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "К СВОЕМУ ФОРМАТУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.16,
-    "end": 26.85,
-    "lines": [
-      {
-        "text": "ТРЕНАЖЁР ВЕЧЕРОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ РАННЕГО ПОДЪЁМА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.75,
-    "end": 30.18,
-    "lines": [
-      {
-        "text": "РЕЗУЛЬТАТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ХУЖЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.6,
-    "end": 32.76,
-    "lines": [
-      {
-        "text": "СВОЙ ТЕМП",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВМЕСТО ЧУЖОГО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.63,
-    "end": 34.74,
+    "start": 28.5,
+    "end": 30.03,
     "lines": [
       {
         "text": "СОХРАНИ",
@@ -185,15 +169,15 @@
         "size": "small"
       },
       {
-        "text": "ЕСЛИ ТОЖЕ",
+        "text": "ЕСЛИ ХОЧЕШЬ ПРОВЕРИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 34.74,
-    "end": 37.64,
+    "start": 30.21,
+    "end": 32.52,
     "lines": [
       {
         "text": "ССЫЛКА",
