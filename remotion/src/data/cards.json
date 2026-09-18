@@ -1,247 +1,39 @@
 [
   {
-    "start": 2.82,
-    "end": 4.32,
+    "start": 2.46,
+    "end": 3.66,
     "lines": [
       {
-        "text": "НЕ ПОНИМАЕШЬ",
+        "text": "СРАВНИВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАЛИ ЛИ",
+        "text": "ПОДГОТОВКУ К ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.47,
-    "end": 6.42,
+    "start": 3.78,
+    "end": 5.25,
     "lines": [
       {
-        "text": "РЕШАТЬ ЗАДАНИЯ ЕГЭ",
+        "text": "ТОЛЬКО С ЛИЧНЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРЕЕ",
+        "text": "ДРУЗЬЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.23,
-    "end": 8.43,
-    "lines": [
-      {
-        "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРАВНИВАЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.61,
-    "end": 9.72,
-    "lines": [
-      {
-        "text": "СРЕДНЮЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКОРОСТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.93,
-    "end": 11.16,
-    "lines": [
-      {
-        "text": "СЕГОДНЯ СО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКОРОСТЬЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.37,
-    "end": 13.11,
-    "lines": [
-      {
-        "text": "НЕДЕЛЮ НАЗАД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДНОЙ СТРЕЛКОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.23,
-    "end": 14.1,
-    "lines": [
-      {
-        "text": "ВВЕРХ ИЛИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВНИЗ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.82,
-    "end": 15.99,
-    "lines": [
-      {
-        "text": "СТРЕЛКА ОБНОВЛЯЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "САМА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.26,
-    "end": 17.67,
-    "lines": [
-      {
-        "text": "ПОСЛЕ КАЖДОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАКРЫТОГО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.0,
-    "end": 18.96,
-    "lines": [
-      {
-        "text": "БЕЗ РУЧНЫХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОДСЧЕТОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.77,
-    "end": 20.61,
-    "lines": [
-      {
-        "text": "НАПРАВЛЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТРЕЛКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.76,
-    "end": 22.47,
-    "lines": [
-      {
-        "text": "ПОНЯТНО СРАЗУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ ИЗУЧЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.62,
-    "end": 23.76,
-    "lines": [
-      {
-        "text": "ГРАФИКА ИЛИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТАБЛИЦЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.91,
-    "end": 25.5,
-    "lines": [
-      {
-        "text": "ЦИФР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКОРОСТЬ РЕШЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.68,
-    "end": 27.18,
-    "lines": [
-      {
-        "text": "ЗАДАНИЯ ВИДНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДНОЙ СТРЕЛКОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.6,
-    "end": 28.5,
+    "start": 5.37,
+    "end": 6.45,
     "lines": [
       {
         "text": "А НЕ",
@@ -249,15 +41,191 @@
         "size": "small"
       },
       {
-        "text": "ТАБЛИЦЕЙ ЦИФР",
+        "text": "ОТРЯДОМ ВОЖАТЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.22,
-    "end": 30.84,
+    "start": 6.45,
+    "end": 7.44,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧИТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.71,
+    "end": 8.61,
+    "lines": [
+      {
+        "text": "ОБЩИЙ РЕЙТИНГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "ДЛЯ ВСЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТРЯДА ВОЖАТЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.08,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ДРУЗЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 13.32,
+    "lines": [
+      {
+        "text": "МЕСТО ВИДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРЕДИ ВСЕХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.49,
+    "lines": [
+      {
+        "text": "В ОБЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК СМЕНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.73,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "СОБИРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНЫЙ СПИСОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 17.25,
+    "lines": [
+      {
+        "text": "ЛИЧНЫХ ДРУЗЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ СРАВНЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.49,
+    "end": 18.66,
+    "lines": [
+      {
+        "text": "НЕ ТРЕБУЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЙТИНГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.81,
+    "end": 19.86,
+    "lines": [
+      {
+        "text": "ОБЩИЙ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕГО ОТРЯДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.1,
+    "end": 21.27,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ДРУЗЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.54,
+    "end": 23.16,
     "lines": [
       {
         "text": "ССЫЛКА",
