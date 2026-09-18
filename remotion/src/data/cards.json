@@ -1,151 +1,183 @@
 [
   {
-    "start": 2.19,
-    "end": 5.43,
+    "start": 3.36,
+    "end": 5.19,
     "lines": [
       {
-        "text": "БУДТО ВСЯ ЖИЗНЬ",
+        "text": "МЕТОДЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ОДНОМ ЭКЗАМЕНЕ",
+        "text": "ТОЛЬКО МЕШАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.15,
-    "end": 9.0,
+    "start": 5.88,
+    "end": 7.59,
     "lines": [
       {
-        "text": "ЭТО ПУГАЕТ",
+        "text": "ГЛУБОКО ДЫШАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЛЬШЕ ЧЕМ ЗАДАНИЯ",
+        "text": "ПЕРЕД ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.87,
-    "end": 11.61,
+    "start": 7.98,
+    "end": 11.1,
     "lines": [
       {
-        "text": "У МЕНЯ ЕСТЬ",
+        "text": "ПРЕДСТАВИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДРУГИЕ ИНТЕРЕСЫ",
+        "text": "ХУДШИЙ СЦЕНАРИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.18,
-    "end": 15.39,
+    "start": 12.06,
+    "end": 14.01,
     "lines": [
       {
-        "text": "НЕ ГОТОВА",
+        "text": "ПРОВЕРЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖЕРТВОВАТЬ ГОДОМ",
+        "text": "ЧТО РАБОТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.2,
-    "end": 18.03,
+    "start": 14.82,
+    "end": 16.02,
     "lines": [
       {
-        "text": "НАШЛА БАЛАНС",
+        "text": "У МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ТРЕНАЖЁР",
+        "text": "НЕ ДЫХАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.6,
-    "end": 19.77,
+    "start": 16.47,
+    "end": 18.36,
     "lines": [
       {
-        "text": "ПО ЧУТЬ-ЧУТЬ",
+        "text": "А ПРОСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДЫЙ ДЕНЬ",
+        "text": "ЗНАНИЕ НА ЗУБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.13,
-    "end": 23.1,
+    "start": 19.17,
+    "end": 21.06,
     "lines": [
       {
-        "text": "БЕЗ МАРАФОНОВ",
+        "text": "В ТРЕНАЖЁРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОТОРЫЕ ВСЁ СЪЕДАЮТ",
+        "text": "ДЕЛАЮ СТАВКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.03,
-    "end": 27.51,
+    "start": 21.36,
+    "end": 24.06,
     "lines": [
       {
-        "text": "МОЖНО ГОТОВИТЬСЯ",
+        "text": "ВИДЕОРАЗБОРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ЦЕНОЙ ЖИЗНИ",
+        "text": "И ТЕСТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.41,
-    "end": 30.06,
+    "start": 24.36,
+    "end": 25.74,
     "lines": [
       {
-        "text": "СОХРАНИ",
+        "text": "ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСЛИ ТОЖЕ",
+        "text": "ДЫХАТЕЛЬНЫХ ПРАКТИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.06,
-    "end": 33.02,
+    "start": 26.37,
+    "end": 28.83,
+    "lines": [
+      {
+        "text": "СПОКОЙСТВИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОТ ТЕХНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.67,
+    "end": 32.55,
+    "lines": [
+      {
+        "text": "А ОТ ТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ЗНАЮ МАТЕРИАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.3,
+    "end": 37.27,
     "lines": [
       {
         "text": "ССЫЛКА",
