@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.07,
+    "end": 5.46,
+    "lines": [
+      {
+        "text": "РЕШИЛА ПОСЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ ГАДАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.21,
+    "end": 10.02,
+    "lines": [
+      {
+        "text": "СРАВНИЛА ТЕСТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВГУСТ И СЕНТЯБРЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.98,
+    "end": 13.71,
+    "lines": [
+      {
+        "text": "СРЕДНИЙ БАЛЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "+11%",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.37,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "И ЭТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦИФРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.45,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "НЕ СУБЪЕКТИВНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧУВСТВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.36,
+    "end": 20.16,
+    "lines": [
+      {
+        "text": "КАЗАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОПЧУСЬ НА МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.61,
+    "end": 21.87,
+    "lines": [
+      {
+        "text": "НА ДЕЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОСТ БЫЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.35,
+    "end": 23.91,
+    "lines": [
+      {
+        "text": "ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕЗАМЕТНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.69,
+    "end": 28.32,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

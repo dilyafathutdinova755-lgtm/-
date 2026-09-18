@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.64,
+    "end": 5.88,
+    "lines": [
+      {
+        "text": "ДОЧЬ ПРИЗНАЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ТРЕВОЖИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.51,
+    "end": 9.81,
+    "lines": [
+      {
+        "text": "УБРАЛИ ЗАНЯТИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАВИЛИ ТРЕНАЖЁР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 11.88,
+    "lines": [
+      {
+        "text": "И ОДИН ПРЕДМЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С РЕПЕТИТОРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 14.22,
+    "lines": [
+      {
+        "text": "ОКАЗАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЬШЕ НЕ ХУЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 16.71,
+    "lines": [
+      {
+        "text": "ТРЕВОГА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТНО СНИЗИЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕГРУЗКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.59,
+    "end": 22.26,
+    "lines": [
+      {
+        "text": "ЛУЧШЕЕ РЕШЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ДОБАВИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.56,
+    "end": 23.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

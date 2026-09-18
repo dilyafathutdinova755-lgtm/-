@@ -1,0 +1,210 @@
+[
+  {
+    "start": 3.6,
+    "end": 7.41,
+    "lines": [
+      {
+        "text": "ЦВЕТНЫЕ БЛОКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДЪЁМ В 6",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 10.38,
+    "lines": [
+      {
+        "text": "ПОПАЛОСЬ В ЛЕНТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ЗАЦЕПИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.76,
+    "lines": [
+      {
+        "text": "БУДТО Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТСТАЮ ОТ ВСЕХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 13.95,
+    "lines": [
+      {
+        "text": "ПОСИДЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ЭТИМ ЧУВСТВОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.43,
+    "end": 16.23,
+    "lines": [
+      {
+        "text": "ЧЕСТНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЗНАЛАСЬ СЕБЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.13,
+    "end": 18.63,
+    "lines": [
+      {
+        "text": "У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАК НЕ ПОЛУЧИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.08,
+    "end": 20.22,
+    "lines": [
+      {
+        "text": "И ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОРМАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.15,
+    "end": 22.47,
+    "lines": [
+      {
+        "text": "ВЕРНУЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К СВОЕМУ ФОРМАТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.16,
+    "end": 26.85,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ВЕЧЕРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ РАННЕГО ПОДЪЁМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.75,
+    "end": 30.18,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ХУЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.6,
+    "end": 32.76,
+    "lines": [
+      {
+        "text": "СВОЙ ТЕМП",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТО ЧУЖОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.63,
+    "end": 34.74,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ТОЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.74,
+    "end": 37.64,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

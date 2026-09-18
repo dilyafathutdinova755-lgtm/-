@@ -1,0 +1,194 @@
+[
+  {
+    "start": 3.18,
+    "end": 4.83,
+    "lines": [
+      {
+        "text": "СПРОСИЛА УЧИТЕЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА КОНСУЛЬТАЦИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 7.23,
+    "lines": [
+      {
+        "text": "ПОСМОТРЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАТИСТИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "УЧИТЕЛЬ ОТМЕТИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАЛА УВЕРЕННЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.91,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "А В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЁРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.05,
+    "end": 15.87,
+    "lines": [
+      {
+        "text": "ВИЖУ ТЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРЫЕ ЗАКРЫЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.68,
+    "end": 17.91,
+    "lines": [
+      {
+        "text": "ДВА ИСТОЧНИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.36,
+    "end": 21.69,
+    "lines": [
+      {
+        "text": "ЭТО УСПОКОИЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ ЧЕМ ПОРОЗНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.47,
+    "end": 24.72,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ СВЕРЯЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБА ВЗГЛЯДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.99,
+    "end": 26.76,
+    "lines": [
+      {
+        "text": "НЕ ПОЛАГАЮСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО НА СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.09,
+    "end": 27.72,
+    "lines": [
+      {
+        "text": "ВСЁ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОРМАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.5,
+    "end": 30.03,
+    "lines": [
+      {
+        "text": "СОХРАНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ХОЧЕШЬ ПРОВЕРИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.21,
+    "end": 32.52,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
