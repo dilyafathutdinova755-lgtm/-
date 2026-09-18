@@ -1,167 +1,183 @@
 [
   {
-    "start": 1.65,
-    "end": 3.06,
+    "start": 2.07,
+    "end": 3.69,
     "lines": [
       {
-        "text": "ПО ПРОФИЛЬНЫМ",
+        "text": "БОЯТСЯ САДИТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТАМ",
+        "text": "ЗА ПОЛНЫЙ ВАРИАНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.72,
-    "end": 6.57,
+    "start": 4.26,
+    "end": 6.54,
     "lines": [
       {
-        "text": "ПЕРВЫМИ СЛЫШАТ",
+        "text": "ВРЕМЕНИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРО РЕПЕТИТОРА",
+        "text": "ХВАТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.68,
-    "end": 10.89,
+    "start": 7.8,
+    "end": 10.38,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ДАЁТ",
+        "text": "ТРЕНАЖЁР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛНЫЙ ДОСТУП",
+        "text": "РАЗБИВАЕТ ВАРИАНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.58,
-    "end": 13.2,
+    "start": 10.98,
+    "end": 13.08,
     "lines": [
       {
-        "text": "БЕЗ ЕДИНОГО",
+        "text": "НА КОРОТКИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАТЕЖА",
+        "text": "ОТРЕЗКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.19,
-    "end": 15.03,
+    "start": 13.59,
+    "end": 15.18,
     "lines": [
       {
-        "text": "ТРОЙКА ПО",
+        "text": "ВМЕСТО ДОЛГОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТУ",
+        "text": "ЗАХОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.24,
-    "end": 17.22,
+    "start": 16.14,
+    "end": 18.15,
     "lines": [
       {
-        "text": "БОЛЬШЕ НЕ",
+        "text": "МОЖНО ЗАКРЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВОД",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.4,
-    "end": 19.32,
+    "start": 18.72,
+    "end": 21.0,
     "lines": [
       {
-        "text": "ИСКАТЬ РЕПЕТИТОРА",
+        "text": "ВЕРНУТЬСЯ ПОЗЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПЕРВУЮ НЕДЕЛЮ",
+        "text": "В ТОТ ЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.22,
-    "end": 23.16,
+    "start": 22.11,
+    "end": 24.18,
     "lines": [
       {
-        "text": "ДОСТУП НЕ",
+        "text": "РЕЗУЛЬТАТ СКЛАДЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИВЯЗАН",
+        "text": "ИЗ ОТРЕЗКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.76,
-    "end": 24.6,
+    "start": 24.72,
+    "end": 26.34,
     "lines": [
       {
-        "text": "ИЛИ ДНЯМ",
+        "text": "ДАЖЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦА",
+        "text": "ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.41,
-    "end": 29.1,
+    "start": 27.36,
+    "end": 28.95,
     "lines": [
       {
-        "text": "ПОИСК РЕПЕТИТОРА",
+        "text": "ДОЛГИЙ ВАРИАНТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЛЬШЕ НЕ НУЖЕН",
+        "text": "НЕ ПУГАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.91,
-    "end": 32.41,
+    "start": 29.43,
+    "end": 31.53,
+    "lines": [
+      {
+        "text": "С ОДНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКОГО ОТРЕЗКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.49,
+    "end": 35.02,
     "lines": [
       {
         "text": "ССЫЛКА",
