@@ -1,247 +1,215 @@
 [
   {
-    "start": 2.34,
-    "end": 3.69,
+    "start": 2.58,
+    "end": 3.45,
     "lines": [
       {
-        "text": "КАК",
+        "text": "ПО ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРО ИСПРАВЛЯЕТ",
+        "text": "ОБНОВИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.84,
-    "end": 4.92,
+    "start": 3.63,
+    "end": 5.58,
     "lines": [
       {
-        "text": "ОШИБКУ В",
+        "text": "НЕ СРАЗУ А ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИИ ЕГЭ",
+        "text": "НА СЛЕДУЮЩИЙ ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.28,
-    "end": 6.09,
+    "start": 6.42,
+    "end": 8.07,
     "lines": [
       {
-        "text": "ТОЛКОМ НЕ",
+        "text": "ЕГЭ ТРЕНАЖЕР ПЕРЕСЧИТЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИВ",
+        "text": "МЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.3,
-    "end": 7.2,
+    "start": 8.19,
+    "end": 9.09,
     "lines": [
       {
-        "text": "В ЧЕМ БЫЛА",
+        "text": "В РЕЙТИНГЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЧИНА",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.83,
-    "end": 8.94,
+    "start": 9.27,
+    "end": 10.38,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "ПОСЛЕ ТОГО КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПУСКАЕТ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.09,
-    "end": 9.96,
-    "lines": [
-      {
-        "text": "ДАЛЬШЕ ПОКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОШИБКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.11,
-    "end": 11.4,
-    "lines": [
-      {
-        "text": "НЕ ОБЪЯСНЕНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СВОИМИ СЛОВАМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.61,
+    "start": 10.56,
     "end": 12.45,
     "lines": [
       {
-        "text": "ПРЯМО В",
+        "text": "ЗАКРЫТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИИ",
+        "text": "БЕЗ ЗАДЕРЖКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.93,
-    "end": 14.37,
+    "start": 13.14,
+    "end": 14.73,
     "lines": [
       {
-        "text": "ФОРМАЛЬНАЯ",
+        "text": "НОВАЯ ПОЗИЦИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСПРАВИЛ И ЗАБЫЛ",
+        "text": "ВИДНА ТУТ ЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 15.99,
+    "start": 15.06,
+    "end": 15.87,
     "lines": [
       {
-        "text": "ЗДЕСЬ ПРОСТО НЕ",
+        "text": "НА ЭТОМ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОХОДЯТ ПРОВЕРКУ",
+        "text": "ЭКРАНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.82,
+    "start": 16.32,
+    "end": 18.03,
     "lines": [
       {
-        "text": "ПЕРЕХОД К",
+        "text": "БЕЗ ВЫХОДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛЕДУЮЩЕМУ ЗАДАНИЮ",
+        "text": "И ПОВТОРНОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.97,
-    "end": 18.87,
+    "start": 18.9,
+    "end": 20.1,
     "lines": [
       {
-        "text": "ТРЕБУЕТ",
+        "text": "ЖДАТЬ ОБЩЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩЕГО",
+        "text": "ПЕРЕСЧЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.64,
+    "start": 20.22,
+    "end": 21.72,
     "lines": [
       {
-        "text": "ОБЪЯСНЕНИЯ",
+        "text": "ПО РАСПИСАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ ГАЛОЧКИ",
+        "text": "НЕ ТРЕБУЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.24,
-    "end": 22.65,
+    "start": 22.56,
+    "end": 23.7,
     "lines": [
       {
-        "text": "ФОРМАЛЬНАЯ",
+        "text": "МЕСТО В РЕЙТИНГЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСПРАВИЛ И ЗАБЫЛ",
+        "text": "МЕНЯЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.83,
-    "end": 25.02,
+    "start": 23.94,
+    "end": 25.38,
     "lines": [
       {
-        "text": "БОЛЬШЕ НЕ ПРОХОДИТ",
+        "text": "СРАЗУ А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ НАСТОЯЩЕГО",
+        "text": "НА СЛЕДУЮЩИЙ ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.56,
-    "end": 26.82,
+    "start": 26.16,
+    "end": 27.96,
     "lines": [
       {
         "text": "ССЫЛКА",
