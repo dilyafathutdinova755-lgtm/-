@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.43,
-    "end": 3.3,
+    "start": 2.79,
+    "end": 3.66,
     "lines": [
       {
-        "text": "РЕБЕНОК",
+        "text": "В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСТАЕТ",
+        "text": "СВЕРЕНО ЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.53,
+    "start": 3.87,
+    "end": 5.31,
     "lines": [
       {
-        "text": "ОТ МЕЛЬКАЮЩИХ",
+        "text": "ЗАДАНИЕ ЕГЭ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭФФЕКТОВ",
+        "text": "АКТУАЛЬНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.95,
-    "end": 6.93,
+    "start": 5.73,
+    "end": 7.38,
     "lines": [
       {
-        "text": "В РАЗБОРЕ ЗАДАНИЯ",
+        "text": "ИЛИ ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ У БЛОГЕРОВ",
+        "text": "УСТАРЕВШУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.62,
-    "end": 9.09,
+    "start": 8.37,
+    "end": 9.63,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,71 +57,55 @@
         "size": "small"
       },
       {
-        "text": "ОЗВУЧИВАЕТ",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.27,
-    "end": 10.29,
+    "start": 9.78,
+    "end": 11.31,
     "lines": [
       {
-        "text": "РАЗБОР РОВНЫМ",
+        "text": "КОРОТКУЮ ПОМЕТКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОЛОСОМ",
+        "text": "СВЕРЕНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 11.49,
+    "start": 11.73,
+    "end": 13.17,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "РЯДОМ С ЗАДАНИЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОНТАЖНЫХ ВСТАВОК",
+        "text": "СРАЗУ ПОСЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.76,
-    "end": 12.78,
+    "start": 13.29,
+    "end": 15.03,
     "lines": [
       {
-        "text": "РЕЗКОЙ СМЕНЫ",
+        "text": "ПРОВЕРКИ ВЕРСИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТИНКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.38,
-    "end": 14.94,
-    "lines": [
-      {
-        "text": "ВНИМАНИЕ УХОДИТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА РЕШЕНИЕ",
+        "text": "ПОМЕТКА",
         "accent": true,
         "size": "big"
       }
@@ -129,119 +113,151 @@
   },
   {
     "start": 15.21,
-    "end": 16.23,
+    "end": 17.13,
     "lines": [
       {
-        "text": "А НЕ НА",
+        "text": "ОБНОВЛЯЕТСЯ САМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИЗУАЛЬНЫЙ ЭФФЕКТЫ",
+        "text": "ПРИ КАЖДОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.32,
-    "end": 17.7,
+    "start": 17.34,
+    "end": 18.18,
     "lines": [
       {
-        "text": "ВОКРУГ НЕГО",
+        "text": "ИЗМЕНЕНИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМОТРЕТЬ",
+        "text": "ДЕМО ВЕРСИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.85,
-    "end": 19.11,
+    "start": 19.02,
+    "end": 20.58,
     "lines": [
       {
-        "text": "РАЗБОР ПЕРЕД СНОМ",
+        "text": "ГАДАТЬ АКТУАЛЬНО ЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ЛИШНЕГО",
+        "text": "ВЕРСИЯ ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.23,
-    "end": 20.13,
+    "start": 20.76,
+    "end": 21.66,
     "lines": [
       {
-        "text": "НАПРЯЖЕНИЯ",
+        "text": "БОЛЬШЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ГЛАЗ",
+        "text": "ПРИХОДИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.46,
-    "end": 21.27,
+    "start": 22.68,
+    "end": 23.85,
     "lines": [
       {
-        "text": "СТАНОВИТСЯ",
+        "text": "ОТДЕЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЩЕ",
+        "text": "ОТКРЫВАТЬ ИСТОРИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.9,
-    "end": 23.46,
+    "start": 24.0,
+    "end": 25.5,
     "lines": [
       {
-        "text": "РОВНЫЙ ГОЛОС",
+        "text": "ИЗМЕНЕНИЙ РАДИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ВСТАВОК",
+        "text": "ОДНОЙ ПОМЕТКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.61,
-    "end": 24.93,
+    "start": 25.74,
+    "end": 27.15,
     "lines": [
       {
-        "text": "НЕ",
+        "text": "НЕ НУЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УТОМЛЯЕТ ГЛАЗА",
+        "text": "ПОМЕТКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.53,
-    "end": 27.09,
+    "start": 27.42,
+    "end": 28.32,
+    "lines": [
+      {
+        "text": "СВЕРЕНА У",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.5,
+    "end": 30.51,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТ ГАДАНИЕ ОБ АКТУАЛЬНОСТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРСИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.35,
+    "end": 32.94,
     "lines": [
       {
         "text": "ССЫЛКА",
