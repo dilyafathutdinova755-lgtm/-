@@ -1,183 +1,151 @@
 [
   {
-    "start": 2.61,
-    "end": 6.33,
+    "start": 3.03,
+    "end": 5.16,
     "lines": [
       {
-        "text": "ТЕРЯЮТ СЕКУНДЫ",
+        "text": "СРАЗУ ПО ТРЁМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА СЛОЖНЫХ",
+        "text": "ПРОФИЛЬНЫМ ПРЕДМЕТАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.02,
+    "start": 5.85,
     "end": 7.65,
     "lines": [
       {
-        "text": "А НЕ НА",
+        "text": "ПУТАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛЁГКИХ",
+        "text": "РЕДКИЕ ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.67,
-    "end": 11.01,
+    "start": 8.64,
+    "end": 11.31,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ДЕЛИТ",
+        "text": "ТРЕНАЖЁР ДЕРЖИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЯ СДАЧИ",
+        "text": "ТЕРМИНЫ ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.52,
-    "end": 13.08,
+    "start": 11.7,
+    "end": 13.23,
     "lines": [
       {
-        "text": "ПО КАЖДОМУ",
+        "text": "КАРТОЧНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЮ",
+        "text": "КОЛОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.89,
-    "end": 16.11,
+    "start": 13.83,
+    "end": 15.36,
     "lines": [
       {
-        "text": "ОБЩИЙ",
+        "text": "БЕЗ СМЕШЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕКУНДОМЕР",
+        "text": "ПРЕДМЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.86,
+    "start": 16.23,
     "end": 19.74,
     "lines": [
       {
-        "text": "СЛОЖНЫЕ ЗАДАНИЯ",
+        "text": "НАЙТИ КАРТОЧКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛУЧАЮТ МЕТКУ",
+        "text": "ЗА СЕКУНДУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.28,
-    "end": 22.5,
+    "start": 20.67,
+    "end": 23.34,
     "lines": [
       {
-        "text": "ЕСЛИ УШЛО",
+        "text": "КАРТОЧКИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЛЬШЕ ВРЕМЕНИ",
+        "text": "ПУТАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.37,
-    "end": 25.68,
+    "start": 23.58,
+    "end": 24.69,
     "lines": [
       {
-        "text": "МЕТКА СРАЗУ",
+        "text": "В ОДНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСЛЕ СДАЧИ",
+        "text": "СПИСКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.4,
-    "end": 27.48,
+    "start": 25.8,
+    "end": 28.74,
     "lines": [
       {
-        "text": "БЕЗ ПЕРЕСЧЁТА",
+        "text": "ТЕРМИНЫ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "ПУТАЮТСЯ В ГОЛОВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.53,
-    "end": 30.57,
-    "lines": [
-      {
-        "text": "ПОТЕРЯННЫЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СЕКУНДЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.87,
-    "end": 33.24,
-    "lines": [
-      {
-        "text": "ЗАМЕТНЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАНЬШЕ ЭКЗАМЕНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 34.23,
-    "end": 36.78,
+    "start": 29.85,
+    "end": 31.79,
     "lines": [
       {
         "text": "ССЫЛКА",
