@@ -1,47 +1,31 @@
 [
   {
-    "start": 2.58,
-    "end": 3.66,
+    "start": 2.61,
+    "end": 3.93,
     "lines": [
       {
-        "text": "ЧТО РЕБЕНОК",
+        "text": "КАЧАЕШЬ СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЛЕЧЕТСЯ",
+        "text": "ВЕСЬ БАНК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.81,
-    "end": 4.98,
+    "start": 4.86,
+    "end": 6.69,
     "lines": [
       {
-        "text": "ВО ВРЕМЯ ПРОБНИКА",
+        "text": "И ЖДУТ ЗАГРУЗКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ЕГЭ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 5.34,
-    "end": 6.78,
-    "lines": [
-      {
-        "text": "И ПОТЕРЯЕТ ДРАГОЦЕННОЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВРЕМЯ",
+        "text": "ДОЛЬШЕ ЧЕМ",
         "accent": true,
         "size": "big"
       }
@@ -49,7 +33,7 @@
   },
   {
     "start": 7.56,
-    "end": 9.03,
+    "end": 8.61,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,207 +41,191 @@
         "size": "small"
       },
       {
-        "text": "ДАЕТ ПАУЗУ",
+        "text": "ПОЗВОЛЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.21,
-    "end": 10.38,
+    "start": 8.76,
+    "end": 9.93,
     "lines": [
       {
-        "text": "ЗА ВЕСЬ ПРОБНИК",
+        "text": "СКАЧАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ШТРАФА",
+        "text": "ОФФЛАЙН ПАКЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 12.06,
+    "start": 10.14,
+    "end": 10.98,
     "lines": [
       {
-        "text": "ПО ОБЩЕМУ ВРЕМЕНИ",
+        "text": "ПО ОДНОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКИЙ",
+        "text": "ПРЕДМЕТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.15,
-    "end": 12.99,
+    "start": 11.52,
+    "end": 12.54,
     "lines": [
       {
-        "text": "ПЕРЕРЫВ НЕ",
+        "text": "А НЕ ВЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБИВАЕТ",
+        "text": "БАНК ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.14,
-    "end": 14.25,
+    "start": 12.75,
+    "end": 13.89,
     "lines": [
       {
-        "text": "ИТОГОВЫЕ",
+        "text": "ЗА РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТ ТЕСТА",
+        "text": "НУЖНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.88,
-    "end": 15.81,
+    "start": 13.95,
+    "end": 15.3,
     "lines": [
       {
-        "text": "ОТКАЗЫВАТЬСЯ",
+        "text": "ПРЕДМЕТ К ИСПОЛЬЗОВАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛНОСТЬЮ",
+        "text": "ГОТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.93,
-    "end": 17.34,
+    "start": 15.57,
+    "end": 18.09,
     "lines": [
       {
-        "text": "ОТ ЛЮБОГО ПЕРЕРЫВА",
+        "text": "УЖЕ ЧЕРЕЗ МИНУТУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАДИ ЧИСТОГО",
+        "text": "БЕЗ ОЖИДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.43,
-    "end": 18.45,
+    "start": 18.81,
+    "end": 19.89,
     "lines": [
       {
-        "text": "ВРЕМЕНИ НЕ",
+        "text": "ЖДАТЬ ПОЛНУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕБУЕТСЯ",
+        "text": "ЗАГРУЗКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.43,
+    "start": 20.04,
+    "end": 20.94,
     "lines": [
       {
-        "text": "ВТОРАЯ ПАУЗА УЖЕ",
+        "text": "РАДИ ОДНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДОСТУПНА",
+        "text": "ПРЕДМЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.76,
-    "end": 21.72,
+    "start": 21.18,
+    "end": 22.77,
     "lines": [
       {
-        "text": "И ЭТО ВИДНО",
+        "text": "НЕ ТРЕБУЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "ПРЕДМЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.81,
-    "end": 23.4,
+    "start": 22.95,
+    "end": 24.0,
     "lines": [
       {
-        "text": "НА ЭКРАНЕ",
+        "text": "СКАЧИВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНА ПАУЗА",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.55,
-    "end": 24.69,
+    "start": 24.6,
+    "end": 26.4,
     "lines": [
       {
-        "text": "ЗА ВЕСЬ ПРОБНИК",
+        "text": "БЕЗ ОЖИДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ СБИВАЕТ",
+        "text": "ЗАГРУЗКИ БАНКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.87,
-    "end": 26.1,
-    "lines": [
-      {
-        "text": "ИТОГОВЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕЗУЛЬТАТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.1,
-    "end": 27.3,
+    "start": 27.12,
+    "end": 28.44,
     "lines": [
       {
         "text": "ССЫЛКА",
