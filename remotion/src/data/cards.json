@@ -1,263 +1,263 @@
 [
   {
-    "start": 2.7,
-    "end": 4.14,
+    "start": 2.52,
+    "end": 3.42,
     "lines": [
       {
-        "text": "ПРОПУСКАЕШЬ ПРОМЕЖУТОЧНЫЕ",
+        "text": "ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ",
+        "text": "РЕБЕНОК ЛИСТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 5.46,
+    "start": 3.6,
+    "end": 4.62,
     "lines": [
       {
-        "text": "РЕШЕНИЕ ЗАДАНИЯ",
+        "text": "УЖЕ ВЫУЧЕННЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 6.81,
+    "start": 4.8,
+    "end": 5.94,
     "lines": [
       {
-        "text": "И ПОТОМ",
+        "text": "С ТЕРМИНОМ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЕШЬСЯ",
+        "text": "ПО КРУГУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 9.3,
+    "start": 6.63,
+    "end": 7.53,
     "lines": [
-      {
-        "text": "В САМОМ МЕТОДЕ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.6,
-    "end": 10.95,
-    "lines": [
-      {
-        "text": "ПЕРЕМЕШИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ РЕШЕНИЯ",
+        "text": "УБИРАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.25,
-    "end": 12.69,
+    "start": 7.71,
+    "end": 8.94,
     "lines": [
       {
-        "text": "ПРОСИТ РАССТАВИТЬ",
+        "text": "КАРТОЧКУ В АРХИВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНОМ",
+        "text": "САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.81,
-    "end": 14.49,
+    "start": 9.06,
+    "end": 9.93,
     "lines": [
       {
-        "text": "ПОРЯДКЕ",
+        "text": "ПОСЛЕ ТРЕХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ КАСАНИЕМ",
+        "text": "ВЕРНЫХ ОТВЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.48,
-    "end": 16.8,
+    "start": 10.08,
+    "end": 10.92,
     "lines": [
       {
-        "text": "ПОРЯДОК",
+        "text": "ПОДРЯД БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ ЗАНОВО",
+        "text": "ЕДИНОЙ ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.04,
-    "end": 18.69,
+    "start": 11.94,
+    "end": 13.56,
     "lines": [
       {
-        "text": "ИЗ ПЕРЕПУТАННЫХ",
+        "text": "ВЫУЧЕННЫЙ ТЕРМИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧЕК",
+        "text": "БОЛЬШЕ НЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.38,
-    "end": 20.52,
+    "start": 13.65,
+    "end": 14.67,
     "lines": [
       {
-        "text": "А НЕ ПЕРЕПИСЫВАЕТСЯ С",
+        "text": "ПОПАДАЕТСЯ СРЕДИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЛЯ",
+        "text": "НОВЫХ КАРТОЧЕК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.63,
-    "end": 22.95,
+    "start": 15.18,
+    "end": 16.41,
     "lines": [
       {
-        "text": "РЕШЕНИЯ ЗАПОМИНАЕТСЯ",
+        "text": "ОТПРАВЛЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "КАРТОЧКУ В АРХИВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.19,
-    "end": 24.96,
+    "start": 16.56,
+    "end": 17.58,
     "lines": [
       {
-        "text": "ЧЕРЕЗ СБОРКУ А НЕ",
+        "text": "САМОСТОЯТЕЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ПРОСТОЕ",
+        "text": "ВРУЧНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.14,
-    "end": 26.49,
+    "start": 17.76,
+    "end": 19.68,
     "lines": [
       {
-        "text": "ЧТЕНИЕ",
+        "text": "НЕ ТРЕБУЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВОГО ОТВЕТА",
+        "text": "СПИСОК КАРТОЧЕК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.57,
-    "end": 28.77,
+    "start": 19.83,
+    "end": 20.67,
     "lines": [
       {
-        "text": "ПОРЯДОК ШАГОВ",
+        "text": "ОСТАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "КОРОТКИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.98,
-    "end": 29.88,
+    "start": 20.79,
+    "end": 21.93,
     "lines": [
       {
-        "text": "ЗАНОВО А",
+        "text": "И БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "ЛИШНЕГО БАЛЛАСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.03,
-    "end": 31.35,
+    "start": 22.38,
+    "end": 23.49,
     "lines": [
       {
-        "text": "ЗАПОМИНАЕТСЯ",
+        "text": "КАРТОЧКА УХОДИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ СБОРКУ",
+        "text": "В АРХИВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.34,
-    "end": 34.02,
+    "start": 23.61,
+    "end": 25.44,
+    "lines": [
+      {
+        "text": "САМА ПОСЛЕ ТРЕХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНЫХ ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.89,
+    "end": 27.03,
     "lines": [
       {
         "text": "ССЫЛКА",
