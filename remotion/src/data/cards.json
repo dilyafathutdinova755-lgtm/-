@@ -1,247 +1,274 @@
 [
   {
-    "start": 2.49,
-    "end": 3.39,
+    "start": 2.58,
+    "end": 3.81,
     "lines": [
       {
-        "text": "ПО ЕГЭ НА",
+        "text": "ЗАДАНИЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМУ",
+        "text": "МИМО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 4.86,
+    "start": 3.99,
+    "end": 5.7,
     "lines": [
       {
-        "text": "КОТОРАЯ СОВСЕМ",
+        "text": "ФОРМУЛЫ НЕ РАЗОБРАВШИСЬ В НЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ИДЕТ",
+        "text": "ТОЛКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.98,
-    "end": 7.2,
+    "start": 6.63,
+    "end": 8.52,
     "lines": [
       {
-        "text": "В ЭТОТ ВЕЧЕР",
+        "text": "ЕГЭ ТРЕНАЖЕР ОСТАНАВЛИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "РОЛИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.38,
-    "end": 8.37,
+    "start": 8.73,
+    "end": 9.96,
     "lines": [
       {
-        "text": "ПОЗВОЛЯЕТ",
+        "text": "САМ НА МЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕНИТЬ",
+        "text": "С ФОРМУЛОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.52,
-    "end": 10.14,
+    "start": 10.5,
+    "end": 11.61,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ДНЯ НА ДРУГУЮ",
+        "text": "ПОКА ОНА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМУ",
+        "text": "ОТМЕЧЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.53,
-    "end": 11.34,
+    "start": 11.73,
+    "end": 13.62,
     "lines": [
       {
-        "text": "ОДИН РАЗ",
+        "text": "ПОНЯТНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В СУТКИ",
+        "text": "ПРОЛИСТАТЬ ФОРМУЛУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.97,
-    "end": 12.9,
+    "start": 13.77,
+    "end": 14.91,
     "lines": [
       {
-        "text": "БЕЗ ПОТЕРИ",
+        "text": "НЕ РАЗОБРАВШИСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕРИИ",
+        "text": "МИМО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.56,
-    "end": 14.61,
+    "start": 15.27,
+    "end": 16.59,
     "lines": [
       {
-        "text": "НЕПОДХОДЯЩАЯ",
+        "text": "ЗДЕСЬ ПРОСТО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМА",
+        "text": "ПОЛУЧИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.2,
+    "start": 17.67,
+    "end": 18.9,
     "lines": [
       {
-        "text": "МЕНЯЕТСЯ",
+        "text": "ОТМЕЧАТЬ ПАУЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ НАЖАТИЕМ",
+        "text": "ВРУЧНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.73,
+    "start": 19.14,
+    "end": 20.1,
     "lines": [
       {
-        "text": "И НЕ ПРОПУСКАЮТСЯ",
+        "text": "КНОПКОЙ КАЖДЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВСЕМ",
+        "text": "РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.42,
-    "end": 20.04,
+    "start": 20.37,
+    "end": 21.81,
     "lines": [
       {
-        "text": "ОСТАВЛЯТЬ СЕРИЮ",
+        "text": "НЕ ТРЕБУЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ВЫПОЛНЕНИЯ",
+        "text": "РОЛИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.28,
-    "end": 21.75,
+    "start": 21.9,
+    "end": 23.25,
     "lines": [
       {
-        "text": "РАДИ ОДНОЙ",
+        "text": "ПРОДОЛЖАЕТСЯ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕУДАЧНОЙ ТЕМЫ",
+        "text": "ПОСЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.08,
-    "end": 24.18,
+    "start": 23.4,
+    "end": 24.27,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ НЕПОДХОДЯЩАЯ",
+        "text": "ЧЕСТНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМА",
+        "text": "НАЖАТИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.63,
-    "end": 25.62,
+    "start": 24.54,
+    "end": 25.74,
     "lines": [
       {
-        "text": "МЕНЯЕТСЯ",
+        "text": "ПОНЯТНО ПОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН РАЗ",
+        "text": "ФОРМУЛОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.77,
-    "end": 27.39,
+    "start": 26.46,
+    "end": 27.78,
     "lines": [
       {
-        "text": "В СУТКИ",
+        "text": "РОЛИК САМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ПОТЕРИ СЕРИИ",
+        "text": "СТОИТ НА ФОРМУЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.14,
-    "end": 29.61,
+    "start": 28.08,
+    "end": 29.19,
+    "lines": [
+      {
+        "text": "ПОКА ОНА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТМЕЧЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.34,
+    "end": 30.69,
+    "lines": [
+      {
+        "text": "ПОНЯТНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.69,
+    "end": 32.34,
     "lines": [
       {
         "text": "ССЫЛКА",
