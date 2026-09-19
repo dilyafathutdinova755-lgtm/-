@@ -1,42 +1,42 @@
 [
   {
-    "start": 2.73,
-    "end": 3.6,
+    "start": 2.4,
+    "end": 3.72,
     "lines": [
       {
-        "text": "НА ВЕСЬ ДЕНЬ",
+        "text": "СЛУЧАЙНО РЕШАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМЕНЫ",
+        "text": "УСТАРЕВШЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.75,
-    "end": 5.52,
+    "start": 3.99,
+    "end": 5.19,
     "lines": [
       {
-        "text": "И НЕ УСПЕВАЮТ",
+        "text": "ЕГЭ НАЙДЕННОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСМОТРЕТЬ",
+        "text": "МЕЖДУ ДЕЛАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 6.66,
+    "start": 5.37,
+    "end": 7.08,
     "lines": [
       {
-        "text": "ЕГЭ",
+        "text": "В ОБЩЕМ СПИСКЕ",
         "accent": false,
         "size": "small"
       },
@@ -48,136 +48,136 @@
     ]
   },
   {
-    "start": 6.78,
-    "end": 8.07,
+    "start": 7.23,
+    "end": 8.4,
     "lines": [
       {
-        "text": "ПОЗВОЛЯЕТ",
+        "text": "ПРЯЧЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКАЧАТЬ РАЗБОР",
+        "text": "УСТАРЕВШЕЕ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.22,
-    "end": 9.42,
+    "start": 8.58,
+    "end": 9.81,
     "lines": [
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "САМО В АРХИВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ НАЖАТИЕМ",
+        "text": "НЕ ОСТАВЛЯЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.57,
-    "end": 10.41,
+    "start": 9.99,
+    "end": 10.83,
     "lines": [
       {
-        "text": "ПЕРЕД НАЧАЛОМ",
+        "text": "ЕГО В ОБЩЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМЕНЫ",
+        "text": "СПИСКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.56,
-    "end": 11.61,
+    "start": 11.19,
+    "end": 12.39,
     "lines": [
       {
-        "text": "С УТРА",
+        "text": "НАЙТИ СЛУЧАЙНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РОЛИК ОСТАЕТСЯ",
+        "text": "УСТАРЕВШУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.76,
-    "end": 12.66,
+    "start": 12.51,
+    "end": 13.56,
     "lines": [
       {
-        "text": "ДОСТУПНЫМ",
+        "text": "ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "ВЕСЬ ДЕНЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.81,
-    "end": 14.37,
-    "lines": [
-      {
-        "text": "СМЕНЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ ЕДИНОГО МЕГАБАЙТА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.55,
-    "end": 15.51,
-    "lines": [
-      {
-        "text": "СВЯЗИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛОВИТЬ СЕТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.6,
-    "end": 17.01,
-    "lines": [
       {
         "text": "МЕЖДУ ДЕЛАМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАДИ РОЛИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.19,
-    "end": 18.63,
+    "start": 13.74,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "БОЛЬШЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.29,
+    "lines": [
+      {
+        "text": "ПРОВЕРЯТЬ АКТУАЛЬНОСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.44,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "НАЙДЕННОГО ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРУЧНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.97,
+    "end": 19.05,
     "lines": [
       {
         "text": "НЕ ПРИХОДИТСЯ",
@@ -185,79 +185,95 @@
         "size": "small"
       },
       {
-        "text": "СКАЧАННЫЙ РОЛИК",
+        "text": "АРХИВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.75,
-    "end": 19.74,
+    "start": 19.17,
+    "end": 20.34,
     "lines": [
       {
-        "text": "ЗАНИМАЕТ",
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВСЕМ НЕМНОГО",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.86,
-    "end": 20.97,
+    "start": 20.61,
+    "end": 21.69,
     "lines": [
       {
-        "text": "МЕСТА В ПАМЯТИ",
+        "text": "И НЕ МЕШАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕЛЕФОНА",
+        "text": "ОСНОВНОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.24,
-    "end": 22.29,
+    "start": 21.81,
+    "end": 23.25,
     "lines": [
       {
-        "text": "РОЛИК СКАЧАН",
+        "text": "СПИСКУ ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "УСТАРЕВШЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.44,
-    "end": 24.0,
+    "start": 23.34,
+    "end": 24.39,
     "lines": [
       {
-        "text": "И ДОСТУПЕН",
+        "text": "ЗАДАНИЕ САМО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕСЬ ДЕНЬ БЕЗ",
+        "text": "УХОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.3,
-    "end": 25.86,
+    "start": 24.54,
+    "end": 25.8,
+    "lines": [
+      {
+        "text": "В АРХИВ ИЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕГО СПИСКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.1,
+    "end": 27.3,
     "lines": [
       {
         "text": "ССЫЛКА",
