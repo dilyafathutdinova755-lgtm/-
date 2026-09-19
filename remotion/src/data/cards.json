@@ -1,218 +1,42 @@
 [
   {
-    "start": 2.67,
-    "end": 4.59,
+    "start": 2.91,
+    "end": 4.17,
     "lines": [
       {
-        "text": "НЕ ЗАМЕЧАЕШЬ ЧТО ФОРМУЛИРОВКА",
+        "text": "ТЕРЯЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "В ДЛИННОМ РЕЙТИНГЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.83,
-    "end": 6.66,
+    "start": 4.32,
+    "end": 6.54,
     "lines": [
       {
-        "text": "ЕГЭ",
+        "text": "ПО ЕГЭ СРЕДИ СОТЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБНОВИЛАСЬ",
+        "text": "НЕЗНАКОМЫХ ИМЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.77,
-    "end": 9.12,
+    "start": 7.56,
+    "end": 8.97,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР ПОДСВЕЧИВАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.75,
-    "end": 11.13,
-    "lines": [
-      {
-        "text": "ЯРКОЙ РАМКОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРАЗУ ПОСЛЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.25,
-    "end": 12.33,
-    "lines": [
-      {
-        "text": "ФОРМУЛИРОВКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБНОВЛЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.51,
-    "end": 14.19,
-    "lines": [
-      {
-        "text": "ПО ДЕМО ВЕРСИИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАМКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.31,
-    "end": 15.54,
-    "lines": [
-      {
-        "text": "ИСЧЕЗАЕТ САМА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАК ТОЛЬКО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.75,
-    "end": 17.37,
-    "lines": [
-      {
-        "text": "ЗАДАНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТКРЫТО ХОТЯ БЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.12,
-    "end": 18.96,
-    "lines": [
-      {
-        "text": "СРАВНИВАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТАРУЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.11,
-    "end": 21.51,
-    "lines": [
-      {
-        "text": "И НОВУЮ ФОРМУЛИРОВКУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАДИ ЦЕЛИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.66,
-    "end": 23.46,
-    "lines": [
-      {
-        "text": "НЕ ТРЕБУЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДИН ВЗГЛЯД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.61,
-    "end": 24.6,
-    "lines": [
-      {
-        "text": "НА РАМКУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.75,
-    "end": 26.58,
-    "lines": [
-      {
-        "text": "ЧТЕНИЕ ВСЕЙ ФОРМУЛИРОВКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАНОВО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.42,
-    "end": 28.95,
-    "lines": [
-      {
-        "text": "ЦВЕТНАЯ РАМКА САМА",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
@@ -224,24 +48,232 @@
     ]
   },
   {
-    "start": 29.13,
-    "end": 30.93,
+    "start": 9.09,
+    "end": 10.68,
     "lines": [
       {
-        "text": "ОБНОВЛЕНИЕ",
+        "text": "ТОЛЬКО РАЗНИЦУ МЕСТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ СРАВНЕНИЯ",
+        "text": "ЗА НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.22,
-    "end": 33.93,
+    "start": 11.22,
+    "end": 12.33,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АБСОЛЮТНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.54,
+    "end": 14.07,
+    "lines": [
+      {
+        "text": "ПОЗИЦИЮ СРЕДИ ВСЕХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДЪЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.19,
+    "end": 15.03,
+    "lines": [
+      {
+        "text": "НА НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.24,
+    "end": 16.38,
+    "lines": [
+      {
+        "text": "ЗАМЕТНЕЕ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОМЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "СРЕДИ СОТЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.12,
+    "end": 19.77,
+    "lines": [
+      {
+        "text": "ПРОЛИСТЫВАТЬ ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛИННЫЙ РЕЙТИНГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.95,
+    "end": 21.06,
+    "lines": [
+      {
+        "text": "РАДИ ОДНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОЕЙ СТРОКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.33,
+    "end": 23.22,
+    "lines": [
+      {
+        "text": "НЕ ПРИХОДИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕБОЛЬШОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.31,
+    "end": 24.27,
+    "lines": [
+      {
+        "text": "ПОДЪЕМ ВИДЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.81,
+    "end": 26.1,
+    "lines": [
+      {
+        "text": "БЕЗ ЧТЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧУЖИХ ИМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.25,
+    "end": 27.87,
+    "lines": [
+      {
+        "text": "ВОКРУГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗНИЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.02,
+    "end": 29.52,
+    "lines": [
+      {
+        "text": "МЕСТ ЗА НЕДЕЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.76,
+    "end": 31.35,
+    "lines": [
+      {
+        "text": "ЧЕМ НОМЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРЕДИ СОТЕН ИМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.25,
+    "end": 33.99,
     "lines": [
       {
         "text": "ССЫЛКА",
