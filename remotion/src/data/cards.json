@@ -1,42 +1,42 @@
 [
   {
-    "start": 2.46,
-    "end": 3.6,
+    "start": 2.4,
+    "end": 3.75,
     "lines": [
       {
-        "text": "СЛУЧАЙНО ОТКРЫВАЮТ",
+        "text": "ЗАДАНИЕ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛИШНИЙ ТЕРМИН",
+        "text": "ПАЧКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.81,
-    "end": 5.31,
+    "start": 4.02,
+    "end": 4.92,
     "lines": [
       {
-        "text": "ЕГЭ ВМЕСТО",
+        "text": "И БОЯТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРОГО ПРОСМОТРА",
+        "text": "УПЕРЕТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.52,
-    "end": 6.72,
+    "start": 5.07,
+    "end": 6.75,
     "lines": [
       {
-        "text": "СПИСКА",
+        "text": "В МЕСЯЧНЫЙ ЛИМИТ",
         "accent": false,
         "size": "small"
       },
@@ -48,136 +48,136 @@
     ]
   },
   {
-    "start": 6.9,
-    "end": 7.8,
+    "start": 7.05,
+    "end": 7.98,
     "lines": [
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "НЕ ОГРАНИЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКОЕ",
+        "text": "ЧИСЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.89,
-    "end": 9.27,
+    "start": 8.07,
+    "end": 9.75,
     "lines": [
       {
-        "text": "ПРЕВЬЮ ТЕРМИНА",
+        "text": "РЕШЕННЫХ ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ СВАЙПОМ",
+        "text": "НИКАКИМ ЛИМИТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.39,
-    "end": 10.26,
+    "start": 9.87,
+    "end": 10.71,
     "lines": [
       {
-        "text": "НЕ ОТКРЫВАЯ",
+        "text": "В ТЕЧЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧКУ",
+        "text": "МЕСЯЦА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.47,
-    "end": 12.03,
+    "start": 11.04,
+    "end": 12.21,
     "lines": [
       {
-        "text": "ПОЛНОСТЬЮ",
+        "text": "ПАЧКА ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРО ПРОЛИСТАТЬ",
+        "text": "ЗА ОДИН ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.15,
-    "end": 13.47,
+    "start": 12.39,
+    "end": 13.29,
     "lines": [
       {
-        "text": "ВЕСЬ СПИСОК",
+        "text": "НА БЕРЕГУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕВЬЮ ПОЛУЧАЕТСЯ",
+        "text": "НИЧЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.65,
-    "end": 14.88,
+    "start": 13.5,
+    "end": 14.4,
     "lines": [
       {
-        "text": "ЗА МИНУТУ",
+        "text": "НЕ МЕНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ЗАБРОСАМИ",
+        "text": "В ДОСТУПЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.24,
-    "end": 16.05,
+    "start": 14.73,
+    "end": 15.75,
     "lines": [
       {
-        "text": "ОТКРЫВАТЬ И",
+        "text": "СЧИТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫВАТЬ",
+        "text": "ОСТАВШИЙСЯ ЛИМИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.23,
-    "end": 17.55,
+    "start": 15.87,
+    "end": 16.86,
     "lines": [
       {
-        "text": "КАРТОЧКУ ПО ОТДЕЛЬНОСТИ",
+        "text": "ЗАДАНИЙ ДО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДУЮ",
+        "text": "КОНЦА МЕСЯЦА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.79,
-    "end": 18.96,
+    "start": 17.07,
+    "end": 18.48,
     "lines": [
       {
         "text": "НЕ ТРЕБУЕТСЯ",
@@ -185,111 +185,79 @@
         "size": "small"
       },
       {
-        "text": "ПОЛНАЯ",
+        "text": "РЕШАТЬ МОЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.08,
-    "end": 19.92,
+    "start": 18.66,
+    "end": 19.47,
     "lines": [
       {
-        "text": "ОТКРЫВАЕТСЯ",
+        "text": "ХОТЬ СТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧКА",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.04,
-    "end": 20.85,
+    "start": 19.59,
+    "end": 20.46,
     "lines": [
       {
-        "text": "ОТДЕЛЬНЫМ",
+        "text": "ПОДРЯД В ОДИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАСАНИЕМ",
+        "text": "ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.06,
-    "end": 22.11,
+    "start": 20.76,
+    "end": 21.84,
     "lines": [
       {
-        "text": "ЕСЛИ ТЕРМИН",
+        "text": "ЧИСЛО РЕШЕННЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕЗНАКОМ",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.44,
-    "end": 23.58,
+    "start": 22.05,
+    "end": 23.55,
     "lines": [
       {
-        "text": "СПИСОК ЛИСТАЕТСЯ",
+        "text": "НЕОГРАНИЧЕНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕВЬЮ",
+        "text": "ЛИМИТОМ ЗА МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.73,
-    "end": 24.72,
-    "lines": [
-      {
-        "text": "С ВАЙПОМ БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТКРЫТИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.87,
-    "end": 25.86,
-    "lines": [
-      {
-        "text": "КАЖДОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАРТОЧКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.86,
-    "end": 27.51,
+    "start": 23.82,
+    "end": 25.08,
     "lines": [
       {
         "text": "ССЫЛКА",
