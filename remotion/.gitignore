@@ -236,3 +236,10 @@ episodes55/render/
 episodes55_out/
 sources_coffee123_12/
 asr_coffee123_12/
+episodes56/*.mp4
+episodes56/*.wav
+episodes56/*.log
+episodes56/render/
+episodes56_out/
+sources_coffee123_13/
+asr_coffee123_13/

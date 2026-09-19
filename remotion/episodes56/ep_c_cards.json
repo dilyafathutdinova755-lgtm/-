@@ -1,263 +1,263 @@
 [
   {
-    "start": 2.7,
-    "end": 4.14,
+    "start": 2.58,
+    "end": 3.66,
     "lines": [
       {
-        "text": "ПРОПУСКАЕШЬ ПРОМЕЖУТОЧНЫЕ",
+        "text": "ЧТО РЕБЕНОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ",
+        "text": "ОТВЛЕЧЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 5.46,
+    "start": 3.81,
+    "end": 4.98,
     "lines": [
       {
-        "text": "РЕШЕНИЕ ЗАДАНИЯ",
+        "text": "ВО ВРЕМЯ ПРОБНИКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ПО ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 6.81,
+    "start": 5.34,
+    "end": 6.78,
     "lines": [
       {
-        "text": "И ПОТОМ",
+        "text": "И ПОТЕРЯЕТ ДРАГОЦЕННОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЕШЬСЯ",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 9.3,
+    "start": 7.56,
+    "end": 9.03,
     "lines": [
-      {
-        "text": "В САМОМ МЕТОДЕ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.6,
-    "end": 10.95,
-    "lines": [
-      {
-        "text": "ПЕРЕМЕШИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ РЕШЕНИЯ",
+        "text": "ДАЕТ ПАУЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.25,
-    "end": 12.69,
+    "start": 9.21,
+    "end": 10.38,
     "lines": [
       {
-        "text": "ПРОСИТ РАССТАВИТЬ",
+        "text": "ЗА ВЕСЬ ПРОБНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНОМ",
+        "text": "БЕЗ ШТРАФА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.81,
-    "end": 14.49,
+    "start": 10.5,
+    "end": 12.06,
     "lines": [
       {
-        "text": "ПОРЯДКЕ",
+        "text": "ПО ОБЩЕМУ ВРЕМЕНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ КАСАНИЕМ",
+        "text": "КОРОТКИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.48,
-    "end": 16.8,
+    "start": 12.15,
+    "end": 12.99,
     "lines": [
       {
-        "text": "ПОРЯДОК",
+        "text": "ПЕРЕРЫВ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ ЗАНОВО",
+        "text": "СБИВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.04,
-    "end": 18.69,
+    "start": 13.14,
+    "end": 14.25,
     "lines": [
       {
-        "text": "ИЗ ПЕРЕПУТАННЫХ",
+        "text": "ИТОГОВЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧЕК",
+        "text": "РЕЗУЛЬТАТ ТЕСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.38,
-    "end": 20.52,
+    "start": 14.88,
+    "end": 15.81,
     "lines": [
       {
-        "text": "А НЕ ПЕРЕПИСЫВАЕТСЯ С",
+        "text": "ОТКАЗЫВАТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЛЯ",
+        "text": "ПОЛНОСТЬЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.63,
-    "end": 22.95,
+    "start": 15.93,
+    "end": 17.34,
     "lines": [
       {
-        "text": "РЕШЕНИЯ ЗАПОМИНАЕТСЯ",
+        "text": "ОТ ЛЮБОГО ПЕРЕРЫВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "РАДИ ЧИСТОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.19,
-    "end": 24.96,
+    "start": 17.43,
+    "end": 18.45,
     "lines": [
       {
-        "text": "ЧЕРЕЗ СБОРКУ А НЕ",
+        "text": "ВРЕМЕНИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ПРОСТОЕ",
+        "text": "ТРЕБУЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.14,
-    "end": 26.49,
+    "start": 19.02,
+    "end": 20.43,
     "lines": [
       {
-        "text": "ЧТЕНИЕ",
+        "text": "ВТОРАЯ ПАУЗА УЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВОГО ОТВЕТА",
+        "text": "НЕДОСТУПНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.57,
-    "end": 28.77,
+    "start": 20.76,
+    "end": 21.72,
     "lines": [
       {
-        "text": "ПОРЯДОК ШАГОВ",
+        "text": "И ЭТО ВИДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.98,
-    "end": 29.88,
+    "start": 21.81,
+    "end": 23.4,
     "lines": [
       {
-        "text": "ЗАНОВО А",
+        "text": "НА ЭКРАНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "ОДНА ПАУЗА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.03,
-    "end": 31.35,
+    "start": 23.55,
+    "end": 24.69,
     "lines": [
       {
-        "text": "ЗАПОМИНАЕТСЯ",
+        "text": "ЗА ВЕСЬ ПРОБНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ СБОРКУ",
+        "text": "НЕ СБИВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.34,
-    "end": 34.02,
+    "start": 24.87,
+    "end": 26.1,
+    "lines": [
+      {
+        "text": "ИТОГОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.1,
+    "end": 27.3,
     "lines": [
       {
         "text": "ССЫЛКА",

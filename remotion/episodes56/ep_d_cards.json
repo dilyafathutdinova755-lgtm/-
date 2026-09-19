@@ -1,263 +1,231 @@
 [
   {
-    "start": 2.7,
-    "end": 4.14,
+    "start": 2.61,
+    "end": 3.93,
     "lines": [
       {
-        "text": "ПРОПУСКАЕШЬ ПРОМЕЖУТОЧНЫЕ",
+        "text": "КАЧАЕШЬ СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ",
+        "text": "ВЕСЬ БАНК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 5.46,
+    "start": 4.86,
+    "end": 6.69,
     "lines": [
       {
-        "text": "РЕШЕНИЕ ЗАДАНИЯ",
+        "text": "И ЖДУТ ЗАГРУЗКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ДОЛЬШЕ ЧЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 6.81,
+    "start": 7.56,
+    "end": 8.61,
     "lines": [
-      {
-        "text": "И ПОТОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПУТАЕШЬСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.96,
-    "end": 9.3,
-    "lines": [
-      {
-        "text": "В САМОМ МЕТОДЕ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.6,
-    "end": 10.95,
-    "lines": [
-      {
-        "text": "ПЕРЕМЕШИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ РЕШЕНИЯ",
+        "text": "ПОЗВОЛЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.25,
-    "end": 12.69,
+    "start": 8.76,
+    "end": 9.93,
     "lines": [
       {
-        "text": "ПРОСИТ РАССТАВИТЬ",
+        "text": "СКАЧАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНОМ",
+        "text": "ОФФЛАЙН ПАКЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.81,
-    "end": 14.49,
+    "start": 10.14,
+    "end": 10.98,
     "lines": [
       {
-        "text": "ПОРЯДКЕ",
+        "text": "ПО ОДНОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ КАСАНИЕМ",
+        "text": "ПРЕДМЕТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.48,
-    "end": 16.8,
+    "start": 11.52,
+    "end": 12.54,
     "lines": [
       {
-        "text": "ПОРЯДОК",
+        "text": "А НЕ ВЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ ЗАНОВО",
+        "text": "БАНК ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.04,
-    "end": 18.69,
+    "start": 12.75,
+    "end": 13.89,
     "lines": [
       {
-        "text": "ИЗ ПЕРЕПУТАННЫХ",
+        "text": "ЗА РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧЕК",
+        "text": "НУЖНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.38,
-    "end": 20.52,
+    "start": 13.95,
+    "end": 15.3,
     "lines": [
       {
-        "text": "А НЕ ПЕРЕПИСЫВАЕТСЯ С",
+        "text": "ПРЕДМЕТ К ИСПОЛЬЗОВАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЛЯ",
+        "text": "ГОТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.63,
-    "end": 22.95,
+    "start": 15.57,
+    "end": 18.09,
     "lines": [
       {
-        "text": "РЕШЕНИЯ ЗАПОМИНАЕТСЯ",
+        "text": "УЖЕ ЧЕРЕЗ МИНУТУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "БЕЗ ОЖИДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.19,
-    "end": 24.96,
+    "start": 18.81,
+    "end": 19.89,
     "lines": [
       {
-        "text": "ЧЕРЕЗ СБОРКУ А НЕ",
+        "text": "ЖДАТЬ ПОЛНУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ПРОСТОЕ",
+        "text": "ЗАГРУЗКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.14,
-    "end": 26.49,
+    "start": 20.04,
+    "end": 20.94,
     "lines": [
       {
-        "text": "ЧТЕНИЕ",
+        "text": "РАДИ ОДНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВОГО ОТВЕТА",
+        "text": "ПРЕДМЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.57,
-    "end": 28.77,
+    "start": 21.18,
+    "end": 22.77,
     "lines": [
       {
-        "text": "ПОРЯДОК ШАГОВ",
+        "text": "НЕ ТРЕБУЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "ПРЕДМЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.98,
-    "end": 29.88,
+    "start": 22.95,
+    "end": 24.0,
     "lines": [
       {
-        "text": "ЗАНОВО А",
+        "text": "СКАЧИВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.03,
-    "end": 31.35,
+    "start": 24.6,
+    "end": 26.4,
     "lines": [
       {
-        "text": "ЗАПОМИНАЕТСЯ",
+        "text": "БЕЗ ОЖИДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ СБОРКУ",
+        "text": "ЗАГРУЗКИ БАНКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.34,
-    "end": 34.02,
+    "start": 27.12,
+    "end": 28.44,
     "lines": [
       {
         "text": "ССЫЛКА",

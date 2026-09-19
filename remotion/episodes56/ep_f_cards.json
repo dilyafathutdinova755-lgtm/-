@@ -1,79 +1,63 @@
 [
   {
-    "start": 2.7,
-    "end": 4.14,
+    "start": 2.67,
+    "end": 4.59,
     "lines": [
       {
-        "text": "ПРОПУСКАЕШЬ ПРОМЕЖУТОЧНЫЕ",
+        "text": "НЕ ЗАМЕЧАЕШЬ ЧТО ФОРМУЛИРОВКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГИ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 5.46,
+    "start": 4.83,
+    "end": 6.66,
     "lines": [
-      {
-        "text": "РЕШЕНИЕ ЗАДАНИЯ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБНОВИЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 6.81,
+    "start": 7.77,
+    "end": 9.12,
     "lines": [
       {
-        "text": "И ПОТОМ",
+        "text": "ЕГЭ ТРЕНАЖЕР ПОДСВЕЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЕШЬСЯ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 9.3,
+    "start": 9.75,
+    "end": 11.13,
     "lines": [
       {
-        "text": "В САМОМ МЕТОДЕ",
+        "text": "ЯРКОЙ РАМКОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.6,
-    "end": 10.95,
-    "lines": [
-      {
-        "text": "ПЕРЕМЕШИВАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ШАГИ РЕШЕНИЯ",
+        "text": "СРАЗУ ПОСЛЕ",
         "accent": true,
         "size": "big"
       }
@@ -81,183 +65,183 @@
   },
   {
     "start": 11.25,
-    "end": 12.69,
+    "end": 12.33,
     "lines": [
       {
-        "text": "ПРОСИТ РАССТАВИТЬ",
+        "text": "ФОРМУЛИРОВКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНОМ",
+        "text": "ОБНОВЛЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.81,
-    "end": 14.49,
+    "start": 12.51,
+    "end": 14.19,
     "lines": [
       {
-        "text": "ПОРЯДКЕ",
+        "text": "ПО ДЕМО ВЕРСИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНИМ КАСАНИЕМ",
+        "text": "РАМКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.48,
-    "end": 16.8,
+    "start": 14.31,
+    "end": 15.54,
     "lines": [
       {
-        "text": "ПОРЯДОК",
+        "text": "ИСЧЕЗАЕТ САМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ ЗАНОВО",
+        "text": "КАК ТОЛЬКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.04,
-    "end": 18.69,
+    "start": 15.75,
+    "end": 17.37,
     "lines": [
       {
-        "text": "ИЗ ПЕРЕПУТАННЫХ",
+        "text": "ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧЕК",
+        "text": "ОТКРЫТО ХОТЯ БЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.38,
-    "end": 20.52,
+    "start": 18.12,
+    "end": 18.96,
     "lines": [
       {
-        "text": "А НЕ ПЕРЕПИСЫВАЕТСЯ С",
+        "text": "СРАВНИВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЛЯ",
+        "text": "СТАРУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.63,
-    "end": 22.95,
+    "start": 19.11,
+    "end": 21.51,
     "lines": [
       {
-        "text": "РЕШЕНИЯ ЗАПОМИНАЕТСЯ",
+        "text": "И НОВУЮ ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "РАДИ ЦЕЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.19,
-    "end": 24.96,
+    "start": 21.66,
+    "end": 23.46,
     "lines": [
       {
-        "text": "ЧЕРЕЗ СБОРКУ А НЕ",
+        "text": "НЕ ТРЕБУЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ПРОСТОЕ",
+        "text": "ОДИН ВЗГЛЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.14,
-    "end": 26.49,
+    "start": 23.61,
+    "end": 24.6,
     "lines": [
       {
-        "text": "ЧТЕНИЕ",
+        "text": "НА РАМКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВОГО ОТВЕТА",
+        "text": "ЗАМЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.57,
-    "end": 28.77,
+    "start": 24.75,
+    "end": 26.58,
     "lines": [
       {
-        "text": "ПОРЯДОК ШАГОВ",
+        "text": "ЧТЕНИЕ ВСЕЙ ФОРМУЛИРОВКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТСЯ",
+        "text": "ЗАНОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.98,
-    "end": 29.88,
+    "start": 27.42,
+    "end": 28.95,
     "lines": [
       {
-        "text": "ЗАНОВО А",
+        "text": "ЦВЕТНАЯ РАМКА САМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОД",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.03,
-    "end": 31.35,
+    "start": 29.13,
+    "end": 30.93,
     "lines": [
       {
-        "text": "ЗАПОМИНАЕТСЯ",
+        "text": "ОБНОВЛЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ СБОРКУ",
+        "text": "БЕЗ СРАВНЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.34,
-    "end": 34.02,
+    "start": 32.22,
+    "end": 33.93,
     "lines": [
       {
         "text": "ССЫЛКА",
