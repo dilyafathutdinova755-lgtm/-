@@ -1,0 +1,194 @@
+[
+  {
+    "start": 2.07,
+    "end": 3.69,
+    "lines": [
+      {
+        "text": "БОЯТСЯ САДИТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ПОЛНЫЙ ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.26,
+    "end": 6.54,
+    "lines": [
+      {
+        "text": "ВРЕМЕНИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХВАТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 10.38,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБИВАЕТ ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.98,
+    "end": 13.08,
+    "lines": [
+      {
+        "text": "НА КОРОТКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТРЕЗКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.59,
+    "end": 15.18,
+    "lines": [
+      {
+        "text": "ВМЕСТО ДОЛГОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАХОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.14,
+    "end": 18.15,
+    "lines": [
+      {
+        "text": "МОЖНО ЗАКРЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.72,
+    "end": 21.0,
+    "lines": [
+      {
+        "text": "ВЕРНУТЬСЯ ПОЗЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ТОТ ЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.11,
+    "end": 24.18,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ СКЛАДЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ОТРЕЗКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.72,
+    "end": 26.34,
+    "lines": [
+      {
+        "text": "ДАЖЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.36,
+    "end": 28.95,
+    "lines": [
+      {
+        "text": "ДОЛГИЙ ВАРИАНТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПУГАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.43,
+    "end": 31.53,
+    "lines": [
+      {
+        "text": "С ОДНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКОГО ОТРЕЗКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.49,
+    "end": 35.02,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

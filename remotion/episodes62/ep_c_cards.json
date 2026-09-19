@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.01,
+    "end": 3.12,
+    "lines": [
+      {
+        "text": "ПУТАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.75,
+    "end": 7.08,
+    "lines": [
+      {
+        "text": "ПРОХОДИЛИ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕВЯТОМ КЛАССЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.01,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР СОБИРАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИЕ КАРТОЧКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 15.54,
+    "lines": [
+      {
+        "text": "БЫСТРЫЙ ПОВТОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ УЧЕБНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.38,
+    "end": 19.02,
+    "lines": [
+      {
+        "text": "ЗА МИНУТУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕД КОНТРОЛЬНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.86,
+    "end": 21.81,
+    "lines": [
+      {
+        "text": "ПО СЛАБЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.44,
+    "end": 24.87,
+    "lines": [
+      {
+        "text": "ПО ВСЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОГРАММЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.99,
+    "end": 28.59,
+    "lines": [
+      {
+        "text": "ТЕРМИНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОЗВРАЩАЮТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.46,
+    "end": 31.31,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

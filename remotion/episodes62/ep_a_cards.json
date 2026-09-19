@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.65,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "ПО ПРОФИЛЬНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.72,
+    "end": 6.57,
+    "lines": [
+      {
+        "text": "ПЕРВЫМИ СЛЫШАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРО РЕПЕТИТОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.68,
+    "end": 10.89,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ДАЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛНЫЙ ДОСТУП",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.58,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "БЕЗ ЕДИНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАТЕЖА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.19,
+    "end": 15.03,
+    "lines": [
+      {
+        "text": "ТРОЙКА ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.24,
+    "end": 17.22,
+    "lines": [
+      {
+        "text": "БОЛЬШЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 19.32,
+    "lines": [
+      {
+        "text": "ИСКАТЬ РЕПЕТИТОРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПЕРВУЮ НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 23.16,
+    "lines": [
+      {
+        "text": "ДОСТУП НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИВЯЗАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.76,
+    "end": 24.6,
+    "lines": [
+      {
+        "text": "ИЛИ ДНЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСЯЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.41,
+    "end": 29.1,
+    "lines": [
+      {
+        "text": "ПОИСК РЕПЕТИТОРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ НЕ НУЖЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.91,
+    "end": 32.41,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
