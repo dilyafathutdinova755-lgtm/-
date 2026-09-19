@@ -1,42 +1,42 @@
 [
   {
-    "start": 2.49,
-    "end": 3.3,
+    "start": 2.46,
+    "end": 3.87,
     "lines": [
       {
-        "text": "ЗАПУСКАЮТ",
+        "text": "ОБЩИЙ РЕЙТИНГ ПО ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "ТЕРЯЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.86,
+    "start": 4.02,
+    "end": 5.01,
     "lines": [
       {
-        "text": "ПО ЕГЭ ВРУЧНУЮ",
+        "text": "СРЕДИ ВСЕХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ КАЖДОГО",
+        "text": "ПРЕДМЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 6.45,
+    "start": 5.19,
+    "end": 6.33,
     "lines": [
       {
-        "text": "ИЗ ОТРЯДА",
+        "text": "СРАЗУ",
         "accent": false,
         "size": "small"
       },
@@ -48,32 +48,48 @@
     ]
   },
   {
-    "start": 6.66,
-    "end": 8.64,
+    "start": 6.48,
+    "end": 8.04,
     "lines": [
       {
-        "text": "ЗАПУСКАЕТ ПРОБНИК",
+        "text": "ПОКАЗЫВАЕТ МЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ ДЛЯ ВСЕГО",
+        "text": "ТОЛЬКО ПО ОДНОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.5,
+    "start": 8.25,
+    "end": 9.06,
     "lines": [
       {
-        "text": "ОТРЯДА ВОЖАТЫХ",
+        "text": "ВЫБРАННОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОЙ КНОПКОЙ",
+        "text": "ПРЕДМЕТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.39,
+    "end": 10.53,
+    "lines": [
+      {
+        "text": "А НЕ ОБЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК",
         "accent": true,
         "size": "big"
       }
@@ -81,183 +97,135 @@
   },
   {
     "start": 10.74,
-    "end": 11.73,
+    "end": 12.57,
     "lines": [
       {
-        "text": "КАЖДЫЙ НАЧИНАЕТ",
+        "text": "ОБЩЕСТВОЗНАНИЕ СРАВНИВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕСТ",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.91,
-    "end": 12.81,
+    "start": 12.66,
+    "end": 14.4,
     "lines": [
       {
-        "text": "В ОДНУ И ТУ",
+        "text": "ОТ ОСТАЛЬНЫХ ПРЕДМЕТОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖЕ МИНУТУ",
+        "text": "НА СВОЕЙ СТРОКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.11,
-    "end": 14.22,
+    "start": 14.7,
+    "end": 15.69,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "РАЗБИРАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗНОБОЯ ПО ВРЕМЕНИ",
+        "text": "ОБЩИЙ СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 15.57,
+    "start": 15.84,
+    "end": 17.13,
     "lines": [
       {
-        "text": "ЗАПУСКАТЬ ТЕСТ",
+        "text": "РАДИ ОДНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "НУЖНОГО ПРЕДМЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.78,
-    "end": 17.28,
+    "start": 17.43,
+    "end": 18.96,
     "lines": [
       {
-        "text": "ДЛЯ КАЖДОГО ИЗ",
+        "text": "НЕ ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТРЯДА ПО ОЧЕРЕДИ",
+        "text": "ПРЕДМЕТ ДЛЯ ПОКАЗА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.49,
-    "end": 18.9,
+    "start": 19.11,
+    "end": 20.13,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ",
+        "text": "ВЫБИРАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОПОЗДАВШИЙ",
+        "text": "ОДИН РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.01,
+    "start": 20.34,
+    "end": 21.63,
     "lines": [
       {
-        "text": "ПРИСОЕДИНЯЕТСЯ",
+        "text": "В НАСТРОЙКАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЖАТЫЙ",
+        "text": "МЕСТО ПО ОДНОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 21.24,
+    "start": 21.75,
+    "end": 23.82,
     "lines": [
       {
-        "text": "К УЖЕ ИДУЩЕМУ",
+        "text": "ПРЕДМЕТУ ВИДНО ОТДЕЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКУ",
+        "text": "ОТ ОБЩЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.42,
-    "end": 22.35,
-    "lines": [
-      {
-        "text": "СРАЗУ ВЕСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТРЯД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.53,
-    "end": 23.52,
-    "lines": [
-      {
-        "text": "СТАРТУЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДНОЙ КНОПКОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.79,
-    "end": 24.69,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗНОБОЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.69,
-    "end": 26.28,
+    "start": 24.15,
+    "end": 25.62,
     "lines": [
       {
         "text": "ССЫЛКА",

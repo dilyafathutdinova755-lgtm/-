@@ -1,42 +1,42 @@
 [
   {
-    "start": 2.49,
-    "end": 3.3,
+    "start": 2.73,
+    "end": 3.6,
     "lines": [
       {
-        "text": "ЗАПУСКАЮТ",
+        "text": "НА ВЕСЬ ДЕНЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "СМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.86,
+    "start": 3.75,
+    "end": 5.52,
     "lines": [
       {
-        "text": "ПО ЕГЭ ВРУЧНУЮ",
+        "text": "И НЕ УСПЕВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ КАЖДОГО",
+        "text": "ПОСМОТРЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 6.45,
+    "start": 5.73,
+    "end": 6.66,
     "lines": [
       {
-        "text": "ИЗ ОТРЯДА",
+        "text": "ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -48,216 +48,216 @@
     ]
   },
   {
-    "start": 6.66,
-    "end": 8.64,
+    "start": 6.78,
+    "end": 8.07,
     "lines": [
       {
-        "text": "ЗАПУСКАЕТ ПРОБНИК",
+        "text": "ПОЗВОЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ ДЛЯ ВСЕГО",
+        "text": "СКАЧАТЬ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.5,
+    "start": 8.22,
+    "end": 9.42,
     "lines": [
       {
-        "text": "ОТРЯДА ВОЖАТЫХ",
+        "text": "ЗАРАНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОЙ КНОПКОЙ",
+        "text": "ОДНИМ НАЖАТИЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.74,
-    "end": 11.73,
+    "start": 9.57,
+    "end": 10.41,
     "lines": [
       {
-        "text": "КАЖДЫЙ НАЧИНАЕТ",
+        "text": "ПЕРЕД НАЧАЛОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕСТ",
+        "text": "СМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.91,
-    "end": 12.81,
+    "start": 10.56,
+    "end": 11.61,
     "lines": [
       {
-        "text": "В ОДНУ И ТУ",
+        "text": "С УТРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖЕ МИНУТУ",
+        "text": "РОЛИК ОСТАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.11,
-    "end": 14.22,
+    "start": 11.76,
+    "end": 12.66,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "ДОСТУПНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗНОБОЯ ПО ВРЕМЕНИ",
+        "text": "ВЕСЬ ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 15.57,
+    "start": 12.81,
+    "end": 14.37,
     "lines": [
       {
-        "text": "ЗАПУСКАТЬ ТЕСТ",
+        "text": "СМЕНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "БЕЗ ЕДИНОГО МЕГАБАЙТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.78,
-    "end": 17.28,
+    "start": 14.55,
+    "end": 15.51,
     "lines": [
       {
-        "text": "ДЛЯ КАЖДОГО ИЗ",
+        "text": "СВЯЗИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТРЯДА ПО ОЧЕРЕДИ",
+        "text": "ЛОВИТЬ СЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.49,
-    "end": 18.9,
+    "start": 15.6,
+    "end": 17.01,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ",
+        "text": "МЕЖДУ ДЕЛАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОПОЗДАВШИЙ",
+        "text": "РАДИ РОЛИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.01,
+    "start": 17.19,
+    "end": 18.63,
     "lines": [
       {
-        "text": "ПРИСОЕДИНЯЕТСЯ",
+        "text": "НЕ ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЖАТЫЙ",
+        "text": "СКАЧАННЫЙ РОЛИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 21.24,
+    "start": 18.75,
+    "end": 19.74,
     "lines": [
       {
-        "text": "К УЖЕ ИДУЩЕМУ",
+        "text": "ЗАНИМАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКУ",
+        "text": "СОВСЕМ НЕМНОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.42,
-    "end": 22.35,
+    "start": 19.86,
+    "end": 20.97,
     "lines": [
       {
-        "text": "СРАЗУ ВЕСЬ",
+        "text": "МЕСТА В ПАМЯТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТРЯД",
+        "text": "ТЕЛЕФОНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.53,
-    "end": 23.52,
+    "start": 21.24,
+    "end": 22.29,
     "lines": [
       {
-        "text": "СТАРТУЕТ",
+        "text": "РОЛИК СКАЧАН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОЙ КНОПКОЙ",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.79,
-    "end": 24.69,
+    "start": 22.44,
+    "end": 24.0,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "И ДОСТУПЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗНОБОЯ",
+        "text": "ВЕСЬ ДЕНЬ БЕЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.69,
-    "end": 26.28,
+    "start": 24.3,
+    "end": 25.86,
     "lines": [
       {
         "text": "ССЫЛКА",

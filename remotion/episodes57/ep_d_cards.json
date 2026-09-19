@@ -1,42 +1,42 @@
 [
   {
-    "start": 2.49,
-    "end": 3.3,
+    "start": 2.4,
+    "end": 3.72,
     "lines": [
       {
-        "text": "ЗАПУСКАЮТ",
+        "text": "СЛУЧАЙНО РЕШАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИК",
+        "text": "УСТАРЕВШЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.86,
+    "start": 3.99,
+    "end": 5.19,
     "lines": [
       {
-        "text": "ПО ЕГЭ ВРУЧНУЮ",
+        "text": "ЕГЭ НАЙДЕННОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ КАЖДОГО",
+        "text": "МЕЖДУ ДЕЛАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 6.45,
+    "start": 5.37,
+    "end": 7.08,
     "lines": [
       {
-        "text": "ИЗ ОТРЯДА",
+        "text": "В ОБЩЕМ СПИСКЕ",
         "accent": false,
         "size": "small"
       },
@@ -48,91 +48,123 @@
     ]
   },
   {
-    "start": 6.66,
-    "end": 8.64,
+    "start": 7.23,
+    "end": 8.4,
     "lines": [
       {
-        "text": "ЗАПУСКАЕТ ПРОБНИК",
+        "text": "ПРЯЧЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ ДЛЯ ВСЕГО",
+        "text": "УСТАРЕВШЕЕ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.5,
+    "start": 8.58,
+    "end": 9.81,
     "lines": [
       {
-        "text": "ОТРЯДА ВОЖАТЫХ",
+        "text": "САМО В АРХИВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОЙ КНОПКОЙ",
+        "text": "НЕ ОСТАВЛЯЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.74,
-    "end": 11.73,
+    "start": 9.99,
+    "end": 10.83,
     "lines": [
       {
-        "text": "КАЖДЫЙ НАЧИНАЕТ",
+        "text": "ЕГО В ОБЩЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕСТ",
+        "text": "СПИСКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.91,
-    "end": 12.81,
+    "start": 11.19,
+    "end": 12.39,
     "lines": [
       {
-        "text": "В ОДНУ И ТУ",
+        "text": "НАЙТИ СЛУЧАЙНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖЕ МИНУТУ",
+        "text": "УСТАРЕВШУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.11,
-    "end": 14.22,
+    "start": 12.51,
+    "end": 13.56,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗНОБОЯ ПО ВРЕМЕНИ",
+        "text": "МЕЖДУ ДЕЛАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 15.57,
+    "start": 13.74,
+    "end": 14.79,
     "lines": [
       {
-        "text": "ЗАПУСКАТЬ ТЕСТ",
+        "text": "БОЛЬШЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.29,
+    "lines": [
+      {
+        "text": "ПРОВЕРЯТЬ АКТУАЛЬНОСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.44,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "НАЙДЕННОГО ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
@@ -144,120 +176,104 @@
     ]
   },
   {
-    "start": 15.78,
-    "end": 17.28,
+    "start": 17.97,
+    "end": 19.05,
     "lines": [
       {
-        "text": "ДЛЯ КАЖДОГО ИЗ",
+        "text": "НЕ ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТРЯДА ПО ОЧЕРЕДИ",
+        "text": "АРХИВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.49,
-    "end": 18.9,
+    "start": 19.17,
+    "end": 20.34,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТСЯ",
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОПОЗДАВШИЙ",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.01,
+    "start": 20.61,
+    "end": 21.69,
     "lines": [
       {
-        "text": "ПРИСОЕДИНЯЕТСЯ",
+        "text": "И НЕ МЕШАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЖАТЫЙ",
+        "text": "ОСНОВНОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 21.24,
+    "start": 21.81,
+    "end": 23.25,
     "lines": [
       {
-        "text": "К УЖЕ ИДУЩЕМУ",
+        "text": "СПИСКУ ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКУ",
+        "text": "УСТАРЕВШЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.42,
-    "end": 22.35,
+    "start": 23.34,
+    "end": 24.39,
     "lines": [
       {
-        "text": "СРАЗУ ВЕСЬ",
+        "text": "ЗАДАНИЕ САМО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТРЯД",
+        "text": "УХОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.53,
-    "end": 23.52,
+    "start": 24.54,
+    "end": 25.8,
     "lines": [
       {
-        "text": "СТАРТУЕТ",
+        "text": "В АРХИВ ИЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОЙ КНОПКОЙ",
+        "text": "ОБЩЕГО СПИСКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.79,
-    "end": 24.69,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗНОБОЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.69,
-    "end": 26.28,
+    "start": 26.1,
+    "end": 27.3,
     "lines": [
       {
         "text": "ССЫЛКА",
