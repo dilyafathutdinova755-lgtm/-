@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.31,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "МНЕМОНИЧЕСКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТИШКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.02,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР СТАЛКИВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИЕ ДАТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.52,
+    "end": 14.37,
+    "lines": [
+      {
+        "text": "БЕЗ РИФМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРО ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 18.99,
+    "lines": [
+      {
+        "text": "РАУНД ПОВТОРЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО ПУТАЮЩИЕСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.44,
+    "end": 20.49,
+    "lines": [
+      {
+        "text": "НЕ ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.3,
+    "end": 24.21,
+    "lines": [
+      {
+        "text": "НИКАКИХ СТИШКОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧИТАТЬ НЕ НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.96,
+    "end": 28.92,
+    "lines": [
+      {
+        "text": "ДАТЫ ЗАПОМИНАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ СТИШКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.76,
+    "end": 32.32,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

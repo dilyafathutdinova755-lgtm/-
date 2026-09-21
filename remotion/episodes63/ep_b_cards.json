@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.04,
+    "end": 3.81,
+    "lines": [
+      {
+        "text": "ПРОСТО БУДЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВНИМАТЕЛЬНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 6.93,
+    "lines": [
+      {
+        "text": "ПОСЛЕ КАЖДОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБИДНОЙ ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 11.1,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОШЛУЮ ОШИБКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.47,
+    "lines": [
+      {
+        "text": "РЯДОМ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОВОЙ ПОПЫТКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.04,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "ВМЕСТО АБСТРАКТНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.25,
+    "end": 20.25,
+    "lines": [
+      {
+        "text": "ВИДНО ФАКТАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ ПОЖЕЛАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.03,
+    "end": 23.01,
+    "lines": [
+      {
+        "text": "РАБОТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИНАКОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.19,
+    "end": 26.25,
+    "lines": [
+      {
+        "text": "СКОЛЬКО НИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.15,
+    "end": 29.07,
+    "lines": [
+      {
+        "text": "АБСТРАКТНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.61,
+    "end": 32.07,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫМ ФАКТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.76,
+    "end": 35.41,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

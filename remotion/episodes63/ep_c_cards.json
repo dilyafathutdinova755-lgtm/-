@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.1,
+    "end": 4.44,
+    "lines": [
+      {
+        "text": "КРАСИВЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕЖЕДНЕВНИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ИСПИСАНЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.53,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ХРАНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.8,
+    "end": 13.71,
+    "lines": [
+      {
+        "text": "БЕЗ НАКЛЕЕК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И РАЗДЕЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.61,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "НАЙТИ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 19.29,
+    "lines": [
+      {
+        "text": "А НЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦВЕТУ ОБЛОЖКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.07,
+    "end": 22.56,
+    "lines": [
+      {
+        "text": "НЕ ТРЕБУЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТМЕТОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.83,
+    "end": 24.63,
+    "lines": [
+      {
+        "text": "РАДИ КРАСИВОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАТИСТИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.53,
+    "end": 27.33,
+    "lines": [
+      {
+        "text": "КРАСИВЫЙ НО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБРОШЕННЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.57,
+    "end": 30.09,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЧКАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.87,
+    "end": 32.85,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
