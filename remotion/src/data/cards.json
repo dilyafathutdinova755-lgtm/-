@@ -1,151 +1,119 @@
 [
   {
     "start": 1.8,
-    "end": 5.13,
+    "end": 5.67,
     "lines": [
       {
-        "text": "СОСТАВЛЯЮТ",
+        "text": "ХОТЯТ ЗНАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСПИСАНИЕ",
+        "text": "КАКАЯ ТЕМА ПРОСЕДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.61,
-    "end": 7.59,
+    "start": 6.24,
+    "end": 7.23,
     "lines": [
       {
-        "text": "СРЫВАЕТСЯ",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЖЕ ВО ВТОРНИК",
+        "text": "ГАДАТЬ ПО ОЦЕНКАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.58,
-    "end": 11.73,
+    "start": 7.92,
+    "end": 10.47,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ПОДБИРАЕТ",
+        "text": "ТРЕНАЖЁР ПОМЕЧАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНО ДЕЛО",
+        "text": "КАЖДУЮ ТЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.18,
-    "end": 13.98,
+    "start": 10.86,
+    "end": 13.71,
     "lines": [
       {
-        "text": "ВМЕСТО РАСПИСАНИЯ",
+        "text": "ГДЕ ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА НЕДЕЛЮ",
+        "text": "НЕВЕРЕН ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.64,
-    "end": 16.29,
+    "start": 14.46,
+    "end": 17.91,
     "lines": [
       {
-        "text": "МЕНЯЕТСЯ",
+        "text": "ТЕМА С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДЫЙ ДЕНЬ",
+        "text": "НАИБОЛЬШИМ ЧИСЛОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.74,
-    "end": 18.48,
+    "start": 18.6,
+    "end": 21.84,
     "lines": [
       {
-        "text": "БЕЗ ПЕРЕСОСТАВЛЕНИЯ",
+        "text": "РАЗБИРАТЬСЯ В ОЦЕНКАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАНА",
+        "text": "БОЛЬШЕ НЕ НУЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.17,
-    "end": 21.27,
+    "start": 22.56,
+    "end": 26.49,
     "lines": [
       {
-        "text": "СРЫВ НЕ",
+        "text": "ГАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТМЕНЯЕТ ДЕЛА",
+        "text": "ЗАМЕНЯЮТСЯ ТЕМОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.66,
-    "end": 23.55,
-    "lines": [
-      {
-        "text": "ПЛАН НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТРОИТСЯ ЗАРАНЕЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.08,
-    "end": 28.35,
-    "lines": [
-      {
-        "text": "РАСПИСАНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЕТСЯ ДЕЛОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.89,
-    "end": 31.36,
+    "start": 27.03,
+    "end": 28.81,
     "lines": [
       {
         "text": "ССЫЛКА",
