@@ -1,58 +1,42 @@
 [
   {
     "start": 2.04,
-    "end": 3.63,
+    "end": 3.24,
     "lines": [
       {
-        "text": "РОДИТЕЛИ ЧТО ВИДЕОРАЗБОР",
+        "text": "СЛЕДЯТ КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИВЫКЛИ",
+        "text": "КОРОТКАЯ ИГРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.87,
-    "end": 5.64,
+    "start": 3.33,
+    "end": 5.55,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ЕГЭ ПРИХОДИТСЯ ПЕРЕСМАТРИВАТЬ",
+        "text": "ПО ЕГЭ НЕЗАМЕТНО РАСТЯГИВАЕТСЯ НА ДОЛГИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦЕЛИКОМ",
+        "text": "ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.88,
-    "end": 7.5,
+    "start": 5.76,
+    "end": 7.86,
     "lines": [
       {
-        "text": "РАДИ ОДНОЙ КОРОТКОЙ СТРОКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.59,
-    "end": 9.51,
-    "lines": [
-      {
-        "text": "В САМОМ КОНЦЕ ЕГЭ",
+        "text": "БЕЗ ОСТАНОВКИ ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -64,168 +48,184 @@
     ]
   },
   {
-    "start": 9.69,
-    "end": 11.19,
+    "start": 8.1,
+    "end": 8.91,
     "lines": [
       {
-        "text": "СТРОИТ ОТДЕЛЬНОЕ МЕНЮ ИЗ",
+        "text": "ОГРАНИЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОК",
+        "text": "ИГРУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.31,
-    "end": 14.52,
+    "start": 9.06,
+    "end": 10.05,
     "lines": [
       {
-        "text": "ВРЕМЕНИ ПОД САМИМ ВИДЕОРАЗБОРОМ БЕЗ ЕДИНОГО ЛИШНЕГО",
+        "text": "РОВНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КЛИКА",
+        "text": "ТРЕМЯ ВОПРОСАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.12,
-    "end": 16.38,
+    "start": 10.23,
+    "end": 12.84,
     "lines": [
       {
-        "text": "ШАГ РЕШЕНИЯ ОТКРЫВАЕТСЯ",
+        "text": "ЗА ОДИН ЗАХОД БЕЗ ТУРНИРНОЙ ТАБЛИЦЫ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНЫЙ",
+        "text": "СПЕШКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.61,
+    "start": 13.44,
+    "end": 14.94,
     "lines": [
       {
-        "text": "СРАЗУ НАЖАТИЕМ НА",
+        "text": "РАУНД ЗАКАНЧИВАЕТСЯ ЗА ПАРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТКУ",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.76,
-    "end": 20.01,
+    "start": 15.21,
+    "end": 16.71,
     "lines": [
       {
-        "text": "В СПИСКЕ ПЕРЕСМАТРИВАТЬ ВЕСЬ РОЛИК",
+        "text": "ЗАДОЛГО ДО ТОГО КАК ВЕЧЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНОВО",
+        "text": "УЙДЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 21.72,
+    "start": 16.86,
+    "end": 19.11,
     "lines": [
       {
-        "text": "РАДИ ОДНОГО ШАГА НЕ",
+        "text": "ЦЕЛИКОМ НА ЭКРАН ИГРАТЬ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИХОДИТСЯ",
+        "text": "ОСТАНОВКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.38,
-    "end": 23.82,
+    "start": 19.26,
+    "end": 20.43,
     "lines": [
       {
-        "text": "МЕНЮ МЕТОК ОСТАЕТСЯ ПОД",
+        "text": "РАДИ МЕСТА В ОБЩЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РОЛИКОМ",
+        "text": "ТУРНИРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.97,
-    "end": 25.32,
+    "start": 20.55,
+    "end": 22.56,
     "lines": [
       {
-        "text": "ПРИ КАЖДОМ ПОВТОРНОМ",
+        "text": "НЕ ПРИХОДИТСЯ НОВЫЙ КОРОТКИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСМОТРЕ",
+        "text": "РАУНД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.8,
-    "end": 27.42,
+    "start": 22.71,
+    "end": 24.21,
     "lines": [
       {
-        "text": "ШАГ РЕШЕНИЯ ОТКРЫВАЮТСЯ",
+        "text": "ОТКРЫВАЕТСЯ ТОЛЬКО НА СЛЕДУЮЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.6,
-    "end": 28.83,
+    "start": 24.87,
+    "end": 26.82,
     "lines": [
       {
-        "text": "НАЖАТИЕМ НА",
+        "text": "КОРОТКИЙ РАУНД ЗАКАНЧИВАЕТСЯ ЗА ПАРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТКУ ВРЕМЕНИ",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.34,
-    "end": 31.29,
+    "start": 27.24,
+    "end": 28.62,
+    "lines": [
+      {
+        "text": "БЕЗ ДОЛГОГО ВЕЧЕРА У",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКРАНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.19,
+    "end": 31.08,
     "lines": [
       {
         "text": "ССЫЛКА",
