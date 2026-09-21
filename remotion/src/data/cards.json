@@ -1,167 +1,151 @@
 [
   {
-    "start": 1.77,
-    "end": 3.93,
+    "start": 3.3,
+    "end": 5.22,
     "lines": [
       {
-        "text": "ВСТРЕЧАЮТ",
+        "text": "НАХОДЯТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ИНТЕРНЕТЕ",
+        "text": "ФОРМУЛИРОВКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 7.17,
+    "start": 5.82,
+    "end": 8.61,
     "lines": [
       {
-        "text": "ДВА РАЗНЫХ",
+        "text": "ОТЛИЧАЕТСЯ ОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБА",
+        "text": "КУРСОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.62,
+    "start": 9.84,
+    "end": 12.87,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ВСТРАИВАЕТ",
+        "text": "ТРЕНАЖЁР ДЕРЖИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ТОЛЬКО ТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.98,
-    "end": 13.29,
+    "start": 13.44,
+    "end": 16.8,
     "lines": [
       {
-        "text": "ЕДИНСТВЕННЫЙ",
+        "text": "СОВПАДАЕТ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЕННЫЙ РАЗБОР",
+        "text": "ДЕМОВЕРСИЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.92,
-    "end": 16.05,
+    "start": 17.94,
+    "end": 21.51,
     "lines": [
       {
-        "text": "ВМЕСТО",
+        "text": "КОНСПЕКТ КУРСОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОТИВОРЕЧИВЫХ ВЕРСИЙ",
+        "text": "НЕ НУЖЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.07,
-    "end": 18.57,
+    "start": 22.5,
+    "end": 24.93,
     "lines": [
       {
-        "text": "ИДЁТ ПО",
+        "text": "ФОРМУЛИРОВКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОРЯДКУ",
+        "text": "САМА В БАНКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.17,
-    "end": 21.48,
+    "start": 25.59,
+    "end": 27.6,
     "lines": [
       {
-        "text": "БЕЗ ПЕРЕСКАКИВАНИЯ",
+        "text": "БЕЗ СВЕРКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРЕЗ ШАГИ",
+        "text": "ВРУЧНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.62,
-    "end": 24.96,
+    "start": 28.8,
+    "end": 30.78,
     "lines": [
       {
-        "text": "НЕ МЕНЯЕТСЯ",
+        "text": "РАСХОЖДЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ РОЛИКА",
+        "text": "МЕЖДУ КУРСАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.47,
-    "end": 26.88,
+    "start": 30.93,
+    "end": 32.97,
     "lines": [
       {
-        "text": "В ОТЛИЧИЕ ОТ",
+        "text": "НЕ ВЫЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНЫХ ВИДЕО",
+        "text": "СОМНЕНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.96,
-    "end": 31.95,
-    "lines": [
-      {
-        "text": "ПРОТИВОРЕЧИВЫЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЮТСЯ РАЗБОРОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.03,
-    "end": 35.59,
+    "start": 34.11,
+    "end": 36.07,
     "lines": [
       {
         "text": "ССЫЛКА",
