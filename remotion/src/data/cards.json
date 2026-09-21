@@ -1,151 +1,167 @@
 [
   {
-    "start": 2.1,
-    "end": 6.0,
+    "start": 1.86,
+    "end": 2.91,
     "lines": [
       {
-        "text": "СТЕСНЯЮТСЯ",
+        "text": "УЕЗЖАЮТ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАТЬ РЕЗУЛЬТАТ",
+        "text": "КОМАНДИРОВКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.11,
-    "end": 8.91,
+    "start": 3.42,
+    "end": 6.87,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЁР",
+        "text": "ПЕРЕЖИВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕДЁТ",
+        "text": "РЕБЁНОК БРОСИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.09,
-    "end": 11.16,
+    "start": 7.83,
+    "end": 10.74,
     "lines": [
       {
-        "text": "ЗАКРЫТЫЙ СПИСОК",
+        "text": "ТРЕНАЖЁР ПЕРЕНОСИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ДРУЗЕЙ",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.82,
-    "end": 14.25,
+    "start": 10.86,
+    "end": 11.85,
     "lines": [
       {
-        "text": "БЕЗ КЛАССА",
+        "text": "ПЕРЕД САМЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ОТЛИЧНИКОВ",
+        "text": "ОТЪЕЗДОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 17.46,
+    "start": 12.45,
+    "end": 15.27,
     "lines": [
       {
-        "text": "МЕСТО МЕНЯЕТСЯ",
+        "text": "ОТСУТСТВИЕ РОДИТЕЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "НИЧЕГО НЕ МЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.12,
-    "end": 20.4,
+    "start": 15.81,
+    "end": 17.73,
     "lines": [
       {
-        "text": "КТО-ТО ЗАКРЫЛ",
+        "text": "ОТКРЫВАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОВОЕ ЗАДАНИЕ",
+        "text": "ОДИНАКОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.42,
-    "end": 24.06,
+    "start": 17.91,
+    "end": 19.98,
     "lines": [
       {
-        "text": "НИКТО ИЗ ЧАТА",
+        "text": "ЧТО ДОМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ВИДИТ",
+        "text": "ЧТО В КУПЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.02,
-    "end": 26.46,
+    "start": 20.73,
+    "end": 24.09,
     "lines": [
       {
-        "text": "СТЕСНЕНИЕ ПЕРЕД",
+        "text": "ПРОГРЕСС МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЩИМ ЧАТОМ",
+        "text": "ПРОВЕРИТЬ УДАЛЁННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.7,
-    "end": 29.22,
+    "start": 24.75,
+    "end": 27.03,
     "lines": [
       {
-        "text": "СНИМАЕТСЯ",
+        "text": "НЕДЕЛЯ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫБРАННЫМИ ДРУЗЬЯМИ",
+        "text": "РОДИТЕЛЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.15,
-    "end": 32.44,
+    "start": 27.27,
+    "end": 28.8,
+    "lines": [
+      {
+        "text": "НЕ ПАУЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЗАНЯТИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.4,
+    "end": 31.93,
     "lines": [
       {
         "text": "ССЫЛКА",
