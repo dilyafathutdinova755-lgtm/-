@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.91,
+    "lines": [
+      {
+        "text": "УЕЗЖАЮТ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОМАНДИРОВКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.42,
+    "end": 6.87,
+    "lines": [
+      {
+        "text": "ПЕРЕЖИВАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕБЁНОК БРОСИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 10.74,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ПЕРЕНОСИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "ПЕРЕД САМЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТЪЕЗДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.45,
+    "end": 15.27,
+    "lines": [
+      {
+        "text": "ОТСУТСТВИЕ РОДИТЕЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЧЕГО НЕ МЕНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.81,
+    "end": 17.73,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИНАКОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.91,
+    "end": 19.98,
+    "lines": [
+      {
+        "text": "ЧТО ДОМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО В КУПЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.73,
+    "end": 24.09,
+    "lines": [
+      {
+        "text": "ПРОГРЕСС МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРИТЬ УДАЛЁННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.75,
+    "end": 27.03,
+    "lines": [
+      {
+        "text": "НЕДЕЛЯ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОДИТЕЛЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.27,
+    "end": 28.8,
+    "lines": [
+      {
+        "text": "НЕ ПАУЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЗАНЯТИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.4,
+    "end": 31.93,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.8,
+    "end": 5.13,
+    "lines": [
+      {
+        "text": "СОСТАВЛЯЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСПИСАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.61,
+    "end": 7.59,
+    "lines": [
+      {
+        "text": "СРЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЖЕ ВО ВТОРНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.58,
+    "end": 11.73,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ПОДБИРАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНО ДЕЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.18,
+    "end": 13.98,
+    "lines": [
+      {
+        "text": "ВМЕСТО РАСПИСАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.64,
+    "end": 16.29,
+    "lines": [
+      {
+        "text": "МЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДЫЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.74,
+    "end": 18.48,
+    "lines": [
+      {
+        "text": "БЕЗ ПЕРЕСОСТАВЛЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.17,
+    "end": 21.27,
+    "lines": [
+      {
+        "text": "СРЫВ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТМЕНЯЕТ ДЕЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.66,
+    "end": 23.55,
+    "lines": [
+      {
+        "text": "ПЛАН НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОИТСЯ ЗАРАНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.08,
+    "end": 28.35,
+    "lines": [
+      {
+        "text": "РАСПИСАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕНЯЕТСЯ ДЕЛОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.89,
+    "end": 31.36,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
