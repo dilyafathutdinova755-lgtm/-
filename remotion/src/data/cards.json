@@ -1,167 +1,151 @@
 [
   {
-    "start": 1.74,
-    "end": 3.0,
+    "start": 2.1,
+    "end": 6.0,
     "lines": [
       {
-        "text": "ТЕРЯЮТ ВРЕМЯ",
+        "text": "СТЕСНЯЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПОДРАБОТКЕ",
+        "text": "ПОКАЗЫВАТЬ РЕЗУЛЬТАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.27,
-    "end": 5.07,
+    "start": 7.11,
+    "end": 8.91,
     "lines": [
       {
-        "text": "НА ПОДРАБОТКЕ",
+        "text": "ЕГЭ ТРЕНАЖЁР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В КАФЕ",
+        "text": "ВЕДЁТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.79,
-    "end": 8.46,
+    "start": 9.09,
+    "end": 11.16,
     "lines": [
       {
-        "text": "WIFI ТОЛЬКО",
+        "text": "ЗАКРЫТЫЙ СПИСОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ГОСТЕЙ",
+        "text": "ИЗ ДРУЗЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.51,
-    "end": 13.05,
+    "start": 11.82,
+    "end": 14.25,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ЗАПАСАЕТ",
+        "text": "БЕЗ КЛАССА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "И ОТЛИЧНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.29,
-    "end": 14.31,
+    "start": 15.33,
+    "end": 17.46,
     "lines": [
       {
-        "text": "ДО НАЧАЛА",
+        "text": "МЕСТО МЕНЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМЕНЫ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.97,
-    "end": 17.22,
+    "start": 18.12,
+    "end": 20.4,
     "lines": [
       {
-        "text": "WIFI ДЛЯ ГОСТЕЙ",
+        "text": "КТО-ТО ЗАКРЫЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЧЕГО НЕ МЕНЯЕТ",
+        "text": "НОВОЕ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.27,
-    "end": 22.02,
+    "start": 21.42,
+    "end": 24.06,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
+        "text": "НИКТО ИЗ ЧАТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПОДСОБКЕ",
+        "text": "НЕ ВИДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.95,
-    "end": 24.63,
+    "start": 25.02,
+    "end": 26.46,
     "lines": [
       {
-        "text": "КОРОТКИЙ ПЕРЕРЫВ",
+        "text": "СТЕСНЕНИЕ ПЕРЕД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ ЗАКАЗАМИ",
+        "text": "ОБЩИМ ЧАТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.2,
-    "end": 27.36,
+    "start": 26.7,
+    "end": 29.22,
     "lines": [
       {
-        "text": "СТАНОВИТСЯ",
+        "text": "СНИМАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЕНЕМ ЗАНЯТИЙ",
+        "text": "ВЫБРАННЫМИ ДРУЗЬЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.29,
-    "end": 31.77,
-    "lines": [
-      {
-        "text": "ПОДРАБОТКА НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПАУЗА В ЕГЭ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 32.67,
-    "end": 35.26,
+    "start": 30.15,
+    "end": 32.44,
     "lines": [
       {
         "text": "ССЫЛКА",
