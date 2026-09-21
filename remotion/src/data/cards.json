@@ -1,10 +1,10 @@
 [
   {
-    "start": 1.77,
-    "end": 2.88,
+    "start": 1.8,
+    "end": 3.48,
     "lines": [
       {
-        "text": "РАЗБИРАЮТ ОШИБКУ В ЗАДАНИИ",
+        "text": "СМОТРЯТ НА ИТОГОВЫЙ ПРОЦЕНТ ТОЧНОСТИ ПО",
         "accent": false,
         "size": "small"
       },
@@ -16,40 +16,24 @@
     ]
   },
   {
-    "start": 3.33,
-    "end": 5.25,
+    "start": 4.05,
+    "end": 6.9,
     "lines": [
       {
-        "text": "И НЕ ПОНИМАЕТ СЛУЧАЙНО ЭТО",
+        "text": "И НЕ ПОНИМАЮТ СТАБИЛЕН ЛИ ИХ РЕЗУЛЬТАТ НА САМОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫЛА",
+        "text": "ДЕЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.37,
-    "end": 7.44,
-    "lines": [
-      {
-        "text": "НЕВНИМАТЕЛЬНОСТЬ ИЛИ ПРОБЕЛ В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗНАНИЯХ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.1,
-    "end": 9.27,
+    "start": 8.01,
+    "end": 9.24,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -57,159 +41,175 @@
         "size": "small"
       },
       {
-        "text": "ПОМЕЧАЕТ",
+        "text": "СЧИТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.48,
-    "end": 11.4,
+    "start": 9.42,
+    "end": 10.83,
     "lines": [
       {
-        "text": "КАЖДУЮ ОШИБКУ ОДНОЙ ИЗ ДВУХ",
+        "text": "ОТДЕЛЬНУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЧИН",
+        "text": "СЕРИЮ ДНЕЙ ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.94,
-    "end": 14.19,
+    "start": 11.19,
+    "end": 13.05,
     "lines": [
       {
-        "text": "НЕВНИМАТЕЛЬНОСТЬ ИЛИ ПРОБЕЛ В ЗНАНИИ",
+        "text": "С ОДИНАКОВО ВЫСОКОЙ ТОЧНОСТЬЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЫ",
+        "text": "ОТВЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.59,
+    "start": 13.53,
+    "end": 14.97,
     "lines": [
       {
-        "text": "МЕТКА ВОЗНИКАЕТ СРАЗУ ПОСЛЕ",
+        "text": "А НЕ ТОЛЬКО СЕГОДНЯШНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТА",
+        "text": "ПРОЦЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.07,
-    "end": 18.78,
+    "start": 15.6,
+    "end": 17.37,
     "lines": [
       {
-        "text": "БЕЗ ОТДЕЛЬНОГО ВОПРОСА САМОГО",
+        "text": "ОДИН СЛАБЫЙ ДЕНЬ СБИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕНИКА",
+        "text": "СЕРИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.53,
-    "end": 22.05,
+    "start": 17.76,
+    "end": 19.5,
     "lines": [
       {
-        "text": "РАЗБИРАТЬСЯ В ПРИЧИНЕ ОШИБКИ ЗАНОВО ПО ПАМЯТИ",
+        "text": "ЗАТО НЕ ПОРТИТ ОБЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРОМ",
+        "text": "ПОКАЗАТЕЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.29,
-    "end": 24.18,
+    "start": 20.31,
+    "end": 22.89,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ СПИСОК",
+        "text": "СУДИТЬ О СТАБИЛЬНОСТИ ТОЛЬКО ПО СЕГОДНЯШНЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБОК",
+        "text": "ПРОЦЕНТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.27,
-    "end": 27.0,
+    "start": 23.16,
+    "end": 24.03,
     "lines": [
       {
-        "text": "ПО ПРОБЕЛАМ В ЗНАНИЯХ СОБИРАЕТСЯ ОТДЕЛЬНО ДЛЯ",
+        "text": "БОЛЬШЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЕНИЯ",
+        "text": "ПРИХОДИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.69,
-    "end": 29.01,
+    "start": 24.75,
+    "end": 27.99,
     "lines": [
       {
-        "text": "ПРИЧИНА ОШИБКИ ВИДНА",
+        "text": "СЕРИЯ ДНЕЙ С ВЫСОКОЙ ТОЧНОСТЬЮ ВИДНА ПРЯМО НА ГЛАВНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ",
+        "text": "ЭКРАНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.58,
-    "end": 30.96,
+    "start": 28.8,
+    "end": 30.39,
     "lines": [
       {
-        "text": "БЕЗ ГАДАНИЯ ПО ПАМЯТИ",
+        "text": "СТАБИЛЬНОСТЬ ВИДНА ПО СЕРИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРОМ",
+        "text": "ДНЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.74,
-    "end": 33.54,
+    "start": 30.75,
+    "end": 32.43,
+    "lines": [
+      {
+        "text": "А НЕ ПО СЛУЧАЙНОМУ ПРОЦЕНТУ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕГОДНЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.21,
+    "end": 35.16,
     "lines": [
       {
         "text": "ССЫЛКА",
