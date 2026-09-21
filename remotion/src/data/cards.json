@@ -1,31 +1,31 @@
 [
   {
-    "start": 2.37,
-    "end": 3.72,
+    "start": 2.04,
+    "end": 3.63,
     "lines": [
       {
-        "text": "ОФЛАЙН БАНК ЗАДАНИЙ",
+        "text": "РОДИТЕЛИ ЧТО ВИДЕОРАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ПРИВЫКЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.02,
-    "end": 5.76,
+    "start": 3.87,
+    "end": 5.64,
     "lines": [
       {
-        "text": "ЗАНОВО КАЖДЫЙ РАЗ ПЕРЕД НОВОЙ",
+        "text": "ЗАДАНИЯ ЕГЭ ПРИХОДИТСЯ ПЕРЕСМАТРИВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМЕНОЙ",
+        "text": "ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
@@ -33,170 +33,106 @@
   },
   {
     "start": 5.88,
-    "end": 8.61,
+    "end": 7.5,
     "lines": [
       {
-        "text": "В ЛАГЕРЕ ЕГЭ ТРЕНАЖЕР СИНХРОНИЗИРУЕТ",
+        "text": "РАДИ ОДНОЙ КОРОТКОЙ СТРОКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОФФЛАЙН",
+        "text": "РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.7,
-    "end": 10.44,
+    "start": 7.59,
+    "end": 9.51,
     "lines": [
       {
-        "text": "БАНК ОДИН РАЗ ПРИ ВОЗВРАТЕ",
+        "text": "В САМОМ КОНЦЕ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗИ",
+        "text": "ТРЕНАЖЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.8,
-    "end": 12.75,
+    "start": 9.69,
+    "end": 11.19,
     "lines": [
       {
-        "text": "БЕЗ ПОВТОРНОГО ПОЛНОГО СКАЧИВАНИЯ",
+        "text": "СТРОИТ ОТДЕЛЬНОЕ МЕНЮ ИЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНОВО",
+        "text": "МЕТОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 14.97,
+    "start": 11.31,
+    "end": 14.52,
     "lines": [
       {
-        "text": "УЖЕ СОХРАНЕННЫЕ ЗАДАНИЯ ОСТАЮТСЯ НА",
+        "text": "ВРЕМЕНИ ПОД САМИМ ВИДЕОРАЗБОРОМ БЕЗ ЕДИНОГО ЛИШНЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСТЕ",
+        "text": "КЛИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.21,
-    "end": 16.68,
+    "start": 15.12,
+    "end": 16.38,
     "lines": [
       {
-        "text": "ВСЮ СМЕНУ БЕЗ ЕДИНОГО",
+        "text": "ШАГ РЕШЕНИЯ ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДУБЛЯ",
+        "text": "НУЖНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.4,
-    "end": 18.33,
+    "start": 16.53,
+    "end": 17.61,
     "lines": [
       {
-        "text": "ОДИН И ТОТ ЖЕ",
+        "text": "СРАЗУ НАЖАТИЕМ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКАЧИВАЙТЕ",
+        "text": "МЕТКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.42,
-    "end": 20.28,
+    "start": 17.76,
+    "end": 20.01,
     "lines": [
       {
-        "text": "ОФФЛАЙН БАНК ЗАНОВО ПЕРЕД КАЖДОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СМЕНОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.58,
-    "end": 22.05,
-    "lines": [
-      {
-        "text": "НЕ ПРИХОДИТСЯ НОВЫЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.17,
-    "end": 23.49,
-    "lines": [
-      {
-        "text": "ДОБАВЛЯЮТСЯ ТОЛЬКО ПОВЕРХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "УЖЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.58,
-    "end": 24.99,
-    "lines": [
-      {
-        "text": "СОХРАНЕННЫХ ПРЕЖНИХ ОФФЛАЙН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БАНК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.08,
-    "end": 28.32,
-    "lines": [
-      {
-        "text": "СИНХРОНИЗИРУЕТСЯ ОДИН РАЗ БЕЗ ПОВТОРНОГО СКАЧИВАНИЯ",
+        "text": "В СПИСКЕ ПЕРЕСМАТРИВАТЬ ВЕСЬ РОЛИК",
         "accent": false,
         "size": "small"
       },
@@ -208,8 +144,88 @@
     ]
   },
   {
-    "start": 28.53,
-    "end": 30.24,
+    "start": 20.16,
+    "end": 21.72,
+    "lines": [
+      {
+        "text": "РАДИ ОДНОГО ШАГА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИХОДИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.38,
+    "end": 23.82,
+    "lines": [
+      {
+        "text": "МЕНЮ МЕТОК ОСТАЕТСЯ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.97,
+    "end": 25.32,
+    "lines": [
+      {
+        "text": "ПРИ КАЖДОМ ПОВТОРНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСМОТРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.8,
+    "end": 27.42,
+    "lines": [
+      {
+        "text": "ШАГ РЕШЕНИЯ ОТКРЫВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.6,
+    "end": 28.83,
+    "lines": [
+      {
+        "text": "НАЖАТИЕМ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕТКУ ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.34,
+    "end": 31.29,
     "lines": [
       {
         "text": "ССЫЛКА",
