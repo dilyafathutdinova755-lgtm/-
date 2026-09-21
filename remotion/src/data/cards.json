@@ -1,10 +1,10 @@
 [
   {
-    "start": 2.94,
-    "end": 4.47,
+    "start": 1.77,
+    "end": 2.88,
     "lines": [
       {
-        "text": "ВИДЯТ В ОБЩЕЙ СТАТИСТИКЕ ПО",
+        "text": "РАЗБИРАЮТ ОШИБКУ В ЗАДАНИИ",
         "accent": false,
         "size": "small"
       },
@@ -16,24 +16,40 @@
     ]
   },
   {
-    "start": 4.71,
-    "end": 6.99,
+    "start": 3.33,
+    "end": 5.25,
     "lines": [
       {
-        "text": "ТОЛЬКО ОДИН СМЕШАННЫЙ УСПЕВАЕМОСТИ",
+        "text": "И НЕ ПОНИМАЕТ СЛУЧАЙНО ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗАТЕЛЬ",
+        "text": "БЫЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 9.15,
+    "start": 5.37,
+    "end": 7.44,
+    "lines": [
+      {
+        "text": "НЕВНИМАТЕЛЬНОСТЬ ИЛИ ПРОБЕЛ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАНИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 9.27,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,191 +57,159 @@
         "size": "small"
       },
       {
-        "text": "ВЫВОДИТ",
+        "text": "ПОМЕЧАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 10.89,
+    "start": 9.48,
+    "end": 11.4,
     "lines": [
       {
-        "text": "СТАТИСТИКУ ПО ОЛИМПИАДНЫМ",
+        "text": "КАЖДУЮ ОШИБКУ ОДНОЙ ИЗ ДВУХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАЧАМ",
+        "text": "ПРИЧИН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.16,
-    "end": 13.17,
+    "start": 11.94,
+    "end": 14.19,
     "lines": [
       {
-        "text": "ОТДЕЛЬНОЙ СТРОКОЙ ОТ ОБЫЧНЫХ",
+        "text": "НЕВНИМАТЕЛЬНОСТЬ ИЛИ ПРОБЕЛ В ЗНАНИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ТЕМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.29,
-    "end": 16.32,
+    "start": 14.82,
+    "end": 16.59,
     "lines": [
       {
-        "text": "ОСНОВНОГО КУРСА ПРОГРЕСС ПО ТРУДНЫМ НЕСТАНДАРТНЫМ",
+        "text": "МЕТКА ВОЗНИКАЕТ СРАЗУ ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРУДНЫМ",
+        "text": "ОТВЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.44,
-    "end": 17.49,
+    "start": 17.07,
+    "end": 18.78,
     "lines": [
       {
-        "text": "ЗАДАЧАМ",
+        "text": "БЕЗ ОТДЕЛЬНОГО ВОПРОСА САМОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДЕН СРАЗУ",
+        "text": "УЧЕНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.21,
-    "end": 19.83,
+    "start": 19.53,
+    "end": 22.05,
     "lines": [
       {
-        "text": "БЕЗ СМЕШИВАНИЯ С ПРОСТЫМИ",
+        "text": "РАЗБИРАТЬСЯ В ПРИЧИНЕ ОШИБКИ ЗАНОВО ПО ПАМЯТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМАМИ",
+        "text": "ВЕЧЕРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.79,
-    "end": 23.73,
+    "start": 22.29,
+    "end": 24.18,
     "lines": [
       {
-        "text": "ИСКАТЬ ОЛИМПИАДНЫЕ РЕЗУЛЬТАТЫ ВНУТРИ ОБЩЕГО СПИСКА",
+        "text": "НЕ ПРИХОДИТСЯ СПИСОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.03,
-    "end": 26.43,
+    "start": 24.27,
+    "end": 27.0,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ ОТДЕЛЬНАЯ",
+        "text": "ПО ПРОБЕЛАМ В ЗНАНИЯХ СОБИРАЕТСЯ ОТДЕЛЬНО ДЛЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРОКА",
+        "text": "ПОВТОРЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.64,
-    "end": 28.29,
+    "start": 27.69,
+    "end": 29.01,
     "lines": [
       {
-        "text": "ОБНОВЛЯЕТСЯ САМА ПОСЛЕ",
+        "text": "ПРИЧИНА ОШИБКИ ВИДНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОГО",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.56,
-    "end": 30.3,
+    "start": 29.58,
+    "end": 30.96,
     "lines": [
       {
-        "text": "НОВОГО РЕШЕННОГО ЗАДАНИЯ ТАКОГО",
+        "text": "БЕЗ ГАДАНИЯ ПО ПАМЯТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТИПА",
+        "text": "ВЕЧЕРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.29,
-    "end": 33.45,
-    "lines": [
-      {
-        "text": "ОЛИМПИАДНЫЙ ПРОГРЕСС ВИДЕН ОТДЕЛЬНОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТРОКОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 34.05,
-    "end": 35.97,
-    "lines": [
-      {
-        "text": "НЕ СМЕШИВАЯСЬ С ОСТАЛЬНЫМИ ТЕМАМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КУРСА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 36.9,
-    "end": 38.82,
+    "start": 31.74,
+    "end": 33.54,
     "lines": [
       {
         "text": "ССЫЛКА",
