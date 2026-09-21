@@ -1,199 +1,199 @@
 [
   {
-    "start": 2.46,
-    "end": 3.84,
+    "start": 2.31,
+    "end": 3.9,
     "lines": [
       {
-        "text": "НАЧИНАЮТ",
+        "text": "ЗАДАНИЕ ДНЯ ПО ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДЕО РАЗБОР",
+        "text": "ПООДИНОЧКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.23,
-    "end": 6.6,
+    "start": 4.08,
+    "end": 6.36,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ЕГЭ И ТЕРЯЮТ МЕСТО ПРИ ОБРЫВЕ СВЯЗИ НА БЕРЕГУ",
+        "text": "ХОТЯ ВЕСЬ ОТРЯД ГОТОВИТСЯ ВМЕСТЕ К",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЗЕРА",
+        "text": "ЭКЗАМЕНУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 9.57,
+    "start": 6.75,
+    "end": 8.28,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР СОХРАНЯЕТ",
+        "text": "ЕГЭ ТРЕНАЖЕР ПОЗВОЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "НАЗНАЧИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.78,
-    "end": 10.92,
+    "start": 8.55,
+    "end": 9.72,
     "lines": [
       {
-        "text": "ЦЕЛИКОМ В ПАМЯТЬ",
+        "text": "ОДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕЛЕФОНА",
+        "text": "ОБЩЕЕ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.04,
-    "end": 13.02,
+    "start": 9.99,
+    "end": 11.82,
     "lines": [
       {
-        "text": "ЗАРАНЕЕ И ЕЩЕ ДО ВЫЕЗДА НА ДАЛЬНИЙ",
+        "text": "СРАЗУ ВСЕМУ ОТРЯДУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕРЕГ",
+        "text": "ОДНОЙ КНОПКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.26,
-    "end": 15.42,
+    "start": 12.15,
+    "end": 14.25,
     "lines": [
       {
-        "text": "ПРОСМОТР ПРОДОЛЖАЕТСЯ С ТОЙ ЖЕ САМОЙ",
+        "text": "ОБЩИЙ РЕЗУЛЬТАТ ОТРЯДА СОБИРАЕТСЯ В ОДНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕКУНДЫ",
+        "text": "МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.63,
-    "end": 17.16,
+    "start": 14.49,
+    "end": 16.62,
     "lines": [
       {
-        "text": "ДАЖЕ БЕЗ ЕДИНОГО ДЕЛЕНИЯ",
+        "text": "ВМЕСТО РАЗРОЗНЕННЫХ ЛИЧНЫХ ДОСТИЖЕНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗИ",
+        "text": "ВОЖАТЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.43,
-    "end": 18.45,
+    "start": 16.89,
+    "end": 19.65,
     "lines": [
       {
-        "text": "НАЧИНАТЬ",
+        "text": "НАЗНАЧАТЬ ЗАДАНИЯ ДНЯ КАЖДОМУ ВОЖАТОМУ ОТДЕЛЬНО ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РОЛИК ЗАНОВО",
+        "text": "ОДНОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.63,
-    "end": 20.52,
+    "start": 19.92,
+    "end": 21.48,
     "lines": [
       {
-        "text": "ПОСЛЕ КАЖДОГО СЛУЧАЙНОГО ОБРЫВА",
+        "text": "НЕ ПРИХОДИТСЯ ОБЩЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.73,
-    "end": 22.5,
+    "start": 21.66,
+    "end": 23.28,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ СОХРАНЕННЫЙ",
+        "text": "МЕНЯЕТСЯ АВТОМАТИЧЕСКИ НА СЛЕДУЮЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.62,
-    "end": 24.69,
+    "start": 23.46,
+    "end": 24.54,
     "lines": [
       {
-        "text": "ОСТАЕТСЯ ДОСТУПЕН ДО САМОГО КОНЦА",
+        "text": "СМЕНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЕЗДКИ",
+        "text": "ОБЩИЙ РЕЗУЛЬТАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.96,
-    "end": 27.3,
+    "start": 24.69,
+    "end": 26.1,
     "lines": [
       {
-        "text": "ПРОСМОТР ПРОДОЛЖАЕТСЯ С ТОЙ ЖЕ СЕКУНДЫ БЕЗ",
+        "text": "ОТРЯДА СОБИРАЕТСЯ В ОДНОМ МЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗИ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.57,
-    "end": 29.52,
+    "start": 26.94,
+    "end": 28.77,
     "lines": [
       {
         "text": "ССЫЛКА",
