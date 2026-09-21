@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.77,
+    "end": 3.93,
+    "lines": [
+      {
+        "text": "ВСТРЕЧАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ИНТЕРНЕТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.35,
+    "end": 7.17,
+    "lines": [
+      {
+        "text": "ДВА РАЗНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОСОБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 10.62,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ВСТРАИВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.98,
+    "end": 13.29,
+    "lines": [
+      {
+        "text": "ЕДИНСТВЕННЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЕННЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 16.05,
+    "lines": [
+      {
+        "text": "ВМЕСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОТИВОРЕЧИВЫХ ВЕРСИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.07,
+    "end": 18.57,
+    "lines": [
+      {
+        "text": "ИДЁТ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.17,
+    "end": 21.48,
+    "lines": [
+      {
+        "text": "БЕЗ ПЕРЕСКАКИВАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕРЕЗ ШАГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.62,
+    "end": 24.96,
+    "lines": [
+      {
+        "text": "НЕ МЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТ РОЛИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.47,
+    "end": 26.88,
+    "lines": [
+      {
+        "text": "В ОТЛИЧИЕ ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНЫХ ВИДЕО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.96,
+    "end": 31.95,
+    "lines": [
+      {
+        "text": "ПРОТИВОРЕЧИВЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕНЯЮТСЯ РАЗБОРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.03,
+    "end": 35.59,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

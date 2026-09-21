@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.85,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "НЕ ВИДЯТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАКОЙ ПРЕДМЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.66,
+    "end": 8.61,
+    "lines": [
+      {
+        "text": "ПОКА БАЛЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖУТСЯ ВЫСОКИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ВЫВОДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЦЕНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 17.61,
+    "lines": [
+      {
+        "text": "НА ОДИН ЭКРАН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ПЕРЕКЛЮЧЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.42,
+    "end": 19.83,
+    "lines": [
+      {
+        "text": "ПРИ ВЫСОКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАЛЛАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.13,
+    "end": 23.31,
+    "lines": [
+      {
+        "text": "ВИДЕН ПРЕДМЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРЫЙ ОТСТАЁТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.36,
+    "end": 25.83,
+    "lines": [
+      {
+        "text": "ЭКРАН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСОБИРАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.19,
+    "end": 28.47,
+    "lines": [
+      {
+        "text": "СРАЗУ ПОСЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОВОГО ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.43,
+    "end": 33.06,
+    "lines": [
+      {
+        "text": "ВЫСОКИЕ БАЛЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ МАСКИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.05,
+    "end": 36.58,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
