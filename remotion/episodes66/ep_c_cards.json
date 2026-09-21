@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.46,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ТРЕВОЖАТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УСПЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.88,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "НА САМОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.98,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ВКЛЮЧАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩИЙ ТАЙМЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.66,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "ДО ТОГО КАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕХВАТКА ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.37,
+    "end": 20.79,
+    "lines": [
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО ОСТАЁТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.3,
+    "end": 22.44,
+    "lines": [
+      {
+        "text": "МИНУТА ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МИНУТОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.61,
+    "end": 26.61,
+    "lines": [
+      {
+        "text": "ТРЕВОГА ПЕРЕД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕЗНАКОМЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.09,
+    "end": 30.18,
+    "lines": [
+      {
+        "text": "УЖЕ ЗНАКОМО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ПРОБНИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.14,
+    "end": 33.24,
+    "lines": [
+      {
+        "text": "ТРЕНИРУЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАРАНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.66,
+    "end": 36.27,
+    "lines": [
+      {
+        "text": "НЕ СЮРПРИЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В РЕШАЮЩИЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 37.53,
+    "end": 39.56,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
