@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.74,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ТЕРЯЮТ ВРЕМЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПОДРАБОТКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.27,
+    "end": 5.07,
+    "lines": [
+      {
+        "text": "НА ПОДРАБОТКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В КАФЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.79,
+    "end": 8.46,
+    "lines": [
+      {
+        "text": "WIFI ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ГОСТЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.51,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ЗАПАСАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.29,
+    "end": 14.31,
+    "lines": [
+      {
+        "text": "ДО НАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМЕНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.97,
+    "end": 17.22,
+    "lines": [
+      {
+        "text": "WIFI ДЛЯ ГОСТЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЧЕГО НЕ МЕНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.27,
+    "end": 22.02,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПОДСОБКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.95,
+    "end": 24.63,
+    "lines": [
+      {
+        "text": "КОРОТКИЙ ПЕРЕРЫВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ ЗАКАЗАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.2,
+    "end": 27.36,
+    "lines": [
+      {
+        "text": "СТАНОВИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЕНЕМ ЗАНЯТИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.29,
+    "end": 31.77,
+    "lines": [
+      {
+        "text": "ПОДРАБОТКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАУЗА В ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.67,
+    "end": 35.26,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

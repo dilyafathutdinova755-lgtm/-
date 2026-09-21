@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.19,
+    "end": 5.19,
+    "lines": [
+      {
+        "text": "ПУТАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРОНИМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.79,
+    "end": 7.86,
+    "lines": [
+      {
+        "text": "ХОТЯ РАЗНИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ОДНОЙ БУКВЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 10.83,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБИРАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.07,
+    "end": 12.93,
+    "lines": [
+      {
+        "text": "ТАКИЕ ПАРОНИМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В РАУНД ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.53,
+    "end": 15.54,
+    "lines": [
+      {
+        "text": "ПУТАНИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБИРАЕТСЯ ПАРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.47,
+    "end": 18.24,
+    "lines": [
+      {
+        "text": "НОВАЯ ПАРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.69,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "КАК ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЁТ ПУТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.33,
+    "end": 23.88,
+    "lines": [
+      {
+        "text": "МЕНЬШЕ МИНУТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ ДЕЛАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.57,
+    "end": 27.66,
+    "lines": [
+      {
+        "text": "НЕ ТРЕБУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСМАТРИВАТЬ СПИСОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.56,
+    "end": 32.16,
+    "lines": [
+      {
+        "text": "ПАРОНИМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.03,
+    "end": 35.62,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

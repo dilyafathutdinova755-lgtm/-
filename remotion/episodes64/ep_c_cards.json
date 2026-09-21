@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.1,
+    "end": 6.0,
+    "lines": [
+      {
+        "text": "СТЕСНЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАТЬ РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.91,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕДЁТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.09,
+    "end": 11.16,
+    "lines": [
+      {
+        "text": "ЗАКРЫТЫЙ СПИСОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ДРУЗЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 14.25,
+    "lines": [
+      {
+        "text": "БЕЗ КЛАССА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ОТЛИЧНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.33,
+    "end": 17.46,
+    "lines": [
+      {
+        "text": "МЕСТО МЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.12,
+    "end": 20.4,
+    "lines": [
+      {
+        "text": "КТО-ТО ЗАКРЫЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОВОЕ ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.42,
+    "end": 24.06,
+    "lines": [
+      {
+        "text": "НИКТО ИЗ ЧАТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ВИДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.02,
+    "end": 26.46,
+    "lines": [
+      {
+        "text": "СТЕСНЕНИЕ ПЕРЕД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩИМ ЧАТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.7,
+    "end": 29.22,
+    "lines": [
+      {
+        "text": "СНИМАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫБРАННЫМИ ДРУЗЬЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.15,
+    "end": 32.44,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
