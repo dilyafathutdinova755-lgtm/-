@@ -1,10 +1,10 @@
 [
   {
-    "start": 2.49,
-    "end": 3.63,
+    "start": 2.28,
+    "end": 3.12,
     "lines": [
       {
-        "text": "КАРТОЧКИ ТЕРМИНОВ",
+        "text": "СТАТИСТИКИ ПО",
         "accent": false,
         "size": "small"
       },
@@ -16,200 +16,248 @@
     ]
   },
   {
-    "start": 3.84,
-    "end": 6.63,
+    "start": 3.3,
+    "end": 4.47,
     "lines": [
       {
-        "text": "НА ЦЕЛЫЙ ЧАС ВМЕСТО КОРОТКОГО ПЕРЕРЫВА СМЕНЫ В",
+        "text": "ПРОПУЩЕННЫЕ ДНИ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛАГЕРЯ",
+        "text": "СВЯЗИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 8.64,
+    "start": 4.74,
+    "end": 6.06,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР ОГРАНИЧИВАЕТ",
+        "text": "КАК ЧЕСТНЫЙ ПРОВАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕССИЮ",
+        "text": "СЕРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 9.99,
+    "start": 6.45,
+    "end": 7.59,
     "lines": [
       {
-        "text": "РОВНО ДЕСЯТЬ КАРТОЧКАМИ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДРЯД",
+        "text": "ПРОПУСКАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.62,
-    "end": 12.12,
+    "start": 7.77,
+    "end": 9.42,
     "lines": [
       {
-        "text": "А ДАЛЬШЕ САМ ПРЕДЛАГАЕТ КОРОТКИЙ",
+        "text": "ДНИ БЕЗ ЕДИНОГО ОТКРЫТИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕРЫВ",
+        "text": "ПРИЛОЖЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.69,
-    "end": 14.79,
+    "start": 9.69,
+    "end": 11.61,
     "lines": [
       {
-        "text": "ДЕСЯТЬ КАРТОЧЕК УКЛАДЫВАЮТСЯ В ОБЫЧНЫЙ",
+        "text": "МОЛЧА НЕ ЗАСЧИТЫВАЯ ИХ КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕРЫВ",
+        "text": "ПРОВАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.97,
-    "end": 16.35,
+    "start": 11.82,
+    "end": 13.29,
     "lines": [
       {
-        "text": "СМЕНЫ МЕЖДУ ДЕЛАМИ",
+        "text": "СЕРИИ СТАТИСТИКА СЧИТАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЖАТОГО",
+        "text": "ТОЛЬКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.59,
-    "end": 18.15,
+    "start": 13.44,
+    "end": 14.88,
     "lines": [
       {
-        "text": "РАСТЯГИВАТЬ КАРТОЧКИ НА",
+        "text": "ПО ДНЯМ КОГДА ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦЕЛЫЙ ЧАС",
+        "text": "РЕАЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.36,
-    "end": 19.41,
+    "start": 15.03,
+    "end": 16.11,
     "lines": [
       {
-        "text": "ВМЕСТО",
+        "text": "ОТКРЫВАЛИСЬ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКОГО ПЕРЕРЫВА",
+        "text": "РЕШАЛИСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.65,
-    "end": 21.18,
+    "start": 16.41,
+    "end": 18.39,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ НОВАЯ",
+        "text": "ОПРАВДЫВАТЬСЯ ПЕРЕД СОБСТВЕННОЙ СТАТИСТИКОЙ ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕСЯТКА",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.33,
-    "end": 22.83,
+    "start": 18.51,
+    "end": 19.35,
     "lines": [
       {
-        "text": "КАРТОЧЕК ОТКРЫВАЕТСЯ НА",
+        "text": "БЕЗ СВЯЗИ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛЕДУЮЩЕМ",
+        "text": "РЫБАЛКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.98,
-    "end": 24.15,
+    "start": 19.56,
+    "end": 21.06,
     "lines": [
       {
-        "text": "СВОБОДНОМ ПЕРЕРЫВЕ",
+        "text": "НЕ ПРИХОДИТСЯ ПРОПУЩЕННЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМЕНЫ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.39,
-    "end": 26.82,
+    "start": 21.27,
+    "end": 22.53,
     "lines": [
       {
-        "text": "ДЕСЯТЬ КАРТОЧЕК УКЛАДЫВАЮТСЯ РОВНО В КОРОТКИЙ ПЕРЕРЫВ",
+        "text": "ПРОСТО НЕ ВХОДИТ В ОБЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМЕНЫ",
+        "text": "СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.42,
-    "end": 29.28,
+    "start": 22.65,
+    "end": 23.94,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТОВ ПРОПУЩЕННЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.09,
+    "end": 24.9,
+    "lines": [
+      {
+        "text": "БЕЗ СВЯЗИ ПРОСТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.02,
+    "end": 26.22,
+    "lines": [
+      {
+        "text": "ПОРТИТ ОБЩУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАТИСТИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.49,
+    "end": 28.44,
     "lines": [
       {
         "text": "ССЫЛКА",
