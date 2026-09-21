@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.65,
+    "end": 2.85,
+    "lines": [
+      {
+        "text": "КАРТОЧКИ ТЕРМИНОВ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 3.99,
+    "lines": [
+      {
+        "text": "В ОДНОЙ БОЛЬШОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КУЧЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.38,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "И ПОВТОРЯЮТ ИХ БЕЗ ВСЯКОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.16,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "ТОЧНОЕ ВРЕМЯ ДО СЛЕДУЮЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.77,
+    "end": 12.69,
+    "lines": [
+      {
+        "text": "ПРЯМО НА ОБРАТНОЙ СТОРОНЕ КАЖДОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЧКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 14.94,
+    "lines": [
+      {
+        "text": "ОБРАТНЫЙ ОТЧЕТ ДО НУЖНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЧКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.21,
+    "end": 17.67,
+    "lines": [
+      {
+        "text": "ВИДЕН ЗАРАНЕЕ ЕЩЕ ДО ОТКРЫТИЯ ВСЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОЛОДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.21,
+    "end": 20.82,
+    "lines": [
+      {
+        "text": "ПЕРЕБИРАТЬ ВСЮ КОЛОДУ КАРТОЧЕК ПОДРЯД В ПОИСКАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.06,
+    "end": 23.07,
+    "lines": [
+      {
+        "text": "НЕ ПРИХОДИТСЯ НУЖНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЧКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.25,
+    "end": 25.77,
+    "lines": [
+      {
+        "text": "САМА ПОДНИМАЕТСЯ ВЫШЕ ОСТАЛЬНЫХ К СРОКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.49,
+    "end": 28.35,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

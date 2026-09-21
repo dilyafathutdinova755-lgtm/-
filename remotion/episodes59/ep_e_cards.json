@@ -1,26 +1,10 @@
 [
   {
-    "start": 2.28,
-    "end": 3.09,
+    "start": 1.8,
+    "end": 3.48,
     "lines": [
       {
-        "text": "ВЫПУСКНИКИ УЧАСТВУЮЩИЕ В ОЛИМПИАДАХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИВЫКЛИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 3.45,
-    "end": 5.79,
-    "lines": [
-      {
-        "text": "ЧТО БЕСПЛАТНЫЕ ПРИЛОЖЕНИЯ ДЛЯ ПОДГОТОВКИ К",
+        "text": "СМОТРЯТ НА ИТОГОВЫЙ ПРОЦЕНТ ТОЧНОСТИ ПО",
         "accent": false,
         "size": "small"
       },
@@ -32,139 +16,139 @@
     ]
   },
   {
-    "start": 6.03,
-    "end": 7.68,
+    "start": 4.05,
+    "end": 6.9,
     "lines": [
       {
-        "text": "ПОКАЗЫВАЮТ РЕКЛАМУ МЕЖДУ",
+        "text": "И НЕ ПОНИМАЮТ СТАБИЛЕН ЛИ ИХ РЕЗУЛЬТАТ НА САМОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНДАМИ",
+        "text": "ДЕЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.61,
-    "end": 10.14,
+    "start": 8.01,
+    "end": 9.24,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР НЕ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "СЧИТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.76,
+    "start": 9.42,
+    "end": 10.83,
     "lines": [
       {
-        "text": "НИ ОДНОГО РЕКЛАМНОГО",
+        "text": "ОТДЕЛЬНУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАННЕРА",
+        "text": "СЕРИЮ ДНЕЙ ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.26,
+    "start": 11.19,
+    "end": 13.05,
     "lines": [
       {
-        "text": "НИ МЕЖДУ",
+        "text": "С ОДИНАКОВО ВЫСОКОЙ ТОЧНОСТЬЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМИ",
+        "text": "ОТВЕТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.77,
-    "end": 15.36,
+    "start": 13.53,
+    "end": 14.97,
     "lines": [
       {
-        "text": "НИ МЕЖДУ КОРОТКИМИ РАУНДАМИ",
+        "text": "А НЕ ТОЛЬКО СЕГОДНЯШНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ПРОЦЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.17,
-    "end": 17.79,
+    "start": 15.6,
+    "end": 17.37,
     "lines": [
       {
-        "text": "ЭКРАН ОСТАЕТСЯ ЧИСТЫМ ОТ",
+        "text": "ОДИН СЛАБЫЙ ДЕНЬ СБИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕКЛАМЫ",
+        "text": "СЕРИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.94,
-    "end": 20.22,
+    "start": 17.76,
+    "end": 19.5,
     "lines": [
       {
-        "text": "НА ПРОТЯЖЕНИИ ВСЕГО ИСПОЛЬЗОВАНИЯ",
+        "text": "ЗАТО НЕ ПОРТИТ ОБЩИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНИЯ",
+        "text": "ПОКАЗАТЕЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.24,
-    "end": 22.92,
+    "start": 20.31,
+    "end": 22.89,
     "lines": [
       {
-        "text": "ЖДАТЬ ОКОНЧАНИЯ РЕКЛАМНОГО",
+        "text": "СУДИТЬ О СТАБИЛЬНОСТИ ТОЛЬКО ПО СЕГОДНЯШНЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РОЛИКА",
+        "text": "ПРОЦЕНТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.13,
-    "end": 24.66,
+    "start": 23.16,
+    "end": 24.03,
     "lines": [
       {
-        "text": "ПЕРЕД НОВЫМ РАУНДОМ НЕ",
+        "text": "БОЛЬШЕ НЕ",
         "accent": false,
         "size": "small"
       },
@@ -176,56 +160,56 @@
     ]
   },
   {
-    "start": 25.44,
+    "start": 24.75,
     "end": 27.99,
     "lines": [
       {
-        "text": "СВОБОДНОЕ МЕСТО НА ЭКРАНЕ ЗАНИМАЕТ ТОЛЬКО ЗАДАНИЯ И",
+        "text": "СЕРИЯ ДНЕЙ С ВЫСОКОЙ ТОЧНОСТЬЮ ВИДНА ПРЯМО НА ГЛАВНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТЫ",
+        "text": "ЭКРАНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.55,
-    "end": 31.92,
+    "start": 28.8,
+    "end": 30.39,
     "lines": [
       {
-        "text": "РЕКЛАМА НЕ ПРЕРЫВАЕТ НИ РЕШЕНИЯ",
+        "text": "СТАБИЛЬНОСТЬ ВИДНА ПО СЕРИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ДНЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.25,
-    "end": 33.48,
+    "start": 30.75,
+    "end": 32.43,
     "lines": [
       {
-        "text": "НИ КОРОТКИЕ РАУНДЫ",
+        "text": "А НЕ ПО СЛУЧАЙНОМУ ПРОЦЕНТУ ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "СЕГОДНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 34.38,
-    "end": 36.24,
+    "start": 33.21,
+    "end": 35.16,
     "lines": [
       {
         "text": "ССЫЛКА",

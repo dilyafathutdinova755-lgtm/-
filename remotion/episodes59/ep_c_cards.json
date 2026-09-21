@@ -1,26 +1,10 @@
 [
   {
-    "start": 2.28,
-    "end": 3.09,
+    "start": 2.94,
+    "end": 4.47,
     "lines": [
       {
-        "text": "ВЫПУСКНИКИ УЧАСТВУЮЩИЕ В ОЛИМПИАДАХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИВЫКЛИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 3.45,
-    "end": 5.79,
-    "lines": [
-      {
-        "text": "ЧТО БЕСПЛАТНЫЕ ПРИЛОЖЕНИЯ ДЛЯ ПОДГОТОВКИ К",
+        "text": "ВИДЯТ В ОБЩЕЙ СТАТИСТИКЕ ПО",
         "accent": false,
         "size": "small"
       },
@@ -32,171 +16,59 @@
     ]
   },
   {
-    "start": 6.03,
-    "end": 7.68,
+    "start": 4.71,
+    "end": 6.99,
     "lines": [
       {
-        "text": "ПОКАЗЫВАЮТ РЕКЛАМУ МЕЖДУ",
+        "text": "ТОЛЬКО ОДИН СМЕШАННЫЙ УСПЕВАЕМОСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНДАМИ",
+        "text": "ПОКАЗАТЕЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.61,
-    "end": 10.14,
+    "start": 8.13,
+    "end": 9.15,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР НЕ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ВЫВОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.76,
+    "start": 9.3,
+    "end": 10.89,
     "lines": [
       {
-        "text": "НИ ОДНОГО РЕКЛАМНОГО",
+        "text": "СТАТИСТИКУ ПО ОЛИМПИАДНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАННЕРА",
+        "text": "ЗАДАЧАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.26,
+    "start": 11.16,
+    "end": 13.17,
     "lines": [
       {
-        "text": "НИ МЕЖДУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЯМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.77,
-    "end": 15.36,
-    "lines": [
-      {
-        "text": "НИ МЕЖДУ КОРОТКИМИ РАУНДАМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИГРЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.17,
-    "end": 17.79,
-    "lines": [
-      {
-        "text": "ЭКРАН ОСТАЕТСЯ ЧИСТЫМ ОТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕКЛАМЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.94,
-    "end": 20.22,
-    "lines": [
-      {
-        "text": "НА ПРОТЯЖЕНИИ ВСЕГО ИСПОЛЬЗОВАНИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИЛОЖЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.24,
-    "end": 22.92,
-    "lines": [
-      {
-        "text": "ЖДАТЬ ОКОНЧАНИЯ РЕКЛАМНОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РОЛИКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.13,
-    "end": 24.66,
-    "lines": [
-      {
-        "text": "ПЕРЕД НОВЫМ РАУНДОМ НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИХОДИТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.44,
-    "end": 27.99,
-    "lines": [
-      {
-        "text": "СВОБОДНОЕ МЕСТО НА ЭКРАНЕ ЗАНИМАЕТ ТОЛЬКО ЗАДАНИЯ И",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕЗУЛЬТАТЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.55,
-    "end": 31.92,
-    "lines": [
-      {
-        "text": "РЕКЛАМА НЕ ПРЕРЫВАЕТ НИ РЕШЕНИЯ",
+        "text": "ОТДЕЛЬНОЙ СТРОКОЙ ОТ ОБЫЧНЫХ",
         "accent": false,
         "size": "small"
       },
@@ -208,24 +80,152 @@
     ]
   },
   {
-    "start": 32.25,
-    "end": 33.48,
+    "start": 13.29,
+    "end": 16.32,
     "lines": [
       {
-        "text": "НИ КОРОТКИЕ РАУНДЫ",
+        "text": "ОСНОВНОГО КУРСА ПРОГРЕСС ПО ТРУДНЫМ НЕСТАНДАРТНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ТРУДНЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 34.38,
-    "end": 36.24,
+    "start": 16.44,
+    "end": 17.49,
+    "lines": [
+      {
+        "text": "ЗАДАЧАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДЕН СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.21,
+    "end": 19.83,
+    "lines": [
+      {
+        "text": "БЕЗ СМЕШИВАНИЯ С ПРОСТЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.79,
+    "end": 23.73,
+    "lines": [
+      {
+        "text": "ИСКАТЬ ОЛИМПИАДНЫЕ РЕЗУЛЬТАТЫ ВНУТРИ ОБЩЕГО СПИСКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРУЧНУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.03,
+    "end": 26.43,
+    "lines": [
+      {
+        "text": "НЕ ПРИХОДИТСЯ ОТДЕЛЬНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.64,
+    "end": 28.29,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЕТСЯ САМА ПОСЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.56,
+    "end": 30.3,
+    "lines": [
+      {
+        "text": "НОВОГО РЕШЕННОГО ЗАДАНИЯ ТАКОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТИПА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.29,
+    "end": 33.45,
+    "lines": [
+      {
+        "text": "ОЛИМПИАДНЫЙ ПРОГРЕСС ВИДЕН ОТДЕЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.05,
+    "end": 35.97,
+    "lines": [
+      {
+        "text": "НЕ СМЕШИВАЯСЬ С ОСТАЛЬНЫМИ ТЕМАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КУРСА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 36.9,
+    "end": 38.82,
     "lines": [
       {
         "text": "ССЫЛКА",

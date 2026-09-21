@@ -260,3 +260,12 @@ episodes58/idframes/
 episodes58_out/
 sources_coffee123_15/
 asr_coffee123_15/
+episodes59/*.mp4
+episodes59/*.wav
+episodes59/*.log
+episodes59/render/
+episodes59/frames/
+episodes59/idframes/
+episodes59_out/
+sources_coffee123_16/
+asr_coffee123_16/
