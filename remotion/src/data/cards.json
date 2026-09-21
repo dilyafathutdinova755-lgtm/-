@@ -1,215 +1,215 @@
 [
   {
-    "start": 2.04,
-    "end": 5.28,
+    "start": 2.49,
+    "end": 3.63,
     "lines": [
       {
-        "text": "УВЕРЕНЫ ЧТО ЗАДАНИЯ ДНЯ ПО ЕГЭ НУЖНО КОНТРОЛИРОВАТЬ",
+        "text": "КАРТОЧКИ ТЕРМИНОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.58,
-    "end": 7.02,
+    "start": 3.84,
+    "end": 6.63,
     "lines": [
       {
-        "text": "ЕЩЕ ДО САМОГО ВЕЧЕРА",
+        "text": "НА ЦЕЛЫЙ ЧАС ВМЕСТО КОРОТКОГО ПЕРЕРЫВА СМЕНЫ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОМА",
+        "text": "ЛАГЕРЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.83,
-    "end": 9.21,
+    "start": 6.96,
+    "end": 8.64,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "ЕГЭ ТРЕНАЖЕР ОГРАНИЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТМЕЧАЕТ",
+        "text": "СЕССИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.36,
-    "end": 10.56,
+    "start": 8.76,
+    "end": 9.99,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ДНЯ ГАЛОЧКОЙ",
+        "text": "РОВНО ДЕСЯТЬ КАРТОЧКАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО",
+        "text": "ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.65,
-    "end": 13.32,
+    "start": 10.62,
+    "end": 12.12,
     "lines": [
       {
-        "text": "ПОСЛЕ РЕАЛЬНОГО ЗАВЕРШЕНИЯ А НЕ ЗАРАНЕЕ ПО",
+        "text": "А ДАЛЬШЕ САМ ПРЕДЛАГАЕТ КОРОТКИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСПИСАНИЮ",
+        "text": "ПЕРЕРЫВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.95,
-    "end": 14.94,
+    "start": 12.69,
+    "end": 14.79,
     "lines": [
       {
-        "text": "ПУСТАЯ ГАЛОЧКА",
+        "text": "ДЕСЯТЬ КАРТОЧЕК УКЛАДЫВАЮТСЯ В ОБЫЧНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЧЕГО",
+        "text": "ПЕРЕРЫВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.09,
-    "end": 16.83,
+    "start": 14.97,
+    "end": 16.35,
     "lines": [
       {
-        "text": "НЕ ГОВОРИТ О ТОМ НАЧАТО",
+        "text": "СМЕНЫ МЕЖДУ ДЕЛАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ВОЖАТОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.01,
-    "end": 18.9,
+    "start": 16.59,
+    "end": 18.15,
     "lines": [
       {
-        "text": "ПРОЧИТАНО ОНО ИЛИ ПРОПУЩЕНО",
+        "text": "РАСТЯГИВАТЬ КАРТОЧКИ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОВСЕ",
+        "text": "ЦЕЛЫЙ ЧАС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.53,
-    "end": 20.85,
+    "start": 18.36,
+    "end": 19.41,
     "lines": [
       {
-        "text": "ПРОВЕРЯТЬ СТАТУС ЗАДАНИЯ",
+        "text": "ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДНЯ",
+        "text": "КОРОТКОГО ПЕРЕРЫВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.94,
-    "end": 22.68,
+    "start": 19.65,
+    "end": 21.18,
     "lines": [
       {
-        "text": "В ТЕЧЕНИЕ ВСЕГО ВЕЧЕРА НЕ",
+        "text": "НЕ ПРИХОДИТСЯ НОВАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИХОДИТСЯ",
+        "text": "ДЕСЯТКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.34,
-    "end": 24.57,
+    "start": 21.33,
+    "end": 22.83,
     "lines": [
       {
-        "text": "ГАЛОЧКА ВОЗНИКАЕТ",
+        "text": "КАРТОЧЕК ОТКРЫВАЕТСЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН РАЗ",
+        "text": "СЛЕДУЮЩЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.75,
-    "end": 26.49,
+    "start": 22.98,
+    "end": 24.15,
     "lines": [
       {
-        "text": "И СРАЗУ ОСТАЕТСЯ ВИДИМОЙ НА",
+        "text": "СВОБОДНОМ ПЕРЕРЫВЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКРАНЕ",
+        "text": "СМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.18,
-    "end": 30.33,
+    "start": 24.39,
+    "end": 26.82,
     "lines": [
       {
-        "text": "ГАЛОЧКА ВОЗНИКАЕТ ТОЛЬКО ПОСЛЕ РЕАЛЬНОГО ЗАВЕРШЕНИЯ",
+        "text": "ДЕСЯТЬ КАРТОЧЕК УКЛАДЫВАЮТСЯ РОВНО В КОРОТКИЙ ПЕРЕРЫВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "СМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.05,
-    "end": 32.88,
+    "start": 27.42,
+    "end": 29.28,
     "lines": [
       {
         "text": "ССЫЛКА",
