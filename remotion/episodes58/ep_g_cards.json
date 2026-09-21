@@ -1,122 +1,58 @@
 [
   {
-    "start": 2.28,
-    "end": 3.12,
+    "start": 2.37,
+    "end": 3.72,
     "lines": [
       {
-        "text": "КОРОТКОЙ ИГРЫ",
+        "text": "ОФЛАЙН БАНК ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКИ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.3,
-    "end": 4.41,
+    "start": 4.02,
+    "end": 5.76,
     "lines": [
       {
-        "text": "ПО ЕГЭ И ЗА",
+        "text": "ЗАНОВО КАЖДЫЙ РАЗ ПЕРЕД НОВОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНОЙ",
+        "text": "СМЕНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 5.64,
+    "start": 5.88,
+    "end": 8.61,
     "lines": [
       {
-        "text": "ПРОПАЖЕ",
+        "text": "В ЛАГЕРЕ ЕГЭ ТРЕНАЖЕР СИНХРОНИЗИРУЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ОФФЛАЙН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.83,
+    "start": 8.7,
+    "end": 10.44,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР СТАВИТ ИГРУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ПАУЗУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.13,
-    "end": 9.48,
-    "lines": [
-      {
-        "text": "САМ В МОМЕНТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОПАЖИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.81,
-    "end": 11.49,
-    "lines": [
-      {
-        "text": "БЕЗ СПИСАНИЯ ЗА ОБРЫВ СВЯЗИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОЧКОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.85,
-    "end": 12.99,
-    "lines": [
-      {
-        "text": "ПРОДОЛЖАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАУНД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.14,
-    "end": 14.94,
-    "lines": [
-      {
-        "text": "РОВНО С ТОГО ЖЕ МЕСТА ПОСЛЕ ВОЗВРАЩЕНИЯ",
+        "text": "БАНК ОДИН РАЗ ПРИ ВОЗВРАТЕ",
         "accent": false,
         "size": "small"
       },
@@ -128,104 +64,152 @@
     ]
   },
   {
-    "start": 15.09,
-    "end": 17.19,
+    "start": 10.8,
+    "end": 12.75,
     "lines": [
       {
-        "text": "НА БЕРЕГУ ТЕРЯТЬ ЗАСЛУЖЕННО НАБРАННЫЕ",
+        "text": "БЕЗ ПОВТОРНОГО ПОЛНОГО СКАЧИВАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКИ",
+        "text": "ЗАНОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.37,
-    "end": 18.84,
+    "start": 12.99,
+    "end": 14.97,
     "lines": [
       {
-        "text": "ИЗ ЗА СЛУЧАЙНОГО ОБРЫВА",
+        "text": "УЖЕ СОХРАНЕННЫЕ ЗАДАНИЯ ОСТАЮТСЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.67,
+    "start": 15.21,
+    "end": 16.68,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ ПАУЗА",
+        "text": "ВСЮ СМЕНУ БЕЗ ЕДИНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНИМАЕТСЯ",
+        "text": "ДУБЛЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.82,
-    "end": 22.74,
+    "start": 17.4,
+    "end": 18.33,
     "lines": [
       {
-        "text": "САМА КАК ТОЛЬКО СИГНАЛ ВОЗВРАЩАЕТСЯ",
+        "text": "ОДИН И ТОТ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНОВА",
+        "text": "СКАЧИВАЙТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.13,
-    "end": 24.69,
+    "start": 18.42,
+    "end": 20.28,
     "lines": [
       {
-        "text": "ПРОДОЛЖАЕТСЯ С ТОГО ЖЕ",
+        "text": "ОФФЛАЙН БАНК ЗАНОВО ПЕРЕД КАЖДОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНД",
+        "text": "СМЕНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.93,
-    "end": 25.98,
+    "start": 20.58,
+    "end": 22.05,
     "lines": [
       {
-        "text": "ПОСЛЕ ВОЗВРАТА",
+        "text": "НЕ ПРИХОДИТСЯ НОВЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.22,
-    "end": 28.08,
+    "start": 22.17,
+    "end": 23.49,
+    "lines": [
+      {
+        "text": "ДОБАВЛЯЮТСЯ ТОЛЬКО ПОВЕРХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.58,
+    "end": 24.99,
+    "lines": [
+      {
+        "text": "СОХРАНЕННЫХ ПРЕЖНИХ ОФФЛАЙН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.08,
+    "end": 28.32,
+    "lines": [
+      {
+        "text": "СИНХРОНИЗИРУЕТСЯ ОДИН РАЗ БЕЗ ПОВТОРНОГО СКАЧИВАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.53,
+    "end": 30.24,
     "lines": [
       {
         "text": "ССЫЛКА",

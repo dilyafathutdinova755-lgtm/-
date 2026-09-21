@@ -1,0 +1,210 @@
+[
+  {
+    "start": 2.31,
+    "end": 3.9,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ДНЯ ПО ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПООДИНОЧКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.08,
+    "end": 6.36,
+    "lines": [
+      {
+        "text": "ХОТЯ ВЕСЬ ОТРЯД ГОТОВИТСЯ ВМЕСТЕ К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.75,
+    "end": 8.28,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЕР ПОЗВОЛЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗНАЧИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.72,
+    "lines": [
+      {
+        "text": "ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕЕ ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.99,
+    "end": 11.82,
+    "lines": [
+      {
+        "text": "СРАЗУ ВСЕМУ ОТРЯДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОЙ КНОПКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 14.25,
+    "lines": [
+      {
+        "text": "ОБЩИЙ РЕЗУЛЬТАТ ОТРЯДА СОБИРАЕТСЯ В ОДНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "ВМЕСТО РАЗРОЗНЕННЫХ ЛИЧНЫХ ДОСТИЖЕНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОЖАТЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.89,
+    "end": 19.65,
+    "lines": [
+      {
+        "text": "НАЗНАЧАТЬ ЗАДАНИЯ ДНЯ КАЖДОМУ ВОЖАТОМУ ОТДЕЛЬНО ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.92,
+    "end": 21.48,
+    "lines": [
+      {
+        "text": "НЕ ПРИХОДИТСЯ ОБЩЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.66,
+    "end": 23.28,
+    "lines": [
+      {
+        "text": "МЕНЯЕТСЯ АВТОМАТИЧЕСКИ НА СЛЕДУЮЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.46,
+    "end": 24.54,
+    "lines": [
+      {
+        "text": "СМЕНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩИЙ РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.69,
+    "end": 26.1,
+    "lines": [
+      {
+        "text": "ОТРЯДА СОБИРАЕТСЯ В ОДНОМ МЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.94,
+    "end": 28.77,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

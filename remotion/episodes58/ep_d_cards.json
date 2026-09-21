@@ -1,127 +1,95 @@
 [
   {
-    "start": 2.28,
-    "end": 3.12,
+    "start": 2.04,
+    "end": 5.28,
     "lines": [
       {
-        "text": "КОРОТКОЙ ИГРЫ",
+        "text": "УВЕРЕНЫ ЧТО ЗАДАНИЯ ДНЯ ПО ЕГЭ НУЖНО КОНТРОЛИРОВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКИ",
+        "text": "ЗАРАНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.3,
-    "end": 4.41,
+    "start": 5.58,
+    "end": 7.02,
     "lines": [
       {
-        "text": "ПО ЕГЭ И ЗА",
+        "text": "ЕЩЕ ДО САМОГО ВЕЧЕРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНОЙ",
+        "text": "ДОМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 5.64,
+    "start": 7.83,
+    "end": 9.21,
     "lines": [
       {
-        "text": "ПРОПАЖЕ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ОТМЕЧАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.83,
+    "start": 9.36,
+    "end": 10.56,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР СТАВИТ ИГРУ",
+        "text": "ЗАДАНИЕ ДНЯ ГАЛОЧКОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПАУЗУ",
+        "text": "ТОЛЬКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 9.48,
+    "start": 10.65,
+    "end": 13.32,
     "lines": [
       {
-        "text": "САМ В МОМЕНТ",
+        "text": "ПОСЛЕ РЕАЛЬНОГО ЗАВЕРШЕНИЯ А НЕ ЗАРАНЕЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПАЖИ",
+        "text": "РАСПИСАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.81,
-    "end": 11.49,
-    "lines": [
-      {
-        "text": "БЕЗ СПИСАНИЯ ЗА ОБРЫВ СВЯЗИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОЧКОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.85,
-    "end": 12.99,
-    "lines": [
-      {
-        "text": "ПРОДОЛЖАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАУНД",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.14,
+    "start": 13.95,
     "end": 14.94,
     "lines": [
       {
-        "text": "РОВНО С ТОГО ЖЕ МЕСТА ПОСЛЕ ВОЗВРАЩЕНИЯ",
+        "text": "ПУСТАЯ ГАЛОЧКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗИ",
+        "text": "НИЧЕГО",
         "accent": true,
         "size": "big"
       }
@@ -129,103 +97,119 @@
   },
   {
     "start": 15.09,
-    "end": 17.19,
+    "end": 16.83,
     "lines": [
       {
-        "text": "НА БЕРЕГУ ТЕРЯТЬ ЗАСЛУЖЕННО НАБРАННЫЕ",
+        "text": "НЕ ГОВОРИТ О ТОМ НАЧАТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКИ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.37,
-    "end": 18.84,
+    "start": 17.01,
+    "end": 18.9,
     "lines": [
       {
-        "text": "ИЗ ЗА СЛУЧАЙНОГО ОБРЫВА",
+        "text": "ПРОЧИТАНО ОНО ИЛИ ПРОПУЩЕНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ВОВСЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.67,
+    "start": 19.53,
+    "end": 20.85,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ ПАУЗА",
+        "text": "ПРОВЕРЯТЬ СТАТУС ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНИМАЕТСЯ",
+        "text": "ДНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.82,
-    "end": 22.74,
+    "start": 20.94,
+    "end": 22.68,
     "lines": [
       {
-        "text": "САМА КАК ТОЛЬКО СИГНАЛ ВОЗВРАЩАЕТСЯ",
+        "text": "В ТЕЧЕНИЕ ВСЕГО ВЕЧЕРА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНОВА",
+        "text": "ПРИХОДИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.13,
-    "end": 24.69,
+    "start": 23.34,
+    "end": 24.57,
     "lines": [
       {
-        "text": "ПРОДОЛЖАЕТСЯ С ТОГО ЖЕ",
+        "text": "ГАЛОЧКА ВОЗНИКАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНД",
+        "text": "ОДИН РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.93,
-    "end": 25.98,
+    "start": 24.75,
+    "end": 26.49,
     "lines": [
       {
-        "text": "ПОСЛЕ ВОЗВРАТА",
+        "text": "И СРАЗУ ОСТАЕТСЯ ВИДИМОЙ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ЭКРАНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.22,
-    "end": 28.08,
+    "start": 27.18,
+    "end": 30.33,
+    "lines": [
+      {
+        "text": "ГАЛОЧКА ВОЗНИКАЕТ ТОЛЬКО ПОСЛЕ РЕАЛЬНОГО ЗАВЕРШЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.05,
+    "end": 32.88,
     "lines": [
       {
         "text": "ССЫЛКА",

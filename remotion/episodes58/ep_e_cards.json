@@ -1,231 +1,215 @@
 [
   {
-    "start": 2.28,
-    "end": 3.12,
+    "start": 2.49,
+    "end": 3.63,
     "lines": [
       {
-        "text": "КОРОТКОЙ ИГРЫ",
+        "text": "КАРТОЧКИ ТЕРМИНОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКИ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.3,
-    "end": 4.41,
+    "start": 3.84,
+    "end": 6.63,
     "lines": [
       {
-        "text": "ПО ЕГЭ И ЗА",
+        "text": "НА ЦЕЛЫЙ ЧАС ВМЕСТО КОРОТКОГО ПЕРЕРЫВА СМЕНЫ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНОЙ",
+        "text": "ЛАГЕРЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 5.64,
+    "start": 6.96,
+    "end": 8.64,
     "lines": [
       {
-        "text": "ПРОПАЖЕ",
+        "text": "ЕГЭ ТРЕНАЖЕР ОГРАНИЧИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "СЕССИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.83,
+    "start": 8.76,
+    "end": 9.99,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР СТАВИТ ИГРУ",
+        "text": "РОВНО ДЕСЯТЬ КАРТОЧКАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПАУЗУ",
+        "text": "ПОДРЯД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 9.48,
+    "start": 10.62,
+    "end": 12.12,
     "lines": [
       {
-        "text": "САМ В МОМЕНТ",
+        "text": "А ДАЛЬШЕ САМ ПРЕДЛАГАЕТ КОРОТКИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОПАЖИ",
+        "text": "ПЕРЕРЫВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.81,
-    "end": 11.49,
+    "start": 12.69,
+    "end": 14.79,
     "lines": [
       {
-        "text": "БЕЗ СПИСАНИЯ ЗА ОБРЫВ СВЯЗИ",
+        "text": "ДЕСЯТЬ КАРТОЧЕК УКЛАДЫВАЮТСЯ В ОБЫЧНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКОВ",
+        "text": "ПЕРЕРЫВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.85,
-    "end": 12.99,
+    "start": 14.97,
+    "end": 16.35,
     "lines": [
       {
-        "text": "ПРОДОЛЖАЕТСЯ",
+        "text": "СМЕНЫ МЕЖДУ ДЕЛАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНД",
+        "text": "ВОЖАТОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.14,
-    "end": 14.94,
+    "start": 16.59,
+    "end": 18.15,
     "lines": [
       {
-        "text": "РОВНО С ТОГО ЖЕ МЕСТА ПОСЛЕ ВОЗВРАЩЕНИЯ",
+        "text": "РАСТЯГИВАТЬ КАРТОЧКИ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗИ",
+        "text": "ЦЕЛЫЙ ЧАС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.09,
-    "end": 17.19,
+    "start": 18.36,
+    "end": 19.41,
     "lines": [
       {
-        "text": "НА БЕРЕГУ ТЕРЯТЬ ЗАСЛУЖЕННО НАБРАННЫЕ",
+        "text": "ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧКИ",
+        "text": "КОРОТКОГО ПЕРЕРЫВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.37,
-    "end": 18.84,
+    "start": 19.65,
+    "end": 21.18,
     "lines": [
       {
-        "text": "ИЗ ЗА СЛУЧАЙНОГО ОБРЫВА",
+        "text": "НЕ ПРИХОДИТСЯ НОВАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СИГНАЛА",
+        "text": "ДЕСЯТКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.02,
-    "end": 20.67,
+    "start": 21.33,
+    "end": 22.83,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ ПАУЗА",
+        "text": "КАРТОЧЕК ОТКРЫВАЕТСЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНИМАЕТСЯ",
+        "text": "СЛЕДУЮЩЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.82,
-    "end": 22.74,
+    "start": 22.98,
+    "end": 24.15,
     "lines": [
       {
-        "text": "САМА КАК ТОЛЬКО СИГНАЛ ВОЗВРАЩАЕТСЯ",
+        "text": "СВОБОДНОМ ПЕРЕРЫВЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНОВА",
+        "text": "СМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.13,
-    "end": 24.69,
+    "start": 24.39,
+    "end": 26.82,
     "lines": [
       {
-        "text": "ПРОДОЛЖАЕТСЯ С ТОГО ЖЕ",
+        "text": "ДЕСЯТЬ КАРТОЧЕК УКЛАДЫВАЮТСЯ РОВНО В КОРОТКИЙ ПЕРЕРЫВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНД",
+        "text": "СМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.93,
-    "end": 25.98,
-    "lines": [
-      {
-        "text": "ПОСЛЕ ВОЗВРАТА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СИГНАЛА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 26.22,
-    "end": 28.08,
+    "start": 27.42,
+    "end": 29.28,
     "lines": [
       {
         "text": "ССЫЛКА",
