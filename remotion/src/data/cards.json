@@ -1,167 +1,167 @@
 [
   {
-    "start": 2.1,
-    "end": 4.44,
+    "start": 2.19,
+    "end": 5.19,
     "lines": [
       {
-        "text": "КРАСИВЫЕ",
+        "text": "ПУТАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕЖЕДНЕВНИКИ",
+        "text": "ПАРОНИМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.74,
-    "end": 6.6,
+    "start": 5.79,
+    "end": 7.86,
     "lines": [
       {
-        "text": "ИСПИСАНЫ НА",
+        "text": "ХОТЯ РАЗНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕТЬ",
+        "text": "В ОДНОЙ БУКВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.53,
-    "end": 10.2,
+    "start": 8.85,
+    "end": 10.83,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ХРАНИТ",
+        "text": "ТРЕНАЖЁР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРМИНЫ",
+        "text": "СОБИРАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.8,
-    "end": 13.71,
+    "start": 11.07,
+    "end": 12.93,
     "lines": [
       {
-        "text": "БЕЗ НАКЛЕЕК",
+        "text": "ТАКИЕ ПАРОНИМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И РАЗДЕЛОВ",
+        "text": "В РАУНД ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.61,
-    "end": 16.83,
+    "start": 13.53,
+    "end": 15.54,
     "lines": [
       {
-        "text": "НАЙТИ ПО",
+        "text": "ПУТАНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛОВУ",
+        "text": "РАЗБИРАЕТСЯ ПАРАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.4,
-    "end": 19.29,
+    "start": 16.47,
+    "end": 18.24,
     "lines": [
       {
-        "text": "А НЕ ПО",
+        "text": "НОВАЯ ПАРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦВЕТУ ОБЛОЖКИ",
+        "text": "СЛОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.07,
-    "end": 22.56,
+    "start": 18.69,
+    "end": 20.46,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЮТ",
+        "text": "КАК ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТМЕТОК",
+        "text": "ПЕРЕСТАЁТ ПУТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.83,
-    "end": 24.63,
+    "start": 21.33,
+    "end": 23.88,
     "lines": [
       {
-        "text": "РАДИ КРАСИВОЙ",
+        "text": "МЕНЬШЕ МИНУТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТИСТИКИ",
+        "text": "МЕЖДУ ДЕЛАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.53,
-    "end": 27.33,
+    "start": 24.57,
+    "end": 27.66,
     "lines": [
       {
-        "text": "КРАСИВЫЙ НО",
+        "text": "НЕ ТРЕБУЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБРОШЕННЫЙ",
+        "text": "ПЕРЕСМАТРИВАТЬ СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.57,
-    "end": 30.09,
+    "start": 28.56,
+    "end": 32.16,
     "lines": [
       {
-        "text": "ЗАМЕНЯЕТСЯ",
+        "text": "ПАРОНИМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТОЧКАМИ",
+        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.87,
-    "end": 32.85,
+    "start": 33.03,
+    "end": 35.62,
     "lines": [
       {
         "text": "ССЫЛКА",
