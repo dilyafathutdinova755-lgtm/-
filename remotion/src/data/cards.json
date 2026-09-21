@@ -1,119 +1,167 @@
 [
   {
-    "start": 2.31,
-    "end": 6.12,
+    "start": 2.04,
+    "end": 3.81,
     "lines": [
       {
-        "text": "МНЕМОНИЧЕСКИЕ",
+        "text": "ПРОСТО БУДЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТИШКИ",
+        "text": "ВНИМАТЕЛЬНЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.02,
-    "end": 10.86,
+    "start": 4.32,
+    "end": 6.93,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР СТАЛКИВАЕТ",
+        "text": "ПОСЛЕ КАЖДОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖИЕ ДАТЫ",
+        "text": "ОБИДНОЙ ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.52,
-    "end": 14.37,
+    "start": 8.1,
+    "end": 11.1,
     "lines": [
       {
-        "text": "БЕЗ РИФМ",
+        "text": "ТРЕНАЖЁР ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРО ЗАПОМИНАНИЕ",
+        "text": "ПРОШЛУЮ ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.42,
-    "end": 18.99,
+    "start": 12.3,
+    "end": 13.47,
     "lines": [
       {
-        "text": "РАУНД ПОВТОРЯЕТ",
+        "text": "РЯДОМ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ПУТАЮЩИЕСЯ",
+        "text": "НОВОЙ ПОПЫТКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.44,
-    "end": 20.49,
+    "start": 14.04,
+    "end": 16.53,
     "lines": [
       {
-        "text": "НЕ ВЕСЬ",
+        "text": "ВМЕСТО АБСТРАКТНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСОК ПОДРЯД",
+        "text": "СОВЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.3,
-    "end": 24.21,
+    "start": 17.25,
+    "end": 20.25,
     "lines": [
       {
-        "text": "НИКАКИХ СТИШКОВ",
+        "text": "ВИДНО ФАКТАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧИТАТЬ НЕ НУЖНО",
+        "text": "А НЕ ПОЖЕЛАНИЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.96,
-    "end": 28.92,
+    "start": 21.03,
+    "end": 23.01,
     "lines": [
       {
-        "text": "ДАТЫ ЗАПОМИНАЮТСЯ",
+        "text": "РАБОТАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ СТИШКОВ",
+        "text": "ОДИНАКОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.76,
-    "end": 32.32,
+    "start": 23.19,
+    "end": 26.25,
+    "lines": [
+      {
+        "text": "СКОЛЬКО НИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.15,
+    "end": 29.07,
+    "lines": [
+      {
+        "text": "АБСТРАКТНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.61,
+    "end": 32.07,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫМ ФАКТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.76,
+    "end": 35.41,
     "lines": [
       {
         "text": "ССЫЛКА",
