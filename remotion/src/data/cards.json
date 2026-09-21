@@ -1,10 +1,10 @@
 [
   {
-    "start": 2.7,
-    "end": 4.62,
+    "start": 2.94,
+    "end": 4.47,
     "lines": [
       {
-        "text": "СКАЧИВАЮТ ОФЛАЙН БАНК ЗАДАНИЕ",
+        "text": "ВИДЯТ В ОБЩЕЙ СТАТИСТИКЕ ПО",
         "accent": false,
         "size": "small"
       },
@@ -16,24 +16,24 @@
     ]
   },
   {
-    "start": 4.92,
-    "end": 7.56,
+    "start": 4.71,
+    "end": 6.99,
     "lines": [
       {
-        "text": "ПЕРЕД ВЫЕЗДОМ НА СБОРЫ В ЛАГЕРЬ БЕЗ СТАБИЛЬНОЙ",
+        "text": "ТОЛЬКО ОДИН СМЕШАННЫЙ УСПЕВАЕМОСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗИ",
+        "text": "ПОКАЗАТЕЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.58,
-    "end": 9.81,
+    "start": 8.13,
+    "end": 9.15,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,114 +41,98 @@
         "size": "small"
       },
       {
-        "text": "ОТБИРАЕТ",
+        "text": "ВЫВОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.99,
-    "end": 11.49,
+    "start": 9.3,
+    "end": 10.89,
     "lines": [
       {
-        "text": "В ОФФЛАЙН БАНК ТОЛЬКО",
+        "text": "СТАТИСТИКУ ПО ОЛИМПИАДНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ЗАДАЧАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.73,
-    "end": 12.63,
+    "start": 11.16,
+    "end": 13.17,
     "lines": [
       {
-        "text": "",
+        "text": "ОТДЕЛЬНОЙ СТРОКОЙ ОТ ОБЫЧНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВЫШЕННОЙ СЛОЖНОСТИ",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.17,
-    "end": 14.46,
+    "start": 13.29,
+    "end": 16.32,
     "lines": [
       {
-        "text": "РЯДОМ С ТЕМАМИ",
+        "text": "ОСНОВНОГО КУРСА ПРОГРЕСС ПО ТРУДНЫМ НЕСТАНДАРТНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЛИМПИАД",
+        "text": "ТРУДНЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.76,
-    "end": 15.75,
+    "start": 16.44,
+    "end": 17.49,
     "lines": [
       {
-        "text": "А НЕ ВЕСЬ КУРС",
+        "text": "ЗАДАЧАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДРЯД",
+        "text": "ВИДЕН СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.62,
-    "end": 18.93,
+    "start": 18.21,
+    "end": 19.83,
     "lines": [
       {
-        "text": "ОБЫЧНЫЕ ЛЕГКИЕ ЗАДАНИЯ ОСТАЮТСЯ",
+        "text": "БЕЗ СМЕШИВАНИЯ С ПРОСТЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОСТУПНЫ",
+        "text": "ТЕМАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.14,
-    "end": 20.94,
+    "start": 20.79,
+    "end": 23.73,
     "lines": [
       {
-        "text": "ТОЛЬКО ПРИ АКТИВНОЙ СВЯЗИ В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИЛОЖЕНИИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.72,
-    "end": 23.91,
-    "lines": [
-      {
-        "text": "СОБИРАТЬ НУЖНЫЕ СЛОЖНЫЕ ЗАДАНИЯ",
+        "text": "ИСКАТЬ ОЛИМПИАДНЫЕ РЕЗУЛЬТАТЫ ВНУТРИ ОБЩЕГО СПИСКА",
         "accent": false,
         "size": "small"
       },
@@ -160,72 +144,88 @@
     ]
   },
   {
-    "start": 24.27,
-    "end": 25.68,
+    "start": 24.03,
+    "end": 26.43,
     "lines": [
       {
-        "text": "ИЗ ОБЩЕГО БАНКА ПЕРЕД",
+        "text": "НЕ ПРИХОДИТСЯ ОТДЕЛЬНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРАМИ",
+        "text": "СТРОКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.95,
-    "end": 28.59,
+    "start": 26.64,
+    "end": 28.29,
     "lines": [
       {
-        "text": "НЕ ПРИХОДИТСЯ ОБНОВЛЯЕТСЯ",
+        "text": "ОБНОВЛЯЕТСЯ САМА ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАБОР",
+        "text": "КАЖДОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.8,
-    "end": 31.02,
+    "start": 28.56,
+    "end": 30.3,
     "lines": [
       {
-        "text": "САМ ПРИ КАЖДОМ НОВОМ ПОДКЛЮЧЕНИИ К",
+        "text": "НОВОГО РЕШЕННОГО ЗАДАНИЯ ТАКОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНТЕРНЕТУ",
+        "text": "ТИПА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.92,
-    "end": 35.61,
+    "start": 31.29,
+    "end": 33.45,
     "lines": [
       {
-        "text": "СЛОЖНЫЕ ОЛИМПИАДНЫЕ ЗАДАНИЯ ОСТАЮТСЯ ПОД РУКОЙ ДАЖЕ ВДАЛИ ОТ",
+        "text": "ОЛИМПИАДНЫЙ ПРОГРЕСС ВИДЕН ОТДЕЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕТИ",
+        "text": "СТРОКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 36.54,
-    "end": 38.52,
+    "start": 34.05,
+    "end": 35.97,
+    "lines": [
+      {
+        "text": "НЕ СМЕШИВАЯСЬ С ОСТАЛЬНЫМИ ТЕМАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КУРСА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 36.9,
+    "end": 38.82,
     "lines": [
       {
         "text": "ССЫЛКА",
