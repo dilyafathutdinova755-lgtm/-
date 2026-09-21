@@ -1,10 +1,10 @@
 [
   {
-    "start": 1.8,
-    "end": 3.48,
+    "start": 1.65,
+    "end": 2.85,
     "lines": [
       {
-        "text": "СМОТРЯТ НА ИТОГОВЫЙ ПРОЦЕНТ ТОЧНОСТИ ПО",
+        "text": "КАРТОЧКИ ТЕРМИНОВ ПО",
         "accent": false,
         "size": "small"
       },
@@ -16,24 +16,40 @@
     ]
   },
   {
-    "start": 4.05,
-    "end": 6.9,
+    "start": 3.06,
+    "end": 3.99,
     "lines": [
       {
-        "text": "И НЕ ПОНИМАЮТ СТАБИЛЕН ЛИ ИХ РЕЗУЛЬТАТ НА САМОМ",
+        "text": "В ОДНОЙ БОЛЬШОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛЕ",
+        "text": "КУЧЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.01,
-    "end": 9.24,
+    "start": 4.38,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "И ПОВТОРЯЮТ ИХ БЕЗ ВСЯКОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.16,
     "lines": [
       {
         "text": "ЕГЭ ТРЕНАЖЕР",
@@ -41,175 +57,127 @@
         "size": "small"
       },
       {
-        "text": "СЧИТАЕТ",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.42,
-    "end": 10.83,
+    "start": 8.34,
+    "end": 10.26,
     "lines": [
       {
-        "text": "ОТДЕЛЬНУЮ",
+        "text": "ТОЧНОЕ ВРЕМЯ ДО СЛЕДУЮЩЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕРИЮ ДНЕЙ ПОДРЯД",
+        "text": "ПОВТОРЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.19,
-    "end": 13.05,
+    "start": 10.77,
+    "end": 12.69,
     "lines": [
       {
-        "text": "С ОДИНАКОВО ВЫСОКОЙ ТОЧНОСТЬЮ",
+        "text": "ПРЯМО НА ОБРАТНОЙ СТОРОНЕ КАЖДОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТОВ",
+        "text": "КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.53,
-    "end": 14.97,
+    "start": 13.41,
+    "end": 14.94,
     "lines": [
       {
-        "text": "А НЕ ТОЛЬКО СЕГОДНЯШНИЙ",
+        "text": "ОБРАТНЫЙ ОТЧЕТ ДО НУЖНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЦЕНТ",
+        "text": "КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.6,
-    "end": 17.37,
+    "start": 15.21,
+    "end": 17.67,
     "lines": [
       {
-        "text": "ОДИН СЛАБЫЙ ДЕНЬ СБИВАЕТ",
+        "text": "ВИДЕН ЗАРАНЕЕ ЕЩЕ ДО ОТКРЫТИЯ ВСЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕРИЮ",
+        "text": "КОЛОДЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.76,
-    "end": 19.5,
+    "start": 18.21,
+    "end": 20.82,
     "lines": [
       {
-        "text": "ЗАТО НЕ ПОРТИТ ОБЩИЙ",
+        "text": "ПЕРЕБИРАТЬ ВСЮ КОЛОДУ КАРТОЧЕК ПОДРЯД В ПОИСКАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗАТЕЛЬ",
+        "text": "НУЖНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.31,
-    "end": 22.89,
+    "start": 21.06,
+    "end": 23.07,
     "lines": [
       {
-        "text": "СУДИТЬ О СТАБИЛЬНОСТИ ТОЛЬКО ПО СЕГОДНЯШНЕМУ",
+        "text": "НЕ ПРИХОДИТСЯ НУЖНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЦЕНТУ",
+        "text": "КАРТОЧКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.16,
-    "end": 24.03,
+    "start": 23.25,
+    "end": 25.77,
     "lines": [
       {
-        "text": "БОЛЬШЕ НЕ",
+        "text": "САМА ПОДНИМАЕТСЯ ВЫШЕ ОСТАЛЬНЫХ К СРОКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИХОДИТСЯ",
+        "text": "ПОВТОРЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.75,
-    "end": 27.99,
-    "lines": [
-      {
-        "text": "СЕРИЯ ДНЕЙ С ВЫСОКОЙ ТОЧНОСТЬЮ ВИДНА ПРЯМО НА ГЛАВНОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЭКРАНЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.8,
-    "end": 30.39,
-    "lines": [
-      {
-        "text": "СТАБИЛЬНОСТЬ ВИДНА ПО СЕРИИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДНЕЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 30.75,
-    "end": 32.43,
-    "lines": [
-      {
-        "text": "А НЕ ПО СЛУЧАЙНОМУ ПРОЦЕНТУ ЗА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СЕГОДНЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.21,
-    "end": 35.16,
+    "start": 26.49,
+    "end": 28.35,
     "lines": [
       {
         "text": "ССЫЛКА",
