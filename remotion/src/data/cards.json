@@ -1,151 +1,151 @@
 [
   {
-    "start": 2.04,
-    "end": 3.81,
+    "start": 2.1,
+    "end": 4.44,
     "lines": [
       {
-        "text": "ПРОСТО БУДЬ",
+        "text": "КРАСИВЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВНИМАТЕЛЬНЕЕ",
+        "text": "ЕЖЕДНЕВНИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.32,
-    "end": 6.93,
+    "start": 4.74,
+    "end": 6.6,
     "lines": [
       {
-        "text": "ПОСЛЕ КАЖДОЙ",
+        "text": "ИСПИСАНЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБИДНОЙ ОШИБКИ",
+        "text": "ТРЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 11.1,
+    "start": 7.53,
+    "end": 10.2,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ПОКАЗЫВАЕТ",
+        "text": "ТРЕНАЖЁР ХРАНИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОШЛУЮ ОШИБКУ",
+        "text": "ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.3,
-    "end": 13.47,
+    "start": 10.8,
+    "end": 13.71,
     "lines": [
       {
-        "text": "РЯДОМ С",
+        "text": "БЕЗ НАКЛЕЕК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОВОЙ ПОПЫТКОЙ",
+        "text": "И РАЗДЕЛОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.04,
-    "end": 16.53,
+    "start": 14.61,
+    "end": 16.83,
     "lines": [
       {
-        "text": "ВМЕСТО АБСТРАКТНОГО",
+        "text": "НАЙТИ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВЕТА",
+        "text": "СЛОВУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.25,
-    "end": 20.25,
+    "start": 17.4,
+    "end": 19.29,
     "lines": [
       {
-        "text": "ВИДНО ФАКТАМИ",
+        "text": "А НЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ ПОЖЕЛАНИЕМ",
+        "text": "ЦВЕТУ ОБЛОЖКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.03,
-    "end": 23.01,
+    "start": 20.07,
+    "end": 22.56,
     "lines": [
       {
-        "text": "РАБОТАЕТ",
+        "text": "НЕ ТРЕБУЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИНАКОВО",
+        "text": "ОТМЕТОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.19,
-    "end": 26.25,
+    "start": 22.83,
+    "end": 24.63,
     "lines": [
       {
-        "text": "СКОЛЬКО НИ",
+        "text": "РАДИ КРАСИВОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЛОСЬ",
+        "text": "СТАТИСТИКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.15,
-    "end": 29.07,
+    "start": 25.53,
+    "end": 27.33,
     "lines": [
       {
-        "text": "АБСТРАКТНЫЙ",
+        "text": "КРАСИВЫЙ НО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВЕТ",
+        "text": "ЗАБРОШЕННЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.61,
-    "end": 32.07,
+    "start": 27.57,
+    "end": 30.09,
     "lines": [
       {
         "text": "ЗАМЕНЯЕТСЯ",
@@ -153,15 +153,15 @@
         "size": "small"
       },
       {
-        "text": "КОНКРЕТНЫМ ФАКТОМ",
+        "text": "КАРТОЧКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.76,
-    "end": 35.41,
+    "start": 30.87,
+    "end": 32.85,
     "lines": [
       {
         "text": "ССЫЛКА",
