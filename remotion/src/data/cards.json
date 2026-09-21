@@ -1,183 +1,167 @@
 [
   {
-    "start": 2.28,
-    "end": 3.54,
+    "start": 1.83,
+    "end": 5.64,
     "lines": [
       {
-        "text": "БАЛЛЫ НА",
+        "text": "БОЯТСЯ ЗАБЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРЕДНЕМ УРОВНЕ",
+        "text": "ТЕРМИН НА ЭКЗАМЕНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.08,
-    "end": 5.94,
+    "start": 6.06,
+    "end": 7.92,
     "lines": [
       {
-        "text": "БОЯТСЯ",
+        "text": "ХОТЯ НАКАНУНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВИТЬСЯ",
+        "text": "ВСЕ ВСПОМНИЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
-    "end": 8.73,
+    "start": 9.27,
+    "end": 11.61,
     "lines": [
       {
-        "text": "КОТОРОЕ НА",
+        "text": "ТРЕНАЖЁР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНЕ ОКАЖЕТСЯ",
+        "text": "СКЛАДЫВАЕТ ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 12.45,
+    "start": 12.0,
+    "end": 13.5,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ОБНОВЛЯЕТ",
+        "text": "В КОРОТКИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОЕ ЗАДАНИЕ",
+        "text": "СПИСОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 15.93,
+    "start": 14.01,
+    "end": 17.07,
     "lines": [
       {
-        "text": "ТОЧНО ВСЛЕД",
+        "text": "ПРЯМО В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ДЕМОВЕРСИЕЙ",
+        "text": "ПРИЛОЖЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.77,
-    "end": 18.24,
+    "start": 18.12,
+    "end": 21.0,
     "lines": [
       {
-        "text": "БЕЗ ЛИШНИХ",
+        "text": "НУЖНУЮ КАРТОЧКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРСИЙ",
+        "text": "НЕСКОЛЬКО КАСАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.29,
-    "end": 22.2,
+    "start": 21.66,
+    "end": 23.55,
     "lines": [
       {
-        "text": "УСТАРЕВШИЙ",
+        "text": "БЕЗ ДОЛГОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТ УБИРАЕТСЯ",
+        "text": "ПРОЛИСТЫВАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.04,
-    "end": 25.53,
+    "start": 24.57,
+    "end": 27.81,
     "lines": [
       {
-        "text": "ТРЕВОГА РЕШАТЬ",
+        "text": "НАКАНУНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ТО ЗАДАНИЕ",
+        "text": "ЗАКРЕПЛЯЕТ ТЕРМИН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.07,
-    "end": 29.55,
+    "start": 28.2,
+    "end": 30.06,
     "lines": [
       {
-        "text": "СНИМАЕТСЯ",
+        "text": "КАК ПОВТОРЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАРОЙ ВЕРСИИ НЕТ",
+        "text": "ЗА НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.72,
-    "end": 32.73,
-    "lines": [
-      {
-        "text": "СТРАХ ГОТОВИТЬСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ К ТОМУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.03,
+    "start": 31.71,
     "end": 35.61,
     "lines": [
       {
-        "text": "СНИМАЕТСЯ ОДНИМ",
+        "text": "СТРАХ ЗАБЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОЧНИКОМ",
+        "text": "СНИМАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 36.66,
-    "end": 39.31,
+    "start": 36.6,
+    "end": 39.22,
     "lines": [
       {
         "text": "ССЫЛКА",
