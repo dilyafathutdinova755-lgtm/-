@@ -1,167 +1,151 @@
 [
   {
-    "start": 2.46,
-    "end": 5.67,
+    "start": 2.85,
+    "end": 6.18,
     "lines": [
       {
-        "text": "ТРЕВОЖАТСЯ",
+        "text": "НЕ ВИДЯТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ УСПЕТЬ",
+        "text": "КАКОЙ ПРЕДМЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.88,
-    "end": 6.75,
+    "start": 6.66,
+    "end": 8.61,
     "lines": [
       {
-        "text": "НА САМОМ",
+        "text": "ПОКА БАЛЛЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНЕ",
+        "text": "КАЖУТСЯ ВЫСОКИМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.98,
-    "end": 11.94,
+    "start": 9.87,
+    "end": 13.35,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ВКЛЮЧАЕТ",
+        "text": "ТРЕНАЖЁР ВЫВОДИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЩИЙ ТАЙМЕР",
+        "text": "ПРОЦЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 16.26,
+    "start": 14.1,
+    "end": 17.61,
     "lines": [
       {
-        "text": "ДО ТОГО КАК",
+        "text": "НА ОДИН ЭКРАН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕХВАТКА ВРЕМЕНИ",
+        "text": "БЕЗ ПЕРЕКЛЮЧЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.37,
-    "end": 20.79,
+    "start": 18.42,
+    "end": 19.83,
     "lines": [
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ПРИ ВЫСОКИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОЛЬКО ОСТАЁТСЯ",
+        "text": "БАЛЛАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.3,
-    "end": 22.44,
+    "start": 20.13,
+    "end": 23.31,
     "lines": [
       {
-        "text": "МИНУТА ЗА",
+        "text": "ВИДЕН ПРЕДМЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МИНУТОЙ",
+        "text": "КОТОРЫЙ ОТСТАЁТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.61,
-    "end": 26.61,
+    "start": 24.36,
+    "end": 25.83,
     "lines": [
       {
-        "text": "ТРЕВОГА ПЕРЕД",
+        "text": "ЭКРАН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕЗНАКОМЫМ",
+        "text": "ПЕРЕСОБИРАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.09,
-    "end": 30.18,
+    "start": 26.19,
+    "end": 28.47,
     "lines": [
       {
-        "text": "УЖЕ ЗНАКОМО",
+        "text": "СРАЗУ ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ПРОБНИКУ",
+        "text": "НОВОГО ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.14,
-    "end": 33.24,
+    "start": 29.43,
+    "end": 33.06,
     "lines": [
       {
-        "text": "ТРЕНИРУЕТСЯ",
+        "text": "ВЫСОКИЕ БАЛЛЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "НЕ МАСКИРУЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 33.66,
-    "end": 36.27,
-    "lines": [
-      {
-        "text": "НЕ СЮРПРИЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В РЕШАЮЩИЙ ДЕНЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 37.53,
-    "end": 39.56,
+    "start": 34.05,
+    "end": 36.58,
     "lines": [
       {
         "text": "ССЫЛКА",
