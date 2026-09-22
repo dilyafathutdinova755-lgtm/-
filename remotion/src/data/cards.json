@@ -1,31 +1,31 @@
 [
   {
-    "start": 1.89,
-    "end": 3.6,
+    "start": 2.67,
+    "end": 4.65,
     "lines": [
       {
-        "text": "ОШИБСЯ ПОСМОТРЕЛ ОТВЕТ",
+        "text": "ПУТАЮТСЯ В ГОЛОВЕ УЖЕ НА ТРЕТЬЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКАЗАЛ",
+        "text": "ПОВТОРЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.87,
-    "end": 6.06,
+    "start": 4.92,
+    "end": 6.03,
     "lines": [
       {
-        "text": "А ПОНЯТНО И ЧЕРЕЗ НЕДЕЛЮ ОШИБСЯ ТАМ",
+        "text": "ДЕЛО ОБЫЧНО НЕ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖЕ",
+        "text": "ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
@@ -33,87 +33,103 @@
   },
   {
     "start": 6.3,
-    "end": 10.2,
+    "end": 8.04,
     "lines": [
       {
-        "text": "ВЗГЛЯДЫ НА ПРАВИЛЬНЫЙ ОТВЕТ ОБЫЧНО НЕ ХВАТАЕТ ЧТОБЫ ТЕМА ЗАКРЕПИЛАСЬ ПО",
+        "text": "ПОМОГАЕТ НЕ ЕЩЕ ОДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩЕМУ",
+        "text": "ЧТЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.53,
-    "end": 12.12,
+    "start": 8.34,
+    "end": 10.56,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ КАЖДОМУ",
+        "text": "А ФОРМАТ ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЮ",
+        "text": "САМОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.3,
-    "end": 13.62,
+    "start": 10.92,
+    "end": 11.73,
     "lines": [
       {
-        "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВАЯ",
+        "text": "",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.77,
-    "end": 15.33,
+    "start": 11.85,
+    "end": 14.22,
     "lines": [
       {
-        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "text": "ПО РУССКОМУ ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОГИКУ РЕШЕНИЯ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.63,
-    "end": 16.8,
+    "start": 14.49,
+    "end": 15.54,
     "lines": [
       {
-        "text": "А НЕ ТОЛЬКО НАЗЫВАЕТ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.07,
-    "end": 18.93,
+    "start": 15.75,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "ИМЕННО ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.77,
+    "end": 18.78,
     "lines": [
       {
         "text": "ССЫЛКА",
