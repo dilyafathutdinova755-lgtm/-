@@ -1,135 +1,231 @@
 [
   {
-    "start": 2.13,
-    "end": 4.62,
+    "start": 3.0,
+    "end": 3.99,
     "lines": [
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ ИЛИ ОБЩЕСТВОЗНАНИЯ",
+        "text": "ОБЫЧНУЮ ИГРУ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.07,
-    "end": 7.53,
+    "start": 4.35,
+    "end": 6.0,
     "lines": [
       {
-        "text": "СТОИТ ОБРАТИТЬ ВНИМАНИЕ НЕ ТОЛЬКО НА КОЛИЧЕСТВО",
+        "text": "С САМЫМИ ПРОСТЫМИ ВАРИАНТАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСОВ",
+        "text": "ОТВЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 10.26,
+    "start": 6.57,
+    "end": 7.68,
     "lines": [
       {
-        "text": "А НА ТО КАК ИМЕННО ОН ЗАПОМИНАЕТ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МАТЕРИАЛ",
+        "text": "ВКЛЮЧАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.07,
-    "end": 12.99,
+    "start": 7.92,
+    "end": 8.88,
     "lines": [
       {
-        "text": "ОБЫЧНОЕ ПЕРЕЧИТЫВАНИЕ КОНСПЕКТА",
+        "text": "ОТДЕЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСТО",
+        "text": "РЕЖИМ ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.11,
-    "end": 14.4,
+    "start": 9.18,
+    "end": 10.29,
     "lines": [
       {
-        "text": "НЕ ДАЕТ",
+        "text": "ИМЕННО С ТЕМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТОЙКОГО РЕЗУЛЬТАТА",
+        "text": "ВАРИАНТАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.18,
-    "end": 16.8,
+    "start": 10.59,
+    "end": 12.54,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО ЭТИМ",
+        "text": "КОТОРЫЕ ЧАЩЕ ВСЕГО ПУТАЮТ МЕЖДУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕДМЕТАМ",
+        "text": "СОБОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.04,
-    "end": 18.24,
+    "start": 13.26,
+    "end": 15.42,
     "lines": [
       {
-        "text": "ЕСТЬ НА",
+        "text": "ЛОВУШКИ ПОДОБРАНЫ ПО ИТОГАМ ЧАСТЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ОШИБОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.66,
-    "end": 20.94,
+    "start": 15.66,
+    "end": 17.4,
     "lines": [
       {
-        "text": "МАТЕРИАЛ ЗАКРЕПЛЯЕТСЯ ЧЕРЕЗ АКТИВНОЕ",
+        "text": "ИМЕННО ОЛИМПИАДНОГО УРОВНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЕНИЕ",
+        "text": "СЛОЖНОСТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.21,
-    "end": 23.04,
+    "start": 18.03,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "ОТРАБАТЫВАТЬ ТОЛЬКО ЛЕГКИЕ ОДНОЗНАЧНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.82,
+    "end": 22.89,
+    "lines": [
+      {
+        "text": "ВМЕСТО НАСТОЯЩИХ ЛОВУШЕК НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИХОДИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.22,
+    "end": 24.75,
+    "lines": [
+      {
+        "text": "РЕЖИМ ЛОВУШЕК МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВКЛЮЧИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.99,
+    "end": 27.09,
+    "lines": [
+      {
+        "text": "И ВЫКЛЮЧИТЬ ОДНИМ ПЕРЕКЛЮЧАТЕЛЕМ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАСТРОЙКАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.69,
+    "end": 28.89,
+    "lines": [
+      {
+        "text": "ОТДЕЛЬНЫЙ РЕЖИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.07,
+    "end": 31.47,
+    "lines": [
+      {
+        "text": "ИМЕННО ТЕ ВАРИАНТЫ КОТОРЫЕ ПУТАЮТ ЧАЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.19,
+    "end": 34.05,
     "lines": [
       {
         "text": "ССЫЛКА",
