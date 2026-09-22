@@ -1,0 +1,66 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Card,Golos Text Black,90,&H00FFFFFF&,&H00FFFFFF&,&H00101010&,&H80000000&,0,0,0,0,100,100,1,0,1,4,3,5,70,70,0,204
+Style: Run,PT Sans Narrow,42,&H00FFFFFF&,&H00FFFFFF&,&H00000000&,&HB0000000&,0,0,0,0,100,100,0,0,1,0,3,5,70,70,0,204
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:02.90,Card,,0,0,0,,{\an5\pos(540,1226)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs45\c&H00FFF5C9&}СЧИТАЕШЬ ВАРИАНТЫ ПО ШТУКАМ?{\r}
+Dialogue: 1,0:00:00.00,0:00:02.90,Card,,0,0,0,,{\an5\pos(540,1260)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs30\c&H00FFF5C9&}А ОНИ ТОЧНО ИЗ АКТУАЛЬНОГО ЕГЭ?{\r}
+Dialogue: 1,0:00:02.90,0:00:05.52,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}ЧИСЛО ВАРИАНТОВ{\r}
+Dialogue: 1,0:00:02.90,0:00:05.52,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00FFF5C9&\bord3\3c&H00101010&}ОБМАНЫВАЕТ{\r}
+Dialogue: 1,0:00:05.88,0:00:09.58,Card,,0,0,0,,{\an5\pos(540,1204)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs38\c&H00FFFFFF&\bord4\3c&H00101010&}ЧАСТЬ ВАРИАНТОВ{\r}
+Dialogue: 1,0:00:05.88,0:00:09.58,Card,,0,0,0,,{\an5\pos(540,1257)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs79\c&H00FFF5C9&\bord3\3c&H00101010&}НЕ СОВПАДАЕТ С ЕГЭ{\r}
+Dialogue: 1,0:00:09.92,0:00:12.30,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}ЕГЭ ТРЕНАЖЁР{\r}
+Dialogue: 1,0:00:09.92,0:00:12.30,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00FFF5C9&\bord3\3c&H00101010&}БАНК ФИПИ{\r}
+Dialogue: 1,0:00:12.51,0:00:14.86,Card,,0,0,0,,{\an5\pos(540,1195)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}ЗАДАНИЯ{\r}
+Dialogue: 1,0:00:12.51,0:00:14.86,Card,,0,0,0,,{\an5\pos(540,1259)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00FFF5C9&\bord3\3c&H00101010&}КАК НА ЕГЭ{\r}
+Dialogue: 1,0:00:15.16,0:00:17.26,Card,,0,0,0,,{\an5\pos(540,1220)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs99\c&H00FFF5C9&\bord3\3c&H00101010&}ССЫЛКА{\r}
+Dialogue: 1,0:00:15.16,0:00:17.26,Card,,0,0,0,,{\an5\pos(540,1284)\fscx94\fscy94\t(0,320,0.6,\fscx100\fscy100)\fad(140,90)}{\fs44\c&H00FFFFFF&\bord4\3c&H00101010&}в шапке профиля{\r}
+Dialogue: 0,0:00:00.00,0:00:00.37,Run,,0,0,0,,{\an5\pos(540,300)}если
+Dialogue: 0,0:00:00.37,0:00:00.97,Run,,0,0,0,,{\an5\pos(540,300)}оценивать
+Dialogue: 0,0:00:00.97,0:00:01.57,Run,,0,0,0,,{\an5\pos(540,300)}подготовку
+Dialogue: 0,0:00:01.57,0:00:01.69,Run,,0,0,0,,{\an5\pos(540,300)}к
+Dialogue: 0,0:00:01.69,0:00:02.13,Run,,0,0,0,,{\an5\pos(540,300)}егэ
+Dialogue: 0,0:00:02.13,0:00:02.37,Run,,0,0,0,,{\an5\pos(540,300)}только
+Dialogue: 0,0:00:02.37,0:00:02.81,Run,,0,0,0,,{\an5\pos(540,300)}числом
+Dialogue: 0,0:00:02.81,0:00:03.29,Run,,0,0,0,,{\an5\pos(540,300)}решённых
+Dialogue: 0,0:00:03.29,0:00:04.06,Run,,0,0,0,,{\an5\pos(540,300)}вариантов
+Dialogue: 0,0:00:04.06,0:00:04.34,Run,,0,0,0,,{\an5\pos(540,300)}легко
+Dialogue: 0,0:00:04.34,0:00:04.82,Run,,0,0,0,,{\an5\pos(540,300)}обмануть
+Dialogue: 0,0:00:04.82,0:00:05.22,Run,,0,0,0,,{\an5\pos(540,300)}самого
+Dialogue: 0,0:00:05.22,0:00:05.88,Run,,0,0,0,,{\an5\pos(540,300)}себя
+Dialogue: 0,0:00:05.88,0:00:06.16,Run,,0,0,0,,{\an5\pos(540,300)}часть
+Dialogue: 0,0:00:06.16,0:00:06.44,Run,,0,0,0,,{\an5\pos(540,300)}таких
+Dialogue: 0,0:00:06.44,0:00:07.12,Run,,0,0,0,,{\an5\pos(540,300)}вариантов
+Dialogue: 0,0:00:07.12,0:00:07.48,Run,,0,0,0,,{\an5\pos(540,300)}вообще
+Dialogue: 0,0:00:07.48,0:00:07.76,Run,,0,0,0,,{\an5\pos(540,300)}может
+Dialogue: 0,0:00:07.76,0:00:07.88,Run,,0,0,0,,{\an5\pos(540,300)}не
+Dialogue: 0,0:00:07.88,0:00:08.36,Run,,0,0,0,,{\an5\pos(540,300)}совпадать
+Dialogue: 0,0:00:08.36,0:00:08.46,Run,,0,0,0,,{\an5\pos(540,300)}с
+Dialogue: 0,0:00:08.44,0:00:08.96,Run,,0,0,0,,{\an5\pos(540,300)}актуальным
+Dialogue: 0,0:00:08.96,0:00:09.92,Run,,0,0,0,,{\an5\pos(540,300)}экзаменом
+Dialogue: 0,0:00:09.92,0:00:10.04,Run,,0,0,0,,{\an5\pos(540,300)}в
+Dialogue: 0,0:00:10.04,0:00:10.44,Run,,0,0,0,,{\an5\pos(540,300)}егэ
+Dialogue: 0,0:00:10.44,0:00:11.16,Run,,0,0,0,,{\an5\pos(540,300)}тренажёре
+Dialogue: 0,0:00:11.16,0:00:11.60,Run,,0,0,0,,{\an5\pos(540,300)}собран
+Dialogue: 0,0:00:11.60,0:00:11.88,Run,,0,0,0,,{\an5\pos(540,300)}банк
+Dialogue: 0,0:00:11.88,0:00:12.51,Run,,0,0,0,,{\an5\pos(540,300)}ФИПИ
+Dialogue: 0,0:00:12.51,0:00:12.91,Run,,0,0,0,,{\an5\pos(540,300)}задание
+Dialogue: 0,0:00:12.91,0:00:13.03,Run,,0,0,0,,{\an5\pos(540,300)}от
+Dialogue: 0,0:00:13.03,0:00:13.63,Run,,0,0,0,,{\an5\pos(540,300)}составителей
+Dialogue: 0,0:00:13.63,0:00:14.35,Run,,0,0,0,,{\an5\pos(540,300)}настоящего
+Dialogue: 0,0:00:14.35,0:00:15.16,Run,,0,0,0,,{\an5\pos(540,300)}егэ
+Dialogue: 0,0:00:15.16,0:00:15.52,Run,,0,0,0,,{\an5\pos(540,300)}ссылка
+Dialogue: 0,0:00:15.52,0:00:15.68,Run,,0,0,0,,{\an5\pos(540,300)}на
+Dialogue: 0,0:00:15.68,0:00:16.41,Run,,0,0,0,,{\an5\pos(540,300)}тренажёр
+Dialogue: 0,0:00:16.41,0:00:16.81,Run,,0,0,0,,{\an5\pos(540,300)}шапке
+Dialogue: 0,0:00:16.81,0:00:17.26,Run,,0,0,0,,{\an5\pos(540,300)}профиля
