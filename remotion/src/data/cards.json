@@ -1,151 +1,215 @@
 [
   {
-    "start": 1.98,
-    "end": 3.93,
+    "start": 2.88,
+    "end": 4.68,
     "lines": [
       {
-        "text": "ПО СЛУЧАЙНЫМ ВАРИАНТАМ КОТОРЫЕ НАШЛА В",
+        "text": "ВИДЯТ СЕБЯ В ОБЩЕМ РЕЙТИНГЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНТЕРНЕТЕ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.44,
-    "end": 7.5,
+    "start": 5.01,
+    "end": 6.84,
     "lines": [
       {
-        "text": "СНАЧАЛА СТОИТ ПРОВЕРИТЬ ОТКУДА ВООБЩЕ ВЗЯТЫ ЭТИ",
+        "text": "РЯДОМ С СОТНЯМИ ОБЫЧНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "УЧАСТНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.19,
-    "end": 9.24,
+    "start": 7.68,
+    "end": 8.76,
     "lines": [
       {
-        "text": "МНОГИЕ ТАКИЕ",
+        "text": "ЕГЭ ТРЕНАЖЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРНИКИ",
+        "text": "СОБИРАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.45,
-    "end": 11.16,
+    "start": 9.0,
+    "end": 10.2,
     "lines": [
       {
-        "text": "ДАВНО УСТАРЕЛИ ИЛИ НЕ",
+        "text": "ОТДЕЛЬНЫЙ РЕЙТИНГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАДАЮТ",
+        "text": "ИМЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.31,
-    "end": 12.84,
+    "start": 10.32,
+    "end": 12.09,
     "lines": [
       {
-        "text": "ПО ФОРМАТУ С",
+        "text": "СРЕДИ УЧАСТНИКОВ ОЛИМПИАДНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕАЛЬНЫМ ЭКЗАМЕНОМ",
+        "text": "ТРЕКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.53,
-    "end": 14.76,
+    "start": 12.66,
+    "end": 14.13,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "БЕЗ ОСТАЛЬНОЙ ПОЛЬЗОВАТЕЛЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБРАН",
+        "text": "МАССЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.0,
-    "end": 16.11,
+    "start": 14.88,
+    "end": 16.95,
     "lines": [
       {
-        "text": "АКТУАЛЬНЫЙ БАНК",
+        "text": "СРАВНЕНИЕ С РАВНЫМИ ПО УЧАСТНИКАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "УРОВНЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.62,
-    "end": 19.29,
+    "start": 17.28,
+    "end": 19.41,
     "lines": [
       {
-        "text": "ТЕ ЖЕ ЗАДАНИЯ ЧТО ИСПОЛЬЗУЕТ ПРИ СОСТАВЛЕНИИ",
+        "text": "ПОНЯТНЕЕ ОБЩЕГО СПИСКА ИЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОМИССИЯ",
+        "text": "ТЫСЯЧ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.5,
-    "end": 20.34,
+    "start": 20.16,
+    "end": 23.1,
     "lines": [
       {
-        "text": "",
+        "text": "ИСКАТЬ СЕБЯ СРЕДИ СОТЕН ОБЫЧНЫХ УЧАСТНИКОВ ОБЩЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩЕГО ЕГЭ",
+        "text": "СПИСКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.06,
-    "end": 22.92,
+    "start": 23.46,
+    "end": 25.02,
+    "lines": [
+      {
+        "text": "НЕ ПРИХОДИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНЫЙ РЕЙТИНГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.14,
+    "end": 27.0,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЕТСЯ ТАКЖЕ ЧАСТО КАК И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.57,
+    "end": 28.95,
+    "lines": [
+      {
+        "text": "СРАВНЕНИЕ С РАВНЫМИ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УРОВНЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.25,
+    "end": 31.11,
+    "lines": [
+      {
+        "text": "ПОНЯТНЕЕ ОБЩЕГО СПИСКА ИЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЫСЯЧ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.86,
+    "end": 33.81,
     "lines": [
       {
         "text": "ССЫЛКА",
