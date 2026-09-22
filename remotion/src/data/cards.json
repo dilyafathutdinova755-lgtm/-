@@ -1,279 +1,135 @@
 [
   {
-    "start": 3.57,
-    "end": 4.71,
+    "start": 2.13,
+    "end": 4.62,
     "lines": [
       {
-        "text": "ПО ЕГЭ НО",
+        "text": "ПО РУССКОМУ ЯЗЫКУ ИЛИ ОБЩЕСТВОЗНАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ЗНАЮТ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.89,
-    "end": 6.63,
+    "start": 5.07,
+    "end": 7.53,
     "lines": [
       {
-        "text": "ИЗ ЗА КАКИХ ВАРИАНТОВ ЧАЩЕ",
+        "text": "СТОИТ ОБРАТИТЬ ВНИМАНИЕ НЕ ТОЛЬКО НА КОЛИЧЕСТВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБАЮТСЯ",
+        "text": "ЧАСОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.5,
-    "end": 8.4,
+    "start": 8.1,
+    "end": 10.26,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "А НА ТО КАК ИМЕННО ОН ЗАПОМИНАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЧИТАЕТ",
+        "text": "МАТЕРИАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.52,
-    "end": 9.33,
+    "start": 11.07,
+    "end": 12.99,
     "lines": [
       {
-        "text": "ОТДЕЛЬНО",
+        "text": "ОБЫЧНОЕ ПЕРЕЧИТЫВАНИЕ КОНСПЕКТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧНОСТЬ",
+        "text": "ЧАСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.48,
-    "end": 11.07,
+    "start": 13.11,
+    "end": 14.4,
     "lines": [
       {
-        "text": "ИМЕННО ПО ХИТРЫМ",
+        "text": "НЕ ДАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖИМ ВАРИАНТАМ",
+        "text": "СТОЙКОГО РЕЗУЛЬТАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.19,
-    "end": 12.42,
+    "start": 15.18,
+    "end": 16.8,
     "lines": [
       {
-        "text": "ОТВЕТА А НЕ ПО ВСЕМ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО ЭТИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДРЯД",
+        "text": "ПРЕДМЕТАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.23,
-    "end": 14.7,
+    "start": 17.04,
+    "end": 18.24,
     "lines": [
       {
-        "text": "ЧИСЛО РЯДОМ НАГЛЯДНО",
+        "text": "ЕСТЬ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.62,
+    "start": 18.66,
+    "end": 20.94,
     "lines": [
       {
-        "text": "НАСКОЛЬКО ХОРОШО РАСПОЗНАЮТСЯ",
+        "text": "МАТЕРИАЛ ЗАКРЕПЛЯЕТСЯ ЧЕРЕЗ АКТИВНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИМЕННО",
+        "text": "ПОВТОРЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.83,
-    "end": 18.21,
-    "lines": [
-      {
-        "text": "ПОХОЖИЕ ВАРИАНТЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СМЕШИВАТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.42,
-    "end": 19.8,
-    "lines": [
-      {
-        "text": "ЛЕГКИЕ ОДНОЗНАЧНЫЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВОПРОСЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.13,
-    "end": 21.21,
-    "lines": [
-      {
-        "text": "С НАСТОЯЩИМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛОВУШКАМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.39,
-    "end": 22.98,
-    "lines": [
-      {
-        "text": "В ОДНОМ ПРОЦЕНТЕ НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИХОДИТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.73,
-    "end": 25.32,
-    "lines": [
-      {
-        "text": "ОТДЕЛЬНОЕ ЧИСЛО ОБНОВЛЯЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СРАЗУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.53,
-    "end": 27.06,
-    "lines": [
-      {
-        "text": "ПОСЛЕ КАЖДОГО НОВОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТВЕТА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.24,
-    "end": 28.53,
-    "lines": [
-      {
-        "text": "НА ТАКОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВОПРОС",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.22,
-    "end": 30.96,
-    "lines": [
-      {
-        "text": "ОТДЕЛЬНОЕ ЧИСЛО ПОКАЗЫВАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАСКОЛЬКО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 31.17,
-    "end": 33.06,
-    "lines": [
-      {
-        "text": "ХОРОШО РАСПОЗНАЮТСЯ ПОХОЖИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВАРИАНТЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.78,
-    "end": 35.61,
+    "start": 21.21,
+    "end": 23.04,
     "lines": [
       {
         "text": "ССЫЛКА",
