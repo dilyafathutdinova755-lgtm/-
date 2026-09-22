@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.13,
+    "end": 4.62,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ ИЛИ ОБЩЕСТВОЗНАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.07,
+    "end": 7.53,
+    "lines": [
+      {
+        "text": "СТОИТ ОБРАТИТЬ ВНИМАНИЕ НЕ ТОЛЬКО НА КОЛИЧЕСТВО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "А НА ТО КАК ИМЕННО ОН ЗАПОМИНАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАТЕРИАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.07,
+    "end": 12.99,
+    "lines": [
+      {
+        "text": "ОБЫЧНОЕ ПЕРЕЧИТЫВАНИЕ КОНСПЕКТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.11,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "НЕ ДАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОЙКОГО РЕЗУЛЬТАТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 16.8,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО ЭТИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДМЕТАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.04,
+    "end": 18.24,
+    "lines": [
+      {
+        "text": "ЕСТЬ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 20.94,
+    "lines": [
+      {
+        "text": "МАТЕРИАЛ ЗАКРЕПЛЯЕТСЯ ЧЕРЕЗ АКТИВНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.21,
+    "end": 23.04,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

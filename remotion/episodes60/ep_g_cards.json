@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.13,
+    "end": 3.96,
+    "lines": [
+      {
+        "text": "ДУМАТЬ ЧТО ГОТОВИШЬСЯ ТОЛЬКО ПОТОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 5.64,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ ДЕНЬ ЧТО ТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.23,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ИДУТ ОДНО ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДРУГИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.12,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБИРАТЬ ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.11,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "ПО НАСТОЯЩЕМУ ПРОСТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСПЕВАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.93,
+    "end": 14.73,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ КАЖДОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.89,
+    "end": 18.9,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПОМОГАЕТ ЗАКРЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБЕЛ СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.44,
+    "end": 20.67,
+    "lines": [
+      {
+        "text": "А НЕ ОТКЛАДЫВАТЬ ЕГО НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.63,
+    "end": 23.61,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

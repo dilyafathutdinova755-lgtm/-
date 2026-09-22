@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.91,
+    "end": 4.59,
+    "lines": [
+      {
+        "text": "ТЕБЕ ТЫ ЗАПОМИНАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАТЕРИАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 6.63,
+    "lines": [
+      {
+        "text": "ИЛИ ПРОСТО ПЕРЕЧИТЫВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АКТИВНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.78,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "ЕГО ЕЩЕ РАЗ ВТОРОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.97,
+    "end": 11.61,
+    "lines": [
+      {
+        "text": "КАЖЕТСЯ ПОДГОТОВКОЙ НО ПОЧТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЧЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.88,
+    "end": 14.01,
+    "lines": [
+      {
+        "text": "НЕ ЗАКРЕПЛЯЕТ В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.22,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.36,
+    "lines": [
+      {
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 20.58,
+    "lines": [
+      {
+        "text": "ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ОТВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.27,
+    "end": 23.19,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

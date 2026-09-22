@@ -1,0 +1,146 @@
+[
+  {
+    "start": 3.0,
+    "end": 5.13,
+    "lines": [
+      {
+        "text": "ПРОСТО СМОТРИТ ПРАВИЛЬНЫЙ ОТВЕТ И ИДЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.32,
+    "lines": [
+      {
+        "text": "ОШИБКА ПОЧТИ НАВЕРНЯКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.89,
+    "end": 9.57,
+    "lines": [
+      {
+        "text": "САМО ПО СЕБЕ РЕШЕНИЕ НОВЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 11.16,
+    "lines": [
+      {
+        "text": "ЭТУ ПРИВЫЧКУ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСПРАВЛЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 13.38,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ КАЖДОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.56,
+    "end": 15.06,
+    "lines": [
+      {
+        "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.39,
+    "end": 16.89,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМУ ОШИБКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.21,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО НАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.75,
+    "end": 20.64,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

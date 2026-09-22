@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.4,
+    "end": 4.59,
+    "lines": [
+      {
+        "text": "К ЕГЭ ДОМА А РЕЗУЛЬТАТ ПОЧТИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.92,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "СТОИТ ПРОВЕРИТЬ С КАКИМИ ЗАДАНИЯМИ ОН ВООБЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНИМАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "МНОГИЕ СБОРНИКИ В СВОБОДНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОСТУПЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.11,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ДАВНО УСТАРЕЛИ И НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.45,
+    "end": 13.38,
+    "lines": [
+      {
+        "text": "",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТОМ ЭКЗАМЕНОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 15.78,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ СОБРАН АКТУАЛЬНЫЙ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.62,
+    "end": 18.09,
+    "lines": [
+      {
+        "text": "ТЕ ЖЕ ЧТО ИСПОЛЬЗУЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.18,
+    "end": 19.83,
+    "lines": [
+      {
+        "text": "ПРИ СОСТАВЛЕНИИ НАСТОЯЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.4,
+    "end": 22.11,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

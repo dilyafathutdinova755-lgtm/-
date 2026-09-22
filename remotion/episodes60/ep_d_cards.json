@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.98,
+    "end": 3.93,
+    "lines": [
+      {
+        "text": "ПО СЛУЧАЙНЫМ ВАРИАНТАМ КОТОРЫЕ НАШЛА В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНТЕРНЕТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.44,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "СНАЧАЛА СТОИТ ПРОВЕРИТЬ ОТКУДА ВООБЩЕ ВЗЯТЫ ЭТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.19,
+    "end": 9.24,
+    "lines": [
+      {
+        "text": "МНОГИЕ ТАКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБОРНИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 11.16,
+    "lines": [
+      {
+        "text": "ДАВНО УСТАРЕЛИ ИЛИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.31,
+    "end": 12.84,
+    "lines": [
+      {
+        "text": "ПО ФОРМАТУ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛЬНЫМ ЭКЗАМЕНОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.53,
+    "end": 14.76,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.11,
+    "lines": [
+      {
+        "text": "АКТУАЛЬНЫЙ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.62,
+    "end": 19.29,
+    "lines": [
+      {
+        "text": "ТЕ ЖЕ ЗАДАНИЯ ЧТО ИСПОЛЬЗУЕТ ПРИ СОСТАВЛЕНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОМИССИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 20.34,
+    "lines": [
+      {
+        "text": "",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАСТОЯЩЕГО ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.06,
+    "end": 22.92,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
