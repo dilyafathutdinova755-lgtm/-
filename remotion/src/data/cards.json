@@ -1,215 +1,135 @@
 [
   {
-    "start": 2.88,
-    "end": 4.68,
+    "start": 3.0,
+    "end": 5.13,
     "lines": [
       {
-        "text": "ВИДЯТ СЕБЯ В ОБЩЕМ РЕЙТИНГЕ ПО",
+        "text": "ПРОСТО СМОТРИТ ПРАВИЛЬНЫЙ ОТВЕТ И ИДЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ДАЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.01,
-    "end": 6.84,
+    "start": 5.7,
+    "end": 7.32,
     "lines": [
       {
-        "text": "РЯДОМ С СОТНЯМИ ОБЫЧНЫХ",
+        "text": "ОШИБКА ПОЧТИ НАВЕРНЯКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧАСТНИКОВ",
+        "text": "ПОВТОРИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.68,
-    "end": 8.76,
+    "start": 7.89,
+    "end": 9.57,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЕР",
+        "text": "САМО ПО СЕБЕ РЕШЕНИЕ НОВЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБИРАЕТ",
+        "text": "ВАРИАНТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 10.2,
+    "start": 9.84,
+    "end": 11.16,
     "lines": [
       {
-        "text": "ОТДЕЛЬНЫЙ РЕЙТИНГ",
+        "text": "ЭТУ ПРИВЫЧКУ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИМЕННО",
+        "text": "ИСПРАВЛЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.32,
-    "end": 12.09,
+    "start": 11.73,
+    "end": 13.38,
     "lines": [
       {
-        "text": "СРЕДИ УЧАСТНИКОВ ОЛИМПИАДНОГО",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ КАЖДОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕКА",
+        "text": "ЗАДАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 14.13,
+    "start": 13.56,
+    "end": 15.06,
     "lines": [
       {
-        "text": "БЕЗ ОСТАЛЬНОЙ ПОЛЬЗОВАТЕЛЕЙ",
+        "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МАССЫ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.88,
-    "end": 16.95,
+    "start": 15.39,
+    "end": 16.89,
     "lines": [
       {
-        "text": "СРАВНЕНИЕ С РАВНЫМИ ПО УЧАСТНИКАМИ",
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УРОВНЮ",
+        "text": "САМУ ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.28,
-    "end": 19.41,
+    "start": 17.1,
+    "end": 18.21,
     "lines": [
       {
-        "text": "ПОНЯТНЕЕ ОБЩЕГО СПИСКА ИЗ",
+        "text": "А НЕ ТОЛЬКО НАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЫСЯЧ",
+        "text": "ОТВЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 23.1,
-    "lines": [
-      {
-        "text": "ИСКАТЬ СЕБЯ СРЕДИ СОТЕН ОБЫЧНЫХ УЧАСТНИКОВ ОБЩЕГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СПИСКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 23.46,
-    "end": 25.02,
-    "lines": [
-      {
-        "text": "НЕ ПРИХОДИТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТДЕЛЬНЫЙ РЕЙТИНГ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.14,
-    "end": 27.0,
-    "lines": [
-      {
-        "text": "ОБНОВЛЯЕТСЯ ТАКЖЕ ЧАСТО КАК И",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБЩИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 27.57,
-    "end": 28.95,
-    "lines": [
-      {
-        "text": "СРАВНЕНИЕ С РАВНЫМИ ПО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "УРОВНЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 29.25,
-    "end": 31.11,
-    "lines": [
-      {
-        "text": "ПОНЯТНЕЕ ОБЩЕГО СПИСКА ИЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЫСЯЧ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 31.86,
-    "end": 33.81,
+    "start": 18.75,
+    "end": 20.64,
     "lines": [
       {
         "text": "ССЫЛКА",
