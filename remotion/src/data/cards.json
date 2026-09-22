@@ -1,71 +1,87 @@
 [
   {
-    "start": 3.0,
-    "end": 5.13,
+    "start": 2.13,
+    "end": 3.96,
     "lines": [
       {
-        "text": "ПРОСТО СМОТРИТ ПРАВИЛЬНЫЙ ОТВЕТ И ИДЕТ",
+        "text": "ДУМАТЬ ЧТО ГОТОВИШЬСЯ ТОЛЬКО ПОТОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАЛЬШЕ",
+        "text": "ЧТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 7.32,
+    "start": 4.32,
+    "end": 5.64,
     "lines": [
       {
-        "text": "ОШИБКА ПОЧТИ НАВЕРНЯКА",
+        "text": "КАЖДЫЙ ДЕНЬ ЧТО ТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРИТСЯ",
+        "text": "РЕШАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.89,
-    "end": 9.57,
+    "start": 7.23,
+    "end": 8.67,
     "lines": [
       {
-        "text": "САМО ПО СЕБЕ РЕШЕНИЕ НОВЫХ",
+        "text": "ЗАДАНИЯ ИДУТ ОДНО ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТОВ",
+        "text": "ДРУГИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.84,
-    "end": 11.16,
+    "start": 9.12,
+    "end": 9.96,
     "lines": [
       {
-        "text": "ЭТУ ПРИВЫЧКУ НЕ",
+        "text": "А",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСПРАВЛЯЕТ",
+        "text": "РАЗБИРАТЬ ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.73,
-    "end": 13.38,
+    "start": 10.11,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "ПО НАСТОЯЩЕМУ ПРОСТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСПЕВАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.93,
+    "end": 14.73,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ КАЖДОМУ",
@@ -80,8 +96,8 @@
     ]
   },
   {
-    "start": 13.56,
-    "end": 15.06,
+    "start": 14.91,
+    "end": 16.53,
     "lines": [
       {
         "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
@@ -96,40 +112,40 @@
     ]
   },
   {
-    "start": 15.39,
-    "end": 16.89,
+    "start": 16.89,
+    "end": 18.9,
     "lines": [
       {
-        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "text": "КОТОРЫЙ ПОМОГАЕТ ЗАКРЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМУ ОШИБКУ",
+        "text": "ПРОБЕЛ СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 18.21,
+    "start": 19.44,
+    "end": 20.67,
     "lines": [
       {
-        "text": "А НЕ ТОЛЬКО НАЗЫВАЕТ",
+        "text": "А НЕ ОТКЛАДЫВАТЬ ЕГО НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТ",
+        "text": "ПОТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.75,
-    "end": 20.64,
+    "start": 21.63,
+    "end": 23.61,
     "lines": [
       {
         "text": "ССЫЛКА",
