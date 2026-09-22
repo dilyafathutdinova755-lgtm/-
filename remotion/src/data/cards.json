@@ -1,135 +1,135 @@
 [
   {
-    "start": 2.91,
+    "start": 2.4,
     "end": 4.59,
     "lines": [
       {
-        "text": "ТЕБЕ ТЫ ЗАПОМИНАЕШЬ",
+        "text": "К ЕГЭ ДОМА А РЕЗУЛЬТАТ ПОЧТИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МАТЕРИАЛ",
+        "text": "РАСТЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.83,
-    "end": 6.63,
+    "start": 4.92,
+    "end": 7.65,
     "lines": [
       {
-        "text": "ИЛИ ПРОСТО ПЕРЕЧИТЫВАЕШЬ",
+        "text": "СТОИТ ПРОВЕРИТЬ С КАКИМИ ЗАДАНИЯМИ ОН ВООБЩЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АКТИВНО",
+        "text": "ЗАНИМАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.78,
-    "end": 8.85,
+    "start": 8.4,
+    "end": 9.96,
     "lines": [
       {
-        "text": "ЕГО ЕЩЕ РАЗ ВТОРОЙ",
+        "text": "МНОГИЕ СБОРНИКИ В СВОБОДНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТ",
+        "text": "ДОСТУПЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.97,
-    "end": 11.61,
+    "start": 10.11,
+    "end": 12.3,
     "lines": [
       {
-        "text": "КАЖЕТСЯ ПОДГОТОВКОЙ НО ПОЧТИ",
+        "text": "ДАВНО УСТАРЕЛИ И НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЧЕГО",
+        "text": "СОВПАДАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.88,
-    "end": 14.01,
+    "start": 12.45,
+    "end": 13.38,
     "lines": [
       {
-        "text": "НЕ ЗАКРЕПЛЯЕТ В ЕГЭ",
+        "text": "",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "ФОРМАТОМ ЭКЗАМЕНОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.22,
-    "end": 16.5,
+    "start": 13.8,
+    "end": 15.78,
     "lines": [
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ СОБРАН АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 18.36,
+    "start": 16.62,
+    "end": 18.09,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ТЕ ЖЕ ЧТО ИСПОЛЬЗУЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.66,
-    "end": 20.58,
+    "start": 18.18,
+    "end": 19.83,
     "lines": [
       {
-        "text": "ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ОТВЕТ",
+        "text": "ПРИ СОСТАВЛЕНИИ НАСТОЯЩЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОЙ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.27,
-    "end": 23.19,
+    "start": 20.4,
+    "end": 22.11,
     "lines": [
       {
         "text": "ССЫЛКА",
