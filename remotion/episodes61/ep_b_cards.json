@@ -1,87 +1,87 @@
 [
   {
-    "start": 1.62,
-    "end": 2.88,
+    "start": 1.59,
+    "end": 3.3,
     "lines": [
       {
-        "text": "БЫСТРОРЕШЕННЫХ",
+        "text": "НУЖНО РЕШАТЬ ЕЩЕ ОДИН НОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТОВ ПОДРЯД",
+        "text": "ВАРИАНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.12,
-    "end": 4.05,
+    "start": 3.69,
+    "end": 5.94,
     "lines": [
       {
-        "text": "НЕ ВСЕГДА",
+        "text": "ИНОГДА ПОЛЕЗНЕЕ ВЕРНУТЬСЯ К УЖЕ ЗНАКОМОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛЕЗНЕЕ",
+        "text": "ТЕМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 6.69,
+    "start": 6.09,
+    "end": 7.26,
     "lines": [
       {
-        "text": "ОДНОГО РАЗОБРАННОГО ПО ВНИМАТЕЛЬНО",
+        "text": "И РАЗОБРАТЬ В НЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩЕМУ",
+        "text": "ПРОБЕЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 8.58,
+    "start": 7.59,
+    "end": 10.2,
     "lines": [
       {
-        "text": "ТАК ЛЕГКО ЗАКРЫТЬ МНОГО",
+        "text": "НОВЫЙ ВАРИАНТ ЧАСТО ПРОСТО ПОВТОРЯЕТ СТАРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ПРОБЕЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.79,
-    "end": 10.68,
+    "start": 10.32,
+    "end": 11.31,
     "lines": [
       {
-        "text": "И НЕ ПРОДВИНУТЬСЯ В РЕАЛЬНОМ ПОНИМАНИИ",
+        "text": "В ДРУГИХ ФОРМУЛИРОВКАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМ",
+        "text": "ДРУГИХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.01,
-    "end": 12.36,
+    "start": 11.7,
+    "end": 13.23,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
@@ -89,47 +89,63 @@
         "size": "small"
       },
       {
-        "text": "БАНК",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.54,
-    "end": 13.83,
+    "start": 13.38,
+    "end": 14.37,
     "lines": [
       {
-        "text": "ФИПИ ГДЕ МОЖНО",
+        "text": "БАНК ФИПИ ГДЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАТЬ ЗАДАНИЯ",
+        "text": "МОЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.98,
-    "end": 16.11,
+    "start": 14.55,
+    "end": 16.02,
     "lines": [
       {
-        "text": "В СВОЕМ ТЕМПЕ И НЕ ГНАТЬСЯ ЗА КОЛИЧЕСТВОМ",
+        "text": "ВЕРНУТЬСЯ ИМЕННО К",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМПЕ",
+        "text": "НУЖНОЙ ТЕМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.38,
-    "end": 18.36,
+    "start": 16.23,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "А НЕ РЕШАТЬ ВСЕ ПОДРЯД ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.03,
+    "end": 19.89,
     "lines": [
       {
         "text": "ССЫЛКА",

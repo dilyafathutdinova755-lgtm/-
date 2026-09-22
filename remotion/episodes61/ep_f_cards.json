@@ -1,0 +1,114 @@
+[
+  {
+    "start": 1.5,
+    "end": 2.88,
+    "lines": [
+      {
+        "text": "ПОСЛЕ ОШИБКИ В ЗАДАНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.09,
+    "end": 4.47,
+    "lines": [
+      {
+        "text": "ПРОСТО ПОСМОТРЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНЫЙ ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.65,
+    "end": 8.22,
+    "lines": [
+      {
+        "text": "И РЕШАТЬ ДАЛЬШЕ ОШИБКА В ТАКОМ ПОЧТИ НЕ ЗАПОМИНАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.58,
+    "end": 9.39,
+    "lines": [
+      {
+        "text": "",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "КАЖДОМУ ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.12,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМУ ОШИБКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.95,
+    "end": 15.84,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
