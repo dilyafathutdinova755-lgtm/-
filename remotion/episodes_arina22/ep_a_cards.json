@@ -1,0 +1,26 @@
+[
+  { "start": 2.97, "end": 5.97, "lines": [
+    { "text": "РОДИТЕЛЮ СТОИТ", "accent": false, "size": "small" },
+    { "text": "ПРОВЕРИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.54, "end": 8.37, "lines": [
+    { "text": "КАК ИМЕННО", "accent": false, "size": "small" },
+    { "text": "ЗАПОМИНАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.09, "end": 11.97, "lines": [
+    { "text": "РУССКИЙ ИСТОРИЯ", "accent": false, "size": "small" },
+    { "text": "И ОБЩЕСТВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.48, "end": 13.62, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.19, "end": 17.46, "lines": [
+    { "text": "НЕ РАЗОВОЕ", "accent": false, "size": "small" },
+    { "text": "А ПОВТОРЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.06, "end": 20.04, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

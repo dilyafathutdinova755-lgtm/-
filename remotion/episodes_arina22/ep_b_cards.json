@@ -1,0 +1,22 @@
+[
+  { "start": 3.84, "end": 6.51, "lines": [
+    { "text": "ПРОВЕРЬТЕ", "accent": false, "size": "small" },
+    { "text": "ОТКУДА ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.05, "end": 10.41, "lines": [
+    { "text": "ПОДБОРКИ НЕ СОВПАДАЮТ", "accent": false, "size": "small" },
+    { "text": "С ФОРМАТОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.89, "end": 12.72, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.20, "end": 16.65, "lines": [
+    { "text": "ТЕ ЖЕ ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "ЧТО И КОМИССИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.16, "end": 18.81, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
