@@ -1,151 +1,119 @@
 [
   {
     "start": 1.59,
-    "end": 3.3,
+    "end": 4.2,
     "lines": [
       {
-        "text": "НУЖНО РЕШАТЬ ЕЩЕ ОДИН НОВЫЙ",
+        "text": "К ЕГЭ ПОКА СОСТОИТ ТОЛЬКО ИЗ ВАРИАНТОВ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТ",
+        "text": "КОНСПЕКТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.69,
-    "end": 5.94,
+    "start": 4.47,
+    "end": 7.08,
     "lines": [
       {
-        "text": "ИНОГДА ПОЛЕЗНЕЕ ВЕРНУТЬСЯ К УЖЕ ЗНАКОМОЙ",
+        "text": "МОЖНО ДОБАВИТЬ ЕЩЕ ОДИН СПОСОБ ЗАКРЕПЛЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЕ",
+        "text": "МАТЕРИАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.09,
-    "end": 7.26,
+    "start": 7.32,
+    "end": 10.02,
     "lines": [
       {
-        "text": "И РАЗОБРАТЬ В НЕЙ",
+        "text": "ПРОСТОЕ ЧТЕНИЕ КОНСПЕКТА ЧАСТО ЗАПОМИНАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБЕЛ",
+        "text": "ПЛОХО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.59,
-    "end": 10.2,
+    "start": 10.47,
+    "end": 11.97,
     "lines": [
       {
-        "text": "НОВЫЙ ВАРИАНТ ЧАСТО ПРОСТО ПОВТОРЯЕТ СТАРЫЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО РУССКОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБЕЛЫ",
+        "text": "ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.32,
-    "end": 11.31,
+    "start": 12.39,
+    "end": 13.56,
     "lines": [
       {
-        "text": "В ДРУГИХ ФОРМУЛИРОВКАХ",
+        "text": "И ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДРУГИХ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.7,
-    "end": 13.23,
+    "start": 13.86,
+    "end": 15.03,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АКТУАЛЬНЫЙ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.38,
-    "end": 14.37,
+    "start": 15.3,
+    "end": 16.59,
     "lines": [
       {
-        "text": "БАНК ФИПИ ГДЕ",
+        "text": "КАК РАЗ ДЛЯ ЗАКРЕПЛЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО",
+        "text": "ТАКОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.55,
-    "end": 16.02,
-    "lines": [
-      {
-        "text": "ВЕРНУТЬСЯ ИМЕННО К",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НУЖНОЙ ТЕМЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.23,
-    "end": 17.7,
-    "lines": [
-      {
-        "text": "А НЕ РЕШАТЬ ВСЕ ПОДРЯД ПО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОРЯДКУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.03,
-    "end": 19.89,
+    "start": 16.89,
+    "end": 18.72,
     "lines": [
       {
         "text": "ССЫЛКА",
