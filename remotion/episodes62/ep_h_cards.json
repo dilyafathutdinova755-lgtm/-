@@ -1,103 +1,103 @@
 [
   {
-    "start": 3.15,
-    "end": 6.96,
+    "start": 3.33,
+    "end": 6.15,
     "lines": [
       {
-        "text": "ИНОГДА ПРОЩЕ ВЫУЧИТЬ СПИСОК ДАТ НАИЗУСТЬ ЧЕМ РАЗОБРАТЬСЯ ЗАЧЕМ ОН",
+        "text": "ИЗ ЗА ОДНОЙ И ТОЙ ЖЕ НЕВЫЯСНЕННОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖЕН",
+        "text": "ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 10.8,
+    "start": 6.42,
+    "end": 7.86,
     "lines": [
       {
-        "text": "ТАКОЕ ЗАУЧИВАНИЕ ДЕРЖИТСЯ В ПАМЯТИ СОВСЕМ",
+        "text": "ПОСМОТРЕТЬ ОТВЕТ НЕ ТО ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДОЛГО",
+        "text": "САМОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.34,
-    "end": 12.93,
+    "start": 7.86,
+    "end": 9.06,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ЧТО ПОНЯТЬ ГДЕ ПРОИЗОШЕЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "СБОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.26,
-    "end": 14.46,
+    "start": 9.18,
+    "end": 10.32,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЯ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 15.96,
+    "start": 10.44,
+    "end": 11.7,
     "lines": [
       {
-        "text": "ЕСТЬ НА",
+        "text": "КАЖДОМУ ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ТЕКСТОВАЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
-    "end": 17.55,
+    "start": 12.18,
+    "end": 13.65,
     "lines": [
       {
-        "text": "ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ",
+        "text": "РАЗБОР КОТОРЫЙ ОБЪЯСНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЧНОГО",
+        "text": "ПРИЧИНУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.39,
-    "end": 20.31,
+    "start": 14.34,
+    "end": 16.08,
     "lines": [
       {
         "text": "ССЫЛКА",

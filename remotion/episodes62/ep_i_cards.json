@@ -1,103 +1,119 @@
 [
   {
-    "start": 3.15,
-    "end": 6.96,
+    "start": 3.03,
+    "end": 4.8,
     "lines": [
       {
-        "text": "ИНОГДА ПРОЩЕ ВЫУЧИТЬ СПИСОК ДАТ НАИЗУСТЬ ЧЕМ РАЗОБРАТЬСЯ ЗАЧЕМ ОН",
+        "text": "КОТОРЫЕ ГУЛЯЮТ ПО ЧАТАМ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖЕН",
+        "text": "ГРУППАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 10.8,
+    "start": 5.16,
+    "end": 6.87,
     "lines": [
       {
-        "text": "ТАКОЕ ЗАУЧИВАНИЕ ДЕРЖИТСЯ В ПАМЯТИ СОВСЕМ",
+        "text": "БЕЗ ЕДИНОГО УКАЗАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДОЛГО",
+        "text": "ИСТОЧНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.34,
-    "end": 12.93,
+    "start": 7.62,
+    "end": 8.73,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ПОЛОВИНА ТАКИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.26,
-    "end": 14.46,
+    "start": 9.06,
+    "end": 11.67,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЯ",
+        "text": "УЖЕ НЕ СООТВЕТСТВУЕТ НЫНЕШНИМ ФОРМУЛИРОВКАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 15.96,
+    "start": 12.33,
+    "end": 13.8,
     "lines": [
       {
-        "text": "ЕСТЬ НА",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "РЕШАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
-    "end": 17.55,
+    "start": 14.01,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ",
+        "text": "АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЧНОГО",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.39,
-    "end": 20.31,
+    "start": 15.45,
+    "end": 17.61,
+    "lines": [
+      {
+        "text": "ТЕ ЖЕ ФОРМУЛИРОВКИ ЧТО БУДУТ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛЬНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 20.01,
     "lines": [
       {
         "text": "ССЫЛКА",

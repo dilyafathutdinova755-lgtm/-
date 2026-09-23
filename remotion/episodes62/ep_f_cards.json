@@ -1,0 +1,98 @@
+[
+  {
+    "start": 2.37,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "ВАРИАНТЫ ПРОСТО ПОТОМУ ЧТО ОНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАШЛИСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.92,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "НЕ ВСЕ ТАКИЕ ПОДБОРКИ ПЕРЕСЕКАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВООБЩЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.08,
+    "end": 8.52,
+    "lines": [
+      {
+        "text": "С НАСТОЯЩИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.79,
+    "end": 10.59,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ СОБРАН БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 12.75,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ОТ СОСТАВИТЕЛЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕАЛЬНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.05,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

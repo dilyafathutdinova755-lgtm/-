@@ -1,103 +1,103 @@
 [
   {
-    "start": 3.15,
-    "end": 6.96,
+    "start": 3.9,
+    "end": 5.31,
     "lines": [
       {
-        "text": "ИНОГДА ПРОЩЕ ВЫУЧИТЬ СПИСОК ДАТ НАИЗУСТЬ ЧЕМ РАЗОБРАТЬСЯ ЗАЧЕМ ОН",
+        "text": "НЕ САМОЕ НАДЕЖНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖЕН",
+        "text": "СТРАТЕГИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 10.8,
+    "start": 6.06,
+    "end": 6.93,
     "lines": [
       {
-        "text": "ТАКОЕ ЗАУЧИВАНИЕ ДЕРЖИТСЯ В ПАМЯТИ СОВСЕМ",
+        "text": "ЧАСТЬ ТАКИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДОЛГО",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.34,
-    "end": 12.93,
+    "start": 7.14,
+    "end": 9.3,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "НЕ ВСТРЕТИТСЯ НА НАСТОЯЩЕМ ЭКЗАМЕНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "ВООБЩЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.26,
-    "end": 14.46,
+    "start": 10.26,
+    "end": 11.58,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЯ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 15.96,
+    "start": 11.76,
+    "end": 12.96,
     "lines": [
       {
-        "text": "ЕСТЬ НА",
+        "text": "СОБРАН АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
-    "end": 17.55,
+    "start": 13.59,
+    "end": 16.2,
     "lines": [
       {
-        "text": "ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ",
+        "text": "ЗАДАНИЕ ОТ ТЕХ КТО СОСТАВЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЧНОГО",
+        "text": "НАСТОЯЩИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.39,
-    "end": 20.31,
+    "start": 17.01,
+    "end": 18.9,
     "lines": [
       {
         "text": "ССЫЛКА",

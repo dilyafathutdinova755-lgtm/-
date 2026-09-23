@@ -1,0 +1,98 @@
+[
+  {
+    "start": 2.46,
+    "end": 4.53,
+    "lines": [
+      {
+        "text": "НА САМОМ ДЕЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОТОВЯТСЯ РЕБЕНОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.46,
+    "end": 8.25,
+    "lines": [
+      {
+        "text": "ЧАСТЬ ТАКИХ МАТЕРИАЛОВ В СВОБОДНОМ ДОСТУПЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСТАРЕЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.81,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.96,
+    "end": 11.67,
+    "lines": [
+      {
+        "text": "СОБРАН АКТУАЛЬНЫЙ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.76,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ОТ СОСТАВИТЕЛЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.98,
+    "end": 15.78,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
