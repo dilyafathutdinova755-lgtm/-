@@ -1,58 +1,74 @@
 [
   {
-    "start": 2.73,
-    "end": 5.64,
+    "start": 1.8,
+    "end": 3.48,
     "lines": [
       {
-        "text": "КАЖДЫЙ ДЕНЬ И ВСЕ РАВНО СПОТЫКАЕТСЯ ОБ ОДНО И ТУ ЖЕ",
+        "text": "ЕГЭ ОШИБКА КАЖЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКУ",
+        "text": "СЛУЧАЙНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.48,
-    "end": 7.53,
+    "start": 3.96,
+    "end": 5.85,
     "lines": [
       {
-        "text": "ДЕЛО ОБЫЧНО НЕ В",
+        "text": "А ЧЕРЕЗ МЕСЯЦ ТА ЖЕ САМАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛЕНИ",
+        "text": "ОШИБКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.65,
-    "end": 9.39,
+    "start": 6.12,
+    "end": 7.17,
     "lines": [
       {
-        "text": "А В ТОМ ЧТО ОШИБКУ НИКТО НЕ",
+        "text": "ВСТРЕЧАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБИРАЛ",
+        "text": "СНОВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.57,
-    "end": 10.83,
+    "start": 8.73,
+    "end": 10.5,
     "lines": [
       {
-        "text": "ПО",
+        "text": "ДЕЛО НЕ В НЕВНИМАТЕЛЬНОСТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЫЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.89,
+    "end": 13.86,
+    "lines": [
+      {
+        "text": "А В ТОМ ЧТО ОШИБКУ ТАК НИКТО И НЕ РАЗОБРАЛ ПО",
         "accent": false,
         "size": "small"
       },
@@ -64,8 +80,8 @@
     ]
   },
   {
-    "start": 10.98,
-    "end": 12.24,
+    "start": 14.64,
+    "end": 16.02,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ К КАЖДОМУ",
@@ -80,8 +96,8 @@
     ]
   },
   {
-    "start": 12.42,
-    "end": 13.89,
+    "start": 16.74,
+    "end": 18.48,
     "lines": [
       {
         "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
@@ -96,24 +112,24 @@
     ]
   },
   {
-    "start": 14.04,
-    "end": 16.02,
+    "start": 18.84,
+    "end": 21.69,
     "lines": [
       {
-        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ ОТКУДА",
+        "text": "КОТОРЫЙ ПОКАЗЫВАЕТ ГДЕ ИМЕННО ВОЗНИКАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕРЕТСЯ",
+        "text": "ОШИБКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.8,
-    "end": 18.51,
+    "start": 22.62,
+    "end": 24.6,
     "lines": [
       {
         "text": "ССЫЛКА",
