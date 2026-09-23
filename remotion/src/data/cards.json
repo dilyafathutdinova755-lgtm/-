@@ -1,29 +1,33 @@
 [
-  { "start": 4.02, "end": 5.16, "lines": [
-    { "text": "ДЕЛО НЕ", "accent": false, "size": "small" },
-    { "text": "ВСЕГДА ДАВЛЕНИЕ", "accent": true, "size": "big" }
+  { "start": 4.23, "end": 6.78, "lines": [
+    { "text": "ОБЫЧНОЕ ПЕРЕЧИТЫВАНИЕ", "accent": false, "size": "small" },
+    { "text": "ВРЯД ЛИ ПОМОЖЕТ", "accent": true, "size": "big" }
   ]},
-  { "start": 5.55, "end": 8.49, "lines": [
-    { "text": "ИНОГДА ОШИБКА", "accent": false, "size": "small" },
-    { "text": "НЕ РАЗБИРАЕТСЯ", "accent": true, "size": "big" }
+  { "start": 7.44, "end": 9.00, "lines": [
+    { "text": "ЗАКРЕПЛЯЕТСЯ", "accent": false, "size": "small" },
+    { "text": "БЫСТРЕЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.21, "end": 9.96, "lines": [
-    { "text": "ОБЫЧНАЯ СХЕМА", "accent": false, "size": "small" },
-    { "text": "РЕШИЛ ЗАБЫЛ", "accent": true, "size": "big" }
+  { "start": 9.21, "end": 11.13, "lines": [
+    { "text": "КОГДА ПРИХОДИТСЯ", "accent": false, "size": "small" },
+    { "text": "ВСПОМИНАТЬ САМОМУ", "accent": true, "size": "big" }
   ]},
-  { "start": 10.47, "end": 12.69, "lines": [
-    { "text": "КОТОРАЯ", "accent": false, "size": "small" },
-    { "text": "МАЛО МЕНЯЕТ", "accent": true, "size": "big" }
+  { "start": 11.91, "end": 14.10, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.58, "end": 17.16, "lines": [
-    { "text": "КАЖДОМУ ЗАДАНИЮ", "accent": false, "size": "small" },
-    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  { "start": 14.28, "end": 17.01, "lines": [
+    { "text": "РУССКИЙ ИСТОРИЯ", "accent": false, "size": "small" },
+    { "text": "И ОБЩЕСТВО", "accent": true, "size": "big" }
   ]},
-  { "start": 17.58, "end": 19.26, "lines": [
-    { "text": "ОБЪЯСНЯЕТ", "accent": false, "size": "small" },
-    { "text": "САМУ ОШИБКУ", "accent": true, "size": "big" }
+  { "start": 17.52, "end": 19.11, "lines": [
+    { "text": "ПРИХОДИТСЯ", "accent": false, "size": "small" },
+    { "text": "АКТИВНО", "accent": true, "size": "big" }
   ]},
-  { "start": 19.92, "end": 21.81, "lines": [
+  { "start": 19.35, "end": 21.00, "lines": [
+    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ЧИТАТЬ ЗАНОВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.78, "end": 23.61, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
