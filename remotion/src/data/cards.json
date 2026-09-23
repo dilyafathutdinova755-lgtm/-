@@ -1,29 +1,21 @@
 [
-  { "start": 6.09, "end": 7.56, "lines": [
-    { "text": "ЗАКРЕПЛЯЕТСЯ", "accent": false, "size": "small" },
-    { "text": "БЫСТРЕЕ", "accent": true, "size": "big" }
+  { "start": 5.64, "end": 8.22, "lines": [
+    { "text": "МОЖНО ДОБАВИТЬ", "accent": false, "size": "small" },
+    { "text": "ЕЩЕ ОДИН ИСТОЧНИК", "accent": true, "size": "big" }
   ]},
-  { "start": 7.56, "end": 10.02, "lines": [
-    { "text": "КОГДА ПРИХОДИТСЯ", "accent": false, "size": "small" },
-    { "text": "ВСПОМИНАТЬ САМОМУ", "accent": true, "size": "big" }
+  { "start": 8.22, "end": 12.00, "lines": [
+    { "text": "НЕ ВСЕ СБОРНИКИ", "accent": false, "size": "small" },
+    { "text": "СОВПАДАЮТ С ЕГЭ", "accent": true, "size": "big" }
   ]},
-  { "start": 10.02, "end": 13.59, "lines": [
-    { "text": "РУССКИЙ ИСТОРИЯ", "accent": false, "size": "small" },
-    { "text": "И ОБЩЕСТВО", "accent": true, "size": "big" }
+  { "start": 12.00, "end": 14.04, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
   ]},
-  { "start": 13.59, "end": 15.03, "lines": [
-    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
-    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  { "start": 14.04, "end": 17.55, "lines": [
+    { "text": "РЕАЛЬНЫЕ ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "КАК НА ЕГЭ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.03, "end": 17.01, "lines": [
-    { "text": "НУЖНО ВСПОМНИТЬ", "accent": false, "size": "small" },
-    { "text": "ОТВЕТ САМОМУ", "accent": true, "size": "big" }
-  ]},
-  { "start": 17.01, "end": 18.96, "lines": [
-    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
-    { "text": "УЗНАТЬ В ТЕКСТЕ", "accent": true, "size": "big" }
-  ]},
-  { "start": 18.96, "end": 20.67, "lines": [
+  { "start": 18.15, "end": 19.77, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
