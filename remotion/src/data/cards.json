@@ -1,103 +1,87 @@
 [
   {
-    "start": 3.15,
-    "end": 6.96,
+    "start": 2.46,
+    "end": 4.53,
     "lines": [
       {
-        "text": "ИНОГДА ПРОЩЕ ВЫУЧИТЬ СПИСОК ДАТ НАИЗУСТЬ ЧЕМ РАЗОБРАТЬСЯ ЗАЧЕМ ОН",
+        "text": "НА САМОМ ДЕЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖЕН",
+        "text": "ГОТОВЯТСЯ РЕБЕНОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 10.8,
+    "start": 5.46,
+    "end": 8.25,
     "lines": [
       {
-        "text": "ТАКОЕ ЗАУЧИВАНИЕ ДЕРЖИТСЯ В ПАМЯТИ СОВСЕМ",
+        "text": "ЧАСТЬ ТАКИХ МАТЕРИАЛОВ В СВОБОДНОМ ДОСТУПЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДОЛГО",
+        "text": "УСТАРЕЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.34,
-    "end": 12.93,
+    "start": 8.7,
+    "end": 9.81,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.26,
-    "end": 14.46,
+    "start": 9.96,
+    "end": 11.67,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЯ",
+        "text": "СОБРАН АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 15.96,
+    "start": 11.76,
+    "end": 13.53,
     "lines": [
       {
-        "text": "ЕСТЬ НА",
+        "text": "ЗАДАНИЯ ОТ СОСТАВИТЕЛЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЭКЗАМЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
-    "end": 17.55,
-    "lines": [
-      {
-        "text": "ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОЧНОГО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.39,
-    "end": 20.31,
+    "start": 13.98,
+    "end": 15.78,
     "lines": [
       {
         "text": "ССЫЛКА",
