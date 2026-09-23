@@ -1,0 +1,26 @@
+[
+  { "start": 4.44, "end": 7.29, "lines": [
+    { "text": "РЕШАЕШЬ ДАЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ИЛИ РАЗБИРАЕШЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.46, "end": 11.22, "lines": [
+    { "text": "БОЛЬШИНСТВО", "accent": false, "size": "small" },
+    { "text": "ИДЁТ ДАЛЬШЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.76, "end": 14.01, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.16, "end": 16.20, "lines": [
+    { "text": "КАЖДОМУ ЗАДАНИЮ", "accent": false, "size": "small" },
+    { "text": "МОЖНО ВЕРНУТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.20, "end": 18.72, "lines": [
+    { "text": "ЧТОБЫ РАЗОБРАТЬ", "accent": false, "size": "small" },
+    { "text": "НУЖНУЮ ТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.72, "end": 20.34, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
