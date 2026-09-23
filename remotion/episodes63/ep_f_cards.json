@@ -1,103 +1,103 @@
 [
   {
-    "start": 2.25,
-    "end": 4.44,
+    "start": 2.1,
+    "end": 3.9,
     "lines": [
       {
-        "text": "РЕДКО ЗАПОМИНАЮТСЯ С ПЕРВОГО ЧТЕНИЯ",
+        "text": "СТАРЫХ УЧЕБНИКОВ РИСКОВАННАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКА",
+        "text": "ПРИВЫЧКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.71,
-    "end": 6.99,
+    "start": 4.17,
+    "end": 6.03,
     "lines": [
       {
-        "text": "ПОМОГАЕТ НЕ ЕЩЕ ОДНО ПЕРЕЧИТЫВАНИЕ А",
+        "text": "ЕСЛИ НЕ ПРОВЕРЯТЬ ИХ АКТУАЛЬНОСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБ",
+        "text": "ФОРМАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.17,
-    "end": 8.73,
+    "start": 6.18,
+    "end": 8.13,
     "lines": [
       {
-        "text": "ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ИХ",
+        "text": "ЗАДАНИЙ ЗА ПАРУ ЛЕТ ВПОЛНЕ МОГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОМУ",
+        "text": "ИЗМЕНИТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.23,
+    "start": 8.43,
+    "end": 9.96,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 12.06,
+    "start": 10.08,
+    "end": 10.92,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.47,
+    "start": 11.01,
+    "end": 12.78,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ОБНОВЛЯЕТСЯ ВМЕСТЕ С РЕАЛЬНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.73,
-    "end": 16.386,
+    "start": 12.96,
+    "end": 14.722,
     "lines": [
       {
         "text": "ССЫЛКА",

@@ -1,103 +1,103 @@
 [
   {
-    "start": 2.25,
-    "end": 4.44,
+    "start": 2.1,
+    "end": 4.77,
     "lines": [
       {
-        "text": "РЕДКО ЗАПОМИНАЮТСЯ С ПЕРВОГО ЧТЕНИЯ",
+        "text": "ИНОГДА УГАДЫВАЕТСЯ А НЕ ПО НАСТОЯЩЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКА",
+        "text": "ПОНИМАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.71,
-    "end": 6.99,
+    "start": 5.13,
+    "end": 5.94,
     "lines": [
       {
-        "text": "ПОМОГАЕТ НЕ ЕЩЕ ОДНО ПЕРЕЧИТЫВАНИЕ А",
+        "text": "НА ПОХОЖЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБ",
+        "text": "ЗАДАНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.17,
-    "end": 8.73,
+    "start": 6.15,
+    "end": 7.8,
     "lines": [
       {
-        "text": "ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ИХ",
+        "text": "УДАЧА ОБЫЧНО НЕ ПОВТОРЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОМУ",
+        "text": "ТАКАЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.23,
+    "start": 8.16,
+    "end": 9.42,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 12.06,
+    "start": 9.54,
+    "end": 11.61,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.47,
+    "start": 11.76,
+    "end": 13.44,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ РЕШЕНИЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ШАГАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.73,
-    "end": 16.386,
+    "start": 13.77,
+    "end": 15.511,
     "lines": [
       {
         "text": "ССЫЛКА",

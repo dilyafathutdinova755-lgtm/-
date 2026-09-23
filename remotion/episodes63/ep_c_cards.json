@@ -1,55 +1,71 @@
 [
   {
-    "start": 2.25,
-    "end": 4.44,
+    "start": 2.1,
+    "end": 3.45,
     "lines": [
       {
-        "text": "РЕДКО ЗАПОМИНАЮТСЯ С ПЕРВОГО ЧТЕНИЯ",
+        "text": "МОЖНО ПЕРЕЧИТАТЬ ДЕСЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКА",
+        "text": "РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.71,
-    "end": 6.99,
+    "start": 3.63,
+    "end": 5.07,
     "lines": [
       {
-        "text": "ПОМОГАЕТ НЕ ЕЩЕ ОДНО ПЕРЕЧИТЫВАНИЕ А",
+        "text": "И ВСЕ РАВНО ПЕРЕПУТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБ",
+        "text": "ПОРЯДОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.17,
-    "end": 8.73,
+    "start": 5.19,
+    "end": 6.69,
     "lines": [
       {
-        "text": "ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ИХ",
+        "text": "НА ЭКЗАМЕНЕ ПРОСТОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОМУ",
+        "text": "ЧТЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.23,
+    "start": 6.84,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "СПИСКА ПЛОХО ПРЕВРАЩАЕТСЯ В УВЕРЕННОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 10.77,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
@@ -64,8 +80,8 @@
     ]
   },
   {
-    "start": 10.38,
-    "end": 12.06,
+    "start": 10.92,
+    "end": 12.54,
     "lines": [
       {
         "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
@@ -80,8 +96,8 @@
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.47,
+    "start": 12.84,
+    "end": 13.92,
     "lines": [
       {
         "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
@@ -96,8 +112,24 @@
     ]
   },
   {
-    "start": 14.73,
-    "end": 16.386,
+    "start": 14.04,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "ДЛЯ ТАКОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАТЕРИАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.21,
+    "end": 17.026,
     "lines": [
       {
         "text": "ССЫЛКА",

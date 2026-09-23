@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.98,
+    "end": 3.48,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ЗАДАНИЙ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.96,
+    "end": 4.92,
+    "lines": [
+      {
+        "text": "ЗНАЧИТ ТЕМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.46,
+    "end": 6.42,
+    "lines": [
+      {
+        "text": "НО ЭТО НЕ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 9.21,
+    "lines": [
+      {
+        "text": "ПОНЯТНОЕ РЕШЕНИЕ И РЕШЕНИЕ КОТОРОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.33,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "ПОВТОРИШЬ ЧЕРЕЗ НЕДЕЛЮ ЭТО РАЗНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЩИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 13.71,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.86,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.29,
+    "end": 17.46,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.73,
+    "end": 18.54,
+    "lines": [
+      {
+        "text": "ОТ НАЧАЛА ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.29,
+    "end": 20.802,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
