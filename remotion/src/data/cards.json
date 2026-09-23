@@ -1,26 +1,42 @@
 [
   {
-    "start": 2.37,
-    "end": 4.5,
+    "start": 3.9,
+    "end": 5.31,
     "lines": [
       {
-        "text": "ВАРИАНТЫ ПРОСТО ПОТОМУ ЧТО ОНИ",
+        "text": "НЕ САМОЕ НАДЕЖНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАШЛИСЬ",
+        "text": "СТРАТЕГИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.92,
-    "end": 6.9,
+    "start": 6.06,
+    "end": 6.93,
     "lines": [
       {
-        "text": "НЕ ВСЕ ТАКИЕ ПОДБОРКИ ПЕРЕСЕКАЮТСЯ",
+        "text": "ЧАСТЬ ТАКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.14,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "НЕ ВСТРЕТИТСЯ НА НАСТОЯЩЕМ ЭКЗАМЕНЕ",
         "accent": false,
         "size": "small"
       },
@@ -32,27 +48,27 @@
     ]
   },
   {
-    "start": 7.08,
-    "end": 8.52,
+    "start": 10.26,
+    "end": 11.58,
     "lines": [
       {
-        "text": "С НАСТОЯЩИМ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМАТОМ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.79,
-    "end": 10.59,
+    "start": 11.76,
+    "end": 12.96,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ СОБРАН БАНК",
+        "text": "СОБРАН АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
@@ -64,24 +80,24 @@
     ]
   },
   {
-    "start": 10.95,
-    "end": 12.75,
+    "start": 13.59,
+    "end": 16.2,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ОТ СОСТАВИТЕЛЕЙ",
+        "text": "ЗАДАНИЕ ОТ ТЕХ КТО СОСТАВЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕАЛЬНОГО",
+        "text": "НАСТОЯЩИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.05,
-    "end": 14.79,
+    "start": 17.01,
+    "end": 18.9,
     "lines": [
       {
         "text": "ССЫЛКА",
