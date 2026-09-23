@@ -1,0 +1,22 @@
+[
+  { "start": 5.64, "end": 8.22, "lines": [
+    { "text": "МОЖНО ДОБАВИТЬ", "accent": false, "size": "small" },
+    { "text": "ЕЩЕ ОДИН ИСТОЧНИК", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.22, "end": 12.00, "lines": [
+    { "text": "НЕ ВСЕ СБОРНИКИ", "accent": false, "size": "small" },
+    { "text": "СОВПАДАЮТ С ЕГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.00, "end": 14.04, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.04, "end": 17.55, "lines": [
+    { "text": "РЕАЛЬНЫЕ ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "КАК НА ЕГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.15, "end": 19.77, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
