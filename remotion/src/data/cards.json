@@ -1,103 +1,151 @@
 [
   {
-    "start": 2.25,
-    "end": 4.44,
+    "start": 1.98,
+    "end": 3.48,
     "lines": [
       {
-        "text": "РЕДКО ЗАПОМИНАЮТСЯ С ПЕРВОГО ЧТЕНИЯ",
+        "text": "РЕШЕНИЕ ЗАДАНИЙ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКА",
+        "text": "ПОНЯТНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.71,
-    "end": 6.99,
+    "start": 3.96,
+    "end": 4.92,
     "lines": [
       {
-        "text": "ПОМОГАЕТ НЕ ЕЩЕ ОДНО ПЕРЕЧИТЫВАНИЕ А",
+        "text": "ЗНАЧИТ ТЕМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБ",
+        "text": "ЗАКРЫТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.17,
-    "end": 8.73,
+    "start": 5.46,
+    "end": 6.42,
     "lines": [
       {
-        "text": "ГДЕ ПРИХОДИТСЯ ВСПОМИНАТЬ ИХ",
+        "text": "НО ЭТО НЕ ВСЕГДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОМУ",
+        "text": "ТАК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.23,
+    "start": 6.96,
+    "end": 9.21,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ПОНЯТНОЕ РЕШЕНИЕ И РЕШЕНИЕ КОТОРОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 12.06,
+    "start": 9.33,
+    "end": 11.58,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "ПОВТОРИШЬ ЧЕРЕЗ НЕДЕЛЮ ЭТО РАЗНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ВЕЩИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.47,
+    "start": 12.36,
+    "end": 13.71,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.73,
-    "end": 16.386,
+    "start": 13.86,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.29,
+    "end": 17.46,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.73,
+    "end": 18.54,
+    "lines": [
+      {
+        "text": "ОТ НАЧАЛА ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.29,
+    "end": 20.802,
     "lines": [
       {
         "text": "ССЫЛКА",
