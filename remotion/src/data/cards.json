@@ -1,21 +1,29 @@
 [
-  { "start": 5.64, "end": 8.22, "lines": [
-    { "text": "МОЖНО ДОБАВИТЬ", "accent": false, "size": "small" },
-    { "text": "ЕЩЕ ОДИН ИСТОЧНИК", "accent": true, "size": "big" }
+  { "start": 4.62, "end": 6.63, "lines": [
+    { "text": "ЕЩЕ ОДНО ЗАДАНИЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ПОМОЖЕТ", "accent": true, "size": "big" }
   ]},
-  { "start": 8.22, "end": 12.00, "lines": [
-    { "text": "НЕ ВСЕ СБОРНИКИ", "accent": false, "size": "small" },
-    { "text": "СОВПАДАЮТ С ЕГЭ", "accent": true, "size": "big" }
+  { "start": 6.63, "end": 8.82, "lines": [
+    { "text": "НУЖЕН НЕ", "accent": false, "size": "small" },
+    { "text": "НОВЫЙ ВАРИАНТ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.00, "end": 14.04, "lines": [
+  { "start": 8.82, "end": 11.01, "lines": [
+    { "text": "А РАЗБОР ИМЕННО", "accent": false, "size": "small" },
+    { "text": "ЭТОЙ ОШИБКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.01, "end": 12.84, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    { "text": "КАЖДОМУ ЗАДАНИЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.04, "end": 17.55, "lines": [
-    { "text": "РЕАЛЬНЫЕ ЗАДАНИЯ", "accent": false, "size": "small" },
-    { "text": "КАК НА ЕГЭ", "accent": true, "size": "big" }
+  { "start": 12.84, "end": 14.64, "lines": [
+    { "text": "ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
   ]},
-  { "start": 18.15, "end": 19.77, "lines": [
+  { "start": 14.64, "end": 17.19, "lines": [
+    { "text": "ОБЪЯСНЯЕТ ОТКУДА", "accent": false, "size": "small" },
+    { "text": "БЕРЕТСЯ ОШИБКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.19, "end": 18.87, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
