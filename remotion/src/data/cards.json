@@ -1,55 +1,55 @@
 [
   {
-    "start": 3.9,
-    "end": 5.31,
+    "start": 3.33,
+    "end": 6.15,
     "lines": [
       {
-        "text": "НЕ САМОЕ НАДЕЖНАЯ",
+        "text": "ИЗ ЗА ОДНОЙ И ТОЙ ЖЕ НЕВЫЯСНЕННОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРАТЕГИЯ",
+        "text": "ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 6.93,
+    "start": 6.42,
+    "end": 7.86,
     "lines": [
       {
-        "text": "ЧАСТЬ ТАКИХ",
+        "text": "ПОСМОТРЕТЬ ОТВЕТ НЕ ТО ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "САМОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.14,
-    "end": 9.3,
+    "start": 7.86,
+    "end": 9.06,
     "lines": [
       {
-        "text": "НЕ ВСТРЕТИТСЯ НА НАСТОЯЩЕМ ЭКЗАМЕНЕ",
+        "text": "ЧТО ПОНЯТЬ ГДЕ ПРОИЗОШЕЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВООБЩЕ",
+        "text": "СБОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.26,
-    "end": 11.58,
+    "start": 9.18,
+    "end": 10.32,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -64,40 +64,40 @@
     ]
   },
   {
-    "start": 11.76,
-    "end": 12.96,
+    "start": 10.44,
+    "end": 11.7,
     "lines": [
       {
-        "text": "СОБРАН АКТУАЛЬНЫЙ БАНК",
+        "text": "КАЖДОМУ ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ТЕКСТОВАЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.59,
-    "end": 16.2,
+    "start": 12.18,
+    "end": 13.65,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ОТ ТЕХ КТО СОСТАВЛЯЕТ",
+        "text": "РАЗБОР КОТОРЫЙ ОБЪЯСНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩИЕ",
+        "text": "ПРИЧИНУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.01,
-    "end": 18.9,
+    "start": 14.34,
+    "end": 16.08,
     "lines": [
       {
         "text": "ССЫЛКА",
