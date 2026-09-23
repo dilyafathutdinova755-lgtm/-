@@ -1,0 +1,38 @@
+[
+  { "start": 5.10, "end": 6.36, "lines": [
+    { "text": "В ГОЛОВЕ", "accent": false, "size": "small" },
+    { "text": "КАША", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.69, "end": 7.44, "lines": [
+    { "text": "ДЕЛО НЕ", "accent": false, "size": "small" },
+    { "text": "В ЛЕНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.89, "end": 10.20, "lines": [
+    { "text": "ОБЫЧНОЕ ЧТЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ПЛОХО РАБОТАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.38, "end": 11.52, "lines": [
+    { "text": "БЕЗ", "accent": false, "size": "small" },
+    { "text": "ПОВТОРЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.12, "end": 15.06, "lines": [
+    { "text": "РУССКИЙ ИСТОРИЯ", "accent": false, "size": "small" },
+    { "text": "И ОБЩЕСТВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.30, "end": 16.53, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.01, "end": 18.81, "lines": [
+    { "text": "ВСПОМИНАТЬ", "accent": false, "size": "small" },
+    { "text": "САМОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.99, "end": 20.40, "lines": [
+    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ЗАНОВО ЧИТАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.70, "end": 22.47, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,30 @@
+[
+  { "start": 3.81, "end": 5.10, "lines": [
+    { "text": "БЕСКОНЕЧНОЕ", "accent": false, "size": "small" },
+    { "text": "РЕШИЛ ЗАБЫЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.53, "end": 8.88, "lines": [
+    { "text": "ОТВЕТ", "accent": false, "size": "small" },
+    { "text": "ЗА СЕКУНДУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.18, "end": 12.00, "lines": [
+    { "text": "ЧЕРЕЗ НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "ТА ЖЕ ОШИБКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.60, "end": 16.02, "lines": [
+    { "text": "КАЖДОМУ ЗАДАНИЮ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.20, "end": 17.67, "lines": [
+    { "text": "ОБЪЯСНЯЕТ", "accent": false, "size": "small" },
+    { "text": "САМУ ОШИБКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.91, "end": 19.62, "lines": [
+    { "text": "А НЕ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ВЕРНЫЙ ОТВЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.19, "end": 21.75, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
