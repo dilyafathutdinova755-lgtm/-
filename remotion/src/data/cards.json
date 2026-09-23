@@ -1,167 +1,119 @@
 [
   {
-    "start": 2.19,
-    "end": 3.63,
+    "start": 2.73,
+    "end": 5.64,
     "lines": [
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ МНОГИЕ",
+        "text": "КАЖДЫЙ ДЕНЬ И ВСЕ РАВНО СПОТЫКАЕТСЯ ОБ ОДНО И ТУ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛА",
+        "text": "ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.05,
-    "end": 5.07,
+    "start": 6.48,
+    "end": 7.53,
     "lines": [
       {
-        "text": "ДЕРЖАТСЯ В ГОЛОВЕ РОВНО ДО",
+        "text": "ДЕЛО ОБЫЧНО НЕ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДНЯ",
+        "text": "ЛЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
-    "end": 8.43,
+    "start": 7.65,
+    "end": 9.39,
     "lines": [
       {
-        "text": "ПРИЧИНА ОБЫЧНО НЕ В",
+        "text": "А В ТОМ ЧТО ОШИБКУ НИКТО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛОЖНОСТИ",
+        "text": "РАЗБИРАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.79,
-    "end": 10.77,
+    "start": 9.57,
+    "end": 10.83,
     "lines": [
       {
-        "text": "ПРАВИЛА А В ТОМ ЧТО ЕГО ОДИН РАЗ",
+        "text": "ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЧИТАЛИ",
+        "text": "ШАГАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.22,
-    "end": 12.09,
+    "start": 10.98,
+    "end": 12.24,
     "lines": [
       {
-        "text": "И ЗАКРЫЛИ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ К КАЖДОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИК",
+        "text": "ЗАДАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 14.16,
+    "start": 12.42,
+    "end": 13.89,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.31,
-    "end": 15.18,
+    "start": 14.04,
+    "end": 16.02,
     "lines": [
       {
-        "text": "ЕСТЬ НА",
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ ОТКУДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "БЕРЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 17.79,
-    "lines": [
-      {
-        "text": "ЗАПОМИНАНИЕ ПО РУССКОМУ ЯЗЫКУ И",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИСТОРИИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.42,
-    "end": 20.25,
-    "lines": [
-      {
-        "text": "МАТЕРИАЛ ЗАКРЕПЛЯЕТСЯ ЧЕРЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЕНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.67,
-    "end": 21.69,
-    "lines": [
-      {
-        "text": "А НЕ ОДНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОЧТЕНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.32,
-    "end": 24.24,
+    "start": 16.8,
+    "end": 18.51,
     "lines": [
       {
         "text": "ССЫЛКА",
