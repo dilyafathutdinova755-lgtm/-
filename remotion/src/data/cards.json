@@ -1,135 +1,103 @@
 [
   {
     "start": 2.1,
-    "end": 3.45,
+    "end": 4.77,
     "lines": [
       {
-        "text": "МОЖНО ПЕРЕЧИТАТЬ ДЕСЯТЬ",
+        "text": "ИНОГДА УГАДЫВАЕТСЯ А НЕ ПО НАСТОЯЩЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗ",
+        "text": "ПОНИМАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 5.07,
+    "start": 5.13,
+    "end": 5.94,
     "lines": [
       {
-        "text": "И ВСЕ РАВНО ПЕРЕПУТАТЬ",
+        "text": "НА ПОХОЖЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОРЯДОК",
+        "text": "ЗАДАНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.69,
+    "start": 6.15,
+    "end": 7.8,
     "lines": [
       {
-        "text": "НА ЭКЗАМЕНЕ ПРОСТОЕ",
+        "text": "УДАЧА ОБЫЧНО НЕ ПОВТОРЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТЕНИЕ",
+        "text": "ТАКАЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.84,
-    "end": 9.3,
+    "start": 8.16,
+    "end": 9.42,
     "lines": [
       {
-        "text": "СПИСКА ПЛОХО ПРЕВРАЩАЕТСЯ В УВЕРЕННОЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАНИЕ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.6,
-    "end": 10.77,
+    "start": 9.54,
+    "end": 11.61,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.92,
-    "end": 12.54,
+    "start": 11.76,
+    "end": 13.44,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ РЕШЕНИЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ШАГАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.84,
-    "end": 13.92,
-    "lines": [
-      {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИГРЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.04,
-    "end": 14.97,
-    "lines": [
-      {
-        "text": "ДЛЯ ТАКОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МАТЕРИАЛА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.21,
-    "end": 17.026,
+    "start": 13.77,
+    "end": 15.511,
     "lines": [
       {
         "text": "ССЫЛКА",
