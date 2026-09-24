@@ -1,119 +1,167 @@
 [
   {
-    "start": 2.07,
-    "end": 4.68,
+    "start": 2.16,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ВАРИАНТОВ ИЗ ТРЕХ ЧЕТЫРЕХ РАЗНЫХ",
+        "text": "ИНОГДА ДЕРЖИТСЯ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРНИКОВ",
+        "text": "ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 8.1,
+    "start": 3.69,
+    "end": 4.77,
     "lines": [
       {
-        "text": "И НЕ ЗАМЕТИТЬ ЧТО ОНИ ПРОТИВОРЕЧАТ ДРУГ ДРУГУ ПО",
+        "text": "РОВНО ДО КОНЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМАТУ",
+        "text": "УРОКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.94,
-    "end": 10.26,
+    "start": 4.98,
+    "end": 6.12,
     "lines": [
       {
-        "text": "ТАКАЯ ПУТАНИЦА",
+        "text": "НА КОТОРОМ ИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЫЧНО",
+        "text": "РАЗБИРАЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.47,
-    "end": 12.45,
+    "start": 7.56,
+    "end": 8.79,
     "lines": [
       {
-        "text": "НЕ ПОМОГАЕТ А ТОЛЬКО СБИВАЕТ С",
+        "text": "ПРОСТОЕ ПОВТОРЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛКУ",
+        "text": "ВСЛУХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.74,
-    "end": 15.63,
+    "start": 8.97,
+    "end": 9.9,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "text": "ПОЧТИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕДИНЫЙ",
+        "text": "ПОМОГАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.84,
-    "end": 17.13,
+    "start": 10.14,
+    "end": 11.34,
     "lines": [
       {
-        "text": "АКТУАЛЬНЫЙ БАНК",
+        "text": "БЕЗ ДОПОЛНИТЕЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ТРЕНИРОВКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.73,
-    "end": 19.5,
+    "start": 12.33,
+    "end": 13.65,
     "lines": [
       {
-        "text": "РАЗНОЧТЕНИЙ МЕЖДУ ИСТОЧНИКАМИ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ",
+        "text": "РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 22.167,
+    "start": 13.8,
+    "end": 15.69,
+    "lines": [
+      {
+        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.41,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.88,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "ДЛЯ БОЛЕЕ ДОЛГОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭФФЕКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.95,
+    "end": 21.804,
     "lines": [
       {
         "text": "ССЫЛКА",
