@@ -1,135 +1,119 @@
 [
   {
-    "start": 1.95,
-    "end": 3.42,
+    "start": 2.07,
+    "end": 4.68,
     "lines": [
       {
-        "text": "ПОДРЯД ПОЛУЧИТЬ",
+        "text": "ВАРИАНТОВ ИЗ ТРЕХ ЧЕТЫРЕХ РАЗНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИНАКОВЫЙ",
+        "text": "СБОРНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.57,
-    "end": 4.41,
+    "start": 5.19,
+    "end": 8.1,
     "lines": [
       {
-        "text": "НЕПРАВИЛЬНЫЙ",
+        "text": "И НЕ ЗАМЕТИТЬ ЧТО ОНИ ПРОТИВОРЕЧАТ ДРУГ ДРУГУ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТ",
+        "text": "ФОРМАТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.83,
-    "end": 6.27,
+    "start": 8.94,
+    "end": 10.26,
     "lines": [
       {
-        "text": "И РЕШИТЬ ЧТО ПРОСТО НЕ",
+        "text": "ТАКАЯ ПУТАНИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВЕЗЛО",
+        "text": "ОБЫЧНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.02,
-    "end": 8.13,
+    "start": 10.47,
+    "end": 12.45,
     "lines": [
       {
-        "text": "НА ДЕЛЕ ЗА ТАКОЙ",
+        "text": "НЕ ПОМОГАЕТ А ТОЛЬКО СБИВАЕТ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКОЙ",
+        "text": "ТОЛКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.31,
-    "end": 10.74,
+    "start": 13.74,
+    "end": 15.63,
     "lines": [
       {
-        "text": "ОБЫЧНО СТОИТ ОДИН И ТОТ ЖЕ НЕПОНЯТЫЙ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШАГ",
+        "text": "ЕДИНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.43,
-    "end": 12.66,
+    "start": 15.84,
+    "end": 17.13,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОМУ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.78,
-    "end": 14.73,
+    "start": 17.73,
+    "end": 19.5,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЕ ТЕКСТОВЫЙ",
+        "text": "РАЗНОЧТЕНИЙ МЕЖДУ ИСТОЧНИКАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "БЕЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.09,
-    "end": 16.83,
-    "lines": [
-      {
-        "text": "КОТОРЫЙ НАХОДИТ ИМЕННО ЭТОТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ШАГ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.4,
-    "end": 19.372,
+    "start": 20.16,
+    "end": 22.167,
     "lines": [
       {
         "text": "ССЫЛКА",
