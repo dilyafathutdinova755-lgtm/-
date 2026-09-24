@@ -1,58 +1,10 @@
 [
   {
-    "start": 1.89,
-    "end": 2.82,
+    "start": 1.92,
+    "end": 4.02,
     "lines": [
       {
-        "text": "СО СТОРОНЫ ЧТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕБЕНОК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 3.09,
-    "end": 4.08,
-    "lines": [
-      {
-        "text": "РАЗ ЗА РАЗОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОШИБАЕТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.17,
-    "end": 5.07,
-    "lines": [
-      {
-        "text": "В ОДНОМ И ТОМ ЖЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТИПЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 5.22,
-    "end": 6.01,
-    "lines": [
-      {
-        "text": "ЗАДАНИЯ",
+        "text": "ЗАДУМЫВАЮТСЯ ОТКУДА ВЗЯТЫ ВАРИАНТЫ",
         "accent": false,
         "size": "small"
       },
@@ -64,120 +16,104 @@
     ]
   },
   {
-    "start": 6.42,
-    "end": 7.23,
+    "start": 4.14,
+    "end": 5.34,
     "lines": [
       {
-        "text": "ОБЫЧНЫЙ",
+        "text": "ПО КОТОРЫМ ГОТОВИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНЫЙ",
+        "text": "РЕБЕНОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.32,
-    "end": 8.25,
+    "start": 5.58,
+    "end": 8.19,
     "lines": [
       {
-        "text": "ОТВЕТ В ДРУГИХ",
+        "text": "ДОМА ЧАСТЬ ТАКИХ МАТЕРИАЛОВ В СВОБОДНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯХ",
+        "text": "ДОСТУПЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.46,
-    "end": 9.75,
+    "start": 8.34,
+    "end": 9.27,
     "lines": [
       {
-        "text": "ЭТУ ПРОБЛЕМУ ЛЕГКО",
+        "text": "НЕ ОБНОВЛЯЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКРЫВАЕТ",
+        "text": "ДАВНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.58,
+    "start": 9.87,
+    "end": 11.01,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ К",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОМУ",
+        "text": "СОБРАН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.67,
-    "end": 13.71,
+    "start": 11.19,
+    "end": 12.15,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "text": "АКТУАЛЬНЫЙ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.95,
-    "end": 14.76,
+    "start": 12.48,
+    "end": 14.64,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "ЗАДАНИЯ ОТ СОСТАВИТЕЛЕЙ НАСТОЯЩЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ЭКЗАМЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.03,
-    "end": 16.47,
-    "lines": [
-      {
-        "text": "ТАКИЕ ПОВТОРЯЮЩИЕСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОШИБКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.19,
-    "end": 19.052,
+    "start": 15.24,
+    "end": 17.154,
     "lines": [
       {
         "text": "ССЫЛКА",
