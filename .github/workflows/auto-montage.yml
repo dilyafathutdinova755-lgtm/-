@@ -1,0 +1,29 @@
+name: Auto Montage
+
+on:
+  repository_dispatch:
+    types: [montage_video]
+
+permissions:
+  contents: write
+
+jobs:
+  montage:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run Claude Code montage
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Смонтируй видео под тегом ${{ github.event.client_payload.tag }}.
+
+            Исходный MP4 находится в GitHub Release с этим тегом.
+            Работай по существующим инструкциям проекта и CLAUDE.md.
+            Выполни монтаж так же, как при моей обычной ручной команде
+            "Смонтируй видео под тегом <тег>".
+
+          claude_args: |
+            --allowedTools Read,Write,Edit,Bash
+            --max-turns 30
