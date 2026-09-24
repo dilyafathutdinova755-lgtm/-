@@ -1,71 +1,71 @@
 [
   {
-    "start": 2.58,
-    "end": 3.72,
+    "start": 3.33,
+    "end": 4.92,
     "lines": [
       {
-        "text": "МОЖНО ВЫУЧИТЬ ПЕРЕД",
+        "text": "МОЖЕТ ЧЕСТНО СИДЕТЬ ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНОМ",
+        "text": "УЧЕБНИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.08,
-    "end": 6.15,
+    "start": 5.07,
+    "end": 6.96,
     "lines": [
       {
-        "text": "И ВСЕ РАВНО ПЕРЕПУТАТЬ ЕГО НА СЛЕДУЮЩИЙ",
+        "text": "И ПОЧТИ НИЧЕГО НЕ ЗАПОМИНАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕНЬ",
+        "text": "НАДОЛГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.35,
-    "end": 8.73,
+    "start": 7.77,
+    "end": 8.85,
     "lines": [
       {
-        "text": "ДЕЛО НЕ В СЛОЖНОСТИ",
+        "text": "ДЕЛО ЧАСТО НЕ ВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛА",
+        "text": "ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 12.3,
+    "start": 9.03,
+    "end": 11.01,
     "lines": [
       {
-        "text": "А В ТОМ ЧТО ОНО НЕ БЫЛО ПО НАСТОЯЩЕМУ ПРОВЕРЕНО НА",
+        "text": "ЗА СТОЛОМ А В САМОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАКТИКЕ",
+        "text": "СПОСОБЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.32,
-    "end": 14.64,
+    "start": 11.7,
+    "end": 12.96,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
@@ -80,11 +80,11 @@
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.62,
+    "start": 13.11,
+    "end": 14.7,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "ЯЗЫКУ ОБЩЕСТВОЗНАНИЯ",
         "accent": false,
         "size": "small"
       },
@@ -96,8 +96,8 @@
     ]
   },
   {
-    "start": 17.25,
-    "end": 18.54,
+    "start": 15.18,
+    "end": 16.32,
     "lines": [
       {
         "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
@@ -112,40 +112,24 @@
     ]
   },
   {
-    "start": 18.99,
-    "end": 20.73,
+    "start": 16.47,
+    "end": 17.91,
     "lines": [
       {
-        "text": "ГДЕ ПРАВИЛА ПРИХОДИТСЯ",
+        "text": "ДЛЯ БОЛЕЕ ПРОЧНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИМЕНЯТЬ",
+        "text": "РЕЗУЛЬТАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.15,
-    "end": 22.05,
-    "lines": [
-      {
-        "text": "А НЕ ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.59,
-    "end": 24.52,
+    "start": 18.51,
+    "end": 20.418,
     "lines": [
       {
         "text": "ССЫЛКА",

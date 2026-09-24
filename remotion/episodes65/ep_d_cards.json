@@ -1,0 +1,114 @@
+[
+  {
+    "start": 2.1,
+    "end": 3.96,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ СКАЧАЛИ ДАВНО И БОЛЬШЕ НИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.14,
+    "end": 5.94,
+    "lines": [
+      {
+        "text": "НЕ ПРОВЕРЯЛИ НА АКТУАЛЬНОСТЬ ЗА ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.12,
+    "end": 8.37,
+    "lines": [
+      {
+        "text": "ФОРМУЛИРОВКИ ЗАДАНИЙ ВПОЛНЕ МОГЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗМЕНИТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 10.32,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АКТУАЛЬНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.44,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.23,
+    "lines": [
+      {
+        "text": "ВСЕГДА СООТВЕТСТВУЕТ РЕАЛЬНОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 15.212,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

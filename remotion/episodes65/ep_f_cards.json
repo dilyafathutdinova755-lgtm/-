@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.07,
+    "end": 4.68,
+    "lines": [
+      {
+        "text": "ВАРИАНТОВ ИЗ ТРЕХ ЧЕТЫРЕХ РАЗНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБОРНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.19,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "И НЕ ЗАМЕТИТЬ ЧТО ОНИ ПРОТИВОРЕЧАТ ДРУГ ДРУГУ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "ТАКАЯ ПУТАНИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЫЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.47,
+    "end": 12.45,
+    "lines": [
+      {
+        "text": "НЕ ПОМОГАЕТ А ТОЛЬКО СБИВАЕТ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.74,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕДИНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.84,
+    "end": 17.13,
+    "lines": [
+      {
+        "text": "АКТУАЛЬНЫЙ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.73,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "РАЗНОЧТЕНИЙ МЕЖДУ ИСТОЧНИКАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.16,
+    "end": 22.167,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

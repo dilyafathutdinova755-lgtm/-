@@ -1,151 +1,135 @@
 [
   {
-    "start": 2.58,
-    "end": 3.72,
+    "start": 1.95,
+    "end": 3.42,
     "lines": [
       {
-        "text": "МОЖНО ВЫУЧИТЬ ПЕРЕД",
+        "text": "ПОДРЯД ПОЛУЧИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНОМ",
+        "text": "ОДИНАКОВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.08,
-    "end": 6.15,
+    "start": 3.57,
+    "end": 4.41,
     "lines": [
       {
-        "text": "И ВСЕ РАВНО ПЕРЕПУТАТЬ ЕГО НА СЛЕДУЮЩИЙ",
+        "text": "НЕПРАВИЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕНЬ",
+        "text": "ОТВЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.35,
-    "end": 8.73,
+    "start": 4.83,
+    "end": 6.27,
     "lines": [
       {
-        "text": "ДЕЛО НЕ В СЛОЖНОСТИ",
+        "text": "И РЕШИТЬ ЧТО ПРОСТО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛА",
+        "text": "ПОВЕЗЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 12.3,
+    "start": 7.02,
+    "end": 8.13,
     "lines": [
       {
-        "text": "А В ТОМ ЧТО ОНО НЕ БЫЛО ПО НАСТОЯЩЕМУ ПРОВЕРЕНО НА",
+        "text": "НА ДЕЛЕ ЗА ТАКОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАКТИКЕ",
+        "text": "ОШИБКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.32,
-    "end": 14.64,
+    "start": 8.31,
+    "end": 10.74,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ОБЫЧНО СТОИТ ОДИН И ТОТ ЖЕ НЕПОНЯТЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "ШАГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.82,
-    "end": 16.62,
+    "start": 11.43,
+    "end": 12.66,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.25,
-    "end": 18.54,
+    "start": 12.78,
+    "end": 14.73,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЕ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.99,
-    "end": 20.73,
+    "start": 15.09,
+    "end": 16.83,
     "lines": [
       {
-        "text": "ГДЕ ПРАВИЛА ПРИХОДИТСЯ",
+        "text": "КОТОРЫЙ НАХОДИТ ИМЕННО ЭТОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИМЕНЯТЬ",
+        "text": "ШАГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.15,
-    "end": 22.05,
-    "lines": [
-      {
-        "text": "А НЕ ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 22.59,
-    "end": 24.52,
+    "start": 17.4,
+    "end": 19.372,
     "lines": [
       {
         "text": "ССЫЛКА",

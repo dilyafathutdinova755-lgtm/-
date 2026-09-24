@@ -1,0 +1,130 @@
+[
+  {
+    "start": 3.36,
+    "end": 6.42,
+    "lines": [
+      {
+        "text": "А ПОТОМ ОДНО И ТО ЖЕ ЗАДАНИЕ СНОВА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДДАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.26,
+    "end": 9.54,
+    "lines": [
+      {
+        "text": "ОБЫЧНАЯ ПРИЧИНА В ТОМ ЧТО РАНЬШЕ ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВЕЗЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.91,
+    "lines": [
+      {
+        "text": "С ОТВЕТОМ А НЕ ЧТО ТЕМА ПРАВДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.66,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.22,
+    "end": 16.44,
+    "lines": [
+      {
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.83,
+    "end": 17.67,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.12,
+    "end": 20.19,
+    "lines": [
+      {
+        "text": "ПОНЯТА ТЕМА НА САМОМ ДЕЛЕ ИЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.06,
+    "end": 23.127,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
