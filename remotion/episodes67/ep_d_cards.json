@@ -1,122 +1,74 @@
 [
   {
-    "start": 1.89,
-    "end": 2.82,
+    "start": 1.95,
+    "end": 3.75,
     "lines": [
       {
-        "text": "СО СТОРОНЫ ЧТО",
+        "text": "ВСЕГО РЕШИТЬ ЧТО ЭТО СЛУЧАЙНОСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕБЕНОК",
+        "text": "ПРОЩЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.09,
-    "end": 4.08,
+    "start": 3.96,
+    "end": 4.75,
     "lines": [
       {
-        "text": "РАЗ ЗА РАЗОМ",
+        "text": "И ПОЙТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБАЕТСЯ",
+        "text": "ДАЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.17,
-    "end": 5.07,
+    "start": 4.92,
+    "end": 6.24,
     "lines": [
       {
-        "text": "В ОДНОМ И ТОМ ЖЕ",
+        "text": "СЛУЧАЙНОСТЬ ПОВТОРЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТИПЕ",
+        "text": "РЕДКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.22,
-    "end": 6.01,
+    "start": 6.48,
+    "end": 8.7,
     "lines": [
+      {
+        "text": "ДВАЖДЫ ПОДРЯД НА ОДНОМ И ТОМ ЖЕ ТИПЕ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "ЗАДАНИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.42,
-    "end": 7.23,
+    "start": 9.03,
+    "end": 10.29,
     "lines": [
       {
-        "text": "ОБЫЧНЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРАВИЛЬНЫЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.32,
-    "end": 8.25,
-    "lines": [
-      {
-        "text": "ОТВЕТ В ДРУГИХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЯХ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.46,
-    "end": 9.75,
-    "lines": [
-      {
-        "text": "ЭТУ ПРОБЛЕМУ ЛЕГКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКРЫВАЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.38,
-    "end": 11.58,
-    "lines": [
-      {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ К",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +80,8 @@
     ]
   },
   {
-    "start": 11.67,
-    "end": 13.71,
+    "start": 10.41,
+    "end": 12.21,
     "lines": [
       {
         "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
@@ -144,8 +96,8 @@
     ]
   },
   {
-    "start": 13.95,
-    "end": 14.76,
+    "start": 12.36,
+    "end": 13.15,
     "lines": [
       {
         "text": "КОТОРЫЙ",
@@ -160,24 +112,24 @@
     ]
   },
   {
-    "start": 15.03,
-    "end": 16.47,
+    "start": 13.38,
+    "end": 15.27,
     "lines": [
       {
-        "text": "ТАКИЕ ПОВТОРЯЮЩИЕСЯ",
+        "text": "СЛУЧАЙНОСТЬ ЭТО ИЛИ СИСТЕМНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКИ",
+        "text": "ОШИБКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.19,
-    "end": 19.052,
+    "start": 15.54,
+    "end": 17.44,
     "lines": [
       {
         "text": "ССЫЛКА",

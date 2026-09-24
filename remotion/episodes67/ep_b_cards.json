@@ -1,0 +1,130 @@
+[
+  {
+    "start": 1.92,
+    "end": 4.02,
+    "lines": [
+      {
+        "text": "ЗАДУМЫВАЮТСЯ ОТКУДА ВЗЯТЫ ВАРИАНТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.14,
+    "end": 5.34,
+    "lines": [
+      {
+        "text": "ПО КОТОРЫМ ГОТОВИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕБЕНОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.58,
+    "end": 8.19,
+    "lines": [
+      {
+        "text": "ДОМА ЧАСТЬ ТАКИХ МАТЕРИАЛОВ В СВОБОДНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОСТУПЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 9.27,
+    "lines": [
+      {
+        "text": "НЕ ОБНОВЛЯЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАВНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 11.01,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.19,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "АКТУАЛЬНЫЙ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.48,
+    "end": 14.64,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ОТ СОСТАВИТЕЛЕЙ НАСТОЯЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.24,
+    "end": 17.154,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

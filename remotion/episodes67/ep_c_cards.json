@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.8,
+    "end": 2.85,
+    "lines": [
+      {
+        "text": "НА ЕГЭ ВСТРЕЧАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "ТОЛЬКО ПОТОМУ ЧТО ТРЕНИРОВОЧНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 5.97,
+    "lines": [
+      {
+        "text": "БЫЛИ СОБРАНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАУГАД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.09,
+    "end": 7.53,
+    "lines": [
+      {
+        "text": "ПРОВЕРИТЬ ИСТОЧНИК КАЖДОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "САМОСТОЯТЕЛЬНО ПОЧТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕРЕАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.54,
+    "end": 11.13,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АКТУАЛЬНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.25,
+    "end": 12.51,
+    "lines": [
+      {
+        "text": "БАНК ФИПИ ТОТ ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "ЧТО БУДЕТ НА НАСТОЯЩЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.34,
+    "end": 16.108,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,183 +1,167 @@
 [
   {
     "start": 1.89,
-    "end": 2.82,
+    "end": 3.15,
     "lines": [
       {
-        "text": "СО СТОРОНЫ ЧТО",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕБЕНОК",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.09,
-    "end": 4.08,
+    "start": 3.33,
+    "end": 4.41,
     "lines": [
       {
-        "text": "РАЗ ЗА РАЗОМ",
+        "text": "ИНОГДА ПЫТАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБАЕТСЯ",
+        "text": "ВЫУЧИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.17,
-    "end": 5.07,
+    "start": 4.65,
+    "end": 5.67,
     "lines": [
       {
-        "text": "В ОДНОМ И ТОМ ЖЕ",
+        "text": "ЗА ОДИН ДЛИННЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТИПЕ",
+        "text": "ВЕЧЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.22,
-    "end": 6.01,
+    "start": 5.79,
+    "end": 7.02,
     "lines": [
       {
-        "text": "ЗАДАНИЯ",
+        "text": "ПЕРЕД ЭКЗАМЕНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ТАКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.42,
-    "end": 7.23,
+    "start": 7.11,
+    "end": 8.13,
     "lines": [
       {
-        "text": "ОБЫЧНЫЙ",
+        "text": "СПОСОБ ОБЫЧНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНЫЙ",
+        "text": "ДЕРЖИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.32,
-    "end": 8.25,
+    "start": 8.22,
+    "end": 9.33,
     "lines": [
       {
-        "text": "ОТВЕТ В ДРУГИХ",
+        "text": "В ПАМЯТИ СОВСЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯХ",
+        "text": "НЕДОЛГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.46,
-    "end": 9.75,
+    "start": 9.63,
+    "end": 10.77,
     "lines": [
       {
-        "text": "ЭТУ ПРОБЛЕМУ ЛЕГКО",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКРЫВАЕТ",
+        "text": "РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.58,
+    "start": 10.89,
+    "end": 12.48,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ К",
+        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОМУ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.67,
-    "end": 13.71,
+    "start": 12.78,
+    "end": 13.83,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.95,
-    "end": 14.76,
+    "start": 13.98,
+    "end": 15.93,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "ДЛЯ БОЛЕЕ РАННЕГО И ПРОЧНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "РЕЗУЛЬТАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.03,
-    "end": 16.47,
-    "lines": [
-      {
-        "text": "ТАКИЕ ПОВТОРЯЮЩИЕСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОШИБКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.19,
-    "end": 19.052,
+    "start": 16.29,
+    "end": 18.2,
     "lines": [
       {
         "text": "ССЫЛКА",
