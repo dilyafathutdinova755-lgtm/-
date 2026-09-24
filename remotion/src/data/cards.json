@@ -1,135 +1,151 @@
 [
   {
-    "start": 3.33,
-    "end": 4.92,
+    "start": 2.13,
+    "end": 3.06,
     "lines": [
       {
-        "text": "МОЖЕТ ЧЕСТНО СИДЕТЬ ЗА",
+        "text": "ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКОМ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.07,
-    "end": 6.96,
+    "start": 3.3,
+    "end": 5.01,
     "lines": [
       {
-        "text": "И ПОЧТИ НИЧЕГО НЕ ЗАПОМИНАТЬ",
+        "text": "КОТОРУЮ ТЫ НИКОГДА РАНЬШЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАДОЛГО",
+        "text": "ВИДЕЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.77,
-    "end": 8.85,
+    "start": 5.13,
+    "end": 6.69,
     "lines": [
       {
-        "text": "ДЕЛО ЧАСТО НЕ ВО",
+        "text": "В СВОИХ ТРЕНИРОВОЧНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЕНИ",
+        "text": "ВАРИАНТАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 11.01,
+    "start": 7.86,
+    "end": 9.96,
     "lines": [
       {
-        "text": "ЗА СТОЛОМ А В САМОМ",
+        "text": "ЧАСТО ДЕЛО В ТОМ ЧТО САМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБЕ",
+        "text": "ВАРИАНТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.7,
-    "end": 12.96,
+    "start": 10.26,
+    "end": 11.82,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "СОБРАНЫ ИЗ РАЗНЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "ИСТОЧНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.11,
-    "end": 14.7,
+    "start": 12.27,
+    "end": 13.47,
     "lines": [
       {
-        "text": "ЯЗЫКУ ОБЩЕСТВОЗНАНИЯ",
+        "text": "ПРОВЕРКИ АКТУАЛЬНОСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "БЕЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.18,
-    "end": 16.32,
+    "start": 14.43,
+    "end": 16.26,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.47,
-    "end": 17.91,
+    "start": 16.38,
+    "end": 17.2,
     "lines": [
       {
-        "text": "ДЛЯ БОЛЕЕ ПРОЧНОГО",
+        "text": "БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТА",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.51,
-    "end": 20.418,
+    "start": 17.64,
+    "end": 20.43,
+    "lines": [
+      {
+        "text": "ТЕ ЖЕ ФОРМУЛИРОВКИ ЧТО ДЕЙСТВИТЕЛЬНО БУДУТ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.21,
+    "end": 23.255,
     "lines": [
       {
         "text": "ССЫЛКА",
