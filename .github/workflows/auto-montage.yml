@@ -25,17 +25,18 @@ jobs:
             Выполни монтаж так же, как при моей обычной ручной команде
             "Смонтируй видео под тегом <тег>".
 
-            Обязательно сохрани готовый смонтированный MP4 как файл
-            внутри текущей рабочей директории GitHub Actions.
-            Не удаляй готовый MP4 после завершения монтажа.
+            Готовый смонтированный ролик обязательно сохрани по точному пути:
+            remotion/public/output.mp4
 
           claude_args: |
             --allowedTools Read,Write,Edit,Bash
             --max-turns 30
 
-      - name: Find rendered MP4
-        if: always()
+      - name: Upload final video to Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.client_payload.tag }}
         run: |
-          echo "=== MP4 FILES CREATED DURING MONTAGE ==="
-          find "$GITHUB_WORKSPACE" -type f -iname "*.mp4" -print
-          echo "=== END MP4 LIST ==="
+          test -f remotion/public/output.mp4
+          cp remotion/public/output.mp4 final.mp4
+          gh release upload "$TAG" final.mp4 --clobber
