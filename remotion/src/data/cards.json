@@ -1,87 +1,103 @@
 [
   {
-    "start": 1.92,
-    "end": 2.97,
+    "start": 1.89,
+    "end": 3.15,
     "lines": [
       {
-        "text": "ДЛЯ ЕГЭ ПО РУССКОМУ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЯЗЫКУ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.36,
-    "end": 4.62,
+    "start": 3.33,
+    "end": 4.41,
     "lines": [
       {
-        "text": "НЕ СЛОЖНО А ВОТ",
+        "text": "ИНОГДА ПЫТАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИМЕНИТЬ",
+        "text": "ВЫУЧИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.74,
+    "start": 4.65,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ЗА ОДИН ДЛИННЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЧЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.79,
     "end": 7.02,
     "lines": [
       {
-        "text": "ЕГО В ЗАДАНИИ УЖЕ ОТДЕЛЬНАЯ",
+        "text": "ПЕРЕД ЭКЗАМЕНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАЧА",
+        "text": "ТАКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.35,
-    "end": 8.58,
+    "start": 7.11,
+    "end": 8.13,
     "lines": [
       {
-        "text": "ОБЫЧНОЕ ЧТЕНИЕ",
+        "text": "СПОСОБ ОБЫЧНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛА",
+        "text": "ДЕРЖИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.73,
-    "end": 10.05,
+    "start": 8.22,
+    "end": 9.33,
     "lines": [
       {
-        "text": "НЕ ВСЕГДА ДАЕТ ТАКОЙ",
+        "text": "В ПАМЯТИ СОВСЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАВЫК",
+        "text": "НЕДОЛГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.29,
-    "end": 11.49,
+    "start": 9.63,
+    "end": 10.77,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
@@ -96,8 +112,8 @@
     ]
   },
   {
-    "start": 11.64,
-    "end": 13.35,
+    "start": 10.89,
+    "end": 12.48,
     "lines": [
       {
         "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
@@ -112,8 +128,8 @@
     ]
   },
   {
-    "start": 13.65,
-    "end": 14.79,
+    "start": 12.78,
+    "end": 13.83,
     "lines": [
       {
         "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
@@ -128,40 +144,24 @@
     ]
   },
   {
-    "start": 14.91,
-    "end": 15.9,
+    "start": 13.98,
+    "end": 15.93,
     "lines": [
       {
-        "text": "ГДЕ ПРИХОДИТСЯ",
+        "text": "ДЛЯ БОЛЕЕ РАННЕГО И ПРОЧНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИМЕНЯТЬ",
+        "text": "РЕЗУЛЬТАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.05,
-    "end": 16.92,
-    "lines": [
-      {
-        "text": "МАТЕРИАЛ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРАКТИКЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.25,
-    "end": 19.16,
+    "start": 16.29,
+    "end": 18.2,
     "lines": [
       {
         "text": "ССЫЛКА",
