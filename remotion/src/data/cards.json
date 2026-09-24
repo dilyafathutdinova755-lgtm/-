@@ -1,119 +1,135 @@
 [
   {
-    "start": 1.92,
-    "end": 4.02,
+    "start": 1.8,
+    "end": 2.85,
     "lines": [
       {
-        "text": "ЗАДУМЫВАЮТСЯ ОТКУДА ВЗЯТЫ ВАРИАНТЫ",
+        "text": "НА ЕГЭ ВСТРЕЧАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ИНОГДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.14,
-    "end": 5.34,
+    "start": 3.0,
+    "end": 4.8,
     "lines": [
       {
-        "text": "ПО КОТОРЫМ ГОТОВИТСЯ",
+        "text": "ТОЛЬКО ПОТОМУ ЧТО ТРЕНИРОВОЧНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕБЕНОК",
+        "text": "ВАРИАНТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.58,
-    "end": 8.19,
+    "start": 4.95,
+    "end": 5.97,
     "lines": [
       {
-        "text": "ДОМА ЧАСТЬ ТАКИХ МАТЕРИАЛОВ В СВОБОДНОМ",
+        "text": "БЫЛИ СОБРАНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОСТУПЕ",
+        "text": "НАУГАД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.34,
-    "end": 9.27,
+    "start": 6.09,
+    "end": 7.53,
     "lines": [
       {
-        "text": "НЕ ОБНОВЛЯЛАСЬ",
+        "text": "ПРОВЕРИТЬ ИСТОЧНИК КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАВНО",
+        "text": "ВАРИАНТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.87,
-    "end": 11.01,
+    "start": 7.65,
+    "end": 9.15,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "САМОСТОЯТЕЛЬНО ПОЧТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБРАН",
+        "text": "НЕРЕАЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.19,
-    "end": 12.15,
+    "start": 9.54,
+    "end": 11.13,
     "lines": [
       {
-        "text": "АКТУАЛЬНЫЙ БАНК",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.48,
-    "end": 14.64,
+    "start": 11.25,
+    "end": 12.51,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ОТ СОСТАВИТЕЛЕЙ НАСТОЯЩЕГО",
+        "text": "БАНК ФИПИ ТОТ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНА",
+        "text": "ФОРМАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.24,
-    "end": 17.154,
+    "start": 12.63,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "ЧТО БУДЕТ НА НАСТОЯЩЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.34,
+    "end": 16.108,
     "lines": [
       {
         "text": "ССЫЛКА",
