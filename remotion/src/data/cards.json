@@ -1,90 +1,106 @@
 [
   {
-    "start": 3.09,
-    "end": 5.19,
+    "start": 2.37,
+    "end": 3.6,
     "lines": [
       {
-        "text": "РЕШИЛ ЗАДАНИЕ ЗНАЧИТ ТЕМА",
+        "text": "ПРАВИЛЬНО И ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫУЧЕНА",
+        "text": "МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.23,
+    "start": 3.78,
+    "end": 4.59,
     "lines": [
       {
-        "text": "НА ДЕЛЕ ПРАВИЛЬНЫЙ",
+        "text": "НЕ СУМЕТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТ",
+        "text": "ОБЪЯСНИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.41,
-    "end": 8.25,
+    "start": 4.77,
+    "end": 6.24,
     "lines": [
       {
-        "text": "ИНОГДА",
+        "text": "КАК ОН ВООБЩЕ К ЭТОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛУЧАЕТСЯ",
+        "text": "ПРИШЕЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.37,
-    "end": 9.21,
+    "start": 6.81,
+    "end": 8.1,
     "lines": [
       {
-        "text": "ПОЧТИ",
+        "text": "БЕЗ РАЗБОРА ТАКОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНО",
+        "text": "РЕШЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.63,
-    "end": 11.16,
+    "start": 8.22,
+    "end": 9.54,
     "lines": [
       {
-        "text": "БЕЗ ПОНИМАНИЯ ХОДА",
+        "text": "ОСТАЕТСЯ СЛУЧАЙНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "УДАЧЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.15,
-    "end": 13.56,
+    "start": 9.75,
+    "end": 10.56,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ К",
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАВЫКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.98,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
@@ -96,8 +112,8 @@
     ]
   },
   {
-    "start": 13.65,
-    "end": 15.72,
+    "start": 12.45,
+    "end": 14.52,
     "lines": [
       {
         "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
@@ -112,8 +128,8 @@
     ]
   },
   {
-    "start": 16.11,
-    "end": 17.04,
+    "start": 14.88,
+    "end": 15.69,
     "lines": [
       {
         "text": "КОТОРЫЙ",
@@ -121,47 +137,31 @@
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ФИКСИРУЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.37,
-    "end": 18.27,
+    "start": 15.87,
+    "end": 16.83,
     "lines": [
       {
-        "text": "БЫЛО ЭТО",
+        "text": "САМ СПОСОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНИМАНИЕ",
+        "text": "РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.42,
-    "end": 19.23,
-    "lines": [
-      {
-        "text": "СЛУЧАЙНОСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИЛИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.95,
-    "end": 21.88,
+    "start": 17.55,
+    "end": 19.586,
     "lines": [
       {
         "text": "ССЫЛКА",
