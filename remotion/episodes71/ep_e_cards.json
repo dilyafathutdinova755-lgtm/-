@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.25,
+    "end": 3.45,
+    "lines": [
+      {
+        "text": "МАТЕРИАЛ ДЛЯ ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "И ОБЩЕСТВОЗНАНИЮ И ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАВНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 6.57,
+    "lines": [
+      {
+        "text": "ЗАБЫВАТЬ ЕГО ЧЕРЕЗ ПАРУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДНЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.44,
+    "end": 8.61,
+    "lines": [
+      {
+        "text": "ДЕЛО ЧАСТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯВЛЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 10.14,
+    "lines": [
+      {
+        "text": "А В САМОМ СПОСОБЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 12.12,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.21,
+    "end": 13.08,
+    "lines": [
+      {
+        "text": "ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "И ОБЩЕСТВОЗНАНИЯ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.06,
+    "end": 17.25,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ ПРОЧНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.94,
+    "end": 19.82,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

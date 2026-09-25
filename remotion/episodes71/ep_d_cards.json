@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.04,
+    "end": 3.33,
+    "lines": [
+      {
+        "text": "КАКИЕ ИМЕННО ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.48,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "РЕБЕНОК РЕШАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЧЕРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.04,
+    "end": 6.84,
+    "lines": [
+      {
+        "text": "ТОЛЬКО ТО ЧТО ОН ВРОДЕ БЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНИМАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.44,
+    "end": 8.23,
+    "lines": [
+      {
+        "text": "ФОРМАТ ЭТИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.31,
+    "end": 9.27,
+    "lines": [
+      {
+        "text": "МОЖЕТ СИЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТЛИЧАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.42,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "ОТ ТОГО ЧТО БУДЕТ НА НАСТОЯЩЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.97,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АКТУАЛЬНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.62,
+    "end": 14.41,
+    "lines": [
+      {
+        "text": "БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.55,
+    "end": 16.71,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ОТ СОСТАВИТЕЛЕЙ НАСТОЯЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.25,
+    "end": 19.202,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

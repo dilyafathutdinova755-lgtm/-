@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.7,
+    "end": 5.43,
+    "lines": [
+      {
+        "text": "УДОБНО НО НЕ ВСЕГДА БЕЗОПАСНО ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.21,
+    "end": 7.44,
+    "lines": [
+      {
+        "text": "ЧАСТЬ ТАКИХ ФАЙЛОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГУЛЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.59,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "ПО СЕТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 9.81,
+    "lines": [
+      {
+        "text": "И ДАВНО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 10.89,
+    "lines": [
+      {
+        "text": "С АКТУАЛЬНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.76,
+    "end": 13.11,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.35,
+    "end": 14.14,
+    "lines": [
+      {
+        "text": "БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.43,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБНОВЛЯЕТСЯ ВМЕСТЕ С НАСТОЯЩИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.19,
+    "end": 19.16,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

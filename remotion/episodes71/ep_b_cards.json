@@ -1,0 +1,178 @@
+[
+  {
+    "start": 3.09,
+    "end": 5.19,
+    "lines": [
+      {
+        "text": "РЕШИЛ ЗАДАНИЕ ЗНАЧИТ ТЕМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫУЧЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.23,
+    "lines": [
+      {
+        "text": "НА ДЕЛЕ ПРАВИЛЬНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.41,
+    "end": 8.25,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.37,
+    "end": 9.21,
+    "lines": [
+      {
+        "text": "ПОЧТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.63,
+    "end": 11.16,
+    "lines": [
+      {
+        "text": "БЕЗ ПОНИМАНИЯ ХОДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 13.56,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 15.72,
+    "lines": [
+      {
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.11,
+    "end": 17.04,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.37,
+    "end": 18.27,
+    "lines": [
+      {
+        "text": "БЫЛО ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНИМАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.42,
+    "end": 19.23,
+    "lines": [
+      {
+        "text": "СЛУЧАЙНОСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.95,
+    "end": 21.88,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
