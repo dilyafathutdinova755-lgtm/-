@@ -1,47 +1,47 @@
 [
   {
-    "start": 2.04,
-    "end": 3.33,
+    "start": 2.25,
+    "end": 3.45,
     "lines": [
       {
-        "text": "КАКИЕ ИМЕННО ЗАДАНИЯ",
+        "text": "МАТЕРИАЛ ДЛЯ ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.48,
-    "end": 4.65,
+    "start": 3.54,
+    "end": 5.1,
     "lines": [
       {
-        "text": "РЕБЕНОК РЕШАЕТ",
+        "text": "И ОБЩЕСТВОЗНАНИЮ И ВСЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРАМИ",
+        "text": "РАВНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 6.84,
+    "start": 5.31,
+    "end": 6.57,
     "lines": [
       {
-        "text": "ТОЛЬКО ТО ЧТО ОН ВРОДЕ БЫ",
+        "text": "ЗАБЫВАТЬ ЕГО ЧЕРЕЗ ПАРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАЕТСЯ",
+        "text": "ДНЕЙ",
         "accent": true,
         "size": "big"
       }
@@ -49,103 +49,103 @@
   },
   {
     "start": 7.44,
-    "end": 8.23,
+    "end": 8.61,
     "lines": [
       {
-        "text": "ФОРМАТ ЭТИХ",
+        "text": "ДЕЛО ЧАСТО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ЯВЛЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.31,
-    "end": 9.27,
+    "start": 8.76,
+    "end": 10.14,
     "lines": [
       {
-        "text": "МОЖЕТ СИЛЬНО",
+        "text": "А В САМОМ СПОСОБЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТЛИЧАТЬСЯ",
+        "text": "ПОВТОРЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.42,
-    "end": 11.34,
+    "start": 10.86,
+    "end": 12.12,
     "lines": [
       {
-        "text": "ОТ ТОГО ЧТО БУДЕТ НА НАСТОЯЩЕМ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНЕ",
+        "text": "РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.97,
-    "end": 13.5,
+    "start": 12.21,
+    "end": 13.08,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "text": "ЯЗЫКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АКТУАЛЬНЫЙ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.62,
-    "end": 14.41,
+    "start": 13.2,
+    "end": 14.91,
     "lines": [
       {
-        "text": "БАНК",
+        "text": "И ОБЩЕСТВОЗНАНИЯ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.55,
-    "end": 16.71,
+    "start": 15.06,
+    "end": 17.25,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ОТ СОСТАВИТЕЛЕЙ НАСТОЯЩЕГО",
+        "text": "НА ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ ПРОЧНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНА",
+        "text": "РЕЗУЛЬТАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.25,
-    "end": 19.202,
+    "start": 17.94,
+    "end": 19.82,
     "lines": [
       {
         "text": "ССЫЛКА",
