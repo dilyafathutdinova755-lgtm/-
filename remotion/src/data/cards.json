@@ -1,15 +1,15 @@
 [
   {
-    "start": 2.34,
-    "end": 3.66,
+    "start": 2.19,
+    "end": 3.39,
     "lines": [
       {
-        "text": "МОЖНО ОДИН РАЗ",
+        "text": "МОЖНО ОБЪЯСНИТЬ САМОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЧИТАТЬ",
+        "text": "СЕБЕ",
         "accent": true,
         "size": "big"
       }
@@ -17,55 +17,55 @@
   },
   {
     "start": 3.84,
-    "end": 5.19,
+    "end": 6.03,
     "lines": [
       {
-        "text": "И РЕШИТЬ ЧТО ОН УЖЕ",
+        "text": "И ЧЕРЕЗ ДЕНЬ НЕ СУМЕТЬ ПЕРЕСКАЗАТЬ ЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫУЧЕН",
+        "text": "ВСЛУХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.43,
-    "end": 6.54,
+    "start": 6.96,
+    "end": 8.46,
     "lines": [
       {
-        "text": "ПРОВЕРКА ВСЛУХ ЧЕРЕЗ",
+        "text": "ЗНАЧИТ ТЕМА БЫЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДЕЛЮ",
+        "text": "ПОНЯТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.78,
-    "end": 8.01,
+    "start": 8.88,
+    "end": 9.7,
     "lines": [
       {
-        "text": "ЧАСТО ГОВОРИТ ОБ",
+        "text": "НО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБРАТНОМ",
+        "text": "ЗАКРЕПЛЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.37,
-    "end": 9.54,
+    "start": 10.44,
+    "end": 11.67,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
@@ -80,8 +80,8 @@
     ]
   },
   {
-    "start": 9.66,
-    "end": 11.46,
+    "start": 11.79,
+    "end": 13.59,
     "lines": [
       {
         "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
@@ -96,8 +96,8 @@
     ]
   },
   {
-    "start": 11.7,
-    "end": 12.81,
+    "start": 14.13,
+    "end": 15.3,
     "lines": [
       {
         "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
@@ -112,24 +112,40 @@
     ]
   },
   {
-    "start": 12.99,
-    "end": 14.31,
+    "start": 15.48,
+    "end": 16.29,
     "lines": [
       {
-        "text": "ДЛЯ ТАКОЙ ЧЕСТНОЙ",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРКИ",
+        "text": "ЗАКРЕПЛЯЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.58,
-    "end": 16.556,
+    "start": 16.44,
+    "end": 17.91,
+    "lines": [
+      {
+        "text": "МАТЕРИАЛ А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.96,
+    "end": 20.823,
     "lines": [
       {
         "text": "ССЫЛКА",
