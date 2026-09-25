@@ -1,135 +1,135 @@
 [
   {
-    "start": 1.71,
-    "end": 4.29,
+    "start": 2.34,
+    "end": 3.66,
     "lines": [
       {
-        "text": "НЕИЗВЕСТНОГО ПРОИСХОЖДЕНИЯ ВЫГЛЯДЕТЬ УБЕДИТЕЛЬНО",
+        "text": "МОЖНО ОДИН РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖЕТ",
+        "text": "ПРОЧИТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 5.73,
+    "start": 3.84,
+    "end": 5.19,
     "lines": [
       {
-        "text": "И ВСЕ РАВНО НЕ",
+        "text": "И РЕШИТЬ ЧТО ОН УЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАДАТЬ",
+        "text": "ВЫУЧЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.82,
-    "end": 6.61,
+    "start": 5.43,
+    "end": 6.54,
     "lines": [
       {
-        "text": "С РЕАЛЬНЫМ",
+        "text": "ПРОВЕРКА ВСЛУХ ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМАТОМ",
+        "text": "НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.72,
-    "end": 8.16,
+    "start": 6.78,
+    "end": 8.01,
     "lines": [
       {
-        "text": "ЭКЗАМЕНА ПРОВЕРИТЬ ЭТО НА",
+        "text": "ЧАСТО ГОВОРИТ ОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГЛАЗ",
+        "text": "ОБРАТНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.43,
+    "start": 8.37,
     "end": 9.54,
     "lines": [
       {
-        "text": "ОБЫЧНО НЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛУЧАЕТСЯ",
+        "text": "РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.02,
-    "end": 11.73,
+    "start": 9.66,
+    "end": 11.46,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
+        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АКТУАЛЬНЫЙ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.85,
-    "end": 13.17,
+    "start": 11.7,
+    "end": 12.81,
     "lines": [
       {
-        "text": "БАНК ФИПИ КОТОРЫЙ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧНО",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.32,
-    "end": 14.97,
+    "start": 12.99,
+    "end": 14.31,
     "lines": [
       {
-        "text": "СООТВЕТСТВУЕТ НАСТОЯЩЕМУ",
+        "text": "ДЛЯ ТАКОЙ ЧЕСТНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНУ",
+        "text": "ПРОВЕРКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.21,
-    "end": 17.068,
+    "start": 14.58,
+    "end": 16.556,
     "lines": [
       {
         "text": "ССЫЛКА",
