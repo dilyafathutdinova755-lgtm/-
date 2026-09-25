@@ -1,135 +1,135 @@
 [
   {
-    "start": 1.83,
-    "end": 3.57,
+    "start": 1.8,
+    "end": 3.21,
     "lines": [
       {
-        "text": "ПОДРЯД ОШИБИТЬСЯ В ОДНОМ И ТОМ ЖЕ",
+        "text": "И СЛУЧАЙНЫЕ ПОДБОРКИ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСТЕ",
+        "text": "ИНТЕРНЕТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.96,
-    "end": 4.98,
+    "start": 3.57,
+    "end": 4.36,
     "lines": [
       {
-        "text": "И ОБА РАЗА",
+        "text": "РИСК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСАТЬ",
+        "text": "НАТКНУТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.1,
-    "end": 5.89,
+    "start": 4.36,
+    "end": 6.75,
     "lines": [
       {
-        "text": "ЭТО НА",
+        "text": "ФОРМУЛИРОВКИ КОТОРЫХ НЕ БУДЕТ НА НАСТОЯЩЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕВЕЗЕНИЕ",
+        "text": "ЭКЗАМЕНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.27,
-    "end": 7.2,
+    "start": 6.93,
+    "end": 8.46,
     "lines": [
       {
-        "text": "ОБЫЧНО ЗА ЭТИМ",
+        "text": "ПРОВЕРИТЬ ИСТОЧНИК КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТОИТ",
+        "text": "ФАЙЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.53,
-    "end": 9.42,
+    "start": 8.61,
+    "end": 10.2,
     "lines": [
       {
-        "text": "ОДИН И ТОТ ЖЕ НЕПОНЯТНЫЙ МОМЕНТ В",
+        "text": "САМОСТОЯТЕЛЬНО ПОЧТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИИ",
+        "text": "НЕРЕАЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.81,
-    "end": 11.01,
+    "start": 10.53,
+    "end": 12.09,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОМУ",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.13,
-    "end": 13.05,
+    "start": 12.21,
+    "end": 13.44,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
+        "text": "БАНК ФИПИ ТОТ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ФОРМАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.23,
-    "end": 14.49,
+    "start": 13.59,
+    "end": 14.91,
     "lines": [
       {
-        "text": "КОТОРЫЙ НАХОДИТ ЭТОТ",
+        "text": "ЧТО БУДЕТ НА НАСТОЯЩЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОМЕНТ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 16.471,
+    "start": 15.12,
+    "end": 17.026,
     "lines": [
       {
         "text": "ССЫЛКА",
