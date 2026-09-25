@@ -1,151 +1,135 @@
 [
   {
-    "start": 2.19,
-    "end": 3.39,
+    "start": 1.83,
+    "end": 3.57,
     "lines": [
       {
-        "text": "МОЖНО ОБЪЯСНИТЬ САМОЙ",
+        "text": "ПОДРЯД ОШИБИТЬСЯ В ОДНОМ И ТОМ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕБЕ",
+        "text": "МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.84,
-    "end": 6.03,
+    "start": 3.96,
+    "end": 4.98,
     "lines": [
       {
-        "text": "И ЧЕРЕЗ ДЕНЬ НЕ СУМЕТЬ ПЕРЕСКАЗАТЬ ЕЕ",
+        "text": "И ОБА РАЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЛУХ",
+        "text": "СПИСАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 8.46,
+    "start": 5.1,
+    "end": 5.89,
     "lines": [
       {
-        "text": "ЗНАЧИТ ТЕМА БЫЛА",
+        "text": "ЭТО НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТА",
+        "text": "НЕВЕЗЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.88,
-    "end": 9.7,
+    "start": 6.27,
+    "end": 7.2,
     "lines": [
       {
-        "text": "НО НЕ",
+        "text": "ОБЫЧНО ЗА ЭТИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЕПЛЕНА",
+        "text": "СТОИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.44,
-    "end": 11.67,
+    "start": 7.53,
+    "end": 9.42,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ОДИН И ТОТ ЖЕ НЕПОНЯТНЫЙ МОМЕНТ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "РЕШЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.79,
-    "end": 13.59,
+    "start": 9.81,
+    "end": 11.01,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.13,
-    "end": 15.3,
+    "start": 11.13,
+    "end": 13.05,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.48,
-    "end": 16.29,
+    "start": 13.23,
+    "end": 14.49,
     "lines": [
       {
-        "text": "КОТОРЫЕ",
+        "text": "КОТОРЫЙ НАХОДИТ ЭТОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЕПЛЯЮТ",
+        "text": "МОМЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.44,
-    "end": 17.91,
-    "lines": [
-      {
-        "text": "МАТЕРИАЛ А НЕ ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБЪЯСНЯЮТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.96,
-    "end": 20.823,
+    "start": 14.79,
+    "end": 16.471,
     "lines": [
       {
         "text": "ССЫЛКА",
