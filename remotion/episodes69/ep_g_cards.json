@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.71,
+    "end": 3.12,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.27,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "ПО ДОРОГЕ В ШКОЛУ И ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАВНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 5.73,
+    "lines": [
+      {
+        "text": "ЗАПУТАТЬСЯ В НИХ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 7.08,
+    "lines": [
+      {
+        "text": "ПРОСТОЕ ПОВТОРЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЛУХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.2,
+    "end": 8.01,
+    "lines": [
+      {
+        "text": "ПОЧТИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМОГАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.16,
+    "end": 9.36,
+    "lines": [
+      {
+        "text": "БЕЗ ДОПОЛНИТЕЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРОВКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.01,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 13.98,
+    "lines": [
+      {
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.13,
+    "end": 15.39,
+    "lines": [
+      {
+        "text": "ДЛЯ БОЛЕЕ ДОЛГОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭФФЕКТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 17.44,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

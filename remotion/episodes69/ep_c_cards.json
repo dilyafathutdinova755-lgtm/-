@@ -1,135 +1,135 @@
 [
   {
-    "start": 1.92,
-    "end": 3.6,
+    "start": 2.34,
+    "end": 3.66,
     "lines": [
       {
-        "text": "ИНОГДА ПОЛУЧАЕТСЯ ПОЧТИ",
+        "text": "МОЖНО ОДИН РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНО",
+        "text": "ПРОЧИТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.9,
-    "end": 5.28,
+    "start": 3.84,
+    "end": 5.19,
     "lines": [
       {
-        "text": "БЕЗ ПОНИМАНИЯ ХОДА",
+        "text": "И РЕШИТЬ ЧТО ОН УЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "ВЫУЧЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.52,
-    "end": 6.31,
+    "start": 5.43,
+    "end": 6.54,
     "lines": [
       {
-        "text": "НА ПОХОЖЕМ",
+        "text": "ПРОВЕРКА ВСЛУХ ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИИ",
+        "text": "НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.45,
-    "end": 8.34,
+    "start": 6.78,
+    "end": 8.01,
     "lines": [
       {
-        "text": "СЛУЧАЙНОСТЬ ОБЫЧНО НЕ ПОВТОРЯЕТСЯ",
+        "text": "ЧАСТО ГОВОРИТ ОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАКАЯ",
+        "text": "ОБРАТНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.67,
-    "end": 9.81,
+    "start": 8.37,
+    "end": 9.54,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОМУ",
+        "text": "РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.9,
-    "end": 11.76,
+    "start": 9.66,
+    "end": 11.46,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВАЯ",
+        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.94,
-    "end": 12.73,
+    "start": 11.7,
+    "end": 12.81,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.84,
-    "end": 13.98,
+    "start": 12.99,
+    "end": 14.31,
     "lines": [
       {
-        "text": "РЕАЛЬНЫЙ СПОСОБ",
+        "text": "ДЛЯ ТАКОЙ ЧЕСТНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "ПРОВЕРКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.25,
-    "end": 16.108,
+    "start": 14.58,
+    "end": 16.556,
     "lines": [
       {
         "text": "ССЫЛКА",

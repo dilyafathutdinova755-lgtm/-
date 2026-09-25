@@ -1,71 +1,87 @@
 [
   {
-    "start": 1.92,
-    "end": 3.6,
+    "start": 1.83,
+    "end": 3.57,
     "lines": [
       {
-        "text": "ИНОГДА ПОЛУЧАЕТСЯ ПОЧТИ",
+        "text": "ПОДРЯД ОШИБИТЬСЯ В ОДНОМ И ТОМ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНО",
+        "text": "МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.9,
-    "end": 5.28,
+    "start": 3.96,
+    "end": 4.98,
     "lines": [
       {
-        "text": "БЕЗ ПОНИМАНИЯ ХОДА",
+        "text": "И ОБА РАЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "СПИСАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.52,
-    "end": 6.31,
+    "start": 5.1,
+    "end": 5.89,
     "lines": [
       {
-        "text": "НА ПОХОЖЕМ",
+        "text": "ЭТО НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИИ",
+        "text": "НЕВЕЗЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.45,
-    "end": 8.34,
+    "start": 6.27,
+    "end": 7.2,
     "lines": [
       {
-        "text": "СЛУЧАЙНОСТЬ ОБЫЧНО НЕ ПОВТОРЯЕТСЯ",
+        "text": "ОБЫЧНО ЗА ЭТИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАКАЯ",
+        "text": "СТОИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.67,
-    "end": 9.81,
+    "start": 7.53,
+    "end": 9.42,
+    "lines": [
+      {
+        "text": "ОДИН И ТОТ ЖЕ НЕПОНЯТНЫЙ МОМЕНТ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.81,
+    "end": 11.01,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -80,11 +96,11 @@
     ]
   },
   {
-    "start": 9.9,
-    "end": 11.76,
+    "start": 11.13,
+    "end": 13.05,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВАЯ",
+        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
@@ -96,40 +112,24 @@
     ]
   },
   {
-    "start": 11.94,
-    "end": 12.73,
+    "start": 13.23,
+    "end": 14.49,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "КОТОРЫЙ НАХОДИТ ЭТОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "МОМЕНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.84,
-    "end": 13.98,
-    "lines": [
-      {
-        "text": "РЕАЛЬНЫЙ СПОСОБ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.25,
-    "end": 16.108,
+    "start": 14.79,
+    "end": 16.471,
     "lines": [
       {
         "text": "ССЫЛКА",

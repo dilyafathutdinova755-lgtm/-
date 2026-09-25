@@ -1,135 +1,151 @@
 [
   {
-    "start": 1.92,
-    "end": 3.6,
+    "start": 1.83,
+    "end": 2.91,
     "lines": [
       {
-        "text": "ИНОГДА ПОЛУЧАЕТСЯ ПОЧТИ",
+        "text": "НА ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНО",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.9,
-    "end": 5.28,
+    "start": 3.09,
+    "end": 4.11,
     "lines": [
       {
-        "text": "БЕЗ ПОНИМАНИЯ ХОДА",
+        "text": "КОТОРУЮ ВИДИШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "ВПЕРВЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.52,
-    "end": 6.31,
+    "start": 4.5,
+    "end": 6.42,
     "lines": [
       {
-        "text": "НА ПОХОЖЕМ",
+        "text": "ХОТЯ РЕШИЛА УЖЕ СОТНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИИ",
+        "text": "ВАРИАНТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.45,
-    "end": 8.34,
+    "start": 7.29,
+    "end": 8.25,
     "lines": [
       {
-        "text": "СЛУЧАЙНОСТЬ ОБЫЧНО НЕ ПОВТОРЯЕТСЯ",
+        "text": "ОБЫЧНО ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАКАЯ",
+        "text": "ЗНАЧИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.67,
-    "end": 9.81,
+    "start": 8.4,
+    "end": 9.36,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "ЧТО САМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДОМУ",
+        "text": "ВАРИАНТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.9,
-    "end": 11.76,
+    "start": 9.63,
+    "end": 12.03,
     "lines": [
       {
-        "text": "ЗАДАНИЮ ЕСТЬ ПОДРОБНЫЙ ТЕКСТОВАЯ",
+        "text": "БЫЛИ СОБРАНЫ НЕ ИЗ ОФИЦИАЛЬНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ИСТОЧНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.94,
-    "end": 12.73,
+    "start": 12.96,
+    "end": 14.85,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.84,
-    "end": 13.98,
+    "start": 14.97,
+    "end": 15.78,
     "lines": [
       {
-        "text": "РЕАЛЬНЫЙ СПОСОБ",
+        "text": "БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.25,
-    "end": 16.108,
+    "start": 16.11,
+    "end": 19.29,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ В ТОМ ВИДЕ В КАКОМ ОНИ РЕАЛЬНО БУДУТ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.01,
+    "end": 21.96,
     "lines": [
       {
         "text": "ССЫЛКА",
