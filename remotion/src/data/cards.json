@@ -1,87 +1,87 @@
 [
   {
-    "start": 2.25,
-    "end": 3.45,
+    "start": 2.01,
+    "end": 4.05,
     "lines": [
       {
-        "text": "МАТЕРИАЛ ДЛЯ ЕГЭ ПО",
+        "text": "ИНОГДА ВЫУЧИВАЮТСЯ ТОЛЬКО НА ВРЕМЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "УРОКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.54,
-    "end": 5.1,
+    "start": 4.56,
+    "end": 6.42,
     "lines": [
       {
-        "text": "И ОБЩЕСТВОЗНАНИЮ И ВСЕ",
+        "text": "А К ЭКЗАМЕНУ БЛАГОПОЛУЧНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАВНО",
+        "text": "ЗАБЫВАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.31,
-    "end": 6.57,
+    "start": 7.56,
+    "end": 8.35,
     "lines": [
       {
-        "text": "ЗАБЫВАТЬ ЕГО ЧЕРЕЗ ПАРУ",
+        "text": "ДЕЛО НЕ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДНЕЙ",
+        "text": "ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.44,
-    "end": 8.61,
+    "start": 8.73,
+    "end": 9.66,
     "lines": [
       {
-        "text": "ДЕЛО ЧАСТО НЕ",
+        "text": "А В ТОМ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЯВЛЕНИЕ",
+        "text": "ДАТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.14,
+    "start": 9.78,
+    "end": 11.73,
     "lines": [
       {
-        "text": "А В САМОМ СПОСОБЕ",
+        "text": "НИ РАЗУ НЕ ПРИШЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЕНИЯ",
+        "text": "ВСПОМИНАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.86,
-    "end": 12.12,
+    "start": 12.48,
+    "end": 13.71,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
@@ -96,11 +96,11 @@
     ]
   },
   {
-    "start": 12.21,
-    "end": 13.08,
+    "start": 13.86,
+    "end": 15.51,
     "lines": [
       {
-        "text": "ЯЗЫКУ",
+        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
@@ -112,11 +112,11 @@
     ]
   },
   {
-    "start": 13.2,
-    "end": 14.91,
+    "start": 16.05,
+    "end": 17.28,
     "lines": [
       {
-        "text": "И ОБЩЕСТВОЗНАНИЯ ЕСТЬ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
@@ -128,24 +128,24 @@
     ]
   },
   {
-    "start": 15.06,
-    "end": 17.25,
+    "start": 17.43,
+    "end": 19.23,
     "lines": [
       {
-        "text": "НА ЗАПОМИНАНИЕ ДЛЯ БОЛЕЕ ПРОЧНОГО",
+        "text": "ДЛЯ САМОСТОЯТЕЛЬНОГО ВОСПОМИНАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТА",
+        "text": "ТАКОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.94,
-    "end": 19.82,
+    "start": 19.98,
+    "end": 21.96,
     "lines": [
       {
         "text": "ССЫЛКА",
