@@ -1,183 +1,157 @@
 [
   {
-    "start": 2.07,
-    "end": 3.12,
+    "start": 1.98,
+    "end": 3.39,
     "lines": [
       {
-        "text": "ФОРМУЛИРОВКИ",
+        "text": "МОЖЕТ БЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ПРАВИЛЬНЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.12,
-    "end": 4.26,
+    "start": 3.39,
+    "end": 4.71,
     "lines": [
       {
-        "text": "БЫСТРЕЕ ЧЕМ",
+        "text": "А ПОЧЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕНЯЕТСЯ",
+        "text": "ПОНИМАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.26,
-    "end": 5.55,
+    "start": 4.71,
+    "end": 5.85,
     "lines": [
       {
-        "text": "ОБНОВИТЬСЯ",
+        "text": "ОН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСПЕВАЕТ",
+        "text": "ПРАВИЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.55,
-    "end": 7.32,
+    "start": 5.85,
+    "end": 6.9,
     "lines": [
       {
-        "text": "СТАРЫЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СБОРНИКИ",
+        "text": "НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.32,
-    "end": 8.13,
+    "start": 6.9,
+    "end": 7.98,
     "lines": [
       {
-        "text": "Я",
+        "text": "БУКВУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДЕЛЮ",
+        "text": "УГАДЫВАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 8.94,
+    "start": 7.98,
+    "end": 9.15,
     "lines": [
       {
-        "text": "РЕШАЛА",
+        "text": "СЛОВЕ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТ",
+        "text": "РАДОВАЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.94,
-    "end": 9.84,
+    "start": 9.15,
+    "end": 10.11,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКАЧАЛА",
+        "text": "СОВПАДЕНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.84,
-    "end": 11.19,
+    "start": 10.11,
+    "end": 11.16,
     "lines": [
       {
-        "text": "ЕЩЕ В ПРОШЛОМ",
+        "text": "ПОКА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОДУ",
+        "text": "ВСТРЕТИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.19,
-    "end": 12.48,
+    "start": 11.16,
+    "end": 12.15,
     "lines": [
       {
-        "text": "И НА КОНСУЛЬТАЦИИ",
+        "text": "ПОХОЖЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО",
+        "text": "СЛОВО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.48,
-    "end": 13.5,
+    "start": 12.15,
+    "end": 14.01,
     "lines": [
       {
-        "text": "ЧТО ЧАСТЬ",
+        "text": "С ДРУГИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЗНАЛА",
+        "text": "ПРАВИЛОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.5,
-    "end": 17.07,
-    "lines": [
-      {
-        "text": "ТАМ УЖЕ НЕ ВСТРЕЧАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.07,
-    "end": 18.06,
+    "start": 14.01,
+    "end": 15.3,
     "lines": [
       {
         "text": "В",
@@ -192,72 +166,115 @@
     ]
   },
   {
-    "start": 18.06,
-    "end": 18.87,
+    "start": 15.3,
+    "end": 16.38,
     "lines": [
       {
-        "text": "СОБРАН",
+        "text": "К ЗАДАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.87,
-    "end": 20.19,
+    "start": 16.38,
+    "end": 17.31,
     "lines": [
       {
-        "text": "АКТУАЛЬНЫМИ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.19,
-    "end": 21.69,
+    "start": 17.31,
+    "end": 18.51,
     "lines": [
       {
-        "text": "НА ЭТОТ ЗАДАНИЯМИ",
+        "text": "КОТОРЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОД",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.69,
-    "end": 23.25,
+    "start": 18.51,
+    "end": 19.59,
     "lines": [
       {
-        "text": "УСТАРЕВШИХ ФОРМУЛИРОВОК",
+        "text": "ЛОГИКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ",
+        "text": "ОБЪЯСНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.25,
-    "end": 25.41,
+    "start": 19.59,
+    "end": 20.52,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.52,
+    "end": 21.42,
+    "lines": [
+      {
+        "text": "ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.42,
+    "end": 22.29,
+    "lines": [
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.29,
+    "end": 24.236,
     "lines": [
       {
         "text": "ССЫЛКА",
