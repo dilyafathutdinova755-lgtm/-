@@ -1,111 +1,111 @@
 [
   {
-    "start": 1.62,
-    "end": 2.55,
+    "start": 1.89,
+    "end": 3.18,
     "lines": [
       {
-        "text": "ЕГЭ ДАЕТ",
+        "text": "СТАРОЙ ПАПКИ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНОГДА",
+        "text": "КОМПЬЮТЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.55,
-    "end": 3.54,
+    "start": 3.18,
+    "end": 4.11,
     "lines": [
       {
-        "text": "ВЕРНЫЙ БЕЗ",
+        "text": "МОЖЕТ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТ",
+        "text": "СОВПАДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.54,
-    "end": 4.62,
+    "start": 4.11,
+    "end": 5.04,
     "lines": [
       {
-        "text": "ПОНИМАНИЯ",
+        "text": "С ТЕКУЩИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩЕГО",
+        "text": "ФОРМАТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.62,
-    "end": 5.73,
+    "start": 5.04,
+    "end": 5.88,
     "lines": [
       {
-        "text": "СПОСОБА",
+        "text": "Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "ЭКЗАМЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 6.87,
+    "start": 5.88,
+    "end": 7.26,
     "lines": [
       {
-        "text": "Я ТАК ТЕСТОВУЮ",
+        "text": "ТРЕНИРОВАЛСЯ ПО ТАКОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫВАЛ",
+        "text": "ПАПКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.87,
-    "end": 7.92,
+    "start": 7.26,
+    "end": 8.16,
     "lines": [
       {
-        "text": "ЧАСТЬ ПОКА",
+        "text": "ВСЕ ПОКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕСЯЦАМИ",
+        "text": "ЛЕТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.92,
+    "start": 8.16,
     "end": 9.15,
     "lines": [
       {
-        "text": "ПОХОЖЕЕ",
+        "text": "НЕ ЗАДАНИЯ СО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "СВЕРИЛ",
         "accent": true,
         "size": "big"
       }
@@ -113,26 +113,26 @@
   },
   {
     "start": 9.15,
-    "end": 10.95,
+    "end": 10.62,
     "lines": [
       {
-        "text": "НЕ БЕЗ ВАРИАНТОВ",
+        "text": "ДЕМОВЕРСИЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОПАЛОСЬ",
+        "text": "СВЕЖЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.95,
-    "end": 12.36,
+    "start": 10.62,
+    "end": 11.64,
     "lines": [
       {
-        "text": "В ЕГЭ К ЗАДАНИЯМ ЕСТЬ",
+        "text": "В ЕГЭ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
@@ -144,72 +144,67 @@
     ]
   },
   {
-    "start": 12.36,
-    "end": 13.74,
+    "start": 11.64,
+    "end": 12.69,
     "lines": [
       {
-        "text": "ТЕКСТОВЫЙ КОТОРЫЙ",
+        "text": "БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.74,
-    "end": 14.7,
+    "start": 12.69,
+    "end": 13.53,
     "lines": [
       {
-        "text": "ВЕРНЫЙ",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.7,
-    "end": 15.63,
+    "start": 13.53,
+    "end": 14.76,
     "lines": [
       {
-        "text": "СПОСОБ",
+        "text": "ОБНОВЛЯЮТСЯ ПОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "АКТУАЛЬНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.63,
-    "end": 16.65,
+    "start": 14.76,
+    "end": 15.6,
     "lines": [
       {
-        "text": "ОТ НАЧАЛА ДО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОНЦА",
+        "text": "ЭКЗАМЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.65,
-    "end": 18.48,
+    "start": 15.6,
+    "end": 17.218,
     "lines": [
       {
         "text": "ССЫЛКА",
