@@ -1,0 +1,242 @@
+[
+  {
+    "start": 2.1,
+    "end": 3.33,
+    "lines": [
+      {
+        "text": "МОЖНО ВЕЧЕРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫУЧИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.33,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "И УЖЕ ЗАБЫТЬ К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЕДУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 5.73,
+    "lines": [
+      {
+        "text": "ДНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛЕДУЮЩЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.73,
+    "end": 6.96,
+    "lines": [
+      {
+        "text": "БЫЛО У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 8.19,
+    "lines": [
+      {
+        "text": "ОПРЕДЕЛЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЧИТАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.19,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.17,
+    "lines": [
+      {
+        "text": "НА ВСПОМНИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.17,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 12.54,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.54,
+    "end": 13.59,
+    "lines": [
+      {
+        "text": "ПО ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.59,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 15.72,
+    "lines": [
+      {
+        "text": "ГДЕ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.72,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "САМОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.01,
+    "end": 18.87,
+    "lines": [
+      {
+        "text": "А НЕ УЗНАТЬ СРЕДИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДСКАЗОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.87,
+    "end": 20.76,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

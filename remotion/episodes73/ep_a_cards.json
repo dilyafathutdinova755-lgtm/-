@@ -1,0 +1,274 @@
+[
+  {
+    "start": 2.07,
+    "end": 3.12,
+    "lines": [
+      {
+        "text": "ФОРМУЛИРОВКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.12,
+    "end": 4.26,
+    "lines": [
+      {
+        "text": "БЫСТРЕЕ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.26,
+    "end": 5.55,
+    "lines": [
+      {
+        "text": "ОБНОВИТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСПЕВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.55,
+    "end": 7.32,
+    "lines": [
+      {
+        "text": "СТАРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБОРНИКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.32,
+    "end": 8.13,
+    "lines": [
+      {
+        "text": "Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 8.94,
+    "lines": [
+      {
+        "text": "РЕШАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 9.84,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКАЧАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 11.19,
+    "lines": [
+      {
+        "text": "ЕЩЕ В ПРОШЛОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОДУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.19,
+    "end": 12.48,
+    "lines": [
+      {
+        "text": "И НА КОНСУЛЬТАЦИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.48,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "ЧТО ЧАСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЗНАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 17.07,
+    "lines": [
+      {
+        "text": "ТАМ УЖЕ НЕ ВСТРЕЧАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.07,
+    "end": 18.06,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.06,
+    "end": 18.87,
+    "lines": [
+      {
+        "text": "СОБРАН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.87,
+    "end": 20.19,
+    "lines": [
+      {
+        "text": "АКТУАЛЬНЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.19,
+    "end": 21.69,
+    "lines": [
+      {
+        "text": "НА ЭТОТ ЗАДАНИЯМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.69,
+    "end": 23.25,
+    "lines": [
+      {
+        "text": "УСТАРЕВШИХ ФОРМУЛИРОВОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.25,
+    "end": 25.41,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

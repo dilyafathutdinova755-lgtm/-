@@ -1,0 +1,291 @@
+[
+  {
+    "start": 1.98,
+    "end": 3.39,
+    "lines": [
+      {
+        "text": "МОЖЕТ БЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.39,
+    "end": 4.71,
+    "lines": [
+      {
+        "text": "А ПОЧЕМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНИМАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 5.85,
+    "lines": [
+      {
+        "text": "ОН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 7.98,
+    "lines": [
+      {
+        "text": "БУКВУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УГАДЫВАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.98,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "СЛОВЕ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАДОВАЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.15,
+    "end": 10.11,
+    "lines": [
+      {
+        "text": "СОВПАДЕНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.11,
+    "end": 11.16,
+    "lines": [
+      {
+        "text": "ПОКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСТРЕТИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.16,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ПОХОЖЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 14.01,
+    "lines": [
+      {
+        "text": "С ДРУГИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.01,
+    "end": 15.3,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.38,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.38,
+    "end": 17.31,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.31,
+    "end": 18.51,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.51,
+    "end": 19.59,
+    "lines": [
+      {
+        "text": "ЛОГИКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.59,
+    "end": 20.52,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.52,
+    "end": 21.42,
+    "lines": [
+      {
+        "text": "ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.42,
+    "end": 22.29,
+    "lines": [
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.29,
+    "end": 24.236,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
