@@ -1,95 +1,95 @@
 [
   {
-    "start": 1.86,
-    "end": 2.7,
+    "start": 2.07,
+    "end": 2.97,
     "lines": [
       {
-        "text": "КОТОРЫЙ В",
+        "text": "ИНОГДА В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВЕТУЕТ",
+        "text": "ДЕРЖИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.7,
-    "end": 3.63,
+    "start": 2.97,
+    "end": 3.78,
     "lines": [
       {
-        "text": "КЛАССА НЕ",
+        "text": "РОВНО ДО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАТЕ",
+        "text": "ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 4.5,
+    "start": 3.78,
+    "end": 5.1,
     "lines": [
       {
-        "text": "ВСЕГДА С",
+        "text": "УРОКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАДАЕТ",
+        "text": "КОНЦА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 5.73,
+    "start": 5.1,
+    "end": 5.97,
     "lines": [
       {
-        "text": "ОФИЦИАЛЬНЫМ",
+        "text": "Я ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМАТОМ",
+        "text": "ЗАМЕТИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 6.99,
+    "start": 5.97,
+    "end": 7.38,
     "lines": [
       {
-        "text": "Я ТАКОЙ СБОРНИК",
+        "text": "ДОЧЬ ПЕРЕСКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЛ",
+        "text": "УВЕРЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.99,
+    "start": 7.38,
     "end": 8.19,
     "lines": [
       {
-        "text": "МЕСЯЦ ПОКА НЕ",
+        "text": "ВЕЧЕРОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕТИЛ",
+        "text": "ТЕМУ",
         "accent": true,
         "size": "big"
       }
@@ -97,42 +97,42 @@
   },
   {
     "start": 8.19,
-    "end": 9.09,
+    "end": 9.03,
     "lines": [
       {
-        "text": "С",
+        "text": "А ЧЕРЕЗ ДВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "ДНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.09,
-    "end": 10.53,
+    "start": 9.03,
+    "end": 10.5,
     "lines": [
       {
-        "text": "УПРАЗДНЕННОЙ ФОРМУЛИРОВКОЙ",
+        "text": "В ДАТАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАВНО",
+        "text": "ПУТАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.53,
-    "end": 11.73,
+    "start": 10.5,
+    "end": 11.37,
     "lines": [
       {
-        "text": "В ЕСТЬ",
+        "text": "В ПО",
         "accent": false,
         "size": "small"
       },
@@ -144,56 +144,104 @@
     ]
   },
   {
-    "start": 11.73,
-    "end": 13.05,
+    "start": 11.37,
+    "end": 12.33,
     "lines": [
       {
-        "text": "БАНК ПРОВЕРЕННЫМИ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.05,
-    "end": 14.31,
+    "start": 12.33,
+    "end": 13.41,
     "lines": [
       {
-        "text": "И АКТУАЛЬНЫМИ",
+        "text": "НА ЗАПОМИНАНИЕ КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМИ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.31,
-    "end": 15.11,
+    "start": 13.41,
+    "end": 14.46,
     "lines": [
       {
-        "text": "ЭТОГО",
+        "text": "К",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОДА",
+        "text": "ВОЗВРАЩАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.11,
-    "end": 17.026,
+    "start": 14.46,
+    "end": 15.33,
+    "lines": [
+      {
+        "text": "УЖЕ ПОСЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.33,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "ТОГО КАК ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРОДЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.26,
+    "end": 17.58,
+    "lines": [
+      {
+        "text": "БЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫУЧЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.58,
+    "end": 19.266,
     "lines": [
       {
         "text": "ССЫЛКА",
