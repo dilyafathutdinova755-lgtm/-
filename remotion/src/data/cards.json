@@ -1,15 +1,31 @@
 [
   {
-    "start": 2.01,
-    "end": 4.05,
+    "start": 2.37,
+    "end": 3.33,
     "lines": [
       {
-        "text": "ИНОГДА ВЫУЧИВАЮТСЯ ТОЛЬКО НА ВРЕМЯ",
+        "text": "МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УРОКА",
+        "text": "ПРОЧИТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.33,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "ПЕРЕСКАЗАТЬ ЕГО ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
@@ -17,103 +33,103 @@
   },
   {
     "start": 4.56,
-    "end": 6.42,
+    "end": 6.24,
     "lines": [
       {
-        "text": "А К ЭКЗАМЕНУ БЛАГОПОЛУЧНО",
+        "text": "СОВСЕМ ДРУГИМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБЫВАЮТСЯ",
+        "text": "СЛОВАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.56,
-    "end": 8.35,
+    "start": 6.24,
+    "end": 7.5,
     "lines": [
       {
-        "text": "ДЕЛО НЕ В",
+        "text": "Я БЫЛ ЧТО ПОМНЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПАМЯТИ",
+        "text": "УВЕРЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.73,
-    "end": 9.66,
+    "start": 7.5,
+    "end": 9.12,
     "lines": [
       {
-        "text": "А В ТОМ ЧТО",
+        "text": "ОПРЕДЕЛЕНИЕ ПОКА НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАТЫ",
+        "text": "ПРОБНИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.78,
-    "end": 11.73,
+    "start": 9.12,
+    "end": 9.96,
     "lines": [
       {
-        "text": "НИ РАЗУ НЕ ПРИШЛОСЬ",
+        "text": "НЕ ДВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСПОМИНАТЬ",
+        "text": "ПЕРЕПУТАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.48,
-    "end": 13.71,
+    "start": 9.96,
+    "end": 11.16,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ ПО",
+        "text": "ПОХОЖИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОМУ",
+        "text": "ПОНЯТИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.86,
-    "end": 15.51,
+    "start": 11.16,
+    "end": 13.08,
     "lines": [
       {
-        "text": "ЯЗЫКУ И ОБЩЕСТВОЗНАНИЮ",
+        "text": "В ЕГЭ ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.05,
-    "end": 17.28,
+    "start": 13.08,
+    "end": 14.55,
     "lines": [
       {
         "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
@@ -128,24 +144,40 @@
     ]
   },
   {
-    "start": 17.43,
-    "end": 19.23,
+    "start": 14.55,
+    "end": 15.36,
     "lines": [
       {
-        "text": "ДЛЯ САМОСТОЯТЕЛЬНОГО ВОСПОМИНАНИЯ",
+        "text": "ГДЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАКОГО",
+        "text": "ПОНЯТИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.98,
-    "end": 21.96,
+    "start": 15.36,
+    "end": 16.86,
+    "lines": [
+      {
+        "text": "НУЖНО САМОСТОЯТЕЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗЛИЧИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 18.84,
     "lines": [
       {
         "text": "ССЫЛКА",
