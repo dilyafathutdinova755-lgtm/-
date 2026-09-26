@@ -1,122 +1,138 @@
 [
   {
-    "start": 2.37,
-    "end": 3.33,
+    "start": 1.62,
+    "end": 2.55,
     "lines": [
       {
-        "text": "МОЖНО",
+        "text": "ЕГЭ ДАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЧИТАТЬ",
+        "text": "ИНОГДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.33,
-    "end": 4.56,
+    "start": 2.55,
+    "end": 3.54,
     "lines": [
       {
-        "text": "ПЕРЕСКАЗАТЬ ЕГО ЧЕРЕЗ",
+        "text": "ВЕРНЫЙ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДЕЛЮ",
+        "text": "ОТВЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.56,
-    "end": 6.24,
+    "start": 3.54,
+    "end": 4.62,
     "lines": [
       {
-        "text": "СОВСЕМ ДРУГИМИ",
+        "text": "ПОНИМАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛОВАМИ",
+        "text": "НАСТОЯЩЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.24,
-    "end": 7.5,
+    "start": 4.62,
+    "end": 5.73,
     "lines": [
       {
-        "text": "Я БЫЛ ЧТО ПОМНЮ",
+        "text": "СПОСОБА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВЕРЕН",
+        "text": "РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.5,
-    "end": 9.12,
+    "start": 5.73,
+    "end": 6.87,
     "lines": [
       {
-        "text": "ОПРЕДЕЛЕНИЕ ПОКА НА",
+        "text": "Я ТАК ТЕСТОВУЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКЕ",
+        "text": "ЗАКРЫВАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.12,
-    "end": 9.96,
+    "start": 6.87,
+    "end": 7.92,
     "lines": [
       {
-        "text": "НЕ ДВА",
+        "text": "ЧАСТЬ ПОКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕПУТАЛ",
+        "text": "МЕСЯЦАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.96,
-    "end": 11.16,
+    "start": 7.92,
+    "end": 9.15,
     "lines": [
       {
-        "text": "ПОХОЖИХ",
+        "text": "ПОХОЖЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТИЯ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.16,
-    "end": 13.08,
+    "start": 9.15,
+    "end": 10.95,
     "lines": [
       {
-        "text": "В ЕГЭ ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "НЕ БЕЗ ВАРИАНТОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПАЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "В ЕГЭ К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
@@ -128,56 +144,72 @@
     ]
   },
   {
-    "start": 13.08,
-    "end": 14.55,
+    "start": 12.36,
+    "end": 13.74,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ТЕКСТОВЫЙ КОТОРЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.55,
-    "end": 15.36,
+    "start": 13.74,
+    "end": 14.7,
     "lines": [
       {
-        "text": "ГДЕ",
+        "text": "ВЕРНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТИЯ",
+        "text": "ПОКАЗЫВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.36,
-    "end": 16.86,
+    "start": 14.7,
+    "end": 15.63,
     "lines": [
       {
-        "text": "НУЖНО САМОСТОЯТЕЛЬНО",
+        "text": "СПОСОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗЛИЧИТЬ",
+        "text": "РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.86,
-    "end": 18.84,
+    "start": 15.63,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "ОТ НАЧАЛА ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.65,
+    "end": 18.48,
     "lines": [
       {
         "text": "ССЫЛКА",
