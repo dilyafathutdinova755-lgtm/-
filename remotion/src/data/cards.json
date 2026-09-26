@@ -1,55 +1,55 @@
 [
   {
-    "start": 2.04,
-    "end": 3.09,
+    "start": 1.98,
+    "end": 3.06,
     "lines": [
       {
-        "text": "МОЖНО НАЗВАТЬ НА",
+        "text": "ЕГЭ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВЕРЕННО",
+        "text": "ЗНАЧИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.09,
-    "end": 4.23,
+    "start": 3.06,
+    "end": 4.17,
     "lines": [
       {
-        "text": "И ПЕРЕПУТАТЬ",
+        "text": "ЧТО РЕШЕНИЯ БЫЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УРОКЕ",
+        "text": "СПОСОБ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.23,
-    "end": 5.4,
+    "start": 4.17,
+    "end": 5.52,
     "lines": [
       {
-        "text": "С ПОХОЖИМ УЖЕ НА",
+        "text": "ПОНЯТ ДО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛЕДУЮЩИЙ",
+        "text": "КОНЦА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.4,
-    "end": 6.33,
+    "start": 5.52,
+    "end": 6.36,
     "lines": [
       {
         "text": "Я ТАК",
@@ -57,23 +57,23 @@
         "size": "small"
       },
       {
-        "text": "ДЕНЬ",
+        "text": "ПРОХОДИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
+    "start": 6.36,
     "end": 7.23,
     "lines": [
       {
-        "text": "СОБЫТИЯ ПЕРЕД",
+        "text": "ВАРИАНТ ЗА ПОКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧИЛСЯ",
+        "text": "ВАРИАНТОМ",
         "accent": true,
         "size": "big"
       }
@@ -81,74 +81,42 @@
   },
   {
     "start": 7.23,
-    "end": 8.04,
+    "end": 8.91,
     "lines": [
       {
-        "text": "НО",
+        "text": "НА КОНСУЛЬТАЦИИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКОМ",
+        "text": "ПОПРОСИЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.04,
-    "end": 8.88,
+    "start": 8.91,
+    "end": 10.56,
     "lines": [
       {
-        "text": "ИЗ НИХ НЕ",
+        "text": "РЕШЕНИЕ ВСЛУХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛОВИНА",
+        "text": "ОБЪЯСНИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.88,
-    "end": 9.84,
+    "start": 10.56,
+    "end": 11.49,
     "lines": [
       {
-        "text": "ВСПОМНИЛАСЬ В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НУЖНЫЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.84,
-    "end": 10.71,
-    "lines": [
-      {
-        "text": "В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МОМЕНТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.71,
-    "end": 11.76,
-    "lines": [
-      {
-        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "text": "В К",
         "accent": false,
         "size": "small"
       },
@@ -160,48 +128,48 @@
     ]
   },
   {
-    "start": 11.76,
-    "end": 13.02,
+    "start": 11.49,
+    "end": 12.72,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.02,
-    "end": 13.98,
+    "start": 12.72,
+    "end": 13.92,
     "lines": [
       {
-        "text": "КОТОРЫЕ К",
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЗВРАЩАЮТ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.98,
+    "start": 13.92,
     "end": 14.91,
     "lines": [
       {
-        "text": "ЧЕРЕЗ ДЕНЬ",
+        "text": "РЕШЕНИЯ А",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМЕ",
+        "text": "СПОСОБ",
         "accent": true,
         "size": "big"
       }
@@ -209,23 +177,23 @@
   },
   {
     "start": 14.91,
-    "end": 16.05,
+    "end": 15.99,
     "lines": [
       {
-        "text": "А НЕ ОДИН",
+        "text": "НЕ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗ",
+        "text": "РЕЗУЛЬТАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.05,
-    "end": 18.04,
+    "start": 15.99,
+    "end": 17.88,
     "lines": [
       {
         "text": "ССЫЛКА",
