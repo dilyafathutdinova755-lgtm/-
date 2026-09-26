@@ -1,138 +1,154 @@
 [
   {
-    "start": 2.07,
-    "end": 2.97,
+    "start": 2.31,
+    "end": 3.48,
     "lines": [
       {
-        "text": "ИНОГДА В",
+        "text": "ГОД НАЗАД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "КУПЛЕННЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.97,
-    "end": 3.78,
+    "start": 3.48,
+    "end": 4.5,
     "lines": [
       {
-        "text": "РОВНО ДО",
+        "text": "К МОЖЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПАМЯТИ",
+        "text": "ВЕСНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.78,
-    "end": 5.1,
+    "start": 4.5,
+    "end": 5.7,
     "lines": [
       {
-        "text": "УРОКА",
+        "text": "УЖЕ НЕ С РЕАЛЬНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНЦА",
+        "text": "СОВПАДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.1,
-    "end": 5.97,
+    "start": 5.7,
+    "end": 6.96,
     "lines": [
       {
-        "text": "Я ЧТО",
+        "text": "ЭКЗАМЕНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕТИЛА",
+        "text": "ФОРМАТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.97,
-    "end": 7.38,
+    "start": 6.96,
+    "end": 7.98,
     "lines": [
       {
-        "text": "ДОЧЬ ПЕРЕСКАЗЫВАЕТ",
+        "text": "Я НЕ СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВЕРЕННО",
+        "text": "ПОНЯЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.38,
-    "end": 8.19,
+    "start": 7.98,
+    "end": 8.94,
     "lines": [
       {
-        "text": "ВЕЧЕРОМ",
+        "text": "СЫН РЕШАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМУ",
+        "text": "ПОЧЕМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.19,
-    "end": 9.03,
+    "start": 8.94,
+    "end": 10.14,
     "lines": [
       {
-        "text": "А ЧЕРЕЗ ДВА",
+        "text": "ПРАВИЛЬНО А",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДНЯ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 10.5,
+    "start": 10.14,
+    "end": 11.22,
     "lines": [
       {
-        "text": "В ДАТАХ",
+        "text": "НА ВСЕ РАВНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЮТСЯ",
+        "text": "ПРОБНИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 11.37,
+    "start": 11.22,
+    "end": 12.36,
     "lines": [
       {
-        "text": "В ПО",
+        "text": "БАЛЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "В",
         "accent": false,
         "size": "small"
       },
@@ -144,104 +160,67 @@
     ]
   },
   {
-    "start": 11.37,
-    "end": 12.33,
+    "start": 13.53,
+    "end": 14.7,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "СОБРАН БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.41,
+    "start": 14.7,
+    "end": 15.66,
     "lines": [
       {
-        "text": "НА ЗАПОМИНАНИЕ КОТОРЫЕ",
+        "text": "С КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.41,
-    "end": 14.46,
+    "start": 15.66,
+    "end": 16.92,
     "lines": [
       {
-        "text": "К",
+        "text": "ОБНОВЛЯЮТСЯ ПОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЗВРАЩАЮТ",
+        "text": "АКТУАЛЬНЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.46,
-    "end": 15.33,
+    "start": 16.92,
+    "end": 17.72,
     "lines": [
       {
-        "text": "УЖЕ ПОСЛЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕМЕ",
+        "text": "ФОРМАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 16.26,
-    "lines": [
-      {
-        "text": "ТОГО КАК ОНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВРОДЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.26,
-    "end": 17.58,
-    "lines": [
-      {
-        "text": "БЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЫУЧЕНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.58,
-    "end": 19.266,
+    "start": 17.72,
+    "end": 19.5,
     "lines": [
       {
         "text": "ССЫЛКА",
