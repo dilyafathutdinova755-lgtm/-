@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.62,
+    "end": 2.55,
+    "lines": [
+      {
+        "text": "ЕГЭ ДАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.55,
+    "end": 3.54,
+    "lines": [
+      {
+        "text": "ВЕРНЫЙ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 4.62,
+    "lines": [
+      {
+        "text": "ПОНИМАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАСТОЯЩЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.62,
+    "end": 5.73,
+    "lines": [
+      {
+        "text": "СПОСОБА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.73,
+    "end": 6.87,
+    "lines": [
+      {
+        "text": "Я ТАК ТЕСТОВУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫВАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.87,
+    "end": 7.92,
+    "lines": [
+      {
+        "text": "ЧАСТЬ ПОКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСЯЦАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "ПОХОЖЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.15,
+    "end": 10.95,
+    "lines": [
+      {
+        "text": "НЕ БЕЗ ВАРИАНТОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПАЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "В ЕГЭ К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 13.74,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.74,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ВЕРНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "СПОСОБ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.63,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "ОТ НАЧАЛА ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.65,
+    "end": 18.48,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

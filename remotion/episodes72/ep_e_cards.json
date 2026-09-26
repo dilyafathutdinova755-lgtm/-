@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.98,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "ЕГЭ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЧИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 4.17,
+    "lines": [
+      {
+        "text": "ЧТО РЕШЕНИЯ БЫЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОСОБ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.17,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "ПОНЯТ ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.52,
+    "end": 6.36,
+    "lines": [
+      {
+        "text": "Я ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОХОДИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.36,
+    "end": 7.23,
+    "lines": [
+      {
+        "text": "ВАРИАНТ ЗА ПОКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.23,
+    "end": 8.91,
+    "lines": [
+      {
+        "text": "НА КОНСУЛЬТАЦИИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПРОСИЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.91,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ВСЛУХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.56,
+    "end": 11.49,
+    "lines": [
+      {
+        "text": "В К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.49,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 13.92,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "РЕШЕНИЯ А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОСОБ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 15.99,
+    "lines": [
+      {
+        "text": "НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.99,
+    "end": 17.88,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
