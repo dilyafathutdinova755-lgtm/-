@@ -1,122 +1,138 @@
 [
   {
-    "start": 1.98,
-    "end": 3.06,
+    "start": 1.86,
+    "end": 2.7,
     "lines": [
       {
-        "text": "ЕГЭ НЕ",
+        "text": "КОТОРЫЙ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАЧИТ",
+        "text": "СОВЕТУЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.06,
-    "end": 4.17,
+    "start": 2.7,
+    "end": 3.63,
     "lines": [
       {
-        "text": "ЧТО РЕШЕНИЯ БЫЛ",
+        "text": "КЛАССА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБ",
+        "text": "ЧАТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.17,
-    "end": 5.52,
+    "start": 3.63,
+    "end": 4.5,
     "lines": [
       {
-        "text": "ПОНЯТ ДО",
+        "text": "ВСЕГДА С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНЦА",
+        "text": "СОВПАДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.52,
-    "end": 6.36,
+    "start": 4.5,
+    "end": 5.73,
     "lines": [
       {
-        "text": "Я ТАК",
+        "text": "ОФИЦИАЛЬНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОХОДИЛ",
+        "text": "ФОРМАТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.36,
-    "end": 7.23,
+    "start": 5.73,
+    "end": 6.99,
     "lines": [
       {
-        "text": "ВАРИАНТ ЗА ПОКА",
+        "text": "Я ТАКОЙ СБОРНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТОМ",
+        "text": "РЕШАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.23,
-    "end": 8.91,
+    "start": 6.99,
+    "end": 8.19,
     "lines": [
       {
-        "text": "НА КОНСУЛЬТАЦИИ НЕ",
+        "text": "МЕСЯЦ ПОКА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОПРОСИЛИ",
+        "text": "ЗАМЕТИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.91,
-    "end": 10.56,
+    "start": 8.19,
+    "end": 9.09,
     "lines": [
       {
-        "text": "РЕШЕНИЕ ВСЛУХ",
+        "text": "С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИТЬ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.56,
-    "end": 11.49,
+    "start": 9.09,
+    "end": 10.53,
     "lines": [
       {
-        "text": "В К",
+        "text": "УПРАЗДНЕННОЙ ФОРМУЛИРОВКОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАВНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 11.73,
+    "lines": [
+      {
+        "text": "В ЕСТЬ",
         "accent": false,
         "size": "small"
       },
@@ -128,72 +144,56 @@
     ]
   },
   {
-    "start": 11.49,
-    "end": 12.72,
+    "start": 11.73,
+    "end": 13.05,
     "lines": [
       {
-        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "text": "БАНК ПРОВЕРЕННЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.72,
-    "end": 13.92,
+    "start": 13.05,
+    "end": 14.31,
     "lines": [
       {
-        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "text": "И АКТУАЛЬНЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.92,
-    "end": 14.91,
+    "start": 14.31,
+    "end": 15.11,
     "lines": [
       {
-        "text": "РЕШЕНИЯ А",
+        "text": "ЭТОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПОСОБ",
+        "text": "ГОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.91,
-    "end": 15.99,
-    "lines": [
-      {
-        "text": "НЕ ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕЗУЛЬТАТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.99,
-    "end": 17.88,
+    "start": 15.11,
+    "end": 17.026,
     "lines": [
       {
         "text": "ССЫЛКА",
