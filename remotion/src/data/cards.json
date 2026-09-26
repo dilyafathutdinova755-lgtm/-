@@ -1,151 +1,103 @@
 [
   {
-    "start": 2.31,
-    "end": 3.48,
+    "start": 2.34,
+    "end": 4.08,
     "lines": [
       {
-        "text": "ГОД НАЗАД",
+        "text": "НЕПРАВИЛЬНО И ПРИ ЭТОМ БЫТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КУПЛЕННЫЙ",
+        "text": "ПОЛНОСТЬЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.48,
-    "end": 4.5,
+    "start": 4.08,
+    "end": 5.52,
     "lines": [
       {
-        "text": "К МОЖЕТ",
+        "text": "В ОТВЕТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕСНЕ",
+        "text": "УВЕРЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 5.7,
+    "start": 5.52,
+    "end": 6.54,
     "lines": [
       {
-        "text": "УЖЕ НЕ С РЕАЛЬНЫМ",
+        "text": "Я ОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАДАТЬ",
+        "text": "ОШИБКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 6.96,
+    "start": 6.54,
+    "end": 7.35,
     "lines": [
       {
-        "text": "ЭКЗАМЕНА",
+        "text": "ТОЛЬКО ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМАТОМ",
+        "text": "СЫНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 7.98,
+    "start": 7.35,
+    "end": 8.34,
     "lines": [
       {
-        "text": "Я НЕ СРАЗУ",
+        "text": "КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯЛА",
+        "text": "ПОКАЗАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.98,
-    "end": 8.94,
+    "start": 8.34,
+    "end": 10.02,
     "lines": [
       {
-        "text": "СЫН РЕШАЮТ",
+        "text": "РЕШЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧЕМУ",
+        "text": "РЕПЕТИТОРУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.94,
-    "end": 10.14,
-    "lines": [
-      {
-        "text": "ПРАВИЛЬНО А",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.14,
-    "end": 11.22,
-    "lines": [
-      {
-        "text": "НА ВСЕ РАВНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОБНИКЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.22,
-    "end": 12.36,
-    "lines": [
-      {
-        "text": "БАЛЛЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕРЯЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.36,
-    "end": 13.53,
+    "start": 10.02,
+    "end": 10.95,
     "lines": [
       {
         "text": "В",
@@ -160,67 +112,88 @@
     ]
   },
   {
-    "start": 13.53,
-    "end": 14.7,
+    "start": 10.95,
+    "end": 11.97,
     "lines": [
       {
-        "text": "СОБРАН БАНК",
+        "text": "К ЗАДАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "КАЖДОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.7,
-    "end": 15.66,
+    "start": 11.97,
+    "end": 13.23,
     "lines": [
       {
-        "text": "С КОТОРЫЕ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМИ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.66,
-    "end": 16.92,
+    "start": 13.23,
+    "end": 14.49,
     "lines": [
       {
-        "text": "ОБНОВЛЯЮТСЯ ПОД",
+        "text": "СРАЗУ ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АКТУАЛЬНЫЙ",
+        "text": "КОТОРЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.92,
-    "end": 17.72,
+    "start": 14.49,
+    "end": 15.36,
     "lines": [
       {
-        "text": "ФОРМАТ",
+        "text": "ГДЕ ЛОГИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.72,
-    "end": 19.5,
+    "start": 15.36,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "НЕ ТУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОШЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 18.4,
     "lines": [
       {
         "text": "ССЫЛКА",
