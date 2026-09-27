@@ -1,154 +1,149 @@
 [
   {
-    "start": 1.95,
-    "end": 2.76,
+    "start": 2.01,
+    "end": 2.94,
     "lines": [
       {
-        "text": "ДАТА ПО",
+        "text": "СБОРНИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.76,
-    "end": 3.96,
+    "start": 2.94,
+    "end": 3.87,
     "lines": [
       {
-        "text": "ДЛЯ ЕГЭ",
+        "text": "НЕ ВСЕГДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТЕРЕТЬСЯ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.96,
-    "end": 4.83,
+    "start": 3.87,
+    "end": 5.22,
     "lines": [
       {
-        "text": "ИЗ ПРЯМО",
+        "text": "СТОИТ НА АКТУАЛЬНОСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПАМЯТИ",
+        "text": "ПРОВЕРЯТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.83,
-    "end": 5.73,
+    "start": 5.22,
+    "end": 6.06,
     "lines": [
       {
-        "text": "ПЕРЕД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОБНИКОМ",
+        "text": "ВОВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 6.57,
+    "start": 6.06,
+    "end": 7.14,
     "lines": [
       {
-        "text": "Я ПО",
+        "text": "Я ТАКОЙ РЕШАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОТОВИЛСЯ",
+        "text": "СБОРНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.57,
-    "end": 7.38,
+    "start": 7.14,
+    "end": 7.95,
     "lines": [
       {
-        "text": "ДАТАМ ВСЮ",
+        "text": "ПОЛОВИНУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОЧЬ",
+        "text": "ГОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.38,
-    "end": 8.55,
+    "start": 7.95,
+    "end": 9.21,
     "lines": [
       {
-        "text": "ПЕРЕД ПРОБНЫМ",
+        "text": "ПОКА НЕ УЧИТЕЛЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕНОМ",
+        "text": "ПОКАЗАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.55,
-    "end": 9.69,
+    "start": 9.21,
+    "end": 10.14,
     "lines": [
       {
-        "text": "И ПОЛОВИНУ",
+        "text": "ФОРМАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБЫЛ",
+        "text": "ИЗМЕНИВШИЙСЯ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 9.69,
-    "end": 10.65,
+    "start": 10.14,
+    "end": 11.31,
     "lines": [
       {
-        "text": "УЖЕ ЗА",
+        "text": "НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАВТРАКОМ",
+        "text": "КОНСУЛЬТАЦИИ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 10.65,
-    "end": 11.46,
+    "start": 11.31,
+    "end": 12.21,
     "lines": [
       {
-        "text": "В",
+        "text": "В ЕСТЬ",
         "accent": false,
         "size": "small"
       },
@@ -160,88 +155,67 @@
     ]
   },
   {
-    "start": 11.46,
-    "end": 12.3,
+    "start": 12.21,
+    "end": 13.2,
     "lines": [
       {
-        "text": "ПО ЕСТЬ",
+        "text": "ФИПИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "БАНК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.3,
-    "end": 13.29,
+    "start": 13.2,
+    "end": 14.34,
     "lines": [
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "С КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.29,
-    "end": 14.31,
+    "start": 14.34,
+    "end": 15.57,
     "lines": [
       {
-        "text": "КОТОРЫЕ",
+        "text": "ОБНОВЛЯЮТСЯ ПОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЕПЛЯЮТ",
+        "text": "ТЕКУЩИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.31,
-    "end": 15.15,
+    "start": 15.57,
+    "end": 16.38,
     "lines": [
       {
-        "text": "ЗА НЕСКОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДАТУ",
+        "text": "ГОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.15,
-    "end": 16.56,
-    "lines": [
-      {
-        "text": "ДНЕЙ А НЕ ЗА ОДНУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НОЧЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.56,
-    "end": 18.263,
+    "start": 16.38,
+    "end": 17.73,
     "lines": [
       {
         "text": "ССЫЛКА",
