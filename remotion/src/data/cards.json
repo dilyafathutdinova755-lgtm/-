@@ -1,183 +1,162 @@
 [
   {
-    "start": 2.25,
-    "end": 3.09,
+    "start": 2.1,
+    "end": 3.15,
     "lines": [
       {
-        "text": "МОЖНО",
+        "text": "ДЛЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНО",
+        "text": "ИНОГДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.09,
-    "end": 4.32,
+    "start": 3.15,
+    "end": 4.26,
     "lines": [
       {
-        "text": "РАССТАВИТЬ",
+        "text": "С ОЧЕНЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПЯТЫЕ",
+        "text": "ПУТАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.32,
-    "end": 5.82,
+    "start": 4.26,
+    "end": 5.28,
     "lines": [
       {
-        "text": "И НЕ ОБЪЯСНИТЬ",
+        "text": "СОСЕДНЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СУМЕТЬ",
+        "text": "ПОХОЖЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.82,
-    "end": 7.71,
+    "start": 5.28,
+    "end": 6.3,
     "lines": [
       {
-        "text": "НИ ОДНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРАВИЛО",
+        "text": "ДАТОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.71,
-    "end": 8.55,
+    "start": 6.3,
+    "end": 7.17,
     "lines": [
       {
-        "text": "Я ТАК",
+        "text": "Я РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПИСАЛА",
+        "text": "МИЛЛИОН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.55,
-    "end": 9.66,
+    "start": 7.17,
+    "end": 8.25,
     "lines": [
       {
-        "text": "ПРОБНЫЕ",
+        "text": "ПУТАЛА ДВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДИКТАНТЫ",
+        "text": "ПОХОЖИХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.66,
-    "end": 10.71,
+    "start": 8.25,
+    "end": 9.42,
     "lines": [
       {
-        "text": "ВЕСЬ",
+        "text": "ПОДРЯД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АВГУСТ",
+        "text": "СОБЫТИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.71,
-    "end": 11.79,
+    "start": 9.42,
+    "end": 10.38,
     "lines": [
       {
-        "text": "А НА",
+        "text": "ХОТЯ МЕЖДУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНСУЛЬТАЦИИ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 11.79,
-    "end": 12.69,
-    "lines": [
-      {
-        "text": "НЕ НАЗВАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МОГЛА",
+        "text": "РАЗНИЦА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.69,
-    "end": 13.62,
+    "start": 10.38,
+    "end": 11.31,
     "lines": [
       {
-        "text": "НИ",
+        "text": "БЫЛА НИМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЧИНУ",
+        "text": "ВСЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.62,
-    "end": 15.3,
+    "start": 11.31,
+    "end": 13.44,
     "lines": [
       {
-        "text": "ОДНОЙ",
+        "text": "В ЛЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПЯТОЙ",
+        "text": "ПАРУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.3,
-    "end": 16.26,
+    "start": 13.44,
+    "end": 14.31,
     "lines": [
       {
         "text": "В",
@@ -192,104 +171,99 @@
     ]
   },
   {
-    "start": 16.26,
-    "end": 17.34,
+    "start": 14.31,
+    "end": 15.39,
     "lines": [
       {
-        "text": "К ЕСТЬ",
+        "text": "ПО ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.34,
-    "end": 18.27,
+    "start": 15.39,
+    "end": 16.59,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ ГДЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.27,
-    "end": 19.41,
+    "start": 16.59,
+    "end": 17.61,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "ГДЕ ДАТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЯЕТ",
+        "text": "ПОХОЖИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.41,
-    "end": 20.22,
+    "start": 17.61,
+    "end": 18.69,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛА",
+        "text": "РАЗЛИЧАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.22,
-    "end": 21.15,
+    "start": 18.69,
+    "end": 19.56,
     "lines": [
       {
-        "text": "ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОКАЗЫВАЕТ",
+        "text": "САМОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.15,
-    "end": 22.44,
+    "start": 19.56,
+    "end": 21.06,
     "lines": [
       {
-        "text": "ВЕРНЫЙ",
+        "text": "А НЕ СПИСОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТ",
+        "text": "ПЕРЕЧИТЫВАТЬ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 22.44,
-    "end": 24.471,
+    "start": 21.06,
+    "end": 22.85,
     "lines": [
       {
         "text": "ССЫЛКА",
