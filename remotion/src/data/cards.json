@@ -1,151 +1,151 @@
 [
   {
-    "start": 1.68,
-    "end": 2.52,
+    "start": 1.95,
+    "end": 2.76,
     "lines": [
       {
-        "text": "МОЖНО ПРАВИЛЬНЫМ",
+        "text": "ДАТА ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫТЬ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.52,
-    "end": 3.54,
+    "start": 2.76,
+    "end": 3.96,
     "lines": [
       {
-        "text": "И ЗАБЫТЬ",
+        "text": "ДЛЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТОМ",
+        "text": "СТЕРЕТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.54,
-    "end": 4.41,
+    "start": 3.96,
+    "end": 4.83,
     "lines": [
       {
-        "text": "СПОСОБ",
+        "text": "ИЗ ПРЯМО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ",
+        "text": "ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.41,
-    "end": 5.34,
+    "start": 4.83,
+    "end": 5.73,
     "lines": [
       {
-        "text": "УЖЕ ЧЕРЕЗ",
+        "text": "ПЕРЕД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕНЬ",
+        "text": "ПРОБНИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.34,
-    "end": 6.6,
+    "start": 5.73,
+    "end": 6.57,
     "lines": [
       {
-        "text": "Я ТАК ТЕСТЫ",
+        "text": "Я ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОХОДИЛ",
+        "text": "ГОТОВИЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.6,
-    "end": 7.77,
+    "start": 6.57,
+    "end": 7.38,
     "lines": [
       {
-        "text": "ПАЧКАМИ",
+        "text": "ДАТАМ ВСЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖЕЕ",
+        "text": "НОЧЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.77,
-    "end": 8.79,
+    "start": 7.38,
+    "end": 8.55,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ЧЕРЕЗ",
+        "text": "ПЕРЕД ПРОБНЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДЕЛЮ",
+        "text": "ЭКЗАМЕНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.79,
-    "end": 9.66,
+    "start": 8.55,
+    "end": 9.69,
     "lines": [
       {
-        "text": "НЕ МЕНЯ В",
+        "text": "И ПОЛОВИНУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСТАВИЛО",
+        "text": "ЗАБЫЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.66,
-    "end": 10.83,
+    "start": 9.69,
+    "end": 10.65,
     "lines": [
       {
-        "text": "СНОВА",
+        "text": "УЖЕ ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТУПИК",
+        "text": "ЗАВТРАКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.83,
-    "end": 11.64,
+    "start": 10.65,
+    "end": 11.46,
     "lines": [
       {
         "text": "В",
@@ -160,72 +160,88 @@
     ]
   },
   {
-    "start": 11.64,
-    "end": 12.51,
+    "start": 11.46,
+    "end": 12.3,
     "lines": [
       {
-        "text": "К ЕСТЬ",
+        "text": "ПО ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.51,
-    "end": 13.65,
+    "start": 12.3,
+    "end": 13.29,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.65,
-    "end": 14.52,
+    "start": 13.29,
+    "end": 14.31,
     "lines": [
       {
-        "text": "КОТОРЫЙ ПОД",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУКОЙ",
+        "text": "ЗАКРЕПЛЯЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.52,
-    "end": 16.26,
+    "start": 14.31,
+    "end": 15.15,
     "lines": [
       {
-        "text": "ДЛЯ СПОСОБА",
+        "text": "ЗА НЕСКОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЕНИЯ",
+        "text": "ДАТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.26,
-    "end": 18.04,
+    "start": 15.15,
+    "end": 16.56,
+    "lines": [
+      {
+        "text": "ДНЕЙ А НЕ ЗА ОДНУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.56,
+    "end": 18.263,
     "lines": [
       {
         "text": "ССЫЛКА",
