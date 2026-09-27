@@ -1,90 +1,106 @@
 [
   {
-    "start": 1.89,
-    "end": 3.06,
+    "start": 1.74,
+    "end": 2.64,
     "lines": [
       {
-        "text": "ЧАТЕ НЕ ВСЕГДА",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КЛАССА",
+        "text": "ЗАДАНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.06,
-    "end": 4.11,
+    "start": 2.64,
+    "end": 3.54,
     "lines": [
       {
-        "text": "С ОФИЦИАЛЬНЫМ",
+        "text": "МОЖЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАДАЕТ",
+        "text": "СРАБОТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.11,
-    "end": 5.22,
+    "start": 3.54,
+    "end": 4.65,
     "lines": [
       {
-        "text": "ЭКЗАМЕНА",
+        "text": "А ПОЧЕМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМАТОМ",
+        "text": "ОБЪЯСНИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.22,
-    "end": 6.36,
+    "start": 4.65,
+    "end": 5.88,
     "lines": [
       {
-        "text": "Я ПЕРЕСЛАННЫЙ",
+        "text": "ОН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЛ",
+        "text": "ИМЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.36,
-    "end": 7.26,
+    "start": 5.88,
+    "end": 6.84,
     "lines": [
       {
-        "text": "НЕДЕЛЮ",
+        "text": "Я ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТ",
+        "text": "НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.26,
-    "end": 8.58,
+    "start": 6.84,
+    "end": 7.74,
     "lines": [
       {
-        "text": "НЕ ЗАМЕТИЛ",
+        "text": "СЛОЖНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.74,
+    "end": 8.97,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ",
         "accent": false,
         "size": "small"
       },
@@ -96,35 +112,56 @@
     ]
   },
   {
-    "start": 8.58,
-    "end": 9.63,
+    "start": 8.97,
+    "end": 10.08,
     "lines": [
       {
-        "text": "С ИЗМЕНЕННОЙ",
+        "text": "А ЛОГИКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАВНО",
+        "text": "ОБЪЯСНИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.63,
-    "end": 10.44,
+    "start": 10.08,
+    "end": 10.95,
     "lines": [
       {
-        "text": "ФОРМУЛИРОВКОЙ",
-        "accent": true,
+        "text": "ПОТОМ",
+        "accent": false,
         "size": "small"
+      },
+      {
+        "text": "УЧИТЕЛЮ",
+        "accent": true,
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.44,
-    "end": 11.31,
+    "start": 10.95,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "НЕ СМОГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.97,
+    "end": 12.78,
     "lines": [
       {
         "text": "В",
@@ -139,51 +176,88 @@
     ]
   },
   {
-    "start": 11.31,
-    "end": 12.36,
+    "start": 12.78,
+    "end": 13.71,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "К ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.36,
-    "end": 13.35,
+    "start": 13.71,
+    "end": 14.52,
     "lines": [
       {
-        "text": "ТЕКУЩЕГО",
+        "text": "РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМИ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.35,
-    "end": 14.28,
+    "start": 14.52,
+    "end": 15.66,
     "lines": [
       {
-        "text": "ГОДА",
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.28,
-    "end": 15.6,
+    "start": 15.66,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "МЕТОДА А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 17.55,
+    "lines": [
+      {
+        "text": "НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 19.266,
     "lines": [
       {
         "text": "ССЫЛКА",
