@@ -1,0 +1,280 @@
+[
+  {
+    "start": 1.89,
+    "end": 2.82,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОХРАНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.82,
+    "end": 4.05,
+    "lines": [
+      {
+        "text": "СТАРУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУМЕРАЦИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.05,
+    "end": 4.86,
+    "lines": [
+      {
+        "text": "УЖЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.86,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "С ТЕКУЩЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.82,
+    "end": 6.96,
+    "lines": [
+      {
+        "text": "ФОРМАТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРОВАЛАСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "ТАКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АРХИВУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.51,
+    "lines": [
+      {
+        "text": "ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕНТЯБРЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.51,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 11.22,
+    "lines": [
+      {
+        "text": "НОМЕРА С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.22,
+    "end": 13.89,
+    "lines": [
+      {
+        "text": "ОФИЦИАЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИЕЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 15.72,
+    "lines": [
+      {
+        "text": "СОБРАН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.72,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.01,
+    "end": 17.94,
+    "lines": [
+      {
+        "text": "ПРОНУМЕРОВАННЫМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.94,
+    "end": 18.81,
+    "lines": [
+      {
+        "text": "ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АКТУАЛЬНОМУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.81,
+    "end": 20.25,
+    "lines": [
+      {
+        "text": "ЭТОТ ГОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.25,
+    "end": 22.167,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

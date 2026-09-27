@@ -1,0 +1,200 @@
+[
+  {
+    "start": 1.89,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "ЧАТЕ НЕ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КЛАССА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 4.11,
+    "lines": [
+      {
+        "text": "С ОФИЦИАЛЬНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.11,
+    "end": 5.22,
+    "lines": [
+      {
+        "text": "ЭКЗАМЕНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМАТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.22,
+    "end": 6.36,
+    "lines": [
+      {
+        "text": "Я ПЕРЕСЛАННЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.36,
+    "end": 7.26,
+    "lines": [
+      {
+        "text": "НЕДЕЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.26,
+    "end": 8.58,
+    "lines": [
+      {
+        "text": "НЕ ЗАМЕТИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.58,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "С ИЗМЕНЕННОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАВНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.63,
+    "end": 10.44,
+    "lines": [
+      {
+        "text": "ФОРМУЛИРОВКОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.44,
+    "end": 11.31,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.31,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "ТЕКУЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.35,
+    "end": 14.28,
+    "lines": [
+      {
+        "text": "ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.28,
+    "end": 15.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

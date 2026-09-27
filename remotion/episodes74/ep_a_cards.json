@@ -1,0 +1,280 @@
+[
+  {
+    "start": 2.7,
+    "end": 3.51,
+    "lines": [
+      {
+        "text": "МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.51,
+    "end": 4.68,
+    "lines": [
+      {
+        "text": "СВОИМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.68,
+    "end": 5.55,
+    "lines": [
+      {
+        "text": "И НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЗНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.55,
+    "end": 8.07,
+    "lines": [
+      {
+        "text": "ОФИЦИАЛЬНОЙ ФОРМУЛИРОВКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.07,
+    "end": 9.18,
+    "lines": [
+      {
+        "text": "Я ТЕРМИНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.18,
+    "end": 10.05,
+    "lines": [
+      {
+        "text": "НА СВОЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДРУГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "А НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.79,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.79,
+    "end": 12.66,
+    "lines": [
+      {
+        "text": "ТО ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЗНАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.66,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "САМОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.94,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.94,
+    "end": 15.78,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.78,
+    "end": 16.86,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 18.27,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.27,
+    "end": 19.41,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.41,
+    "end": 20.52,
+    "lines": [
+      {
+        "text": "ОФИЦИАЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЗНАВАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.52,
+    "end": 21.66,
+    "lines": [
+      {
+        "text": "ФОРМУЛИРОВОК",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 21.66,
+    "end": 23.618,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

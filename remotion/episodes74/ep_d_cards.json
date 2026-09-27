@@ -1,0 +1,306 @@
+[
+  {
+    "start": 2.25,
+    "end": 3.09,
+    "lines": [
+      {
+        "text": "МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.09,
+    "end": 4.32,
+    "lines": [
+      {
+        "text": "РАССТАВИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПЯТЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "И НЕ ОБЪЯСНИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СУМЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.82,
+    "end": 7.71,
+    "lines": [
+      {
+        "text": "НИ ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.71,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "Я ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПИСАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "ПРОБНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДИКТАНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 10.71,
+    "lines": [
+      {
+        "text": "ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВГУСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.71,
+    "end": 11.79,
+    "lines": [
+      {
+        "text": "А НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНСУЛЬТАЦИИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.79,
+    "end": 12.69,
+    "lines": [
+      {
+        "text": "НЕ НАЗВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОГЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.69,
+    "end": 13.62,
+    "lines": [
+      {
+        "text": "НИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЧИНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.62,
+    "end": 15.3,
+    "lines": [
+      {
+        "text": "ОДНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПЯТОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.26,
+    "end": 17.34,
+    "lines": [
+      {
+        "text": "К ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.34,
+    "end": 18.27,
+    "lines": [
+      {
+        "text": "РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.27,
+    "end": 19.41,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.41,
+    "end": 20.22,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 21.15,
+    "lines": [
+      {
+        "text": "ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.15,
+    "end": 22.44,
+    "lines": [
+      {
+        "text": "ВЕРНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.44,
+    "end": 24.471,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "start": 2.88,
+    "end": 3.72,
+    "lines": [
+      {
+        "text": "ДЛЯ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.72,
+    "end": 4.86,
+    "lines": [
+      {
+        "text": "ЕДИНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПИНКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.86,
+    "end": 5.79,
+    "lines": [
+      {
+        "text": "А ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.79,
+    "end": 6.63,
+    "lines": [
+      {
+        "text": "САМ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАЮСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.63,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 8.82,
+    "lines": [
+      {
+        "text": "Я ЧТО МОГУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОРДИЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.82,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "ПРАВИЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "ОДНОКЛАССНИКАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.31,
+    "lines": [
+      {
+        "text": "А ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.31,
+    "end": 12.51,
+    "lines": [
+      {
+        "text": "САМ ОШИБСЯ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДИКТАНТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.89,
+    "lines": [
+      {
+        "text": "НА ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "В ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "РУССКОМУ ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.63,
+    "end": 16.95,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.95,
+    "end": 17.97,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.97,
+    "end": 18.87,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.87,
+    "end": 19.74,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАКТИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.74,
+    "end": 20.79,
+    "lines": [
+      {
+        "text": "ПЕРЕСКАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.79,
+    "end": 22.24,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
