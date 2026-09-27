@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.56,
+    "end": 3.03,
+    "lines": [
+      {
+        "text": "МЕТОДИЧКЕ ПЯТИЛЕТНЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАВНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.03,
+    "end": 3.84,
+    "lines": [
+      {
+        "text": "МОЖНО И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЛГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.84,
+    "end": 5.43,
+    "lines": [
+      {
+        "text": "НЕ ТУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВЕРШЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.43,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "Я У ДОЧЕРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАШЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.62,
+    "lines": [
+      {
+        "text": "ИМЕННО ТАКУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕТОДИЧКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.62,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "И ТОЛЬКО ТОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 9.72,
+    "lines": [
+      {
+        "text": "ОТКУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРАННЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.25,
+    "end": 12.12,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.12,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "СОБРАН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.46,
+    "lines": [
+      {
+        "text": "ПО ТРЕБОВАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБНОВЛЕННЫЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.46,
+    "end": 15.66,
+    "lines": [
+      {
+        "text": "ТЕКУЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.66,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

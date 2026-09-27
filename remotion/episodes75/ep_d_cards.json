@@ -1,0 +1,274 @@
+[
+  {
+    "start": 2.04,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "ЕГЭ МОЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 3.96,
+    "lines": [
+      {
+        "text": "ЗНАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАИЗУСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.96,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "И ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "В КОНКРЕТНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.75,
+    "end": 7.77,
+    "lines": [
+      {
+        "text": "Я КАК ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУШАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.77,
+    "end": 8.97,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗУПРЕЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.97,
+    "end": 10.05,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 10.89,
+    "lines": [
+      {
+        "text": "ВИДЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.89,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "ТОМ ЖЕ В ТЕТРАДИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 13.56,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.56,
+    "end": 14.76,
+    "lines": [
+      {
+        "text": "ПО ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.76,
+    "end": 16.08,
+    "lines": [
+      {
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.08,
+    "end": 17.07,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.07,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "ПРАВИЛА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.12,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.19,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.19,
+    "end": 21.96,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

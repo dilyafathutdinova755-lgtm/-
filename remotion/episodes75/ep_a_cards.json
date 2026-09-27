@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.68,
+    "end": 2.52,
+    "lines": [
+      {
+        "text": "МОЖНО ПРАВИЛЬНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.52,
+    "end": 3.54,
+    "lines": [
+      {
+        "text": "И ЗАБЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 4.41,
+    "lines": [
+      {
+        "text": "СПОСОБ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.41,
+    "end": 5.34,
+    "lines": [
+      {
+        "text": "УЖЕ ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.34,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "Я ТАК ТЕСТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОХОДИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 7.77,
+    "lines": [
+      {
+        "text": "ПАЧКАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.77,
+    "end": 8.79,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.79,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "НЕ МЕНЯ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 10.83,
+    "lines": [
+      {
+        "text": "СНОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТУПИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.83,
+    "end": 11.64,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.64,
+    "end": 12.51,
+    "lines": [
+      {
+        "text": "К ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.52,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.52,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "ДЛЯ СПОСОБА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.26,
+    "end": 18.04,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

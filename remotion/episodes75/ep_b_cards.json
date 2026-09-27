@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.95,
+    "end": 2.76,
+    "lines": [
+      {
+        "text": "ДАТА ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.76,
+    "end": 3.96,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТЕРЕТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.96,
+    "end": 4.83,
+    "lines": [
+      {
+        "text": "ИЗ ПРЯМО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАМЯТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 5.73,
+    "lines": [
+      {
+        "text": "ПЕРЕД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.73,
+    "end": 6.57,
+    "lines": [
+      {
+        "text": "Я ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОТОВИЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.57,
+    "end": 7.38,
+    "lines": [
+      {
+        "text": "ДАТАМ ВСЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "ПЕРЕД ПРОБНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.69,
+    "lines": [
+      {
+        "text": "И ПОЛОВИНУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "УЖЕ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАВТРАКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.65,
+    "end": 11.46,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.46,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ПО ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.29,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.29,
+    "end": 14.31,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.31,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "ЗА НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.15,
+    "end": 16.56,
+    "lines": [
+      {
+        "text": "ДНЕЙ А НЕ ЗА ОДНУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.56,
+    "end": 18.263,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

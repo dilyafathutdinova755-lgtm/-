@@ -389,3 +389,12 @@ episodes74/idframes/
 episodes74_out/
 sources_coffee123_27/
 asr_coffee123_27/
+episodes75/*.mp4
+episodes75/*.wav
+episodes75/*.log
+episodes75/render/
+episodes75/frames/
+episodes75/idframes/
+episodes75_out/
+sources_coffee123_28/
+asr_coffee123_28/
