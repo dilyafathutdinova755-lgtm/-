@@ -1,149 +1,154 @@
 [
   {
-    "start": 2.01,
-    "end": 2.94,
+    "start": 2.04,
+    "end": 3.06,
     "lines": [
       {
-        "text": "СБОРНИК",
+        "text": "ЕГЭ МОЖЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "ДОЧЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.94,
-    "end": 3.87,
+    "start": 3.06,
+    "end": 3.96,
     "lines": [
       {
-        "text": "НЕ ВСЕГДА",
+        "text": "ЗНАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "НАИЗУСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.87,
-    "end": 5.22,
+    "start": 3.96,
+    "end": 5.1,
     "lines": [
       {
-        "text": "СТОИТ НА АКТУАЛЬНОСТЬ",
+        "text": "И ВСЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯТЬ",
+        "text": "ОШИБАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.22,
-    "end": 6.06,
+    "start": 5.1,
+    "end": 6.75,
     "lines": [
       {
-        "text": "ВОВРЕМЯ",
+        "text": "В КОНКРЕТНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.14,
+    "start": 6.75,
+    "end": 7.77,
     "lines": [
       {
-        "text": "Я ТАКОЙ РЕШАЛ",
+        "text": "Я КАК ОНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБОРНИК",
+        "text": "СЛУШАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.14,
-    "end": 7.95,
+    "start": 7.77,
+    "end": 8.97,
     "lines": [
       {
-        "text": "ПОЛОВИНУ",
+        "text": "ОБЪЯСНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОДА",
+        "text": "БЕЗУПРЕЧНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.95,
-    "end": 9.21,
+    "start": 8.97,
+    "end": 10.05,
     "lines": [
       {
-        "text": "ПОКА НЕ УЧИТЕЛЬ",
+        "text": "А ПОТОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКАЗАЛ",
+        "text": "ПРАВИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.21,
-    "end": 10.14,
+    "start": 10.05,
+    "end": 10.89,
     "lines": [
       {
-        "text": "ФОРМАТ",
+        "text": "ВИДЕЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗМЕНИВШИЙСЯ",
+        "text": "ОШИБКУ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.14,
-    "end": 11.31,
+    "start": 10.89,
+    "end": 12.72,
     "lines": [
       {
-        "text": "НА",
+        "text": "ТОМ ЖЕ В ТЕТРАДИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНСУЛЬТАЦИИ",
+        "text": "СЛОВЕ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 11.31,
-    "end": 12.21,
+    "start": 12.72,
+    "end": 13.56,
     "lines": [
       {
-        "text": "В ЕСТЬ",
+        "text": "В",
         "accent": false,
         "size": "small"
       },
@@ -155,67 +160,104 @@
     ]
   },
   {
-    "start": 12.21,
-    "end": 13.2,
+    "start": 13.56,
+    "end": 14.76,
     "lines": [
       {
-        "text": "ФИПИ",
+        "text": "ПО ЯЗЫКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК",
+        "text": "РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.2,
-    "end": 14.34,
+    "start": 14.76,
+    "end": 16.08,
     "lines": [
       {
-        "text": "С КОТОРЫЕ",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМИ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.34,
-    "end": 15.57,
+    "start": 16.08,
+    "end": 17.07,
     "lines": [
       {
-        "text": "ОБНОВЛЯЮТСЯ ПОД",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКУЩИЙ",
+        "text": "ЗАКРЕПЛЯЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.57,
-    "end": 16.38,
+    "start": 17.07,
+    "end": 18.12,
     "lines": [
       {
-        "text": "ГОД",
+        "text": "ПРАВИЛА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.38,
-    "end": 17.73,
+    "start": 18.12,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.19,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.19,
+    "end": 21.96,
     "lines": [
       {
         "text": "ССЫЛКА",
