@@ -1,122 +1,106 @@
 [
   {
-    "start": 1.74,
-    "end": 2.64,
+    "start": 2.88,
+    "end": 3.72,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "ДЛЯ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИИ",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.64,
-    "end": 3.54,
+    "start": 3.72,
+    "end": 4.86,
     "lines": [
       {
-        "text": "МОЖЕТ",
+        "text": "ЕДИНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАБОТАТЬ",
+        "text": "ЗАПИНКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.54,
-    "end": 4.65,
+    "start": 4.86,
+    "end": 5.79,
     "lines": [
       {
-        "text": "А ПОЧЕМУ",
+        "text": "А ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИТЬ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.65,
-    "end": 5.88,
+    "start": 5.79,
+    "end": 6.63,
     "lines": [
       {
-        "text": "ОН",
+        "text": "САМ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИМЕННО",
+        "text": "ОШИБАЮСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.88,
-    "end": 6.84,
+    "start": 6.63,
+    "end": 7.83,
     "lines": [
       {
-        "text": "Я ТАК",
+        "text": "ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕТ",
+        "text": "ПРАВИЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.84,
-    "end": 7.74,
+    "start": 7.83,
+    "end": 8.82,
     "lines": [
       {
-        "text": "СЛОЖНОЕ",
+        "text": "Я ЧТО МОГУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЫЛ",
+        "text": "ГОРДИЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.74,
-    "end": 8.97,
+    "start": 8.82,
+    "end": 9.66,
     "lines": [
       {
-        "text": "НА ПРОБНИКЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.97,
-    "end": 10.08,
-    "lines": [
-      {
-        "text": "А ЛОГИКУ",
+        "text": "ПРАВИЛО",
         "accent": false,
         "size": "small"
       },
@@ -128,43 +112,70 @@
     ]
   },
   {
-    "start": 10.08,
-    "end": 10.95,
+    "start": 9.66,
+    "end": 10.5,
     "lines": [
       {
-        "text": "ПОТОМ",
+        "text": "ОДНОКЛАССНИКАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.31,
+    "lines": [
+      {
+        "text": "А ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧИТЕЛЮ",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.95,
-    "end": 11.97,
+    "start": 11.31,
+    "end": 12.51,
     "lines": [
       {
-        "text": "НЕ СМОГ",
+        "text": "САМ ОШИБСЯ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛКОМ",
+        "text": "ДИКТАНТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.97,
-    "end": 12.78,
+    "start": 12.51,
+    "end": 13.89,
     "lines": [
       {
-        "text": "В",
+        "text": "НА ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "В ПО",
         "accent": false,
         "size": "small"
       },
@@ -176,88 +187,99 @@
     ]
   },
   {
-    "start": 12.78,
-    "end": 13.71,
+    "start": 14.79,
+    "end": 15.63,
     "lines": [
       {
-        "text": "К ЕСТЬ",
+        "text": "РУССКОМУ ЯЗЫКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМ",
+        "text": "ЕСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.71,
-    "end": 14.52,
+    "start": 15.63,
+    "end": 16.95,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.52,
-    "end": 15.66,
+    "start": 16.95,
+    "end": 17.97,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЯЕТ",
+        "text": "ЗАКРЕПЛЯЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.66,
-    "end": 16.53,
+    "start": 17.97,
+    "end": 18.87,
     "lines": [
       {
-        "text": "МЕТОДА А",
+        "text": "ЧЕРЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОГИКУ",
+        "text": "ПРАВИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.55,
+    "start": 18.87,
+    "end": 19.74,
     "lines": [
       {
-        "text": "НЕ ТОЛЬКО",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТ",
+        "text": "ПРАКТИКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.55,
-    "end": 19.266,
+    "start": 19.74,
+    "end": 20.79,
+    "lines": [
+      {
+        "text": "ПЕРЕСКАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.79,
+    "end": 22.24,
     "lines": [
       {
         "text": "ССЫЛКА",
