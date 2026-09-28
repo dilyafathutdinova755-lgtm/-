@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.68,
+    "end": 2.5,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.5,
+    "end": 3.45,
+    "lines": [
+      {
+        "text": "МОЖНО ВЕРНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 4.27,
+    "lines": [
+      {
+        "text": "ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.27,
+    "end": 5.31,
+    "lines": [
+      {
+        "text": "И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЕРЯТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 6.48,
+    "lines": [
+      {
+        "text": "НА СОСЕДНЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.01,
+    "end": 9.75,
+    "lines": [
+      {
+        "text": "Я ПУТАЛА ПОХОЖИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "ХОТЯ КАЖДАЯ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.58,
+    "end": 13.02,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЯЛА СЕБЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЛУХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 14.31,
+    "lines": [
+      {
+        "text": "БЕЗ ЕДИНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПИНКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.36,
+    "end": 16.23,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.23,
+    "end": 17.88,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.88,
+    "end": 19.41,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗВОДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.41,
+    "end": 21.42,
+    "lines": [
+      {
+        "text": "ПОХОЖИЕ ПРАВИЛА ПО РАЗНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛОЧКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.29,
+    "end": 23.61,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.61,
+    "end": 24.52,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

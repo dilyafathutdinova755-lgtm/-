@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.71,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "НАЙДЕННОЕ ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОИСК КАРТИНОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫРЕЗКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.78,
+    "lines": [
+      {
+        "text": "ИЗ УЧЕБНИКА ПЯТИЛЕТНЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАВНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.01,
+    "end": 9.21,
+    "lines": [
+      {
+        "text": "Я ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБИРАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.21,
+    "end": 10.38,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКРИНШОТАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.38,
+    "end": 11.91,
+    "lines": [
+      {
+        "text": "ЦЕЛЫЙ МЕСЯЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧИТЕЛЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.91,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕЖНЮЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 14.43,
+    "lines": [
+      {
+        "text": "ДАВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗМЕНЕННУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.11,
+    "end": 16.93,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.93,
+    "end": 18.09,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 19.95,
+    "lines": [
+      {
+        "text": "С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АКТУАЛЬНЫМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.95,
+    "end": 21.33,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯМИ ТЕКУЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.02,
+    "end": 23.04,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.04,
+    "end": 24.023,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

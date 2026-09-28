@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.77,
+    "end": 2.56,
+    "lines": [
+      {
+        "text": "ЛЕГКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПУТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.56,
+    "end": 3.51,
+    "lines": [
+      {
+        "text": "ПОХОЖИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.51,
+    "end": 5.31,
+    "lines": [
+      {
+        "text": "И ПРИМЕНИТЬ НЕ ТУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "Я ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНАЖДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 9.18,
+    "lines": [
+      {
+        "text": "РЕШИЛА НЕ ТОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.18,
+    "end": 9.99,
+    "lines": [
+      {
+        "text": "ХОТЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.99,
+    "end": 11.19,
+    "lines": [
+      {
+        "text": "ПИСАЛА ОБЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.19,
+    "end": 12.42,
+    "lines": [
+      {
+        "text": "ПО ПАМЯТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ОШИБОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 14.25,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 16.02,
+    "lines": [
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.02,
+    "end": 17.16,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.16,
+    "end": 18.09,
+    "lines": [
+      {
+        "text": "КАКУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 19.56,
+    "lines": [
+      {
+        "text": "И ПОЧЕМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИМЕНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.13,
+    "end": 21.16,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.16,
+    "end": 21.96,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
