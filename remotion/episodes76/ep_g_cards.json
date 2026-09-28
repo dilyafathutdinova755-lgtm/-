@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.83,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "ДОЧЬ МОЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.67,
+    "end": 3.84,
+    "lines": [
+      {
+        "text": "НА ЗУБОК И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПУТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.84,
+    "end": 4.74,
+    "lines": [
+      {
+        "text": "ИХ ПРЯМО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 6.27,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.27,
+    "end": 7.14,
+    "lines": [
+      {
+        "text": "Я КАК ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУШАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.14,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "ПЕРЕЧИСЛЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗОШИБОЧНО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 9.48,
+    "lines": [
+      {
+        "text": "ПО ПОРЯДКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.48,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "А НА ПОРЯДОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.56,
+    "end": 12.03,
+    "lines": [
+      {
+        "text": "СБИЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВДРУГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.03,
+    "end": 12.84,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.84,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "ПО ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.82,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.82,
+    "end": 15.84,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.84,
+    "end": 16.66,
+    "lines": [
+      {
+        "text": "ИМЕННО ДАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.66,
+    "end": 18.69,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.69,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

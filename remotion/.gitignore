@@ -400,4 +400,10 @@ sources_coffee123_28/
 asr_coffee123_28/
 sources_coffee123_29/
 asr_coffee123_29/
-episodes76/
+episodes76/*.mp4
+episodes76/*.wav
+episodes76/*.log
+episodes76/render/
+episodes76/frames/
+episodes76/idframes/
+episodes76_out/

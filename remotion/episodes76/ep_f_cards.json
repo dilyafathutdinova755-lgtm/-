@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.56,
+    "end": 2.37,
+    "lines": [
+      {
+        "text": "В ЗАДАНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.37,
+    "end": 3.42,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСПОЛЬЗУЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.42,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "БЕЗ ПРИНЦИПА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНИМАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.56,
+    "end": 5.76,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ЗА НЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.76,
+    "end": 6.81,
+    "lines": [
+      {
+        "text": "Я ГОТОВОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛЬЗОВАЛСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.81,
+    "end": 7.92,
+    "lines": [
+      {
+        "text": "МЕСЯЦАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПРОБОВАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 9.99,
+    "lines": [
+      {
+        "text": "ЕЕ ЗНАЧЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫВЕСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.99,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМОСТОЯТЕЛЬНО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕРНОВИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.94,
+    "end": 12.99,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.99,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.97,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "А НЕ ДАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИНЦИП",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "ГОТОВУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.92,
+    "end": 18.84,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

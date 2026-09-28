@@ -1,0 +1,285 @@
+[
+  {
+    "start": 2.13,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ЕГЭ ЗНАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 3.9,
+    "lines": [
+      {
+        "text": "В ОБЩИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕРТАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.9,
+    "end": 4.86,
+    "lines": [
+      {
+        "text": "И ПЕРЕД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЕРЯТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.86,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ТОЧНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОПРОСОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.67,
+    "end": 6.93,
+    "lines": [
+      {
+        "text": "Я ОБЪЯСНЯЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕСТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.04,
+    "lines": [
+      {
+        "text": "В ОБЩИХ ЧЕРТАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.04,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "А НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УВЕРЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 9.78,
+    "lines": [
+      {
+        "text": "ТОЧНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.78,
+    "end": 10.83,
+    "lines": [
+      {
+        "text": "ВОПРОС ТЕСТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАСТАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.83,
+    "end": 11.79,
+    "lines": [
+      {
+        "text": "МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРАСПЛОХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.79,
+    "end": 12.66,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.66,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.53,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 15.81,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.81,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.62,
+    "end": 17.58,
+    "lines": [
+      {
+        "text": "ОБЩЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНИМАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.58,
+    "end": 18.63,
+    "lines": [
+      {
+        "text": "ПОНЯТИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.63,
+    "end": 20.098,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

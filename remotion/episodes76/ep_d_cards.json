@@ -1,0 +1,253 @@
+[
+  {
+    "start": 1.68,
+    "end": 2.49,
+    "lines": [
+      {
+        "text": "ИЗ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧУЖОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.49,
+    "end": 3.42,
+    "lines": [
+      {
+        "text": "В МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОЦСЕТЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.42,
+    "end": 4.32,
+    "lines": [
+      {
+        "text": "СЕБЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕПОСТНУТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 5.16,
+    "lines": [
+      {
+        "text": "И НЕ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.16,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "ОНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСТАРЕЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.12,
+    "end": 7.02,
+    "lines": [
+      {
+        "text": "Я ТАКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОХРАНЯЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.02,
+    "end": 8.13,
+    "lines": [
+      {
+        "text": "ПОСТЫ ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВГУСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 9.42,
+    "lines": [
+      {
+        "text": "ПОКА СРЕДИ НИХ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСТРЕТИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.42,
+    "end": 10.41,
+    "lines": [
+      {
+        "text": "ИЗ ДАВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.41,
+    "end": 11.61,
+    "lines": [
+      {
+        "text": "ГОДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОШЕДШЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.61,
+    "end": 12.57,
+    "lines": [
+      {
+        "text": "В ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.57,
+    "end": 13.59,
+    "lines": [
+      {
+        "text": "ФИПИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.59,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "С ТЕКУЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 16.05,
+    "lines": [
+      {
+        "text": "ГОДА БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "РЕПОСТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.01,
+    "end": 18.48,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.97,
+    "lines": [
+      {
+        "text": "ЕГЭ ПРОИСХОДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.97,
+    "end": 4.17,
+    "lines": [
+      {
+        "text": "ЧЕМ ПОЛУЧАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.17,
+    "end": 5.01,
+    "lines": [
+      {
+        "text": "ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.01,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "Я ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.82,
+    "end": 6.99,
+    "lines": [
+      {
+        "text": "СЧИТАЛ В УМЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.99,
+    "end": 8.07,
+    "lines": [
+      {
+        "text": "А ХОД МЫСЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.07,
+    "end": 9.33,
+    "lines": [
+      {
+        "text": "ПОЛУЧАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОКЛАССНИКАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.33,
+    "end": 10.32,
+    "lines": [
+      {
+        "text": "С БОЛЬШИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРУДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.32,
+    "end": 11.22,
+    "lines": [
+      {
+        "text": "В К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.22,
+    "end": 12.39,
+    "lines": [
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.39,
+    "end": 13.68,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСКЛАДЫВАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.68,
+    "end": 14.55,
+    "lines": [
+      {
+        "text": "В ГОЛОВЕ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.55,
+    "end": 15.42,
+    "lines": [
+      {
+        "text": "ПОНЯТНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 17.218,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "start": 1.71,
+    "end": 3.03,
+    "lines": [
+      {
+        "text": "МОЖНО ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕПЕТИТОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.03,
+    "end": 3.93,
+    "lines": [
+      {
+        "text": "БЕЗ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.93,
+    "end": 4.89,
+    "lines": [
+      {
+        "text": "НЕ В НЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.89,
+    "end": 5.85,
+    "lines": [
+      {
+        "text": "ДАВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСТАРЕВШУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 6.69,
+    "lines": [
+      {
+        "text": "ФОРМУЛИРОВКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.69,
+    "end": 7.89,
+    "lines": [
+      {
+        "text": "Я ТАКОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.89,
+    "end": 8.76,
+    "lines": [
+      {
+        "text": "НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДЕЛЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 9.87,
+    "lines": [
+      {
+        "text": "ПОКА САМ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАВНИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "ЕГО С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОФИЦИАЛЬНОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.8,
+    "end": 12.27,
+    "lines": [
+      {
+        "text": "НА САЙТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИЕЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.23,
+    "lines": [
+      {
+        "text": "В ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.23,
+    "end": 14.28,
+    "lines": [
+      {
+        "text": "ФИПИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.28,
+    "end": 15.27,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.27,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "ОБНОВЛЯЮТСЯ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКУЩИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 17.31,
+    "lines": [
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.31,
+    "end": 18.775,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
