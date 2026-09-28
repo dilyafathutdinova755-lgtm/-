@@ -1,72 +1,29 @@
 [
   {
-    "start": 1.89,
-    "end": 2.7,
+    "start": 1.71,
+    "end": 2.58,
     "lines": [
       {
-        "text": "МОЖНО С",
+        "text": "СВОЮ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕПУТАТЬ",
+        "text": "ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.7,
-    "end": 3.63,
+    "start": 2.58,
+    "end": 3.54,
     "lines": [
       {
-        "text": "ПОХОЖИМ",
+        "text": "В ЗАДАНИИ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "ПРЯМО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 3.63,
-    "end": 4.44,
-    "lines": [
-      {
-        "text": "ВО ИТОГОВОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВРЕМЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.44,
-    "end": 5.4,
-    "lines": [
-      {
-        "text": "ПЕРЕД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОНТРОЛЬНОЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.4,
-    "end": 6.21,
-    "lines": [
       {
         "text": "ЕГЭ",
         "accent": true,
@@ -75,96 +32,112 @@
     ]
   },
   {
-    "start": 6.21,
-    "end": 7.05,
+    "start": 3.54,
+    "end": 4.62,
     "lines": [
       {
-        "text": "Я ТАК",
+        "text": "И НЕ ОБЪЯСНИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕПУТАЛ",
+        "text": "СУМЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.05,
-    "end": 8.37,
+    "start": 4.62,
+    "end": 6.03,
     "lines": [
       {
-        "text": "ДВА НА",
+        "text": "ЧТО БЫЛО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОНТРОЛЬНЫЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 8.37,
-    "end": 9.3,
-    "lines": [
-      {
-        "text": "ХОТЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАКАНУНЕ",
+        "text": "ТАК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 10.11,
+    "start": 6.03,
+    "end": 6.87,
     "lines": [
       {
-        "text": "НА НИХ",
+        "text": "Я ЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕЧАЛ",
+        "text": "ПРОСИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.11,
-    "end": 11.13,
+    "start": 6.87,
+    "end": 7.68,
     "lines": [
       {
-        "text": "БЕЗ ЕДИНОЙ",
+        "text": "ГДЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОМА",
+        "text": "ПРОГОВОРИТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.68,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "ИМЕННО БЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.13,
+    "start": 9.15,
+    "end": 10.29,
+    "lines": [
+      {
+        "text": "И ОБЫЧНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.29,
     "end": 12.12,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "НА СЕРЕДИНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКИ",
+        "text": "ОБРЫВАЛОСЬ",
         "accent": true,
         "size": "big"
       }
@@ -172,10 +145,10 @@
   },
   {
     "start": 12.12,
-    "end": 13.62,
+    "end": 12.99,
     "lines": [
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "В К",
         "accent": false,
         "size": "small"
       },
@@ -187,56 +160,88 @@
     ]
   },
   {
-    "start": 13.62,
-    "end": 14.97,
+    "start": 12.99,
+    "end": 13.8,
     "lines": [
       {
-        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.97,
-    "end": 16.44,
+    "start": 13.8,
+    "end": 14.79,
     "lines": [
       {
-        "text": "КОТОРЫЕ",
+        "text": "РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНИРУЮТ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.44,
-    "end": 17.49,
+    "start": 14.79,
+    "end": 15.72,
     "lines": [
       {
-        "text": "ПОХОЖИХ",
+        "text": "КОТОРЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРМИНОВ",
+        "text": "ОБЪЯСНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.49,
-    "end": 19.266,
+    "start": 15.72,
+    "end": 16.8,
+    "lines": [
+      {
+        "text": "САМУ СУТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "А НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСПРАВЛЕНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 20.098,
     "lines": [
       {
         "text": "ССЫЛКА",
