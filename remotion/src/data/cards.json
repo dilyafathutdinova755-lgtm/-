@@ -1,138 +1,181 @@
 [
   {
-    "start": 1.56,
-    "end": 3.03,
+    "start": 1.89,
+    "end": 2.7,
     "lines": [
       {
-        "text": "МЕТОДИЧКЕ ПЯТИЛЕТНЕЙ",
+        "text": "МОЖНО С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАВНОСТИ",
+        "text": "ПЕРЕПУТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.03,
-    "end": 3.84,
+    "start": 2.7,
+    "end": 3.63,
     "lines": [
       {
-        "text": "МОЖНО И",
+        "text": "ПОХОЖИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОЛГО",
+        "text": "ПРЯМО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.84,
-    "end": 5.43,
+    "start": 3.63,
+    "end": 4.44,
     "lines": [
       {
-        "text": "НЕ ТУДА",
+        "text": "ВО ИТОГОВОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВЕРШЕННО",
+        "text": "ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.43,
-    "end": 6.3,
+    "start": 4.44,
+    "end": 5.4,
     "lines": [
       {
-        "text": "Я У ДОЧЕРИ",
+        "text": "ПЕРЕД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАШЛА",
+        "text": "КОНТРОЛЬНОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.4,
+    "end": 6.21,
+    "lines": [
+      {
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.3,
-    "end": 7.62,
+    "start": 6.21,
+    "end": 7.05,
     "lines": [
       {
-        "text": "ИМЕННО ТАКУЮ",
+        "text": "Я ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕТОДИЧКУ",
+        "text": "ПЕРЕПУТАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.62,
-    "end": 8.85,
+    "start": 7.05,
+    "end": 8.37,
     "lines": [
       {
-        "text": "И ТОЛЬКО ТОГДА",
+        "text": "ДВА НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯЛА",
+        "text": "КОНТРОЛЬНЫЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.37,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ХОТЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАКАНУНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.85,
-    "end": 9.72,
+    "start": 9.3,
+    "end": 10.11,
     "lines": [
       {
-        "text": "ОТКУДА",
+        "text": "НА НИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРАННЫЕ",
+        "text": "ОТВЕЧАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.72,
-    "end": 11.25,
+    "start": 10.11,
+    "end": 11.13,
     "lines": [
       {
-        "text": "РЕЗУЛЬТАТЫ НА",
+        "text": "БЕЗ ЕДИНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКАХ",
+        "text": "ДОМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.25,
+    "start": 11.13,
     "end": 12.12,
     "lines": [
       {
-        "text": "В",
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.12,
+    "end": 13.62,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
@@ -144,56 +187,56 @@
     ]
   },
   {
-    "start": 12.12,
-    "end": 13.2,
+    "start": 13.62,
+    "end": 14.97,
     "lines": [
       {
-        "text": "СОБРАН",
+        "text": "ЕСТЬ НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.2,
-    "end": 14.46,
+    "start": 14.97,
+    "end": 16.44,
     "lines": [
       {
-        "text": "ПО ТРЕБОВАНИЯ",
+        "text": "КОТОРЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБНОВЛЕННЫЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.46,
-    "end": 15.66,
-    "lines": [
-      {
-        "text": "ТЕКУЩЕГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ГОДА",
+        "text": "ТРЕНИРУЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.66,
-    "end": 17.52,
+    "start": 16.44,
+    "end": 17.49,
+    "lines": [
+      {
+        "text": "ПОХОЖИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИНОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.49,
+    "end": 19.266,
     "lines": [
       {
         "text": "ССЫЛКА",
