@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ЕГЭ ДОЧЬ МОЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 3.93,
+    "lines": [
+      {
+        "text": "ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНСПЕКТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.93,
+    "end": 4.74,
+    "lines": [
+      {
+        "text": "И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЕРЯТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 6.54,
+    "lines": [
+      {
+        "text": "УВИДЕВ ЕГО В ДРУГОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛИРОВКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "Я СЛУШАЛА КАК ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УВЕРЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.15,
+    "end": 10.59,
+    "lines": [
+      {
+        "text": "ЧИТАЕТ ТЕРМИН ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНСПЕКТАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.07,
+    "end": 12.24,
+    "lines": [
+      {
+        "text": "А НА ПРОБНИКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛИРОВКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.24,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "ВЫГЛЯДЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВСЕМ ИНАЧЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.67,
+    "end": 15.46,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.46,
+    "end": 16.56,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.56,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.64,
+    "end": 19.38,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЗНАВАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.38,
+    "end": 21.21,
+    "lines": [
+      {
+        "text": "РАЗНЫХ ФОРМУЛИРОВОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОГО ТЕРМИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.63,
+    "end": 22.69,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.69,
+    "end": 23.49,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

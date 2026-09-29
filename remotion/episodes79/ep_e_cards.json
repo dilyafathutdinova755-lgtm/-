@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.5,
+    "end": 2.3,
+    "lines": [
+      {
+        "text": "ЕГЭ ПОЛУЧЕННОЕ ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДРУГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.3,
+    "end": 3.24,
+    "lines": [
+      {
+        "text": "В ЛИЧНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СООБЩЕНИЯХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.24,
+    "end": 4.47,
+    "lines": [
+      {
+        "text": "НЕ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.47,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "С ОФИЦИАЛЬНЫМ ФОРМАТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.78,
+    "end": 8.13,
+    "lines": [
+      {
+        "text": "Я РЕШАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИСЛАННЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 8.94,
+    "lines": [
+      {
+        "text": "ПОДРУГОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.02,
+    "lines": [
+      {
+        "text": "НЕДЕЛЮ ПОКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.02,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "СРЕДИ НИХ ДАВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗМЕНЕННУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 13.99,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.99,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "С ЗАДАНИЯМИ КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБНОВЛЯЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.83,
+    "end": 17.82,
+    "lines": [
+      {
+        "text": "ПОД ТЕКУЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.48,
+    "end": 19.62,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.62,
+    "end": 20.546,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.5,
+    "end": 3.03,
+    "lines": [
+      {
+        "text": "ДОЧЬ МОЖЕТ НАЗВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.03,
+    "end": 3.99,
+    "lines": [
+      {
+        "text": "И ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.99,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "НЕ ВСПОМНИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.36,
+    "end": 7.26,
+    "lines": [
+      {
+        "text": "Я СПЕЦИАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.26,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "ЕЕ ПОВТОРИТЬ РЕШЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕРЕЗ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.83,
+    "lines": [
+      {
+        "text": "И ЛОГИКА ОБЫЧНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.83,
+    "end": 11.82,
+    "lines": [
+      {
+        "text": "ГДЕ ТО НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕРЕДИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 13.44,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "КАЖДОМУ ЗАДАНИЮ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.36,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ СОХРАНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОГИКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.83,
+    "end": 17.79,
+    "lines": [
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАДОЛГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.27,
+    "end": 19.35,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.35,
+    "end": 20.162,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

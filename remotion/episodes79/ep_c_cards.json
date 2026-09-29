@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.8,
+    "end": 2.94,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБРАННЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.94,
+    "end": 4.02,
+    "lines": [
+      {
+        "text": "ДОЧЕРЬЮ ИЗ РАЗНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОЧНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.02,
+    "end": 6.42,
+    "lines": [
+      {
+        "text": "РЕДКО ПРОВЕРЯЮТСЯ НА АКТУАЛЬНОСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВМЕСТЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.05,
+    "end": 7.84,
+    "lines": [
+      {
+        "text": "Я РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.84,
+    "end": 8.79,
+    "lines": [
+      {
+        "text": "СВЕРИТЬ ЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДБОРКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.79,
+    "end": 10.29,
+    "lines": [
+      {
+        "text": "С ОФИЦИАЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИЕЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.29,
+    "end": 12.39,
+    "lines": [
+      {
+        "text": "И НАШЛА ТАМ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОШЛЫХ ЛЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.23,
+    "end": 14.03,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.03,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "СОБРАН БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.15,
+    "end": 16.77,
+    "lines": [
+      {
+        "text": "ОБНОВЛЕННЫЙ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКУЩИЙ ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.77,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "В ОДНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.36,
+    "end": 19.47,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.47,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

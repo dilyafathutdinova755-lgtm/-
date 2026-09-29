@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.59,
+    "end": 2.88,
+    "lines": [
+      {
+        "text": "ЕГЭ ПО МАТЕМАТИКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.88,
+    "end": 3.99,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РИСУНОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.99,
+    "end": 5.16,
+    "lines": [
+      {
+        "text": "И НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СУМЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.16,
+    "end": 6.81,
+    "lines": [
+      {
+        "text": "ОПИСАТЬ ЭТОТ РИСУНОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.74,
+    "end": 8.82,
+    "lines": [
+      {
+        "text": "Я ПРЕДСТАВЛЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕРТЕЖ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.82,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "В ГОЛОВЕ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "БЫСТРО А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.34,
+    "end": 13.17,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОКЛАССНИКАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.17,
+    "end": 14.0,
+    "lines": [
+      {
+        "text": "С БОЛЬШИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРУДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.85,
+    "end": 15.65,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.65,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.52,
+    "end": 18.63,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕВОДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.63,
+    "end": 19.68,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ИЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОЛОВЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.68,
+    "end": 20.73,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТНЫЕ СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.51,
+    "end": 22.46,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.46,
+    "end": 23.255,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
