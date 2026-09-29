@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.5,
+    "end": 2.4,
+    "lines": [
+      {
+        "text": "ЕГЭ СКАЧАННОЕ ВМЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ФИЛЬМОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.4,
+    "end": 3.27,
+    "lines": [
+      {
+        "text": "СО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.27,
+    "end": 4.62,
+    "lines": [
+      {
+        "text": "ТОЧНО НЕ САМЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАДЕЖНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.62,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ИСТОЧНИК ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГОТОВКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.42,
+    "end": 7.68,
+    "lines": [
+      {
+        "text": "Я ТАК СЛУЧАЙНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАШЕЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.68,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "АРХИВ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 9.84,
+    "lines": [
+      {
+        "text": "И РЕШАЛ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСЯЦ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 11.52,
+    "lines": [
+      {
+        "text": "ПОКА НЕ ЗАМЕТИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАРЫЙ ФОРМАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.79,
+    "end": 12.58,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.58,
+    "end": 13.62,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.62,
+    "end": 14.85,
+    "lines": [
+      {
+        "text": "С ЗАДАНИЯМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБНОВЛЕННЫМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.85,
+    "end": 15.69,
+    "lines": [
+      {
+        "text": "ПОД ТЕКУЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 17.22,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.49,
+    "end": 18.47,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.47,
+    "end": 19.266,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.59,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.67,
+    "end": 3.87,
+    "lines": [
+      {
+        "text": "МОЖНО В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНТЕКСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.87,
+    "end": 4.68,
+    "lines": [
+      {
+        "text": "ПАРАГРАФА И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЕРЯТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.68,
+    "end": 6.39,
+    "lines": [
+      {
+        "text": "ВСТРЕТИВ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 8.73,
+    "lines": [
+      {
+        "text": "Я УВЕРЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАХОДИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 9.69,
+    "lines": [
+      {
+        "text": "ТЕРМИН В ТЕКСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧЕБНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 11.52,
+    "lines": [
+      {
+        "text": "А В ТЕСТЕ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНТЕКСТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.52,
+    "end": 12.96,
+    "lines": [
+      {
+        "text": "РАСТЕРЯЛАСЬ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУСТОМ МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.19,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.26,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.7,
+    "end": 19.08,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.08,
+    "end": 20.52,
+    "lines": [
+      {
+        "text": "ИМЕННО БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНТЕКСТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.12,
+    "end": 22.17,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.17,
+    "end": 23.042,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

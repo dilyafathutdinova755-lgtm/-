@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.74,
+    "end": 2.58,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯМИ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОСТАВШАЯСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 2.58,
+    "end": 3.57,
+    "lines": [
+      {
+        "text": "ОТ ПРЕДЫДУЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КЛАССА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.57,
+    "end": 5.55,
+    "lines": [
+      {
+        "text": "МОЖЕТ БЫТЬ НА ПАРУ ЛЕТ СТАРШЕ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.76,
+    "end": 6.81,
+    "lines": [
+      {
+        "text": "Я РЕШАЛ ТАКУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕТОДИЧКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.81,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕНТЯБРЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "ПОКА НЕ СРАВНИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "СО СВЕЖЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРСИЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 11.32,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.32,
+    "end": 12.24,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.24,
+    "end": 14.28,
+    "lines": [
+      {
+        "text": "С ЗАДАНИЯМИ ОБНОВЛЕННЫМИ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКУЩИЙ ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 15.46,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.46,
+    "end": 16.258,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.65,
+    "end": 2.58,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЩЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.58,
+    "end": 4.11,
+    "lines": [
+      {
+        "text": "ЧЕМ ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОКАЗАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.11,
+    "end": 4.9,
+    "lines": [
+      {
+        "text": "СЛОВАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧИТЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.57,
+    "lines": [
+      {
+        "text": "Я УГАДЫВАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНОМЕРНОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.57,
+    "end": 7.36,
+    "lines": [
+      {
+        "text": "В ЧИСЛАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.36,
+    "end": 8.46,
+    "lines": [
+      {
+        "text": "А ДОКАЗАТЬ ЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧИТЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.46,
+    "end": 10.41,
+    "lines": [
+      {
+        "text": "СЛОВАМИ ПОЛУЧАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХУЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.1,
+    "end": 11.89,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.89,
+    "end": 13.44,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.4,
+    "end": 16.47,
+    "lines": [
+      {
+        "text": "ЗАКОНОМЕРНОСТЬ А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УГАДЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.74,
+    "end": 17.79,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.79,
+    "end": 18.69,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

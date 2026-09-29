@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.53,
+    "end": 2.35,
+    "lines": [
+      {
+        "text": "ЗНАКОМАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.35,
+    "end": 3.51,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ МОЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПУТАТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.51,
+    "end": 5.43,
+    "lines": [
+      {
+        "text": "С ОЧЕНЬ ПОХОЖЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОСЕДНЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.79,
+    "end": 6.93,
+    "lines": [
+      {
+        "text": "Я УВЕРЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗЫВАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.19,
+    "lines": [
+      {
+        "text": "ДАТУ НА УРОКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.19,
+    "end": 9.39,
+    "lines": [
+      {
+        "text": "ПЕРЕПУТАЛ ЕЕ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.39,
+    "end": 10.98,
+    "lines": [
+      {
+        "text": "БУКВАЛЬНО ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.22,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.22,
+    "end": 13.29,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.29,
+    "end": 14.88,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.88,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "ИМЕННО ПОХОЖИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 17.77,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.77,
+    "end": 18.562,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

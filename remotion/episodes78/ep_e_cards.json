@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.5,
+    "end": 2.46,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕМ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.46,
+    "end": 3.69,
+    "lines": [
+      {
+        "text": "ПОДВОДИТ ИЗ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "НЕЗАМЕЧЕННОГО ОТЛИЧИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В УСЛОВИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.18,
+    "end": 7.11,
+    "lines": [
+      {
+        "text": "Я ТАК ОДНАЖДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕНЕС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.37,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИМЕРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.37,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "НА ДРУГОЙ А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТЛИЧИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 11.01,
+    "lines": [
+      {
+        "text": "В УСЛОВИИ ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСПОРТИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.34,
+    "end": 12.14,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.14,
+    "end": 13.59,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.59,
+    "end": 14.82,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОТМЕЧАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАЖНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.82,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "ОТЛИЧИЕ МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 17.81,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.81,
+    "end": 18.604,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
