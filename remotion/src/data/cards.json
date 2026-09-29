@@ -1,151 +1,151 @@
 [
   {
-    "start": 1.59,
-    "end": 2.88,
+    "start": 1.98,
+    "end": 3.24,
     "lines": [
       {
-        "text": "ЕГЭ ПО МАТЕМАТИКЕ",
+        "text": "ЕГЭ МОЖНО ЗНАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШИТЬ",
+        "text": "ПРИМЕРНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.88,
-    "end": 3.99,
+    "start": 3.24,
+    "end": 4.8,
     "lines": [
       {
-        "text": "ЧЕРЕЗ",
+        "text": "И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РИСУНОК",
+        "text": "РАСТЕРЯТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 5.91,
+    "lines": [
+      {
+        "text": "УВИДЕВ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.99,
-    "end": 5.16,
+    "start": 5.91,
+    "end": 7.02,
     "lines": [
       {
-        "text": "И НЕ",
+        "text": "ФОРМУЛИРОВКУ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СУМЕТЬ",
+        "text": "ТЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.16,
-    "end": 6.81,
+    "start": 8.13,
+    "end": 9.21,
     "lines": [
       {
-        "text": "ОПИСАТЬ ЭТОТ РИСУНОК",
+        "text": "Я ОБЪЯСНЯЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛОВАМИ",
+        "text": "ПОНЯТИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.74,
-    "end": 8.82,
+    "start": 9.21,
+    "end": 10.65,
     "lines": [
       {
-        "text": "Я ПРЕДСТАВЛЯЛА",
+        "text": "СВОИМИ СЛОВАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕРТЕЖ",
+        "text": "УВЕРЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.82,
-    "end": 9.9,
+    "start": 11.31,
+    "end": 12.3,
     "lines": [
       {
-        "text": "В ГОЛОВЕ И",
+        "text": "А ТОЧНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЛА",
+        "text": "ФОРМУЛИРОВКА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.77,
+    "lines": [
+      {
+        "text": "В ТЕСТЕ ЗВУЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ МЕНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.9,
-    "end": 11.34,
+    "start": 13.77,
+    "end": 14.88,
     "lines": [
       {
-        "text": "БЫСТРО А",
+        "text": "ПОЧТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИТЬ",
+        "text": "НЕЗНАКОМО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.34,
-    "end": 13.17,
-    "lines": [
-      {
-        "text": "РЕШЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДНОКЛАССНИКАМ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 13.17,
-    "end": 14.0,
-    "lines": [
-      {
-        "text": "С БОЛЬШИМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТРУДОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.85,
-    "end": 15.65,
+    "start": 15.99,
+    "end": 16.78,
     "lines": [
       {
         "text": "В",
@@ -160,72 +160,72 @@
     ]
   },
   {
-    "start": 15.65,
-    "end": 17.52,
+    "start": 16.78,
+    "end": 18.39,
     "lines": [
       {
-        "text": "ЗАДАНИЕМ ЕСТЬ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.52,
-    "end": 18.63,
+    "start": 18.39,
+    "end": 19.83,
     "lines": [
       {
-        "text": "КОТОРЫЙ",
+        "text": "НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕВОДИТ",
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.83,
+    "end": 21.39,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО ТОЧНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.63,
-    "end": 19.68,
+    "start": 21.39,
+    "end": 22.65,
     "lines": [
       {
-        "text": "РЕШЕНИЕ ИЗ",
+        "text": "ФОРМУЛИРОВКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОЛОВЫ",
+        "text": "ПОНЯТИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.68,
-    "end": 20.73,
-    "lines": [
-      {
-        "text": "В",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОНЯТНЫЕ СЛОВА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.51,
-    "end": 22.46,
+    "start": 23.49,
+    "end": 24.93,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -240,8 +240,8 @@
     ]
   },
   {
-    "start": 22.46,
-    "end": 23.255,
+    "start": 24.93,
+    "end": 25.772,
     "lines": [
       {
         "text": "ССЫЛКА",
