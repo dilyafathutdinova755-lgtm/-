@@ -3,13 +3,9 @@ name: Check Avatar Montage (no production)
 on:
   workflow_dispatch:
   push:
-    paths:
-      - "remotion/**"
-      - ".github/workflows/check-avatar-montage.yml"
+    branches: [main]
   pull_request:
-    paths:
-      - "remotion/**"
-      - ".github/workflows/check-avatar-montage.yml"
+    branches: [main]
 
 permissions:
   contents: read
@@ -30,6 +26,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Record checked version (gate-v1)
+        env:
+          CHECKED_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$CHECKED_SHA"
+          mkdir -p out/qa
+          printf '%s\n' "$CHECKED_SHA" > out/qa/checked-sha.txt
+          printf '%s\n' 'avatar-preflight-v1' > out/qa/check-contract.txt
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -57,7 +65,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: avatar-montage-check-${{ github.sha }}
-          path: |
-            remotion/out/qa/
+          path: remotion/out/qa/
           if-no-files-found: warn
           retention-days: 7
