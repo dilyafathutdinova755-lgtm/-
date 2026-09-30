@@ -451,4 +451,5 @@ episodes81/*.log
 episodes81/render/
 episodes81/frames/
 episodes81/idframes/
+episodes81/qa_frames/
 episodes81_out/
