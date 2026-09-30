@@ -6,37 +6,476 @@ on:
 
 permissions:
   contents: write
+  actions: read
   id-token: write
 
 jobs:
   montage:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
+      - name: Resolve and verify montage version
+        id: version
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const args = { owner: context.repo.owner, repo: context.repo.repo };
+            const repository = `${args.owner}/${args.repo}`.toLowerCase();
+            const qaPath = '.github/workflows/check-avatar-montage.yml';
+            const p = context.payload.client_payload || {};
+            const validSha = (v) => typeof v === 'string' && /^[a-f0-9]{40}$/.test(v);
+            const validId = (v) => Number.isSafeInteger(v) && v > 0;
+            const need = (ok, message) => {
+              if (!ok) throw new Error(`PREFLIGHT BLOCKED: ${message}`);
+            };
+            need(context.eventName === 'repository_dispatch' &&
+              context.payload.action === 'montage_video', 'Wrong event');
+            need(typeof p.tag === 'string' &&
+              /^video-[0-9]{8}-[0-9]{6}$/.test(p.tag), 'Invalid release tag');
+            need(validSha(context.sha), 'Invalid dispatch commit');
+
+            const proofKeys = [
+              'checked_sha', 'qa_run_id', 'qa_run_attempt',
+              'qa_workflow_id', 'preflight_contract'
+            ];
+            const hasProof = proofKeys.some((key) => Object.hasOwn(p, key));
+
+            // Temporary compatibility with the existing tag-only n8n request.
+            if (!hasProof) {
+              core.warning('LEGACY MODE: n8n has not supplied preflight approval yet.');
+              core.setOutput('checked_sha', context.sha);
+              core.setOutput('tag', p.tag);
+              core.setOutput('approved', 'false');
+              core.setOutput('version_rules', '');
+              return;
+            }
+
+            // Partial or invalid approval must never fall back to legacy mode.
+            need(p.preflight_contract === 'avatar-preflight-v1', 'Invalid contract');
+            need(validSha(p.checked_sha), 'Invalid checked_sha');
+            need(validId(p.qa_run_id) && validId(p.qa_run_attempt) &&
+              validId(p.qa_workflow_id), 'Invalid QA identifiers');
+
+            const workflow = (await github.rest.actions.getWorkflow({
+              ...args, workflow_id: 'check-avatar-montage.yml'
+            })).data;
+            need(workflow.id === p.qa_workflow_id && workflow.path === qaPath &&
+              workflow.state === 'active', 'Wrong or inactive QA workflow');
+
+            const run = (await github.rest.actions.getWorkflowRun({
+              ...args, run_id: p.qa_run_id
+            })).data;
+            need(run.id === p.qa_run_id && run.workflow_id === workflow.id &&
+              run.head_sha === p.checked_sha && run.run_attempt === p.qa_run_attempt,
+              'QA commit, run or attempt does not match');
+            need(run.head_branch === 'main' &&
+              ['push', 'workflow_dispatch'].includes(run.event), 'Wrong QA branch/event');
+            need(run.repository?.full_name?.toLowerCase() === repository &&
+              run.head_repository?.full_name?.toLowerCase() === repository,
+              'QA belongs to another repository');
+            need(typeof run.path === 'string' && run.path.split('@')[0] === qaPath,
+              'Wrong QA workflow path');
+            need(run.status === 'completed' && run.conclusion === 'success',
+              'QA run is not successful');
+
+            const jobs = await github.paginate(
+              'GET /repos/{owner}/{repo}/actions/runs/{run_id}/attempts/{attempt_number}/jobs',
+              { ...args, run_id: p.qa_run_id, attempt_number: p.qa_run_attempt, per_page: 100 }
+            );
+            const matches = jobs.filter((job) => job.name === 'check');
+            need(matches.length === 1, 'Expected one QA check job');
+            const job = matches[0];
+            need(job.run_id === p.qa_run_id && job.head_sha === p.checked_sha &&
+              job.status === 'completed' && job.conclusion === 'success',
+              'QA job is not successful or belongs to another commit');
+            for (const name of [
+              'Checkout', 'Record checked version (gate-v1)', 'Setup Node',
+              'Install FFmpeg', 'Install dependencies', 'Check project', 'Safe preview render'
+            ]) {
+              const steps = (job.steps || []).filter((step) => step.name === name);
+              need(steps.length === 1 && steps[0].status === 'completed' &&
+                steps[0].conclusion === 'success', `Missing, failed or skipped step: ${name}`);
+            }
+
+            // Dispatch uses the workflow from the default branch. Verify that
+            // this workflow file has not changed since the approved commit.
+            if (context.sha !== p.checked_sha) {
+              const path = '.github/workflows/auto-montage.yml';
+              const [checked, dispatched] = await Promise.all([
+                github.rest.repos.getContent({ ...args, path, ref: p.checked_sha }),
+                github.rest.repos.getContent({ ...args, path, ref: context.sha })
+              ]);
+              need(checked.data.type === 'file' && dispatched.data.type === 'file' &&
+                validSha(checked.data.sha) && checked.data.sha === dispatched.data.sha,
+                'Auto Montage workflow changed after preflight');
+            }
+
+            core.setOutput('checked_sha', p.checked_sha);
+            core.setOutput('tag', p.tag);
+            core.setOutput('approved', 'true');
+            core.setOutput('version_rules', [
+              `Уже выполнен checkout проверенного коммита ${p.checked_sha}.`,
+              'Зависимости Remotion установлены из package-lock.json.',
+              'Не переключай ветку/коммит и не выполняй git pull/reset/checkout.',
+              'Не изменяй программу рендера, зависимости, конфигурацию, QA, workflow и CLAUDE.md.',
+              'Обновляй только данные текущего ролика в remotion/src/data и его медиа в remotion/public.',
+              'Не используй текст, аудио или готовый MP4 прошлого задания.',
+              'Если требуется изменение программы, остановись с ошибкой, не обходи проверки.',
+              'Не делай git push и не загружай результат в Release: это выполнит следующий шаг.'
+            ].join('\n'));
+            core.info(`Approved commit ${p.checked_sha}, QA run ${p.qa_run_id}`);
+
+      - name: Checkout selected commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.version.outputs.checked_sha }}
+          persist-credentials: false
+
+      - name: Confirm checkout
+        env:
+          CHECKED_SHA: ${{ steps.version.outputs.checked_sha }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$CHECKED_SHA"
+
+      - name: Setup Node for approved montage
+        if: steps.version.outputs.approved == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: remotion/package-lock.json
+
+      - name: Prepare approved project
+        if: steps.version.outputs.approved == 'true'
+        working-directory: remotion
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          npm ci
+          bash scripts/qa/check-project.sh
+
+      - name: Remove stale output
+        run: rm -f remotion/public/output.mp4 final.mp4
+
       - name: Run Claude Code montage
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: |
-            Смонтируй видео под тегом ${{ github.event.client_payload.tag }}.
+            Смонтируй видео под тегом ${{ steps.version.outputs.tag }}.
 
             Исходный MP4 находится в GitHub Release с этим тегом.
             Работай по существующим инструкциям проекта и CLAUDE.md.
             Выполни монтаж так же, как при моей обычной ручной команде
             "Смонтируй видео под тегом <тег>".
 
+            ${{ steps.version.outputs.version_rules }}
+
             Готовый смонтированный ролик обязательно сохрани по точному пути:
             remotion/public/output.mp4
-
           claude_args: |
             --allowedTools Read,Write,Edit,Bash
             --max-turns 30
 
+      - name: Verify approved renderer is unchanged
+        if: steps.version.outputs.approved == 'true'
+        env:
+          CHECKED_SHA: ${{ steps.version.outputs.checked_sha }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$CHECKED_SHA"
+          python3 - <<'PY'
+          import os, pathlib, subprocess, sys
+          sha = os.environ["CHECKED_SHA"]
+          root = pathlib.Path.cwd()
+          def protected(name):
+              if name.startswith("remotion/src/"):
+                  return not (name.startswith("remotion/src/data/") and name.endswith(".json"))
+              return (name.startswith(".github/workflows/") or
+                      name.startswith("remotion/scripts/qa/") or name in {
+                          "CLAUDE.md", "remotion/CLAUDE.md", "remotion/package.json",
+                          "remotion/package-lock.json", "remotion/tsconfig.json",
+                          "remotion/remotion.config.ts", "remotion/eslint.config.mjs",
+                          "remotion/eslint.config.js"})
+          paths = subprocess.check_output([
+              "git", "ls-tree", "-r", "--name-only", "-z", sha
+          ]).split(b"\0")
+          expected = {p.decode() for p in paths if p and protected(p.decode())}
+          bad = []
+          for name in sorted(expected):
+              file = root / name
+              original = subprocess.check_output(["git", "show", f"{sha}:{name}"])
+              if not file.is_file() or file.is_symlink() or file.read_bytes() != original:
+                  bad.append(name)
+          for directory in ("remotion/src", "remotion/scripts/qa", ".github/workflows"):
+              for file in (root / directory).rglob("*"):
+                  name = file.relative_to(root).as_posix()
+                  if (file.is_file() or file.is_symlink()) and protected(name) and name not in expected:
+                      bad.append(name)
+          if bad:
+              print("::error::Approved renderer/configuration changed: " + ", ".join(sorted(set(bad))))
+              sys.exit(1)
+          print("Approved renderer/configuration is unchanged.")
+          PY
+
+      - name: Validate approved montage output
+        if: steps.version.outputs.approved == 'true'
+        working-directory: remotion
+        run: |
+          set -euo pipefail
+          node scripts/qa/validate-project.mjs
+          bash scripts/qa/validate-mp4.sh public/output.mp4
+
       - name: Upload final video to Release
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: ${{ github.event.client_payload.tag }}
+          GH_REPO: ${{ github.repository }}
+          TAG: ${{ steps.version.outputs.tag }}
         run: |
-          test -f remotion/public/output.mp4
+          set -euo pipefail
+          test -s remotion/public/output.mp4
+          cp remotion/public/output.mp4 final.mp4
+          gh release upload "$TAG" final.mp4 --clobbername: Auto Montage
+
+on:
+  repository_dispatch:
+    types: [montage_video]
+
+permissions:
+  contents: write
+  actions: read
+  id-token: write
+
+jobs:
+  montage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Resolve and verify montage version
+        id: version
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const args = { owner: context.repo.owner, repo: context.repo.repo };
+            const repository = `${args.owner}/${args.repo}`.toLowerCase();
+            const qaPath = '.github/workflows/check-avatar-montage.yml';
+            const p = context.payload.client_payload || {};
+            const validSha = (v) => typeof v === 'string' && /^[a-f0-9]{40}$/.test(v);
+            const validId = (v) => Number.isSafeInteger(v) && v > 0;
+            const need = (ok, message) => {
+              if (!ok) throw new Error(`PREFLIGHT BLOCKED: ${message}`);
+            };
+            need(context.eventName === 'repository_dispatch' &&
+              context.payload.action === 'montage_video', 'Wrong event');
+            need(typeof p.tag === 'string' &&
+              /^video-[0-9]{8}-[0-9]{6}$/.test(p.tag), 'Invalid release tag');
+            need(validSha(context.sha), 'Invalid dispatch commit');
+
+            const proofKeys = [
+              'checked_sha', 'qa_run_id', 'qa_run_attempt',
+              'qa_workflow_id', 'preflight_contract'
+            ];
+            const hasProof = proofKeys.some((key) => Object.hasOwn(p, key));
+
+            // Temporary compatibility with the existing tag-only n8n request.
+            if (!hasProof) {
+              core.warning('LEGACY MODE: n8n has not supplied preflight approval yet.');
+              core.setOutput('checked_sha', context.sha);
+              core.setOutput('tag', p.tag);
+              core.setOutput('approved', 'false');
+              core.setOutput('version_rules', '');
+              return;
+            }
+
+            // Partial or invalid approval must never fall back to legacy mode.
+            need(p.preflight_contract === 'avatar-preflight-v1', 'Invalid contract');
+            need(validSha(p.checked_sha), 'Invalid checked_sha');
+            need(validId(p.qa_run_id) && validId(p.qa_run_attempt) &&
+              validId(p.qa_workflow_id), 'Invalid QA identifiers');
+
+            const workflow = (await github.rest.actions.getWorkflow({
+              ...args, workflow_id: 'check-avatar-montage.yml'
+            })).data;
+            need(workflow.id === p.qa_workflow_id && workflow.path === qaPath &&
+              workflow.state === 'active', 'Wrong or inactive QA workflow');
+
+            const run = (await github.rest.actions.getWorkflowRun({
+              ...args, run_id: p.qa_run_id
+            })).data;
+            need(run.id === p.qa_run_id && run.workflow_id === workflow.id &&
+              run.head_sha === p.checked_sha && run.run_attempt === p.qa_run_attempt,
+              'QA commit, run or attempt does not match');
+            need(run.head_branch === 'main' &&
+              ['push', 'workflow_dispatch'].includes(run.event), 'Wrong QA branch/event');
+            need(run.repository?.full_name?.toLowerCase() === repository &&
+              run.head_repository?.full_name?.toLowerCase() === repository,
+              'QA belongs to another repository');
+            need(typeof run.path === 'string' && run.path.split('@')[0] === qaPath,
+              'Wrong QA workflow path');
+            need(run.status === 'completed' && run.conclusion === 'success',
+              'QA run is not successful');
+
+            const jobs = await github.paginate(
+              'GET /repos/{owner}/{repo}/actions/runs/{run_id}/attempts/{attempt_number}/jobs',
+              { ...args, run_id: p.qa_run_id, attempt_number: p.qa_run_attempt, per_page: 100 }
+            );
+            const matches = jobs.filter((job) => job.name === 'check');
+            need(matches.length === 1, 'Expected one QA check job');
+            const job = matches[0];
+            need(job.run_id === p.qa_run_id && job.head_sha === p.checked_sha &&
+              job.status === 'completed' && job.conclusion === 'success',
+              'QA job is not successful or belongs to another commit');
+            for (const name of [
+              'Checkout', 'Record checked version (gate-v1)', 'Setup Node',
+              'Install FFmpeg', 'Install dependencies', 'Check project', 'Safe preview render'
+            ]) {
+              const steps = (job.steps || []).filter((step) => step.name === name);
+              need(steps.length === 1 && steps[0].status === 'completed' &&
+                steps[0].conclusion === 'success', `Missing, failed or skipped step: ${name}`);
+            }
+
+            // Dispatch uses the workflow from the default branch. Verify that
+            // this workflow file has not changed since the approved commit.
+            if (context.sha !== p.checked_sha) {
+              const path = '.github/workflows/auto-montage.yml';
+              const [checked, dispatched] = await Promise.all([
+                github.rest.repos.getContent({ ...args, path, ref: p.checked_sha }),
+                github.rest.repos.getContent({ ...args, path, ref: context.sha })
+              ]);
+              need(checked.data.type === 'file' && dispatched.data.type === 'file' &&
+                validSha(checked.data.sha) && checked.data.sha === dispatched.data.sha,
+                'Auto Montage workflow changed after preflight');
+            }
+
+            core.setOutput('checked_sha', p.checked_sha);
+            core.setOutput('tag', p.tag);
+            core.setOutput('approved', 'true');
+            core.setOutput('version_rules', [
+              `Уже выполнен checkout проверенного коммита ${p.checked_sha}.`,
+              'Зависимости Remotion установлены из package-lock.json.',
+              'Не переключай ветку/коммит и не выполняй git pull/reset/checkout.',
+              'Не изменяй программу рендера, зависимости, конфигурацию, QA, workflow и CLAUDE.md.',
+              'Обновляй только данные текущего ролика в remotion/src/data и его медиа в remotion/public.',
+              'Не используй текст, аудио или готовый MP4 прошлого задания.',
+              'Если требуется изменение программы, остановись с ошибкой, не обходи проверки.',
+              'Не делай git push и не загружай результат в Release: это выполнит следующий шаг.'
+            ].join('\n'));
+            core.info(`Approved commit ${p.checked_sha}, QA run ${p.qa_run_id}`);
+
+      - name: Checkout selected commit
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.version.outputs.checked_sha }}
+          persist-credentials: false
+
+      - name: Confirm checkout
+        env:
+          CHECKED_SHA: ${{ steps.version.outputs.checked_sha }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$CHECKED_SHA"
+
+      - name: Setup Node for approved montage
+        if: steps.version.outputs.approved == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: remotion/package-lock.json
+
+      - name: Prepare approved project
+        if: steps.version.outputs.approved == 'true'
+        working-directory: remotion
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          npm ci
+          bash scripts/qa/check-project.sh
+
+      - name: Remove stale output
+        run: rm -f remotion/public/output.mp4 final.mp4
+
+      - name: Run Claude Code montage
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            Смонтируй видео под тегом ${{ steps.version.outputs.tag }}.
+
+            Исходный MP4 находится в GitHub Release с этим тегом.
+            Работай по существующим инструкциям проекта и CLAUDE.md.
+            Выполни монтаж так же, как при моей обычной ручной команде
+            "Смонтируй видео под тегом <тег>".
+
+            ${{ steps.version.outputs.version_rules }}
+
+            Готовый смонтированный ролик обязательно сохрани по точному пути:
+            remotion/public/output.mp4
+          claude_args: |
+            --allowedTools Read,Write,Edit,Bash
+            --max-turns 30
+
+      - name: Verify approved renderer is unchanged
+        if: steps.version.outputs.approved == 'true'
+        env:
+          CHECKED_SHA: ${{ steps.version.outputs.checked_sha }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$CHECKED_SHA"
+          python3 - <<'PY'
+          import os, pathlib, subprocess, sys
+          sha = os.environ["CHECKED_SHA"]
+          root = pathlib.Path.cwd()
+          def protected(name):
+              if name.startswith("remotion/src/"):
+                  return not (name.startswith("remotion/src/data/") and name.endswith(".json"))
+              return (name.startswith(".github/workflows/") or
+                      name.startswith("remotion/scripts/qa/") or name in {
+                          "CLAUDE.md", "remotion/CLAUDE.md", "remotion/package.json",
+                          "remotion/package-lock.json", "remotion/tsconfig.json",
+                          "remotion/remotion.config.ts", "remotion/eslint.config.mjs",
+                          "remotion/eslint.config.js"})
+          paths = subprocess.check_output([
+              "git", "ls-tree", "-r", "--name-only", "-z", sha
+          ]).split(b"\0")
+          expected = {p.decode() for p in paths if p and protected(p.decode())}
+          bad = []
+          for name in sorted(expected):
+              file = root / name
+              original = subprocess.check_output(["git", "show", f"{sha}:{name}"])
+              if not file.is_file() or file.is_symlink() or file.read_bytes() != original:
+                  bad.append(name)
+          for directory in ("remotion/src", "remotion/scripts/qa", ".github/workflows"):
+              for file in (root / directory).rglob("*"):
+                  name = file.relative_to(root).as_posix()
+                  if (file.is_file() or file.is_symlink()) and protected(name) and name not in expected:
+                      bad.append(name)
+          if bad:
+              print("::error::Approved renderer/configuration changed: " + ", ".join(sorted(set(bad))))
+              sys.exit(1)
+          print("Approved renderer/configuration is unchanged.")
+          PY
+
+      - name: Validate approved montage output
+        if: steps.version.outputs.approved == 'true'
+        working-directory: remotion
+        run: |
+          set -euo pipefail
+          node scripts/qa/validate-project.mjs
+          bash scripts/qa/validate-mp4.sh public/output.mp4
+
+      - name: Upload final video to Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          set -euo pipefail
+          test -s remotion/public/output.mp4
           cp remotion/public/output.mp4 final.mp4
           gh release upload "$TAG" final.mp4 --clobber
