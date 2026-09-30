@@ -90,7 +90,7 @@ export const IntroTitle: React.FC = () => {
   const durationInFrames = Math.max(1, Math.round(introData.end * fps));
 
   return (
-    <Sequence name="intro-hook" from={0} durationInFrames={durationInFrames} layout="none">
+    <Sequence name="intro-hook" durationInFrames={durationInFrames} layout="none">
       <IntroCard lines={introData.lines} durationInFrames={durationInFrames} />
     </Sequence>
   );
