@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.74,
+    "end": 2.54,
+    "lines": [
+      {
+        "text": "ЕГЭ В НАЧАЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.54,
+    "end": 4.2,
+    "lines": [
+      {
+        "text": "ИНОГДА СОЗДАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОЖНЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.2,
+    "end": 5.25,
+    "lines": [
+      {
+        "text": "ЧУВСТВА ЧТО ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.25,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ОКАЖЕТСЯ ТАКИМ ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.29,
+    "end": 8.91,
+    "lines": [
+      {
+        "text": "Я РАССЛАБЛЯЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.91,
+    "end": 9.71,
+    "lines": [
+      {
+        "text": "ПЕРВЫХ ЛЕГКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.71,
+    "end": 10.89,
+    "lines": [
+      {
+        "text": "И ТЕРЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦЕНТРАЦИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.89,
+    "end": 12.27,
+    "lines": [
+      {
+        "text": "ИМЕННО НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.1,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯХ В КОНЦЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.86,
+    "end": 14.66,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.66,
+    "end": 15.75,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.75,
+    "end": 17.49,
+    "lines": [
+      {
+        "text": "С ЗАДАНИЯМИ РАЗНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.49,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ДЕРЖАТ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОНУСЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.05,
+    "end": 20.13,
+    "lines": [
+      {
+        "text": "ОТ НАЧАЛА ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.79,
+    "end": 21.87,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.87,
+    "end": 22.764,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

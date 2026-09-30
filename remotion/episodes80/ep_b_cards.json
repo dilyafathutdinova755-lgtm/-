@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.65,
+    "end": 2.76,
+    "lines": [
+      {
+        "text": "РЕШЕНИЯ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.76,
+    "end": 3.69,
+    "lines": [
+      {
+        "text": "МОЖЕТ БЫТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "А ПЕРЕХОД МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОСЕДНИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.82,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "ШАГАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕПОНЯТНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.32,
+    "end": 8.43,
+    "lines": [
+      {
+        "text": "Я РЕШАЛ ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСЯЦ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.43,
+    "end": 9.72,
+    "lines": [
+      {
+        "text": "А ОБЪЯСНИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОКЛАССНИКАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "ИМЕННО ЭТОТ ПЕРЕХОД МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАГАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.58,
+    "end": 12.66,
+    "lines": [
+      {
+        "text": "НЕ МОГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 13.81,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.81,
+    "end": 15.3,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.47,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕХОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.47,
+    "end": 17.88,
+    "lines": [
+      {
+        "text": "МЕЖДУ КАЖДОЙ ПАРОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАГОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.36,
+    "end": 19.38,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.38,
+    "end": 20.226,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

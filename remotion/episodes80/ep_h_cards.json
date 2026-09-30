@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.71,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "ДЛЯ ПРАВИЛА ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 4.71,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫУЧИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 6.42,
+    "lines": [
+      {
+        "text": "И ЗАБЫТЬ ЧТО ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЗНАЧАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.32,
+    "end": 8.43,
+    "lines": [
+      {
+        "text": "Я ПОМНИЛА САМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.43,
+    "end": 9.48,
+    "lines": [
+      {
+        "text": "ПОДСКАЗКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАИЗУСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.11,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "А ОБЪЯСНИТЬ КАКОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.83,
+    "lines": [
+      {
+        "text": "ОНА ОБОЗНАЧАЕТ УЖЕ НЕ МОГЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.73,
+    "end": 15.55,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.55,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 17.43,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.43,
+    "end": 18.63,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.63,
+    "end": 19.68,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЯЗЫВАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.68,
+    "end": 20.67,
+    "lines": [
+      {
+        "text": "ПОДСКАЗКУ С САМИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.27,
+    "end": 22.38,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.38,
+    "end": 23.34,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

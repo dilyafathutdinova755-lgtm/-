@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.68,
+    "end": 3.27,
+    "lines": [
+      {
+        "text": "В ФОРМАТЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕХЛЕТНЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.27,
+    "end": 4.32,
+    "lines": [
+      {
+        "text": "НЕ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 5.64,
+    "lines": [
+      {
+        "text": "С ТЕМ ЧТО БУДЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЭТОМ ГОДУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.2,
+    "lines": [
+      {
+        "text": "Я ГОТОВИЛСЯ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВЕТАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.2,
+    "end": 8.04,
+    "lines": [
+      {
+        "text": "ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.04,
+    "end": 9.36,
+    "lines": [
+      {
+        "text": "ПОКА НЕ СРАВНИЛ ИХ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОФИЦИАЛЬНОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 10.62,
+    "lines": [
+      {
+        "text": "ДЕМОВЕРСИЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОГО ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.92,
+    "end": 11.71,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.71,
+    "end": 12.69,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.69,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "ОТРАЖАЮЩИЙ ФОРМАТ ИМЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКУЩЕГО ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 15.84,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОШЛЫХ ЛЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.08,
+    "end": 17.0,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.0,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

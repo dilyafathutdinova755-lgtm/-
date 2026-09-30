@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.92,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "ПОХОЖИХ НА ВИД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.15,
+    "end": 4.08,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.08,
+    "end": 5.85,
+    "lines": [
+      {
+        "text": "СОВЕРШЕННО РАЗНЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОСОБАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.81,
+    "end": 7.92,
+    "lines": [
+      {
+        "text": "Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПУТАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ЭТИ ДВА ТИПА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.38,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.38,
+    "end": 12.12,
+    "lines": [
+      {
+        "text": "РЕШАЛА НЕ ТЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОСОБОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.84,
+    "end": 13.63,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.63,
+    "end": 15.48,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.48,
+    "end": 16.44,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕТКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.44,
+    "end": 18.18,
+    "lines": [
+      {
+        "text": "РАЗДЕЛЯЕТ ПОХОЖИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТИПЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.18,
+    "end": 19.03,
+    "lines": [
+      {
+        "text": "ЗАДАНИЙ МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.59,
+    "end": 20.56,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.56,
+    "end": 21.36,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

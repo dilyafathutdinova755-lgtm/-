@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.77,
+    "end": 2.58,
+    "lines": [
+      {
+        "text": "ЕГЭ В СТАРОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБОРНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.58,
+    "end": 3.63,
+    "lines": [
+      {
+        "text": "МОЖЕТ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.63,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "С ТЕМ ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 6.0,
+    "lines": [
+      {
+        "text": "В АКТУАЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.84,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "Я РЕШАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 8.73,
+    "lines": [
+      {
+        "text": "ПО СТАРОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУМЕРАЦИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 9.53,
+    "lines": [
+      {
+        "text": "ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСЯЦ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.53,
+    "end": 10.62,
+    "lines": [
+      {
+        "text": "ПОКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.62,
+    "end": 12.24,
+    "lines": [
+      {
+        "text": "С ОФИЦИАЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИЕЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.24,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "ЭТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 14.67,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.67,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 17.22,
+    "lines": [
+      {
+        "text": "С ЗАДАНИЯМИ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 18.9,
+    "lines": [
+      {
+        "text": "АКТУАЛЬНОЙ НА ЭТОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.9,
+    "end": 19.69,
+    "lines": [
+      {
+        "text": "С ВЕРНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУМЕРАЦИЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 21.36,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.36,
+    "end": 22.167,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

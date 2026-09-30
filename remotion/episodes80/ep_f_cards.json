@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.68,
+    "end": 2.5,
+    "lines": [
+      {
+        "text": "РЕШЕНИЯ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.5,
+    "end": 3.99,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОРАЧИВАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.99,
+    "end": 5.94,
+    "lines": [
+      {
+        "text": "ИМЕННО НА САМОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕДНЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.69,
+    "end": 8.43,
+    "lines": [
+      {
+        "text": "Я ТАК ТЕРЯЛА БАЛЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПОСЛЕДНЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.43,
+    "end": 9.45,
+    "lines": [
+      {
+        "text": "ШАГЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "ХОТЯ ВСЕ ДО ЭТОГО ДЕЛАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 13.71,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.71,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.36,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОРАБАТЫВАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.54,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ДО САМОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕДНЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.26,
+    "end": 20.34,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.34,
+    "end": 21.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
