@@ -57,7 +57,7 @@ npx remotion render \
   src/index.ts \
   EgeOlimpiada \
   "$PREVIEW_FILE" \
-  --frames=0-89
+  --frames=0-74
 
 echo "Validating rendered MP4..."
 
