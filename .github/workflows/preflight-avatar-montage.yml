@@ -1,0 +1,97 @@
+name: Preflight Avatar Montage
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+
+      - name: Resolve current main SHA
+        id: version
+        run: |
+          set -euo pipefail
+          SHA="$(git rev-parse HEAD)"
+          echo "sha=$SHA" >> "$GITHUB_OUTPUT"
+          echo "Checking main commit: $SHA"
+
+      - name: Require successful montage QA for this SHA
+        uses: actions/github-script@v7
+        env:
+          CHECKED_SHA: ${{ steps.version.outputs.sha }}
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const headSha = process.env.CHECKED_SHA;
+
+            const response = await github.rest.actions.listWorkflowRuns({
+              owner,
+              repo,
+              workflow_id: 'check-avatar-montage.yml',
+              head_sha: headSha,
+              status: 'completed',
+              per_page: 20,
+            });
+
+            const successful = response.data.workflow_runs.find((run) =>
+              run.head_sha === headSha &&
+              run.event === 'push' &&
+              run.conclusion === 'success'
+            );
+
+            if (!successful) {
+              core.setFailed(
+                `BLOCKED: commit ${headSha} has no successful ` +
+                `Check Avatar Montage push run.`
+              );
+              return;
+            }
+
+            const jobs = await github.rest.actions.listJobsForWorkflowRunAttempt({
+              owner,
+              repo,
+              run_id: successful.id,
+              attempt_number: successful.run_attempt,
+              per_page: 100,
+            });
+
+            const checkJob = jobs.data.jobs.find((job) => job.name === 'check');
+
+            if (!checkJob || checkJob.conclusion !== 'success') {
+              core.setFailed('BLOCKED: QA check job did not finish successfully.');
+              return;
+            }
+
+            const requiredSteps = [
+              'Record checked version (gate-v1)',
+              'Install dependencies',
+              'Check project',
+              'Safe preview render',
+            ];
+
+            for (const required of requiredSteps) {
+              const step = checkJob.steps?.find((item) => item.name === required);
+
+              if (!step || step.status !== 'completed' || step.conclusion !== 'success') {
+                core.setFailed(
+                  `BLOCKED: required QA step "${required}" was not successful.`
+                );
+                return;
+              }
+            }
+
+            core.info(`PREFLIGHT PASSED for ${headSha}`);
+            core.info(`QA run: ${successful.html_url}`);
