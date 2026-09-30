@@ -1,151 +1,167 @@
 [
   {
-    "start": 1.98,
-    "end": 3.24,
+    "start": 1.77,
+    "end": 2.58,
     "lines": [
       {
-        "text": "ЕГЭ МОЖНО ЗНАТЬ",
+        "text": "ЕГЭ В СТАРОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИМЕРНО",
+        "text": "СБОРНИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.24,
-    "end": 4.8,
+    "start": 2.58,
+    "end": 3.63,
     "lines": [
       {
-        "text": "И",
+        "text": "МОЖЕТ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСТЕРЯТЬСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.8,
-    "end": 5.91,
-    "lines": [
-      {
-        "text": "УВИДЕВ ЕГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТОЧНУЮ",
+        "text": "СОВПАДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.91,
-    "end": 7.02,
+    "start": 3.63,
+    "end": 4.5,
     "lines": [
       {
-        "text": "ФОРМУЛИРОВКУ В",
+        "text": "С ТЕМ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕСТЕ",
+        "text": "ЗАДАНИЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 9.21,
+    "start": 4.5,
+    "end": 6.0,
     "lines": [
       {
-        "text": "Я ОБЪЯСНЯЛА",
+        "text": "В АКТУАЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТИЕ",
+        "text": "ДЕМОВЕРСИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.21,
-    "end": 10.65,
+    "start": 6.84,
+    "end": 7.65,
     "lines": [
       {
-        "text": "СВОИМИ СЛОВАМИ",
+        "text": "Я РЕШАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УВЕРЕННО",
+        "text": "ВАРИАНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.31,
-    "end": 12.3,
+    "start": 7.65,
+    "end": 8.73,
     "lines": [
       {
-        "text": "А ТОЧНАЯ",
+        "text": "ПО СТАРОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛИРОВКА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 12.3,
-    "end": 13.77,
-    "lines": [
-      {
-        "text": "В ТЕСТЕ ЗВУЧАЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДЛЯ МЕНЯ",
+        "text": "НУМЕРАЦИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.77,
-    "end": 14.88,
+    "start": 8.73,
+    "end": 9.53,
     "lines": [
       {
-        "text": "ПОЧТИ",
+        "text": "ВЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕЗНАКОМО",
+        "text": "МЕСЯЦ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.99,
-    "end": 16.78,
+    "start": 9.53,
+    "end": 10.62,
+    "lines": [
+      {
+        "text": "ПОКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.62,
+    "end": 12.24,
+    "lines": [
+      {
+        "text": "С ОФИЦИАЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИЕЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.24,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "ЭТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 14.67,
     "lines": [
       {
         "text": "В",
@@ -160,72 +176,72 @@
     ]
   },
   {
-    "start": 16.78,
-    "end": 18.39,
+    "start": 14.67,
+    "end": 15.9,
     "lines": [
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ ЕСТЬ",
+        "text": "ЕСТЬ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.39,
-    "end": 19.83,
+    "start": 15.9,
+    "end": 17.22,
     "lines": [
       {
-        "text": "НА",
+        "text": "С ЗАДАНИЯМИ ПОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 19.83,
-    "end": 21.39,
-    "lines": [
-      {
-        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИМЕННО ТОЧНУЮ",
+        "text": "ПРАВИЛЬНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.39,
-    "end": 22.65,
+    "start": 17.22,
+    "end": 18.9,
     "lines": [
       {
-        "text": "ФОРМУЛИРОВКУ",
+        "text": "АКТУАЛЬНОЙ НА ЭТОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТИЯ",
+        "text": "ГОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.49,
-    "end": 24.93,
+    "start": 18.9,
+    "end": 19.69,
+    "lines": [
+      {
+        "text": "С ВЕРНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУМЕРАЦИЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 21.36,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -240,8 +256,8 @@
     ]
   },
   {
-    "start": 24.93,
-    "end": 25.772,
+    "start": 21.36,
+    "end": 22.167,
     "lines": [
       {
         "text": "ССЫЛКА",
