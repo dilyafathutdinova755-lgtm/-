@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.65,
+    "end": 2.55,
+    "lines": [
+      {
+        "text": "ЗАДАНИЙ ЕГЭ МОЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫГЛЯДЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.55,
+    "end": 3.75,
+    "lines": [
+      {
+        "text": "ВНУШИТЕЛЬНОЙ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.75,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "И ПРИ ЭТОМ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОХВАТЫВАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.66,
+    "lines": [
+      {
+        "text": "ОДИН ИЗ ТИПОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ СОВСЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 7.92,
+    "lines": [
+      {
+        "text": "Я РЕШАЛ ТАКУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДБОРКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 8.71,
+    "lines": [
+      {
+        "text": "ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.71,
+    "end": 9.93,
+    "lines": [
+      {
+        "text": "ПОКА НА ПРОБНИКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ВСТРЕТИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.93,
+    "end": 12.06,
+    "lines": [
+      {
+        "text": "ТИП ЗАДАНИЯ КОТОРОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ БЫЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.3,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.3,
+    "end": 14.28,
+    "lines": [
+      {
+        "text": "СОБРАН БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.28,
+    "end": 16.05,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОХВАТЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕ ТИПЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ПРОПУСКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.202,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.77,
+    "end": 2.56,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.56,
+    "end": 3.87,
+    "lines": [
+      {
+        "text": "В ТЕОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗУПРЕЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.87,
+    "end": 4.66,
+    "lines": [
+      {
+        "text": "И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.66,
+    "end": 6.03,
+    "lines": [
+      {
+        "text": "ИМЕННО В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.03,
+    "end": 6.83,
+    "lines": [
+      {
+        "text": "СЛОВАХ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАКТИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.02,
+    "end": 8.01,
+    "lines": [
+      {
+        "text": "Я ФОРМУЛИРОВАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.01,
+    "end": 9.48,
+    "lines": [
+      {
+        "text": "ОДНОКЛАССНИКАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ЗАПИНКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.48,
+    "end": 10.74,
+    "lines": [
+      {
+        "text": "А В ДИКТАНТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.74,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ПОЧЕМУ ТО ИМЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА НЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.69,
+    "end": 13.48,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.48,
+    "end": 14.85,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.85,
+    "end": 16.59,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЯЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.59,
+    "end": 18.09,
+    "lines": [
+      {
+        "text": "ПРАВИЛА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОНКРЕТНЫХ СЛОВАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 19.08,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ТЕОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.32,
+    "end": 20.43,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.43,
+    "end": 21.28,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

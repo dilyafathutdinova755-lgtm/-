@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.53,
+    "end": 2.37,
+    "lines": [
+      {
+        "text": "ВЕРНЫЙ ОТВЕТ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.37,
+    "end": 3.42,
+    "lines": [
+      {
+        "text": "МЕТОДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКЛЮЧЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.42,
+    "end": 4.74,
+    "lines": [
+      {
+        "text": "И НЕ СУМЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ПОЧЕМУ ОСТАЛЬНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.32,
+    "end": 8.13,
+    "lines": [
+      {
+        "text": "Я КАК ТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПРОСИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 9.18,
+    "lines": [
+      {
+        "text": "ЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.18,
+    "end": 10.44,
+    "lines": [
+      {
+        "text": "И ЭТО ОБЪЯСНЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.44,
+    "end": 11.43,
+    "lines": [
+      {
+        "text": "ЕЙ ЗАМЕТНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРУДНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.63,
+    "lines": [
+      {
+        "text": "ЧЕМ САМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫБОР ОТВЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 14.21,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.21,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.01,
+    "end": 19.32,
+    "lines": [
+      {
+        "text": "ПОЧЕМУ ИМЕННО НЕВЕРНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.04,
+    "end": 21.0,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 21.804,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

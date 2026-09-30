@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.92,
+    "end": 2.85,
+    "lines": [
+      {
+        "text": "ЕГЭ В КОНЦЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.85,
+    "end": 4.41,
+    "lines": [
+      {
+        "text": "ОТКЛАДЫВАЕТСЯ ИЗ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕХВАТКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.41,
+    "end": 5.61,
+    "lines": [
+      {
+        "text": "ВРЕМЕНИ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЧЕВИДНАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.61,
+    "end": 6.72,
+    "lines": [
+      {
+        "text": "ОШИБКА ПРОХОДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕЗАМЕЧЕННОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.23,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "Я ТАК ТОРОПИЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНЧИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 9.46,
+    "lines": [
+      {
+        "text": "ВАРИАНТ ЧТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛЯНУЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.46,
+    "end": 11.64,
+    "lines": [
+      {
+        "text": "НА ЯВНУЮ ОШИБКУ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДПОСЛЕДНЕМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.97,
+    "end": 12.79,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.79,
+    "end": 14.22,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.22,
+    "end": 15.84,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.84,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "НА ОШИБКУ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПЕШКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.28,
+    "end": 18.25,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.25,
+    "end": 19.052,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
