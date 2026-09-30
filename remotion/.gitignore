@@ -443,3 +443,12 @@ episodes80/render/
 episodes80/frames/
 episodes80/idframes/
 episodes80_out/
+sources_coffee123_34/
+asr_coffee123_34/
+episodes81/*.mp4
+episodes81/*.wav
+episodes81/*.log
+episodes81/render/
+episodes81/frames/
+episodes81/idframes/
+episodes81_out/
