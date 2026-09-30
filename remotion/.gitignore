@@ -434,3 +434,12 @@ episodes79/render/
 episodes79/frames/
 episodes79/idframes/
 episodes79_out/
+sources_coffee123_33/
+asr_coffee123_33/
+episodes80/*.mp4
+episodes80/*.wav
+episodes80/*.log
+episodes80/render/
+episodes80/frames/
+episodes80/idframes/
+episodes80_out/
