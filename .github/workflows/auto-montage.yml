@@ -362,6 +362,7 @@ jobs:
              ! command -v ffprobe >/dev/null 2>&1; then
             sudo env DEBIAN_FRONTEND=noninteractive \
               apt-get update
+
             sudo env DEBIAN_FRONTEND=noninteractive \
               apt-get install -y --no-install-recommends ffmpeg
           fi
@@ -462,6 +463,7 @@ jobs:
 
           for name in sorted(expected):
               file = root / name
+
               original = subprocess.check_output(
                   ["git", "show", f"{sha}:{name}"]
               )
@@ -481,6 +483,7 @@ jobs:
               for file in (
                   root / directory
               ).rglob("*"):
+
                   name = (
                       file.relative_to(root)
                       .as_posix()
@@ -510,10 +513,29 @@ jobs:
           )
           PY
 
+      - name: Render approved montage output
+        working-directory: remotion
+        timeout-minutes: 10
+        run: |
+          set -euo pipefail
+
+          test -s public/source.mp4
+          test -s public/audio.wav
+
+          rm -f public/output.mp4
+
+          ./node_modules/.bin/remotion render \
+            src/index.ts \
+            EgeOlimpiada \
+            public/output.mp4
+
+          test -s public/output.mp4
+
       - name: Validate approved montage output
         working-directory: remotion
         run: |
           set -euo pipefail
+
           node scripts/qa/validate-project.mjs
           bash scripts/qa/validate-mp4.sh public/output.mp4
 
@@ -524,6 +546,9 @@ jobs:
           TAG: ${{ steps.version.outputs.tag }}
         run: |
           set -euo pipefail
+
           test -s remotion/public/output.mp4
+
           cp remotion/public/output.mp4 final.mp4
+
           gh release upload "$TAG" final.mp4 --clobber
