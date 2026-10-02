@@ -1,0 +1,58 @@
+name: Claude CLI Smoke Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+
+    steps:
+      - name: Install pinned Claude Code
+        run: |
+          set -euo pipefail
+
+          curl -fsSL https://claude.ai/install.sh | bash -s 2.1.287
+
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+          "$HOME/.local/bin/claude" --version
+
+      - name: Test Claude CLI directly
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISABLE_AUTOUPDATER: "1"
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${ANTHROPIC_API_KEY:-}" ]]; then
+            echo "ERROR: ANTHROPIC_API_KEY secret is unavailable."
+            exit 1
+          fi
+
+          OUTPUT="$(
+            "$HOME/.local/bin/claude" \
+              --bare \
+              -p "Ответь только словом OK" \
+              --model opus \
+              --output-format json
+          )"
+
+          printf '%s\n' "$OUTPUT" > "$RUNNER_TEMP/claude-smoke.json"
+
+          node - "$RUNNER_TEMP/claude-smoke.json" <<'NODE'
+          const fs = require('node:fs');
+
+          const path = process.argv[2];
+          const data = JSON.parse(fs.readFileSync(path, 'utf8'));
+
+          if (typeof data.result !== 'string' || data.result.trim().length === 0) {
+            throw new Error('Claude CLI returned no text result.');
+          }
+
+          console.log('Claude CLI smoke passed.');
+          NODE
