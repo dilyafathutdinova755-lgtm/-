@@ -27,30 +27,68 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DISABLE_AUTOUPDATER: "1"
         run: |
-          set -euo pipefail
+          set -uo pipefail
 
           if [[ -z "${ANTHROPIC_API_KEY:-}" ]]; then
             echo "ERROR: ANTHROPIC_API_KEY secret is unavailable."
             exit 1
           fi
 
-          OUTPUT="$(
-            "$HOME/.local/bin/claude" \
-              --bare \
-              -p "Ответь только словом OK" \
-              --model opus \
-              --output-format json
-          )"
+          STDOUT_FILE="$RUNNER_TEMP/claude-smoke.stdout"
+          STDERR_FILE="$RUNNER_TEMP/claude-smoke.stderr"
 
-          printf '%s\n' "$OUTPUT" > "$RUNNER_TEMP/claude-smoke.json"
+          set +e
 
-          node - "$RUNNER_TEMP/claude-smoke.json" <<'NODE'
+          "$HOME/.local/bin/claude" \
+            --bare \
+            -p "Ответь только словом OK" \
+            --model opus \
+            --output-format json \
+            >"$STDOUT_FILE" \
+            2>"$STDERR_FILE"
+
+          CLAUDE_EXIT=$?
+
+          set -e
+
+          echo "===== CLAUDE EXIT CODE ====="
+          echo "$CLAUDE_EXIT"
+
+          echo "===== CLAUDE STDERR ====="
+          if [[ -s "$STDERR_FILE" ]]; then
+            cat "$STDERR_FILE"
+          else
+            echo "(empty)"
+          fi
+
+          echo "===== CLAUDE STDOUT ====="
+          if [[ -s "$STDOUT_FILE" ]]; then
+            cat "$STDOUT_FILE"
+          else
+            echo "(empty)"
+          fi
+
+          if [[ "$CLAUDE_EXIT" -ne 0 ]]; then
+            echo "ERROR: Claude CLI exited with code $CLAUDE_EXIT"
+            exit "$CLAUDE_EXIT"
+          fi
+
+          node - "$STDOUT_FILE" <<'NODE'
           const fs = require('node:fs');
 
           const path = process.argv[2];
-          const data = JSON.parse(fs.readFileSync(path, 'utf8'));
+          const raw = fs.readFileSync(path, 'utf8').trim();
 
-          if (typeof data.result !== 'string' || data.result.trim().length === 0) {
+          if (!raw) {
+            throw new Error('Claude CLI returned empty stdout.');
+          }
+
+          const data = JSON.parse(raw);
+
+          if (
+            typeof data.result !== 'string' ||
+            data.result.trim().length === 0
+          ) {
             throw new Error('Claude CLI returned no text result.');
           }
 
