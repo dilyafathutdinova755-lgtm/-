@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.8,
+    "end": 2.91,
+    "lines": [
+      {
+        "text": "ИЗ НЕСКОЛЬКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.91,
+    "end": 4.41,
+    "lines": [
+      {
+        "text": "РАБОЧИХ ТЕТРАДЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПАПКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.86,
+    "end": 6.09,
+    "lines": [
+      {
+        "text": "И ПЕРЕПУТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАКИЕ ОТВЕТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.09,
+    "end": 7.74,
+    "lines": [
+      {
+        "text": "К КАКОМУ ВАРИАНТУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТНОСЯТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 9.81,
+    "lines": [
+      {
+        "text": "Я ПОМОГАЛА ЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗОБРАТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.81,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "И САМА НЕ СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.48,
+    "lines": [
+      {
+        "text": "ГДЕ ЧЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.01,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.01,
+    "end": 15.12,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.12,
+    "end": 16.35,
+    "lines": [
+      {
+        "text": "У КАЖДОГО ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.35,
+    "end": 17.46,
+    "lines": [
+      {
+        "text": "ЗАКРЕПЛЕН ЗА НИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.79,
+    "end": 19.17,
+    "lines": [
+      {
+        "text": "БЕЗ ПУТАНИЦЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ ВАРИАНТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.77,
+    "end": 20.8,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.8,
+    "end": 21.591,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

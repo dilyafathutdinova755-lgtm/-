@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.8,
+    "end": 3.39,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ФИЛЬМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.99,
+    "end": 5.16,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОКАЗАЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.34,
+    "end": 7.05,
+    "lines": [
+      {
+        "text": "В ФИЛЬМЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПУТАНЫ ДЕТАЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.29,
+    "end": 8.08,
+    "lines": [
+      {
+        "text": "РАДИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЮЖЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 11.1,
+    "lines": [
+      {
+        "text": "Я НАПИСАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРСИЮ ИЗ ФИЛЬМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.55,
+    "end": 12.63,
+    "lines": [
+      {
+        "text": "И ТОЛЬКО ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 14.64,
+    "lines": [
+      {
+        "text": "ЧТО ОНА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЕТ С УЧЕБНИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.72,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 17.35,
+    "lines": [
+      {
+        "text": "ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.35,
+    "end": 18.39,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 20.34,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ОПИРАЮТСЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЕННЫЕ ФАКТЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 21.27,
+    "end": 22.17,
+    "lines": [
+      {
+        "text": "А НЕ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЮЖЕТ ФИЛЬМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.86,
+    "end": 23.91,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.91,
+    "end": 24.748,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

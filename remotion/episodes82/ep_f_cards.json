@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.95,
+    "end": 3.18,
+    "lines": [
+      {
+        "text": "Я ВЫБИРАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.18,
+    "end": 4.0,
+    "lines": [
+      {
+        "text": "ПОЧТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.56,
+    "end": 5.64,
+    "lines": [
+      {
+        "text": "А ОШИБКУ ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОПУСКАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 7.29,
+    "lines": [
+      {
+        "text": "ИМЕННО В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИНАЛЬНОМ ВЫЧИСЛЕНИИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 8.95,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.95,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "Я РАСПИСАЛА ВЕСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.11,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "РЕШЕНИЯ БЕЗ ЕДИНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.06,
+    "end": 13.08,
+    "lines": [
+      {
+        "text": "А В ПОСЛЕДНЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УМНОЖЕНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.17,
+    "end": 14.07,
+    "lines": [
+      {
+        "text": "В СТОЛБИК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОМАХНУЛАСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.19,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕДИНИЦУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 16.42,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.47,
+    "end": 17.91,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.44,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПРОВЕРЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.65,
+    "end": 21.36,
+    "lines": [
+      {
+        "text": "ВМЕСТЕ С САМЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕДНИМ ВЫЧИСЛЕНИЕМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 22.02,
+    "end": 22.85,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.85,
+    "end": 23.852,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

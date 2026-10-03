@@ -1,0 +1,258 @@
+[
+  {
+    "start": 2.0,
+    "end": 3.12,
+    "lines": [
+      {
+        "text": "ПРАВИЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГЛЯДЫВАЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.24,
+    "end": 4.38,
+    "lines": [
+      {
+        "text": "В ОТВЕТ В КОНЦЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧЕБНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 5.73,
+    "lines": [
+      {
+        "text": "А БЕЗ ЭТОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДСКАЗКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.91,
+    "end": 6.72,
+    "lines": [
+      {
+        "text": "ЧАСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.72,
+    "end": 7.62,
+    "lines": [
+      {
+        "text": "В СЕРЕДИНЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.51,
+    "lines": [
+      {
+        "text": "Я СПЕЦИАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 10.71,
+    "lines": [
+      {
+        "text": "ЕЙ СТРАНИЦУ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.98,
+    "end": 12.06,
+    "lines": [
+      {
+        "text": "И ТО ЖЕ САМОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.33,
+    "end": 13.14,
+    "lines": [
+      {
+        "text": "СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫЗВАЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.14,
+    "end": 14.16,
+    "lines": [
+      {
+        "text": "КУДА БОЛЬШЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНОСТЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.24,
+    "end": 16.06,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.14,
+    "end": 17.67,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.82,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 21.09,
+    "lines": [
+      {
+        "text": "И БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГЛЯДЫВАНИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 21.67,
+    "end": 22.47,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.47,
+    "end": 23.575,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
