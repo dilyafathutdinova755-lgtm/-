@@ -1,135 +1,167 @@
 [
   {
-    "start": 1.8,
-    "end": 3.39,
+    "start": 1.86,
+    "end": 2.82,
     "lines": [
       {
-        "text": "ДЛЯ ЕГЭ",
+        "text": "ПОСОБИЕ С ЗАДАНИЯМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ФИЛЬМУ",
+        "text": "ОНЛАЙН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.99,
-    "end": 5.16,
+    "start": 2.82,
+    "end": 3.69,
     "lines": [
       {
-        "text": "А ПОТОМ",
+        "text": "Я ЗАКАЗАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОКАЗАЛОСЬ",
+        "text": "ПО НАЗВАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.34,
-    "end": 7.05,
+    "start": 3.69,
+    "end": 4.89,
     "lines": [
       {
-        "text": "В ФИЛЬМЕ",
+        "text": "А ПРИСЛАЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕПУТАНЫ ДЕТАЛИ",
+        "text": "ПОЧТИ ТАКУЮ ЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.29,
-    "end": 8.08,
+    "start": 5.04,
+    "end": 5.95,
     "lines": [
       {
-        "text": "РАДИ",
+        "text": "ПО ОБЛОЖКЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЮЖЕТА",
+        "text": "НО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.85,
-    "end": 9.66,
+    "start": 5.95,
+    "end": 7.11,
     "lines": [
       {
-        "text": "НА",
+        "text": "СОВСЕМ ДРУГУЮ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОБНИКЕ",
+        "text": "СОДЕРЖАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.66,
-    "end": 11.1,
+    "start": 7.11,
+    "end": 8.37,
     "lines": [
       {
-        "text": "Я НАПИСАЛА",
+        "text": "КНИГУ ДРУГОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРСИЮ ИЗ ФИЛЬМА",
+        "text": "АВТОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.55,
-    "end": 12.63,
+    "start": 8.64,
+    "end": 9.51,
     "lines": [
       {
-        "text": "И ТОЛЬКО ПОТОМ",
+        "text": "Я РЕШАЛ ЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯЛА",
+        "text": "НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 14.64,
+    "start": 9.51,
+    "end": 10.86,
     "lines": [
       {
-        "text": "ЧТО ОНА НЕ",
+        "text": "ПОКА НЕ СВЕРИЛ ПАРУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАДАЕТ С УЧЕБНИКОМ",
+        "text": "ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.72,
-    "end": 16.53,
+    "start": 10.86,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.97,
+    "end": 13.95,
+    "lines": [
+      {
+        "text": "И НЕ УВИДЕЛ ЯВНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕСОВПАДЕНИЕ ФОРМАТА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.1,
     "lines": [
       {
         "text": "В",
@@ -144,72 +176,72 @@
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.35,
+    "start": 15.1,
+    "end": 15.95,
     "lines": [
       {
-        "text": "ПО",
+        "text": "ЕСТЬ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.35,
-    "end": 18.39,
+    "start": 16.05,
+    "end": 17.1,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ НА",
+        "text": "БЕЗ ПУТАНИЦЫ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 18.66,
-    "end": 20.34,
-    "lines": [
-      {
-        "text": "КОТОРЫЕ ОПИРАЮТСЯ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОВЕРЕННЫЕ ФАКТЫ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 21.27,
-    "end": 22.17,
-    "lines": [
-      {
-        "text": "А НЕ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СЮЖЕТ ФИЛЬМА",
+        "text": "ПОХОЖИМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.86,
-    "end": 23.91,
+    "start": 17.1,
+    "end": 18.42,
+    "lines": [
+      {
+        "text": "ОБЛОЖКАМИ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНИЯМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.75,
+    "end": 20.28,
+    "lines": [
+      {
+        "text": "ТАМ СРАЗУ ТОЧНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТО ЧТО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.55,
+    "end": 21.4,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -224,8 +256,8 @@
     ]
   },
   {
-    "start": 23.91,
-    "end": 24.748,
+    "start": 21.4,
+    "end": 22.444,
     "lines": [
       {
         "text": "ССЫЛКА",
