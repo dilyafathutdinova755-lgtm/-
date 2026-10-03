@@ -1,0 +1,290 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.6,
+    "lines": [
+      {
+        "text": "НАШ УЧИТЕЛЬ СОБИРАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДОКУМЕНТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.6,
+    "end": 4.83,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ РЕДАКТИРУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧИТЕЛЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.09,
+    "end": 7.32,
+    "lines": [
+      {
+        "text": "И СТАРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УДАЛЕННЫЕ ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.47,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "ТАМ ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПЛЫВАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.52,
+    "end": 9.84,
+    "lines": [
+      {
+        "text": "Я РЕШАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 10.83,
+    "lines": [
+      {
+        "text": "КОТОРОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОКАЗЫВАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.01,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ЕЩЕ НА ТОЙ НЕДЕЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЗНАЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕАКТУАЛЬНЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.77,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "А ПОТОМ КТО ТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.06,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ВЕРНУЛ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБРАТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.26,
+    "end": 17.06,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.06,
+    "end": 17.94,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.18,
+    "end": 19.14,
+    "lines": [
+      {
+        "text": "БЕЗ СЛУЧАЙНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКАТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.44,
+    "end": 20.67,
+    "lines": [
+      {
+        "text": "ОДИН РАЗ УСТАРЕВШЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.85,
+    "end": 22.2,
+    "lines": [
+      {
+        "text": "ТАМ ПРОСТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЯВИТСЯ СНОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.5,
+    "end": 23.58,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.58,
+    "end": 24.471,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.89,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "В МНОГОХОДОВОМ ЗАДАНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАЮСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.12,
+    "end": 4.59,
+    "lines": [
+      {
+        "text": "В САМОМ НАЧАЛЕ А ДАЛЬШЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧИТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 6.03,
+    "lines": [
+      {
+        "text": "СОВЕРШЕННО ВЕРНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОСОБОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.24,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "ПРОСТО ОПИРАЯСЬ НА УЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНОЕ ЧИСЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВТОРАЯ ЧАСТЬ РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.08,
+    "end": 10.92,
+    "lines": [
+      {
+        "text": "БЫЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗУПРЕЧНОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.1,
+    "end": 11.91,
+    "lines": [
+      {
+        "text": "А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНОЙ ОКАЗАЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.0,
+    "end": 13.23,
+    "lines": [
+      {
+        "text": "ТОЛЬКО САМАЯ ПЕРВАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦИФРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.35,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "С КОТОРОЙ ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧАЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.76,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.63,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЕМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.92,
+    "end": 18.27,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПРОВЕРЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.27,
+    "end": 20.13,
+    "lines": [
+      {
+        "text": "ЦЕЛИКОМ С САМОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРВОГО ШАГА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.43,
+    "end": 21.3,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.3,
+    "end": 22.24,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

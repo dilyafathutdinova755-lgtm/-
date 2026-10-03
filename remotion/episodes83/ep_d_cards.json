@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.89,
+    "end": 2.97,
+    "lines": [
+      {
+        "text": "ДОЧЬ УВЕРЕННО ПОМНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФАКТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 4.89,
+    "lines": [
+      {
+        "text": "А ВОТ ФАМИЛИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОЙ ЛИЧНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.07,
+    "end": 5.9,
+    "lines": [
+      {
+        "text": "НА ПИСЬМЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.91,
+    "end": 7.86,
+    "lines": [
+      {
+        "text": "С ПОХОЖЕЙ ПО НАПИСАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОСЕДНЕЙ ФАМИЛИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.69,
+    "lines": [
+      {
+        "text": "Я ПРОВЕРЯЛА ЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕТРАДЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.99,
+    "end": 11.01,
+    "lines": [
+      {
+        "text": "И УВИДЕЛА ТАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.19,
+    "end": 12.21,
+    "lines": [
+      {
+        "text": "ЭТУ ОШИБКУ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАПИСАНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.39,
+    "end": 13.77,
+    "lines": [
+      {
+        "text": "ФАМИЛИИ НЕСКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗ ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.28,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.15,
+    "end": 16.05,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 17.58,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.73,
+    "end": 18.99,
+    "lines": [
+      {
+        "text": "НАПИСАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИХ ФАМИЛИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.62,
+    "end": 20.55,
+    "lines": [
+      {
+        "text": "ОТДЕЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДРУГ ОТ ДРУГА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.06,
+    "end": 21.9,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.9,
+    "end": 22.978,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

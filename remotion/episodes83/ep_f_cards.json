@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.82,
+    "lines": [
+      {
+        "text": "ПОСОБИЕ С ЗАДАНИЯМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНЛАЙН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.82,
+    "end": 3.69,
+    "lines": [
+      {
+        "text": "Я ЗАКАЗАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО НАЗВАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 4.89,
+    "lines": [
+      {
+        "text": "А ПРИСЛАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЧТИ ТАКУЮ ЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.04,
+    "end": 5.95,
+    "lines": [
+      {
+        "text": "ПО ОБЛОЖКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.95,
+    "end": 7.11,
+    "lines": [
+      {
+        "text": "СОВСЕМ ДРУГУЮ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОДЕРЖАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.37,
+    "lines": [
+      {
+        "text": "КНИГУ ДРУГОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВТОРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.64,
+    "end": 9.51,
+    "lines": [
+      {
+        "text": "Я РЕШАЛ ЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.51,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "ПОКА НЕ СВЕРИЛ ПАРУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕМОВЕРСИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.97,
+    "end": 13.95,
+    "lines": [
+      {
+        "text": "И НЕ УВИДЕЛ ЯВНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕСОВПАДЕНИЕ ФОРМАТА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.1,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.1,
+    "end": 15.95,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "БЕЗ ПУТАНИЦЫ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.42,
+    "lines": [
+      {
+        "text": "ОБЛОЖКАМИ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНИЯМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.75,
+    "end": 20.28,
+    "lines": [
+      {
+        "text": "ТАМ СРАЗУ ТОЧНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТО ЧТО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.55,
+    "end": 21.4,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.4,
+    "end": 22.444,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

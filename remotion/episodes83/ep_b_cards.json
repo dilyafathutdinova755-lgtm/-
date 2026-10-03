@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.89,
+    "end": 2.76,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОЯЩИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.76,
+    "end": 3.6,
+    "lines": [
+      {
+        "text": "РЯДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО АЛФАВИТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.63,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "В СЛОВАРИКЕ Я ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СИХ ПОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 5.76,
+    "lines": [
+      {
+        "text": "ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.76,
+    "end": 7.23,
+    "lines": [
+      {
+        "text": "МЕЖДУ СОБОЙ ПРОСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО СОСЕДСТВУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "В СПИСКЕ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗЫВАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "А В ГОЛОВЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПЛЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.26,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "СОСЕД ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАРНОЙ СТРАНИЦЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 12.63,
+    "lines": [
+      {
+        "text": "А НЕ ТО ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРОСИЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.96,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.75,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.93,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ РАЗВОДЯТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАКИЕ АЛФАВИТНЫЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 18.51,
+    "lines": [
+      {
+        "text": "СОСЕДСТВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПЕЦИАЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.51,
+    "end": 19.53,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.53,
+    "end": 20.695,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

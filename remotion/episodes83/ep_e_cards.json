@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.98,
+    "end": 2.94,
+    "lines": [
+      {
+        "text": "В ЗАДАНИИ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.94,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "ПРЕДПОЛАГАЮ ТАМ ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА САМОМ ДЕЛЕ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 6.36,
+    "lines": [
+      {
+        "text": "И ИЗ ЗА ЭТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.36,
+    "end": 7.89,
+    "lines": [
+      {
+        "text": "ПОЛУЧАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.89,
+    "end": 9.03,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТРОИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.03,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ИМЕННО НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "ЛОЖНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СИММЕТРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.98,
+    "end": 11.91,
+    "lines": [
+      {
+        "text": "И НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛЯНУЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.91,
+    "end": 13.17,
+    "lines": [
+      {
+        "text": "РАБОТАЕТ ЛИ ОНА ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.17,
+    "end": 13.98,
+    "lines": [
+      {
+        "text": "КОНКРЕТНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.98,
+    "end": 14.78,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.78,
+    "end": 16.38,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.38,
+    "end": 17.76,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОТДЕЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.76,
+    "end": 18.96,
+    "lines": [
+      {
+        "text": "ДЕЙСТВИТЕЛЬНО ЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СИММЕТРИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.96,
+    "end": 19.89,
+    "lines": [
+      {
+        "text": "ПРИМЕНИМА В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАЧЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.19,
+    "end": 21.0,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 22.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
