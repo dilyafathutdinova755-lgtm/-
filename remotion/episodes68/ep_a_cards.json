@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.58,
+    "end": 3.27,
+    "lines": [
+      {
+        "text": "ЗАЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕБЁНКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.57,
+    "end": 6.87,
+    "lines": [
+      {
+        "text": "ИГРЫ ВМЕСТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЧЕК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 9.54,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР СТРОИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИЙ РАУНД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 12.87,
+    "lines": [
+      {
+        "text": "ИЗ ТЕРМИНОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРЫЕ ПУТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.67,
+    "lines": [
+      {
+        "text": "А НЕ ИЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕЙ ТЕМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.33,
+    "end": 19.17,
+    "lines": [
+      {
+        "text": "РАУНД ЗАНИМАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЬШЕ ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.86,
+    "end": 23.1,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ ВИДЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.76,
+    "end": 25.83,
+    "lines": [
+      {
+        "text": "БЫСТРАЯ ИГРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕНЯЕТ КАРТОЧКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.16,
+    "end": 27.84,
+    "lines": [
+      {
+        "text": "И ДЕРЖИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВНИМАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.5,
+    "end": 30.94,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

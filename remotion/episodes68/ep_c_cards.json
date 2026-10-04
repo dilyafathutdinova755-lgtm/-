@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.83,
+    "end": 5.34,
+    "lines": [
+      {
+        "text": "ПОДСЧИТАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРУГЛУЮ СУММУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.49,
+    "end": 7.02,
+    "lines": [
+      {
+        "text": "В КРУГЛУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СУММУ ЗА ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.92,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ХРАНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.74,
+    "lines": [
+      {
+        "text": "БЕЗ ПОКУПКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БУМАЖНЫХ НАБОРОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.4,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "НАЙТИ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНИЮ ЗА СЕКУНДУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.64,
+    "end": 20.91,
+    "lines": [
+      {
+        "text": "НЕ ЗАКАНЧИВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И НЕ ТРЕБУЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.69,
+    "end": 24.12,
+    "lines": [
+      {
+        "text": "ПОКУПКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕНЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.36,
+    "end": 26.25,
+    "lines": [
+      {
+        "text": "ОДНИМ БЕСПЛАТНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.85,
+    "end": 28.79,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
