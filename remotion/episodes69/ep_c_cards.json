@@ -1,0 +1,210 @@
+[
+  {
+    "start": 2.37,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "ПЕРЕЖИВАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСЬБА О РЕПЕТИТОРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.37,
+    "end": 7.71,
+    "lines": [
+      {
+        "text": "СТАНЕТ ЛИШНИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВОДОМ ДЛЯ РАСХОДОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 11.1,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ДАЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.28,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "И РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПОЛНОМ ОБЪЁМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 15.06,
+    "lines": [
+      {
+        "text": "БЕЗ ЕДИНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛАТЕЖА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.14,
+    "end": 18.81,
+    "lines": [
+      {
+        "text": "ОСТРАЯ НУЖДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖЕТ НЕ НАСТУПИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.14,
+    "end": 20.34,
+    "lines": [
+      {
+        "text": "ЕСЛИ БАНКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХВАТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.88,
+    "end": 24.84,
+    "lines": [
+      {
+        "text": "ПОДГОТОВКА ИДЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.65,
+    "end": 27.99,
+    "lines": [
+      {
+        "text": "ТРЕВОГА ПОПРОСИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛИШНИЕ ДЕНЬГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.2,
+    "end": 29.73,
+    "lines": [
+      {
+        "text": "СНИМАЕТСЯ ТЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ПРОСИТЬ НЕЧЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.6,
+    "end": 32.13,
+    "lines": [
+      {
+        "text": "РАЗГОВОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "О РЕПЕТИТОРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.34,
+    "end": 35.13,
+    "lines": [
+      {
+        "text": "ОТКЛАДЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА ХВАТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 35.85,
+    "end": 37.96,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

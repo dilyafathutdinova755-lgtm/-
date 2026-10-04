@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.18,
+    "lines": [
+      {
+        "text": "ДЕРЖАТСЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРЕДНЕМ УРОВНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.78,
+    "end": 5.88,
+    "lines": [
+      {
+        "text": "ТРЕВОЖАТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАРАЮТСЯ КАЖДЫЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.39,
+    "end": 9.03,
+    "lines": [
+      {
+        "text": "РЕЗУЛЬТАТ БУДТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ДВИГАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.14,
+    "end": 12.99,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР ОТКЛАДЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТ НЕДЕЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.32,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "В ПОЛОСКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОГРЕССА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.23,
+    "end": 19.95,
+    "lines": [
+      {
+        "text": "ПОЛОСКА РАСТЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.85,
+    "end": 24.12,
+    "lines": [
+      {
+        "text": "НЕ ТРЕБУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАВНИВАТЬ ЦИФРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.17,
+    "end": 26.88,
+    "lines": [
+      {
+        "text": "ТОПЧУСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 27.21,
+    "end": 30.51,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛОСКОЙ ПРОГРЕССА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.23,
+    "end": 33.94,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
