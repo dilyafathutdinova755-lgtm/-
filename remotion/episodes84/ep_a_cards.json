@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.92,
+    "end": 3.36,
+    "lines": [
+      {
+        "text": "ПЕРИОДА ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМНЮ ХОРОШО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 5.16,
+    "lines": [
+      {
+        "text": "А ВОТ ПРИ КАКОМ ИЗ ДВУХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОСЕДНИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.16,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "ПРАВИТЕЛЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОИЗОШЛО КОНКРЕТНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.16,
+    "lines": [
+      {
+        "text": "СОБЫТИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА ПУТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.46,
+    "end": 9.36,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 10.17,
+    "lines": [
+      {
+        "text": "ПЕРИОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.1,
+    "lines": [
+      {
+        "text": "И ПРИПИСАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.37,
+    "end": 12.51,
+    "lines": [
+      {
+        "text": "НЕ ТОМУ ИЗ ДВУХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИТЕЛЕЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "ПОДРЯД В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 14.61,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.61,
+    "end": 16.41,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЯЮТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.59,
+    "end": 17.79,
+    "lines": [
+      {
+        "text": "СОБЫТИЯ СРАЗУ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.79,
+    "end": 19.17,
+    "lines": [
+      {
+        "text": "ПРАВИТЕЛЕМ ИЗ ДВУХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОСЕДНИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.41,
+    "end": 20.4,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.4,
+    "end": 21.28,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

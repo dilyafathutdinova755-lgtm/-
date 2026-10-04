@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.95,
+    "end": 3.03,
+    "lines": [
+      {
+        "text": "ДОЧЕРИ В ШКОЛЕ ВЫДАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОМПЛЕКТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.03,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "ЗАДАНИЙ ЕГЭ НЕ ТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОФИЛЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.56,
+    "end": 5.94,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОНА ВООБЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.94,
+    "end": 7.41,
+    "lines": [
+      {
+        "text": "И ОНА ЗАМЕТИЛА ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.41,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "Я СЛУЧАЙНО СВЕРИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОМЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.51,
+    "lines": [
+      {
+        "text": "ПРОФИЛЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЛОЖКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.51,
+    "end": 10.53,
+    "lines": [
+      {
+        "text": "КОМПЛЕКТА С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОМЕРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "В ЕЕ ЗАЯВЛЕНИИ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКЗАМЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 13.17,
+    "lines": [
+      {
+        "text": "ОНИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАДАЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 14.65,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.65,
+    "end": 15.87,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.87,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "ИМЕННО ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНЫЙ ПРОФИЛЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.83,
+    "end": 18.57,
+    "lines": [
+      {
+        "text": "БЕЗ ПУТАНИЦЫ МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОМПЛЕКТАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.17,
+    "end": 20.0,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.0,
+    "end": 21.122,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.95,
+    "end": 3.03,
+    "lines": [
+      {
+        "text": "ПОМНЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ВЕРНЫМ ГОДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.21,
+    "end": 4.62,
+    "lines": [
+      {
+        "text": "А ВОТ С ДРУГИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИМ ПО НАЗВАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.62,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ДОКУМЕНТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОТ ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.88,
+    "end": 6.96,
+    "lines": [
+      {
+        "text": "ИНОГДА ПУТАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.23,
+    "end": 8.73,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ Я НАЗВАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНЫЙ ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "НО ПРИПИСАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.63,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "НЕ ТОМУ ИЗ ДВУХ ПОХОЖИХ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНИЮ ДОГОВОРОВ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.21,
+    "end": 13.03,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.03,
+    "end": 14.07,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.07,
+    "end": 15.57,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗВОДЯТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.57,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "ПОХОЖИЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНИЮ ДОГОВОРЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.09,
+    "lines": [
+      {
+        "text": "ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 18.89,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.89,
+    "end": 19.863,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

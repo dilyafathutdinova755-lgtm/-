@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.95,
+    "end": 2.82,
+    "lines": [
+      {
+        "text": "В ИГРОВОМ ПРИЛОЖЕНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.82,
+    "end": 4.53,
+    "lines": [
+      {
+        "text": "ЛИДЕРОВ НАГРАЖДАЕТ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОРОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.53,
+    "end": 5.85,
+    "lines": [
+      {
+        "text": "РЕШЕНИЯ И ЗАДАНИЯ ТАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДОБРАНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 7.26,
+    "lines": [
+      {
+        "text": "СПЕЦИАЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.26,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "КОРОТКИЕ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕГКИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.69,
+    "lines": [
+      {
+        "text": "Я ТРЕНИРОВАЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "В ЭТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЛОЖЕНИИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.56,
+    "end": 11.61,
+    "lines": [
+      {
+        "text": "РАДИ МЕСТА В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.61,
+    "end": 13.11,
+    "lines": [
+      {
+        "text": "ЛИДЕРОВ И СОВСЕМ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСТРЕЧАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.29,
+    "end": 14.85,
+    "lines": [
+      {
+        "text": "ТАМ СЛОЖНЫЕ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛИННЫЕ ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 15.97,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.97,
+    "end": 16.8,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 18.39,
+    "lines": [
+      {
+        "text": "СО ВСЕМИ ЗАДАНИЯМИ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.39,
+    "end": 19.83,
+    "lines": [
+      {
+        "text": "БЕЗ ИГРОВЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАБЛИЦ ЛИДЕРОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.83,
+    "end": 21.15,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УРЕЗАЮТ ВЫБОРКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 21.42,
+    "end": 22.44,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.44,
+    "end": 23.255,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

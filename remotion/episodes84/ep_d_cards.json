@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.89,
+    "end": 3.66,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ ГОЛОСОВОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМОЩНИКА ДОМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.99,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "А ЧТО СТОИТ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.42,
+    "lines": [
+      {
+        "text": "НЕОФИЦИАЛЬНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОЛОСОВЫМ НАВЫКОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.66,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "И ОТКУДА ТАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "СОВЕРШЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕПОНЯТНО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 10.62,
+    "lines": [
+      {
+        "text": "Я ПОИСКАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНФОРМАЦИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.62,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "ОБ ЭТОМ НАВЫКЕ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНТЕРНЕТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.09,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "И НЕ НАШЕЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИЧЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 14.73,
+    "lines": [
+      {
+        "text": "ОБ АВТОРАХ ИЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОЧНИКЕ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.12,
+    "end": 15.95,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.95,
+    "end": 16.95,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.95,
+    "end": 18.33,
+    "lines": [
+      {
+        "text": "С ПОНЯТНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОЧНИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.33,
+    "end": 19.68,
+    "lines": [
+      {
+        "text": "КАЖДОГО ЗАДАНИЯ А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОЛОСОВЫМ НАВЫКОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.68,
+    "end": 21.39,
+    "lines": [
+      {
+        "text": "НЕПОНЯТНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОИСХОЖДЕНИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 21.66,
+    "end": 22.74,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.74,
+    "end": 23.575,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

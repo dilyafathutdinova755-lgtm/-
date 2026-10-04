@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.03,
+    "lines": [
+      {
+        "text": "НА ПОДСЧЕТ ВАРИАНТОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫВАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.21,
+    "end": 4.02,
+    "lines": [
+      {
+        "text": "ВАЖЕН ЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.29,
+    "end": 5.19,
+    "lines": [
+      {
+        "text": "И ИЗ ЗА ЭТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫБИРАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.19,
+    "end": 6.09,
+    "lines": [
+      {
+        "text": "НЕВЕРНУЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.09,
+    "end": 7.38,
+    "lines": [
+      {
+        "text": "ПОДСЧЕТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "Я ПОСЧИТАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.39,
+    "lines": [
+      {
+        "text": "БЕЗ УЧЕТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.39,
+    "end": 10.95,
+    "lines": [
+      {
+        "text": "ТАМ ГДЕ ПОРЯДОК НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМОМ ДЕЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 11.88,
+    "lines": [
+      {
+        "text": "ИМЕЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЧЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.12,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.12,
+    "end": 14.43,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.43,
+    "end": 16.02,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОТДЕЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.02,
+    "end": 17.94,
+    "lines": [
+      {
+        "text": "КОГДА ПОРЯДОК ВАЖЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А КОГДА НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.21,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.05,
+    "end": 20.098,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.92,
+    "end": 2.91,
+    "lines": [
+      {
+        "text": "ПУТАЮТ КАКОЙ ЗНАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАВИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.91,
+    "end": 4.14,
+    "lines": [
+      {
+        "text": "ПРИ ПРЯМОЙ РЕЧИ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ПО РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.59,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "ЕСЛИ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВТОРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.52,
+    "end": 7.11,
+    "lines": [
+      {
+        "text": "СТОЯТ НЕ ДО А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "САМОЙ РЕПЛИКИ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПРОСИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "ЕЕ РАССТАВИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 11.04,
+    "lines": [
+      {
+        "text": "В ПРИМЕРЕ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБРАТНЫМ ПОРЯДКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 12.63,
+    "lines": [
+      {
+        "text": "И ДОЧЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПУТАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 13.77,
+    "lines": [
+      {
+        "text": "ПРАВИЛА МЕСТАМИ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.77,
+    "end": 14.82,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЕРЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.82,
+    "end": 16.44,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.64,
+    "end": 19.7,
+    "lines": [
+      {
+        "text": "ОБА ПОРЯДКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЯМОЙ РЕЧИ ОТДЕЛЬНО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.7,
+    "end": 20.59,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.59,
+    "end": 21.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
