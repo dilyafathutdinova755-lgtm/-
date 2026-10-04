@@ -1,79 +1,63 @@
 [
   {
-    "start": 2.37,
-    "end": 5.1,
+    "start": 2.49,
+    "end": 4.86,
     "lines": [
       {
-        "text": "ПЕРЕЖИВАЮТ",
+        "text": "ТЕРЯЮТ СВЯЗЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСЬБА О РЕПЕТИТОРЕ",
+        "text": "НА ИНТЕНСИВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.37,
-    "end": 7.71,
+    "start": 5.49,
+    "end": 8.64,
     "lines": [
       {
-        "text": "СТАНЕТ ЛИШНИМ",
+        "text": "ОТКЛЮЧАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВОДОМ ДЛЯ РАСХОДОВ",
+        "text": "WIFI НА ЛЕКЦИЯХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.73,
-    "end": 11.1,
+    "start": 9.84,
+    "end": 13.65,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ДАЁТ",
+        "text": "ТРЕНАЖЁР ЗАПИСЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ЗАДАНИЙ",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.28,
-    "end": 13.05,
+    "start": 13.92,
+    "end": 15.45,
     "lines": [
       {
-        "text": "И РАЗБОР",
+        "text": "НАКАНУНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПОЛНОМ ОБЪЁМЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.41,
-    "end": 15.06,
-    "lines": [
-      {
-        "text": "БЕЗ ЕДИНОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЛАТЕЖА",
+        "text": "ВЫЕЗДА",
         "accent": true,
         "size": "big"
       }
@@ -81,119 +65,119 @@
   },
   {
     "start": 16.14,
-    "end": 18.81,
+    "end": 19.08,
     "lines": [
       {
-        "text": "ОСТРАЯ НУЖДА",
+        "text": "WIFI НА ЛЕКЦИЯХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖЕТ НЕ НАСТУПИТЬ",
+        "text": "НИЧЕГО НЕ МЕНЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.14,
-    "end": 20.34,
+    "start": 19.86,
+    "end": 23.25,
     "lines": [
       {
-        "text": "ЕСЛИ БАНКА",
+        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХВАТАЕТ",
+        "text": "В ПЕРЕРЫВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.88,
-    "end": 24.84,
+    "start": 23.58,
+    "end": 24.54,
     "lines": [
       {
-        "text": "ПОДГОТОВКА ИДЁТ",
+        "text": "ТАК ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМА",
+        "text": "КАК ДОМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.65,
-    "end": 27.99,
+    "start": 25.32,
+    "end": 26.7,
     "lines": [
       {
-        "text": "ТРЕВОГА ПОПРОСИТЬ",
+        "text": "ПРОПУЩЕННЫЙ ЧАС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛИШНИЕ ДЕНЬГИ",
+        "text": "БЕЗ СЕТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.2,
-    "end": 29.73,
+    "start": 27.21,
+    "end": 29.76,
     "lines": [
       {
-        "text": "СНИМАЕТСЯ ТЕМ",
+        "text": "НЕ СТАНОВИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ПРОСИТЬ НЕЧЕГО",
+        "text": "ЧАСОМ БЕЗ УЧЁБЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.6,
-    "end": 32.13,
+    "start": 30.84,
+    "end": 32.49,
     "lines": [
       {
-        "text": "РАЗГОВОР",
+        "text": "WIFI НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "О РЕПЕТИТОРЕ",
+        "text": "ЛЕКЦИЯХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.34,
-    "end": 35.13,
+    "start": 32.76,
+    "end": 36.42,
     "lines": [
       {
-        "text": "ОТКЛАДЫВАЕТСЯ",
+        "text": "БОЛЬШЕ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКА ХВАТАЕТ",
+        "text": "ОТНИМАЕТ ВРЕМЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 35.85,
-    "end": 37.96,
+    "start": 37.26,
+    "end": 39.88,
     "lines": [
       {
         "text": "ССЫЛКА",
