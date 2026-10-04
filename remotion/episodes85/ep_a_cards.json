@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.54,
+    "lines": [
+      {
+        "text": "МЕНЯ ИНОГДА ПРОСИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТОЛЬКО НАЙТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 4.71,
+    "lines": [
+      {
+        "text": "ЧИСЛО НО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 6.06,
+    "lines": [
+      {
+        "text": "ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМЫСЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.11,
+    "lines": [
+      {
+        "text": "А Я ПО ПРИВЫЧКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПИШУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.28,
+    "lines": [
+      {
+        "text": "ТОЛЬКО САМО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧИСЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.12,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.96,
+    "end": 11.22,
+    "lines": [
+      {
+        "text": "Я ПОЛУЧИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНОЕ ЧИСЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.22,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "И ПОТЕРЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАЛЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.36,
+    "end": 14.16,
+    "lines": [
+      {
+        "text": "ПРОСТО ЗА ТО ЧТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАПИСАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.16,
+    "end": 15.99,
+    "lines": [
+      {
+        "text": "КОРОТКОЕ ОБЪЯСНЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЯДОМ С НИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.86,
+    "end": 17.66,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.66,
+    "end": 19.38,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.38,
+    "end": 21.18,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОТДЕЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКАЗЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.18,
+    "end": 22.74,
+    "lines": [
+      {
+        "text": "КОГДА В ОТВЕТЕ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТОЛЬКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.74,
+    "end": 24.42,
+    "lines": [
+      {
+        "text": "ЧИСЛО НО И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.17,
+    "end": 26.0,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.0,
+    "end": 27.18,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

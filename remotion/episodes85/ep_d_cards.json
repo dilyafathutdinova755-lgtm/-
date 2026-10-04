@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.82,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ЕГЭ Я ИНОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.82,
+    "end": 3.69,
+    "lines": [
+      {
+        "text": "ПОДСТАВЛЯЮ ЧИСЛА В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.26,
+    "end": 5.31,
+    "lines": [
+      {
+        "text": "А ЗНАК ПЕРЕД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 7.02,
+    "lines": [
+      {
+        "text": "В САМОМ КОНЦЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПРОВЕРЯЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 8.6,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.6,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "Я ПОЛУЧИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНОЕ ЧИСЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.66,
+    "end": 10.71,
+    "lines": [
+      {
+        "text": "С НЕВЕРНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.28,
+    "end": 12.87,
+    "lines": [
+      {
+        "text": "И ИЗ ЗА ЭТОГО СОВСЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДРУГОЙ ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 14.65,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.65,
+    "end": 16.32,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.32,
+    "end": 17.85,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ОТДЕЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.06,
+    "end": 19.47,
+    "lines": [
+      {
+        "text": "ЗНАК РЕЗУЛЬТАТА В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМОМ КОНЦЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 21.05,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.05,
+    "end": 22.082,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
