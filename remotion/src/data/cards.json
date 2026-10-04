@@ -1,151 +1,199 @@
 [
   {
-    "start": 1.86,
-    "end": 3.18,
+    "start": 2.37,
+    "end": 5.1,
     "lines": [
       {
-        "text": "ДЕРЖАТСЯ НА",
+        "text": "ПЕРЕЖИВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРЕДНЕМ УРОВНЕ",
+        "text": "ПРОСЬБА О РЕПЕТИТОРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.78,
-    "end": 5.88,
+    "start": 5.37,
+    "end": 7.71,
     "lines": [
       {
-        "text": "ТРЕВОЖАТСЯ",
+        "text": "СТАНЕТ ЛИШНИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАРАЮТСЯ КАЖДЫЙ ДЕНЬ",
+        "text": "ПОВОДОМ ДЛЯ РАСХОДОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.39,
-    "end": 9.03,
+    "start": 8.73,
+    "end": 11.1,
     "lines": [
       {
-        "text": "РЕЗУЛЬТАТ БУДТО",
+        "text": "ТРЕНАЖЁР ДАЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ДВИГАЕТСЯ",
+        "text": "БАНК ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.14,
-    "end": 12.99,
+    "start": 11.28,
+    "end": 13.05,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ОТКЛАДЫВАЕТ",
+        "text": "И РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТ НЕДЕЛИ",
+        "text": "В ПОЛНОМ ОБЪЁМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.32,
-    "end": 15.36,
+    "start": 13.41,
+    "end": 15.06,
     "lines": [
       {
-        "text": "В ПОЛОСКУ",
+        "text": "БЕЗ ЕДИНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОГРЕССА",
+        "text": "ПЛАТЕЖА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.23,
-    "end": 19.95,
+    "start": 16.14,
+    "end": 18.81,
     "lines": [
       {
-        "text": "ПОЛОСКА РАСТЁТ",
+        "text": "ОСТРАЯ НУЖДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕТНО",
+        "text": "МОЖЕТ НЕ НАСТУПИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.85,
-    "end": 24.12,
+    "start": 19.14,
+    "end": 20.34,
     "lines": [
       {
-        "text": "НЕ ТРЕБУЕТ",
+        "text": "ЕСЛИ БАНКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИВАТЬ ЦИФРЫ",
+        "text": "ХВАТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.17,
-    "end": 26.88,
+    "start": 20.88,
+    "end": 24.84,
     "lines": [
       {
-        "text": "ТОПЧУСЬ",
+        "text": "ПОДГОТОВКА ИДЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА МЕСТЕ",
+        "text": "САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.21,
-    "end": 30.51,
+    "start": 25.65,
+    "end": 27.99,
     "lines": [
       {
-        "text": "ЗАМЕНЯЕТСЯ",
+        "text": "ТРЕВОГА ПОПРОСИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛОСКОЙ ПРОГРЕССА",
+        "text": "ЛИШНИЕ ДЕНЬГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.23,
-    "end": 33.94,
+    "start": 28.2,
+    "end": 29.73,
+    "lines": [
+      {
+        "text": "СНИМАЕТСЯ ТЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ПРОСИТЬ НЕЧЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.6,
+    "end": 32.13,
+    "lines": [
+      {
+        "text": "РАЗГОВОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "О РЕПЕТИТОРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 32.34,
+    "end": 35.13,
+    "lines": [
+      {
+        "text": "ОТКЛАДЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА ХВАТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 35.85,
+    "end": 37.96,
     "lines": [
       {
         "text": "ССЫЛКА",
