@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.65,
+    "end": 3.42,
+    "lines": [
+      {
+        "text": "НА СТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАЛЛОВ ПО МАТЕМАТИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.17,
+    "end": 6.15,
+    "lines": [
+      {
+        "text": "ПУТАЮТ ПОХОЖИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОИЗВОДНЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 8.19,
+    "lines": [
+      {
+        "text": "ПОД КОНЕЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР СТАВИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОИЗВОДНЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 15.57,
+    "lines": [
+      {
+        "text": "В МИНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДУЭЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.35,
+    "end": 17.61,
+    "lines": [
+      {
+        "text": "В ОБЩЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСКЕ ФОРМУЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.33,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "ДУЭЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.73,
+    "end": 23.58,
+    "lines": [
+      {
+        "text": "КОГДА СЧЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПОЛЬЗУ УЧЕНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.63,
+    "end": 28.5,
+    "lines": [
+      {
+        "text": "КАЖДАЯ ДУЭЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕНЬШЕ ДВУХ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 29.4,
+    "end": 31.68,
+    "lines": [
+      {
+        "text": "ПРОИЗВОДНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 31.98,
+    "end": 33.69,
+    "lines": [
+      {
+        "text": "ПОСЛЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРЫХ ДУЭЛЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 34.59,
+    "end": 37.24,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
