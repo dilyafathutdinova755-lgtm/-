@@ -1,31 +1,31 @@
 [
   {
-    "start": 1.92,
-    "end": 4.32,
+    "start": 1.86,
+    "end": 3.18,
     "lines": [
       {
-        "text": "ПЕРЕЖИВАЮТ",
+        "text": "ДЕРЖАТСЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАНУТСЯ БЕЗ ЗАДАНИЙ",
+        "text": "СРЕДНЕМ УРОВНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.77,
+    "start": 3.78,
     "end": 5.88,
     "lines": [
       {
-        "text": "В ЗАЛЕ",
+        "text": "ТРЕВОЖАТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШКОЛЫ",
+        "text": "СТАРАЮТСЯ КАЖДЫЙ ДЕНЬ",
         "accent": true,
         "size": "big"
       }
@@ -33,151 +33,119 @@
   },
   {
     "start": 6.39,
-    "end": 7.71,
+    "end": 9.03,
     "lines": [
       {
-        "text": "ГДЕ СЕТЬ",
+        "text": "РЕЗУЛЬТАТ БУДТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕЛЕ ЛОВИТ",
+        "text": "НЕ ДВИГАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.58,
-    "end": 12.18,
+    "start": 10.14,
+    "end": 12.99,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР СОХРАНЯЕТ",
+        "text": "ТРЕНАЖЁР ОТКЛАДЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "РЕЗУЛЬТАТ НЕДЕЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.84,
-    "end": 15.78,
+    "start": 13.32,
+    "end": 15.36,
     "lines": [
       {
-        "text": "ДОМА С",
+        "text": "В ПОЛОСКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОРОШИМ СИГНАЛОМ",
+        "text": "ПРОГРЕССА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.02,
-    "end": 16.89,
+    "start": 16.23,
+    "end": 19.95,
     "lines": [
       {
-        "text": "НИЧЕГО НЕ",
+        "text": "ПОЛОСКА РАСТЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕНЯЕТ",
+        "text": "ЗАМЕТНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.58,
-    "end": 21.12,
+    "start": 20.85,
+    "end": 24.12,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
+        "text": "НЕ ТРЕБУЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК В КЛАССЕ",
+        "text": "СРАВНИВАТЬ ЦИФРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.87,
-    "end": 23.46,
+    "start": 25.17,
+    "end": 26.88,
     "lines": [
       {
-        "text": "ТРЕВОГА ОСТАТЬСЯ",
+        "text": "ТОПЧУСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ЗАДАНИЙ",
+        "text": "НА МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.64,
-    "end": 25.92,
+    "start": 27.21,
+    "end": 30.51,
     "lines": [
       {
-        "text": "СНИМАЕТСЯ ТЕМ ЧТО",
+        "text": "ЗАМЕНЯЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК УЖЕ",
+        "text": "ПОЛОСКОЙ ПРОГРЕССА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.79,
-    "end": 28.23,
-    "lines": [
-      {
-        "text": "ТРЕВОГА ПЕРЕД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "АКТОВЫМ ЗАЛОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.44,
-    "end": 30.9,
-    "lines": [
-      {
-        "text": "СНИМАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СОХРАНЁННЫМ БАНКОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 31.62,
-    "end": 34.51,
+    "start": 31.23,
+    "end": 33.94,
     "lines": [
       {
         "text": "ССЫЛКА",
