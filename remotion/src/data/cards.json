@@ -1,183 +1,183 @@
 [
   {
-    "start": 2.49,
-    "end": 4.86,
+    "start": 1.65,
+    "end": 3.42,
     "lines": [
       {
-        "text": "ТЕРЯЮТ СВЯЗЬ",
+        "text": "НА СТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ИНТЕНСИВЕ",
+        "text": "БАЛЛОВ ПО МАТЕМАТИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.49,
-    "end": 8.64,
+    "start": 4.17,
+    "end": 6.15,
     "lines": [
       {
-        "text": "ОТКЛЮЧАЮТ",
+        "text": "ПУТАЮТ ПОХОЖИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "WIFI НА ЛЕКЦИЯХ",
+        "text": "ПРОИЗВОДНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.84,
-    "end": 13.65,
+    "start": 6.45,
+    "end": 8.19,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ЗАПИСЫВАЕТ",
+        "text": "ПОД КОНЕЦ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ВАРИАНТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.92,
-    "end": 15.45,
+    "start": 9.3,
+    "end": 12.72,
     "lines": [
       {
-        "text": "НАКАНУНЕ",
+        "text": "ТРЕНАЖЁР СТАВИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫЕЗДА",
+        "text": "ПРОИЗВОДНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.14,
-    "end": 19.08,
+    "start": 13.02,
+    "end": 15.57,
     "lines": [
       {
-        "text": "WIFI НА ЛЕКЦИЯХ",
+        "text": "В МИНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИЧЕГО НЕ МЕНЯЕТ",
+        "text": "ДУЭЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.86,
-    "end": 23.25,
+    "start": 16.35,
+    "end": 17.61,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ОТКРЫВАЮТСЯ",
+        "text": "В ОБЩЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПЕРЕРЫВЕ",
+        "text": "СПИСКЕ ФОРМУЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.58,
-    "end": 24.54,
+    "start": 18.33,
+    "end": 20.46,
     "lines": [
       {
-        "text": "ТАК ЖЕ",
+        "text": "ДУЭЛЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК ДОМА",
+        "text": "ПОВТОРЯЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.32,
-    "end": 26.7,
+    "start": 20.73,
+    "end": 23.58,
     "lines": [
       {
-        "text": "ПРОПУЩЕННЫЙ ЧАС",
+        "text": "КОГДА СЧЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ СЕТИ",
+        "text": "В ПОЛЬЗУ УЧЕНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.21,
-    "end": 29.76,
+    "start": 24.63,
+    "end": 28.5,
     "lines": [
       {
-        "text": "НЕ СТАНОВИТСЯ",
+        "text": "КАЖДАЯ ДУЭЛЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСОМ БЕЗ УЧЁБЫ",
+        "text": "МЕНЬШЕ ДВУХ МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.84,
-    "end": 32.49,
+    "start": 29.4,
+    "end": 31.68,
     "lines": [
       {
-        "text": "WIFI НА",
+        "text": "ПРОИЗВОДНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛЕКЦИЯХ",
+        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 32.76,
-    "end": 36.42,
+    "start": 31.98,
+    "end": 33.69,
     "lines": [
       {
-        "text": "БОЛЬШЕ НЕ",
+        "text": "ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТНИМАЕТ ВРЕМЯ",
+        "text": "БЫСТРЫХ ДУЭЛЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 37.26,
-    "end": 39.88,
+    "start": 34.59,
+    "end": 37.24,
     "lines": [
       {
         "text": "ССЫЛКА",
