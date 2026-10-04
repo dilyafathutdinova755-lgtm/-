@@ -1,151 +1,151 @@
 [
   {
-    "start": 3.3,
-    "end": 5.22,
+    "start": 2.58,
+    "end": 3.27,
     "lines": [
       {
-        "text": "НАХОДЯТ",
+        "text": "ЗАЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛИРОВКУ",
+        "text": "РЕБЁНКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.82,
-    "end": 8.61,
+    "start": 3.57,
+    "end": 6.87,
     "lines": [
       {
-        "text": "ОТЛИЧАЕТСЯ ОТ",
+        "text": "ИГРЫ ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КУРСОВ",
+        "text": "КАРТОЧЕК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.84,
+    "start": 7.65,
+    "end": 9.54,
+    "lines": [
+      {
+        "text": "ТРЕНАЖЁР СТРОИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИЙ РАУНД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.75,
     "end": 12.87,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР ДЕРЖИТ",
+        "text": "ИЗ ТЕРМИНОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ТУ",
+        "text": "КОТОРЫЕ ПУТАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.44,
-    "end": 16.8,
+    "start": 13.5,
+    "end": 14.67,
     "lines": [
       {
-        "text": "СОВПАДАЕТ С",
+        "text": "А НЕ ИЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕМОВЕРСИЕЙ",
+        "text": "ВСЕЙ ТЕМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.94,
-    "end": 21.51,
+    "start": 15.33,
+    "end": 19.17,
     "lines": [
       {
-        "text": "КОНСПЕКТ КУРСОВ",
+        "text": "РАУНД ЗАНИМАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ НУЖЕН",
+        "text": "МЕНЬШЕ ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.5,
-    "end": 24.93,
+    "start": 19.86,
+    "end": 23.1,
     "lines": [
       {
-        "text": "ФОРМУЛИРОВКА",
+        "text": "РЕЗУЛЬТАТ ВИДЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМА В БАНКЕ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.59,
-    "end": 27.6,
+    "start": 23.76,
+    "end": 25.83,
     "lines": [
       {
-        "text": "БЕЗ СВЕРКИ",
+        "text": "БЫСТРАЯ ИГРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРУЧНУЮ",
+        "text": "ЗАМЕНЯЕТ КАРТОЧКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.8,
-    "end": 30.78,
+    "start": 26.16,
+    "end": 27.84,
     "lines": [
       {
-        "text": "РАСХОЖДЕНИЕ",
+        "text": "И ДЕРЖИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ КУРСАМИ",
+        "text": "ВНИМАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.93,
-    "end": 32.97,
-    "lines": [
-      {
-        "text": "НЕ ВЫЗЫВАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СОМНЕНИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 34.11,
-    "end": 36.07,
+    "start": 28.5,
+    "end": 30.94,
     "lines": [
       {
         "text": "ССЫЛКА",
