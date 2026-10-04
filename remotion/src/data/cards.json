@@ -1,71 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 2.82,
+    "end": 2.79,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ЕГЭ Я ИНОГДА",
+        "text": "В ОДНОМ И ТОМ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНО",
+        "text": "СЛОВЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.82,
-    "end": 3.69,
+    "start": 2.79,
+    "end": 3.72,
     "lines": [
       {
-        "text": "ПОДСТАВЛЯЮ ЧИСЛА В",
+        "text": "ДЛЯ ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛУ",
+        "text": "РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.26,
-    "end": 5.31,
+    "start": 4.2,
+    "end": 5.55,
     "lines": [
       {
-        "text": "А ЗНАК ПЕРЕД",
+        "text": "Я ИНОГДА ПУТАЮ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТОМ",
+        "text": "УДАРЕНИЕМ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 5.31,
-    "end": 7.02,
+    "start": 5.55,
+    "end": 7.17,
     "lines": [
       {
-        "text": "В САМОМ КОНЦЕ НЕ",
+        "text": "В ПОХОЖЕМ НО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕПРОВЕРЯЮ",
+        "text": "ДРУГОМ СЛОВЕ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 8.6,
+    "start": 7.86,
+    "end": 8.65,
     "lines": [
       {
         "text": "НА",
@@ -80,56 +80,72 @@
     ]
   },
   {
-    "start": 8.6,
-    "end": 9.66,
+    "start": 8.65,
+    "end": 9.6,
     "lines": [
       {
-        "text": "Я ПОЛУЧИЛА",
+        "text": "Я ПОСТАВИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНОЕ ЧИСЛО",
+        "text": "УДАРЕНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 10.89,
+    "lines": [
+      {
+        "text": "ПО ПРИВЫЧКЕ ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.66,
-    "end": 10.71,
+    "start": 10.89,
+    "end": 12.09,
     "lines": [
       {
-        "text": "С НЕВЕРНЫМ",
+        "text": "СЛЫШАЛА В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАКОМ",
+        "text": "РАЗГОВОРЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "А НЕ ТАК КАК ТРЕБУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОРМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.28,
-    "end": 12.87,
-    "lines": [
-      {
-        "text": "И ИЗ ЗА ЭТОГО СОВСЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДРУГОЙ ОТВЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.83,
-    "end": 14.65,
+    "start": 14.42,
+    "end": 15.21,
     "lines": [
       {
         "text": "В",
@@ -144,16 +160,16 @@
     ]
   },
   {
-    "start": 14.65,
-    "end": 16.32,
+    "start": 15.21,
+    "end": 16.02,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "text": "ПО РУССКОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
@@ -161,39 +177,87 @@
   },
   {
     "start": 16.32,
-    "end": 17.85,
+    "end": 17.52,
     "lines": [
       {
-        "text": "КОТОРЫЙ ОТДЕЛЬНО",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯЕТ",
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.79,
+    "end": 18.63,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.06,
-    "end": 19.47,
+    "start": 18.63,
+    "end": 19.71,
     "lines": [
       {
-        "text": "ЗНАК РЕЗУЛЬТАТА В",
+        "text": "УДАРЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОМ КОНЦЕ",
+        "text": "ИМЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.22,
-    "end": 21.05,
+    "start": 19.71,
+    "end": 20.64,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНЫХ СЛОВАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 21.85,
+    "lines": [
+      {
+        "text": "ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТДЕЛЬНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 22.26,
+    "end": 23.1,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -208,8 +272,8 @@
     ]
   },
   {
-    "start": 21.05,
-    "end": 22.082,
+    "start": 23.1,
+    "end": 24.087,
     "lines": [
       {
         "text": "ССЫЛКА",
