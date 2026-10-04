@@ -1,183 +1,183 @@
 [
   {
-    "start": 1.65,
-    "end": 3.42,
+    "start": 3.36,
+    "end": 6.3,
     "lines": [
       {
-        "text": "НА СТО",
+        "text": "ТЕРЯЮТ БАЛЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАЛЛОВ ПО МАТЕМАТИКЕ",
+        "text": "НА НЕЛЕПЫЕ ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.17,
-    "end": 6.15,
+    "start": 6.6,
+    "end": 7.8,
     "lines": [
       {
-        "text": "ПУТАЮТ ПОХОЖИЕ",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОИЗВОДНЫЕ",
+        "text": "В СЛОЖНОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.45,
-    "end": 8.19,
+    "start": 8.79,
+    "end": 11.94,
     "lines": [
       {
-        "text": "ПОД КОНЕЦ",
+        "text": "ТРЕНАЖЁР ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВАРИАНТА",
+        "text": "ПРОШЛУЮ ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 12.72,
+    "start": 12.33,
+    "end": 13.5,
     "lines": [
       {
-        "text": "ТРЕНАЖЁР СТАВИТ",
+        "text": "РЯДОМ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОИЗВОДНЫЕ",
+        "text": "НОВОЙ ПОПЫТКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.02,
-    "end": 15.57,
+    "start": 14.34,
+    "end": 16.5,
     "lines": [
       {
-        "text": "В МИНИ",
+        "text": "ДАЖЕ ЕСЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДУЭЛИ",
+        "text": "ЛЁГКОЕ ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.35,
-    "end": 17.61,
+    "start": 17.25,
+    "end": 18.6,
     "lines": [
       {
-        "text": "В ОБЩЕМ",
+        "text": "ВИДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСКЕ ФОРМУЛ",
+        "text": "СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.33,
-    "end": 20.46,
+    "start": 19.05,
+    "end": 21.57,
     "lines": [
       {
-        "text": "ДУЭЛЬ",
+        "text": "А НЕ ПОСЛЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЕТСЯ",
+        "text": "ПРОВАЛА НА КОНТРОЛЬНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.73,
-    "end": 23.58,
+    "start": 22.47,
+    "end": 24.96,
     "lines": [
       {
-        "text": "КОГДА СЧЁТ",
+        "text": "ЛЁГКОЕ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПОЛЬЗУ УЧЕНИКА",
+        "text": "ТАКОЕ ЖЕ ВНИМАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 24.63,
-    "end": 28.5,
+    "start": 25.2,
+    "end": 26.52,
     "lines": [
       {
-        "text": "КАЖДАЯ ДУЭЛЬ",
+        "text": "К ОШИБКАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕНЬШЕ ДВУХ МИНУТ",
+        "text": "КАК СЛОЖНОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 29.4,
-    "end": 31.68,
+    "start": 27.36,
+    "end": 29.25,
     "lines": [
       {
-        "text": "ПРОИЗВОДНЫЕ",
+        "text": "НЕЛЕПАЯ ОШИБКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕСТАЮТ ПУТАТЬСЯ",
+        "text": "В ЛЁГКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.98,
-    "end": 33.69,
+    "start": 29.49,
+    "end": 32.67,
     "lines": [
       {
-        "text": "ПОСЛЕ",
+        "text": "ЗАМЕЧАЕТСЯ РАНЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРЫХ ДУЭЛЕЙ",
+        "text": "ЧЕМ ПОВТОРИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 34.59,
-    "end": 37.24,
+    "start": 33.66,
+    "end": 35.73,
     "lines": [
       {
         "text": "ССЫЛКА",
