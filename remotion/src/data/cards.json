@@ -1,71 +1,119 @@
 [
   {
-    "start": 1.86,
-    "end": 2.79,
+    "start": 1.98,
+    "end": 2.81,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ЕГЭ",
+        "text": "ПО СМЫСЛУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ВЫБОРОМ",
+        "text": "СЛОВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.79,
-    "end": 3.96,
+    "start": 3.21,
+    "end": 4.35,
     "lines": [
       {
-        "text": "ОТВЕТА Я РЕШАЛА",
+        "text": "ДЛЯ ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧТИ ВСЕ ВРЕМЯ",
+        "text": "РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.53,
-    "end": 5.82,
+    "start": 4.77,
+    "end": 5.73,
     "lines": [
       {
-        "text": "А ЗАДАНИЯ С",
+        "text": "ИНОГДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КРАТКИМ ОТВЕТОМ",
+        "text": "ПРОСКАКИВАЮТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.73,
+    "end": 6.72,
+    "lines": [
+      {
+        "text": "В МОЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕДЛОЖЕНИИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.08,
+    "end": 7.89,
+    "lines": [
+      {
+        "text": "НЕ НА СВОЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.82,
-    "end": 7.56,
+    "start": 8.52,
+    "end": 9.6,
     "lines": [
       {
-        "text": "БЕЗ ВАРИАНТОВ ПОЧТИ",
+        "text": "ХОТЯ В ОТДЕЛЬНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ТРОГАЛА",
+        "text": "СПИСКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.34,
-    "end": 9.18,
+    "start": 9.6,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "Я ИХ РАЗЛИЧАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗОШИБОЧНО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.06,
     "lines": [
       {
         "text": "НА",
@@ -80,72 +128,72 @@
     ]
   },
   {
-    "start": 9.18,
-    "end": 10.05,
+    "start": 13.06,
+    "end": 14.16,
     "lines": [
       {
-        "text": "БЕЗ ВАРИАНТОВ",
+        "text": "Я ВСТАВИЛА В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТА",
+        "text": "ПРЕДЛОЖЕНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.52,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "СОЗВУЧНОЕ НО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 11.01,
+    "start": 16.2,
+    "end": 17.03,
     "lines": [
       {
-        "text": "Я",
+        "text": "ПО СМЫСЛУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСТЕРЯЛАСЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 11.01,
-    "end": 12.27,
-    "lines": [
-      {
-        "text": "ИМЕННО ТАМ ГДЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАНЬШЕ",
+        "text": "СЛОВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.27,
-    "end": 13.89,
+    "start": 17.19,
+    "end": 18.0,
     "lines": [
       {
-        "text": "ПРОСТО ВЫБИРАЛА",
+        "text": "ВМЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНУЮ БУКВУ",
+        "text": "НУЖНОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.0,
-    "end": 15.81,
+    "start": 19.26,
+    "end": 20.07,
     "lines": [
       {
         "text": "В",
@@ -160,72 +208,88 @@
     ]
   },
   {
-    "start": 15.81,
-    "end": 16.95,
+    "start": 20.07,
+    "end": 20.88,
     "lines": [
       {
-        "text": "ЕСТЬ БАНК",
+        "text": "ПО РУССКОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.95,
-    "end": 18.45,
-    "lines": [
-      {
-        "text": "СО ВСЕМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ФОРМАТАМИ ЗАДАНИЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 18.45,
-    "end": 19.59,
-    "lines": [
-      {
-        "text": "СРАЗУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "А НЕ ТОЛЬКО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.59,
-    "end": 20.97,
-    "lines": [
-      {
-        "text": "С ПРИВЫЧНЫМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЫБОРОМ ОТВЕТА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.66,
+    "start": 21.27,
     "end": 22.5,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 22.95,
+    "end": 23.79,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.06,
+    "end": 25.38,
+    "lines": [
+      {
+        "text": "ИМЕННО ТАКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.38,
+    "end": 27.51,
+    "lines": [
+      {
+        "text": "ПО ЗВУЧАНИЮ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЯДОМ ДРУГ С ДРУГОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 28.41,
+    "end": 29.22,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -240,8 +304,8 @@
     ]
   },
   {
-    "start": 22.5,
-    "end": 23.575,
+    "start": 29.22,
+    "end": 30.295,
     "lines": [
       {
         "text": "ССЫЛКА",
