@@ -1,111 +1,95 @@
 [
   {
-    "start": 1.86,
-    "end": 2.82,
+    "start": 1.95,
+    "end": 3.03,
     "lines": [
       {
-        "text": "ПОСОБИЕ С ЗАДАНИЯМИ",
+        "text": "ДОЧЕРИ В ШКОЛЕ ВЫДАЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОНЛАЙН",
+        "text": "КОМПЛЕКТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.82,
-    "end": 3.69,
+    "start": 3.03,
+    "end": 4.56,
     "lines": [
       {
-        "text": "Я ЗАКАЗАЛ",
+        "text": "ЗАДАНИЙ ЕГЭ НЕ ТОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО НАЗВАНИЮ",
+        "text": "ПРОФИЛЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.69,
-    "end": 4.89,
+    "start": 4.56,
+    "end": 5.94,
     "lines": [
       {
-        "text": "А ПРИСЛАЛИ",
+        "text": "КОТОРЫЙ ОНА ВООБЩЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧТИ ТАКУЮ ЖЕ",
+        "text": "СДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 5.95,
+    "start": 5.94,
+    "end": 7.41,
     "lines": [
       {
-        "text": "ПО ОБЛОЖКЕ",
+        "text": "И ОНА ЗАМЕТИЛА ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НО",
+        "text": "НЕ СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.95,
-    "end": 7.11,
+    "start": 7.41,
+    "end": 8.55,
     "lines": [
       {
-        "text": "СОВСЕМ ДРУГУЮ ПО",
+        "text": "Я СЛУЧАЙНО СВЕРИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОДЕРЖАНИЮ",
+        "text": "НОМЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.11,
-    "end": 8.37,
-    "lines": [
-      {
-        "text": "КНИГУ ДРУГОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "АВТОРА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.64,
+    "start": 8.55,
     "end": 9.51,
     "lines": [
       {
-        "text": "Я РЕШАЛ ЕЕ",
+        "text": "ПРОФИЛЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДЕЛЮ",
+        "text": "ОБЛОЖКЕ",
         "accent": true,
         "size": "big"
       }
@@ -113,55 +97,55 @@
   },
   {
     "start": 9.51,
-    "end": 10.86,
+    "end": 10.53,
     "lines": [
       {
-        "text": "ПОКА НЕ СВЕРИЛ ПАРУ",
+        "text": "КОМПЛЕКТА С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ",
+        "text": "НОМЕРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.86,
-    "end": 11.97,
+    "start": 10.53,
+    "end": 11.94,
     "lines": [
       {
-        "text": "С",
+        "text": "В ЕЕ ЗАЯВЛЕНИИ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕМОВЕРСИИ",
+        "text": "ЭКЗАМЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.97,
-    "end": 13.95,
+    "start": 12.36,
+    "end": 13.17,
     "lines": [
       {
-        "text": "И НЕ УВИДЕЛ ЯВНОЕ",
+        "text": "ОНИ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕСОВПАДЕНИЕ ФОРМАТА",
+        "text": "СОВПАДАЛИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 14.25,
-    "end": 15.1,
+    "start": 13.83,
+    "end": 14.65,
     "lines": [
       {
         "text": "В",
@@ -176,8 +160,8 @@
     ]
   },
   {
-    "start": 15.1,
-    "end": 15.95,
+    "start": 14.65,
+    "end": 15.87,
     "lines": [
       {
         "text": "ЕСТЬ БАНК",
@@ -192,56 +176,40 @@
     ]
   },
   {
-    "start": 16.05,
-    "end": 17.1,
+    "start": 15.87,
+    "end": 16.83,
     "lines": [
       {
-        "text": "БЕЗ ПУТАНИЦЫ С",
+        "text": "ИМЕННО ПОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖИМИ",
+        "text": "НУЖНЫЙ ПРОФИЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 18.42,
+    "start": 16.83,
+    "end": 18.57,
     "lines": [
       {
-        "text": "ОБЛОЖКАМИ И",
+        "text": "БЕЗ ПУТАНИЦЫ МЕЖДУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЗВАНИЯМИ",
+        "text": "КОМПЛЕКТАМИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 18.75,
-    "end": 20.28,
-    "lines": [
-      {
-        "text": "ТАМ СРАЗУ ТОЧНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТО ЧТО НУЖНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.55,
-    "end": 21.4,
+    "start": 19.17,
+    "end": 20.0,
     "lines": [
       {
         "text": "ЕГЭ",
@@ -256,8 +224,8 @@
     ]
   },
   {
-    "start": 21.4,
-    "end": 22.444,
+    "start": 20.0,
+    "end": 21.122,
     "lines": [
       {
         "text": "ССЫЛКА",
