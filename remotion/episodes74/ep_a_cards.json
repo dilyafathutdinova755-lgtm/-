@@ -1,0 +1,146 @@
+[
+  {
+    "start": 4.53,
+    "end": 6.66,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ ВЕЧЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ЗНАЕШЬ НАЧАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 9.99,
+    "lines": [
+      {
+        "text": "ТРОЕЧНИЦА БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧКИ СТАРТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.14,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СДАЁШЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.96,
+    "lines": [
+      {
+        "text": "ОТКРЫВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРВОЕ ПОПАВШЕЕСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.47,
+    "end": 15.39,
+    "lines": [
+      {
+        "text": "ЗАСТРЕВАЕШЬ НА СЛОЖНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ЗАКРЫВАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.05,
+    "end": 20.94,
+    "lines": [
+      {
+        "text": "ОДНО МЕСТО С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАСТОЯЩИМИ ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.54,
+    "end": 23.7,
+    "lines": [
+      {
+        "text": "НЕ НУЖНО ВЫБИРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ СОТНЕЙ ФАЙЛОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.3,
+    "end": 26.34,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

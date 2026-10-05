@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.58,
+    "end": 5.73,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЮ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАСТАВЛЯЕТ ЗАКРЫТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.47,
+    "end": 9.54,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЕНИЕ НАПИСАНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ДЛЯ ТРОЕЧНИЦ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.02,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "И ВОЗВРАЩАЕШЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ПОНИМАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "ХОТЯ НОВОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УЗНАЁШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 17.46,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.03,
+    "end": 19.35,
+    "lines": [
+      {
+        "text": "НАПИСАННЫЙ ПРОСТЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.8,
+    "end": 21.27,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЧИТАТЬ ДО КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.93,
+    "end": 24.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

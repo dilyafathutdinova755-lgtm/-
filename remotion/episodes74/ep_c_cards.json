@@ -1,0 +1,146 @@
+[
+  {
+    "start": 3.585,
+    "end": 4.965,
+    "lines": [
+      {
+        "text": "БРОСАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТРЕТЬЕЙ МИНУТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.715,
+    "end": 8.145,
+    "lines": [
+      {
+        "text": "А ИГРУ МОЖЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ОДНОМ ДЫХАНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.955,
+    "end": 10.455,
+    "lines": [
+      {
+        "text": "ЗАМЕТИЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕ ЖЕ ПРАВИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.025,
+    "end": 13.005,
+    "lines": [
+      {
+        "text": "ПОДАННЫЕ КАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКОЕ ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.665,
+    "end": 15.525,
+    "lines": [
+      {
+        "text": "ЗАПОМИНАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕТНО БЫСТРЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.515,
+    "end": 18.285,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.885,
+    "end": 20.235,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.745,
+    "end": 23.475,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ПРЕВРАЩАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК В ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.255,
+    "end": 26.109,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
