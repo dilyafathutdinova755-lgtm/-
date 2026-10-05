@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.67,
+    "end": 4.83,
+    "lines": [
+      {
+        "text": "ПОСЛЕ ОШИБКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАНОВИТСЯ ТРЕВОЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.37,
+    "end": 7.32,
+    "lines": [
+      {
+        "text": "РАЗБОР ЧИТАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ДИАГОНАЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.28,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "ВИДИШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНЫЙ ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.08,
+    "end": 11.49,
+    "lines": [
+      {
+        "text": "ВНУТРИ ВСЁ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЖИМАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 14.73,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЕНИЕ СКОРЕЕ ПРОЛИСТЫВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ ЧИТАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 18.63,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.78,
+    "end": 21.24,
+    "lines": [
+      {
+        "text": "ПО ШАГАМ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНУТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.48,
+    "end": 22.05,
+    "lines": [
+      {
+        "text": "КОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСПОКОИШЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.77,
+    "end": 24.69,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

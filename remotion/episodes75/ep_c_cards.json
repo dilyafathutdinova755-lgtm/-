@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.205,
+    "end": 4.035,
+    "lines": [
+      {
+        "text": "ПОВТОРЯЕШЬ ПРО СЕБЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕСКОНЕЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.605,
+    "end": 7.185,
+    "lines": [
+      {
+        "text": "А ВСЛУХ ПРОВЕРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕБЯ БОИШЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.115,
+    "end": 10.005,
+    "lines": [
+      {
+        "text": "СПОКОЙНЕЕ ДУМАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ВСЁ ЗНАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.365,
+    "end": 12.105,
+    "lines": [
+      {
+        "text": "ЧЕМ ПРОВЕРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И УВИДЕТЬ ПРОБЕЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.125,
+    "end": 14.415,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.715,
+    "end": 16.035,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.455,
+    "end": 19.965,
+    "lines": [
+      {
+        "text": "ОШИБКА ВЫГЛЯДИТ КАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЫЧНЫЙ ХОД ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.685,
+    "end": 22.408,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
