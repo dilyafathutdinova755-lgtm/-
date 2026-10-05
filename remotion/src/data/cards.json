@@ -1,71 +1,71 @@
 [
   {
-    "start": 3.735,
-    "end": 6.105,
+    "start": 3.33,
+    "end": 4.32,
     "lines": [
       {
-        "text": "БЕСИТ СИЛЬНЕЕ",
+        "text": "ОТКАЗЫВАЕШЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОБСТВЕННОЙ ОШИБКИ",
+        "text": "ЗУБРИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.365,
-    "end": 8.925,
+    "start": 4.89,
+    "end": 7.17,
     "lines": [
       {
-        "text": "ТЫ ЗАСТРЕВАЕШЬ",
+        "text": "НУЖНО ПОНЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ТАКОМ МЕСТЕ",
+        "text": "ЗАЧЕМ ОНИ НУЖНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.165,
-    "end": 11.265,
+    "start": 8.04,
+    "end": 10.89,
     "lines": [
       {
-        "text": "НЕ ИДЁШЬ ДАЛЬШЕ",
+        "text": "КОГДА УЗНАЛА ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКА НЕ ПОЙМЁШЬ",
+        "text": "СОБЫТИЕ ВЫЗВАЛО ДРУГОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.685,
-    "end": 12.735,
+    "start": 11.49,
+    "end": 13.32,
     "lines": [
       {
-        "text": "ЧТО ТАМ",
+        "text": "ОБЕ ДАТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧЕВИДНОГО",
+        "text": "ЗАПОМНИЛИСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.635,
-    "end": 16.515,
+    "start": 14.22,
+    "end": 15.66,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -73,47 +73,63 @@
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ПО ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.995,
-    "end": 18.165,
+    "start": 15.99,
+    "end": 17.34,
     "lines": [
       {
-        "text": "ГДЕ ШАГИ",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЕНЫ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.555,
-    "end": 19.755,
+    "start": 18.0,
+    "end": 19.68,
     "lines": [
       {
-        "text": "А НЕ НАЗВАНЫ",
+        "text": "ГДЕ ДАТЫ СВЯЗАНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЧЕВИДНЫМИ",
+        "text": "С СОБЫТИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.385,
-    "end": 22.305,
+    "start": 20.07,
+    "end": 21.39,
+    "lines": [
+      {
+        "text": "А НЕ СТОЯТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОЛЫМ СПИСКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.02,
+    "end": 23.7,
     "lines": [
       {
         "text": "ССЫЛКА",
