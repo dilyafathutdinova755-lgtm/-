@@ -503,3 +503,13 @@ episodes86/frames/
 episodes86/idframes/
 episodes86/qa_frames/
 episodes86_out/
+sources_coffee123_40/
+asr_coffee123_40/
+episodes87/*.mp4
+episodes87/*.wav
+episodes87/*.log
+episodes87/render/
+episodes87/frames/
+episodes87/idframes/
+episodes87/qa_frames/
+episodes87_out/
