@@ -1,138 +1,138 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 4.02,
     "lines": [
       {
-        "text": "В СПИСКЕ СЛОВ С",
+        "text": "ДОЧЬ УЧИТ ПРАВИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕПРОВЕРЯЕМЫМИ ГЛАСНЫМИ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.3,
-    "end": 4.2,
-    "lines": [
-      {
-        "text": "ДЛЯ ЕГЭ ПО РУССКОМУ У МЕНЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОСТАЮТСЯ",
+        "text": "РУССКОГО ЯЗЫКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.53,
-    "end": 6.09,
+    "start": 4.02,
+    "end": 5.7,
     "lines": [
       {
-        "text": "ОДНИ И ТЕ ЖЕ",
+        "text": "ГОВОРИТ ЧТО ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЯТЬ СЛОВ",
+        "text": "ЛУЧШЕ ЗАПОМИНАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.17,
+    "lines": [
+      {
+        "text": "И ВОЗРАЗИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МНЕ НЕЧЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.3,
-    "end": 7.32,
+    "start": 7.83,
+    "end": 9.27,
     "lines": [
       {
-        "text": "Я УПОРНО",
+        "text": "Я СМОТРЕЛА НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОМНЮ",
+        "text": "РЕЗУЛЬТАТ ТЕСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.59,
-    "end": 8.58,
+    "start": 9.57,
+    "end": 10.83,
     "lines": [
       {
-        "text": "ОСТАЛЬНЫЕ",
+        "text": "ПОМНИТ ОНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМНИЛИСЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 8.76,
-    "end": 9.93,
-    "lines": [
-      {
-        "text": "А ЭТИ ПЯТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СОПРОТИВЛЯЮТСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 10.14,
-    "end": 12.21,
-    "lines": [
-      {
-        "text": "ПЕРЕЧИТЫВАТЬ ВЕСЬ СПИСОК",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАДИ НИХ СКУЧНО",
+        "text": "БОЛЬШЕ ЧЕМ РАНЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.51,
-    "end": 13.92,
+    "start": 11.13,
+    "end": 13.44,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "А ПОВТОРЯТЬ ВСЛУХ ЕЙ",
         "accent": false,
         "size": "small"
       },
+      {
+        "text": "НРАВИТСЯ БОЛЬШЕ ЧЕМ ЧИТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.13,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.02,
+    "lines": [
       {
         "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.19,
-    "end": 15.24,
+    "start": 16.02,
+    "end": 17.01,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ИГРЫ",
         "accent": false,
         "size": "small"
       },
@@ -144,40 +144,24 @@
     ]
   },
   {
-    "start": 15.42,
-    "end": 17.07,
+    "start": 17.43,
+    "end": 19.77,
     "lines": [
       {
-        "text": "ГДЕ СЛОВА",
+        "text": "ГДЕ ПРАВИЛА МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 17.07,
-    "end": 18.24,
-    "lines": [
-      {
-        "text": "СНОВА И СНОВА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОКА НЕ ЗАПОМНИШЬ",
+        "text": "ПОВТОРЯТЬ В ЛЮБОМ УДОБНОМ МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.42,
-    "end": 19.35,
+    "start": 20.4,
+    "end": 21.4,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +176,8 @@
     ]
   },
   {
-    "start": 19.35,
-    "end": 20.226,
+    "start": 21.4,
+    "end": 22.24,
     "lines": [
       {
         "text": "ССЫЛКА",
