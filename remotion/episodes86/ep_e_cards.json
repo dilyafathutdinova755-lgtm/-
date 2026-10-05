@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.6,
+    "lines": [
+      {
+        "text": "В ТЕТРАДИ ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ СТРАНИЦЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.6,
+    "end": 5.85,
+    "lines": [
+      {
+        "text": "И НИ ОДНА ДАТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СВЯЗАНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.24,
+    "end": 7.17,
+    "lines": [
+      {
+        "text": "ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОЛБИК ЦИФР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "УЧИТЬ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ТЕЛЕФОННУЮ КНИГУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.31,
+    "lines": [
+      {
+        "text": "БЫСТРО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫВАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.31,
+    "end": 12.18,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.18,
+    "end": 13.38,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.38,
+    "end": 14.25,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.54,
+    "lines": [
+      {
+        "text": "ГДЕ ДАТА СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДЁТ ВМЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.54,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.62,
+    "end": 17.43,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.43,
+    "end": 18.327,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.54,
+    "lines": [
+      {
+        "text": "В НАШЕМ КЛАССЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРЯТЬ ОТВЕТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 4.86,
+    "lines": [
+      {
+        "text": "ПО ЕГЭ В ЧАТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО ПЕРВЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.86,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "ПОЧТИ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.48,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "ОСТАЛЬНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОГЛАШАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 8.65,
+    "lines": [
+      {
+        "text": "ПОТОМУ ЧТО ЛЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.65,
+    "end": 10.59,
+    "lines": [
+      {
+        "text": "НЕВЕРНЫЙ ОТВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАБИРАЕТ ПЯТЬ ПЛЮСОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 13.17,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.17,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "ПО КОТОРОМУ ОТВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО ПРОВЕРИТЬ БЕЗ ЧАТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 16.68,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.68,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

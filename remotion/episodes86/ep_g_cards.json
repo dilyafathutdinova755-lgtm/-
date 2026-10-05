@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.7,
+    "lines": [
+      {
+        "text": "НА ТЕТРАДИ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОРФОГРАММАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.18,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "Я ТАК СТАРАЮСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПИСАТЬ КРАСИВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.19,
+    "end": 6.27,
+    "lines": [
+      {
+        "text": "ЧТО КРАСОТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЧЕРКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.51,
+    "end": 8.46,
+    "lines": [
+      {
+        "text": "ОТВЛЕКАЕТ ОТ СМЫСЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМИХ ПРАВИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 11.73,
+    "lines": [
+      {
+        "text": "Я ТРАЧУ ВЕЧЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ОФОРМЛЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.88,
+    "end": 14.22,
+    "lines": [
+      {
+        "text": "И ПОЧТИ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮ ПРАВИЛА ВСЛУХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 16.47,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.47,
+    "end": 17.64,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.64,
+    "end": 18.75,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.26,
+    "end": 20.37,
+    "lines": [
+      {
+        "text": "ГДЕ КРАСОТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИ ПРИЧЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.94,
+    "end": 22.2,
+    "lines": [
+      {
+        "text": "А НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТИТЬ НА ВОПРОС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.19,
+    "end": 24.24,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 24.24,
+    "end": 25.068,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

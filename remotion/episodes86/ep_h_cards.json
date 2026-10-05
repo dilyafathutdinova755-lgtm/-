@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.81,
+    "lines": [
+      {
+        "text": "ПОДРУГА ОБЪЯСНИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ДВЕ МИНУТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "Я КИВАЛА ХОТЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К КОНЦУ ПЕРЕМЕНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.33,
+    "end": 7.44,
+    "lines": [
+      {
+        "text": "УЖЕ НЕ ПОМНИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "ВЕЧЕРОМ ПОПРОБОВАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.46,
+    "lines": [
+      {
+        "text": "И ЗАСТРЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВТОРОМ ШАГЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.12,
+    "end": 14.19,
+    "lines": [
+      {
+        "text": "А ЗВОНИТЬ ПОДРУГЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВТОРОЙ РАЗ НЕЛОВКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.12,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.21,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "ВТОРОЙ ШАГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.32,
+    "end": 20.73,
+    "lines": [
+      {
+        "text": "МОЖНО ПЕРЕЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 21.9,
+    "lines": [
+      {
+        "text": "НИКОГО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРАШИВАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.59,
+    "end": 23.67,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.67,
+    "end": 24.52,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

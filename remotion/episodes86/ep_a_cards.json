@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.54,
+    "lines": [
+      {
+        "text": "НА КАНИКУЛАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОСТАВИЛ ПЛАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "ПЯТЬ ЗАДАНИЙ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.06,
+    "lines": [
+      {
+        "text": "И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОМАЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.17,
+    "lines": [
+      {
+        "text": "НА ВТОРОЙ ДЕНЬ ПОТОМУ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ЗНАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.17,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "КАКИЕ ПЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫБИРАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 9.78,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЖЕ ПОЛОВИНА УСТАЛОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.78,
+    "end": 11.28,
+    "lines": [
+      {
+        "text": "А САМИ ПЯТЬ ЗАДАНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫЛИ БЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.28,
+    "end": 12.51,
+    "lines": [
+      {
+        "text": "ЕРУНДОЙ ЕСЛИ БЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.38,
+    "lines": [
+      {
+        "text": "БЫЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.38,
+    "end": 14.34,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.34,
+    "end": 15.21,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.21,
+    "end": 16.32,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДУТ ПО ПОРЯДКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.32,
+    "end": 17.55,
+    "lines": [
+      {
+        "text": "И ПЯТЬ ПОДРЯД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО БРАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "С ТОГО МЕСТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ОСТАНОВИЛСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.35,
+    "end": 20.37,
+    "lines": [
+      {
+        "text": "НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.37,
+    "end": 21.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
