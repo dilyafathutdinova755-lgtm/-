@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.61,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "ВСЁ ЧТО ПОМНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОДНОЙ ТЕМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 7.35,
+    "lines": [
+      {
+        "text": "И ПОЛУЧИЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ СТРОКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.04,
+    "end": 10.02,
+    "lines": [
+      {
+        "text": "СОХРАНИЛА ЛИСТОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ТОЧКУ ОТСЧЁТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.38,
+    "end": 11.94,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ НЕДЕЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРИЛА ТЕСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.18,
+    "end": 14.01,
+    "lines": [
+      {
+        "text": "ЧТОБЫ УВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЁТ ЛИ РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.64,
+    "end": 16.35,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.59,
+    "end": 17.85,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.33,
+    "end": 20.73,
+    "lines": [
+      {
+        "text": "МОЖНО СРАЗУ УВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО ЗАПОМНИЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.09,
+    "end": 22.29,
+    "lines": [
+      {
+        "text": "БЕЗ СВОИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕРОВ НА КУХНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.8,
+    "end": 24.43,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

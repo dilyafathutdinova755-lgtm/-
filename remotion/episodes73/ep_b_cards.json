@@ -1,0 +1,114 @@
+[
+  {
+    "start": 2.745,
+    "end": 6.135,
+    "lines": [
+      {
+        "text": "НЕ МОЖЕШЬ ПРОВЕРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНО ЛИ РЕШЕНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.735,
+    "end": 7.845,
+    "lines": [
+      {
+        "text": "СМОТРИШЬ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГО РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.995,
+    "end": 11.055,
+    "lines": [
+      {
+        "text": "МОЖЕШЬ СКАЗАТЬ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АККУРАТНО ИЛИ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.535,
+    "end": 12.945,
+    "lines": [
+      {
+        "text": "А ПРАВИЛЬНО ЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ МОЖЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.635,
+    "end": 16.215,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.545,
+    "end": 19.605,
+    "lines": [
+      {
+        "text": "РЕБЁНОК И ТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРЯЕТЕ ХОД РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.055,
+    "end": 21.915,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
