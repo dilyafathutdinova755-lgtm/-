@@ -1,151 +1,151 @@
 [
   {
-    "start": 2.67,
-    "end": 5.52,
+    "start": 1.83,
+    "end": 3.87,
     "lines": [
       {
-        "text": "СМОТРИШЬ РАЗБОР",
+        "text": "ИЗБЕГАЕШЬ ОТКРЫВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПЕРЕМОТКЕ",
+        "text": "ДНЕВНИК С ОЦЕНКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.09,
-    "end": 8.13,
+    "start": 5.1,
+    "end": 7.62,
     "lines": [
       {
-        "text": "НЕ УСПЕВАЕШЬ ПОНЯТЬ",
+        "text": "БОИШЬСЯ УВИДЕТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИ ОДНОГО ШАГА",
+        "text": "ЕЩЁ ОДНУ ТРОЙКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.15,
-    "end": 11.04,
+    "start": 8.67,
+    "end": 11.43,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЁР ПОДКЛЮЧАЕТ",
+        "text": "ЕГЭ ТРЕНАЖЁР ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЗВУЧЕННЫЙ РАЗБОР",
+        "text": "ПРОЦЕНТ ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.37,
-    "end": 14.58,
+    "start": 11.61,
+    "end": 14.37,
     "lines": [
       {
-        "text": "В ОБЫЧНОМ ТЕМПЕ",
+        "text": "ВМЕСТО ШКОЛЬНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ПЕРЕМОТКИ",
+        "text": "ОЦЕНКИ В ДНЕВНИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.26,
-    "end": 19.59,
+    "start": 15.36,
+    "end": 19.02,
     "lines": [
       {
-        "text": "КАЖДЫЙ ШАГ МОЖНО",
+        "text": "ПРОЦЕНТ РАСТЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАНОВИТЬ",
+        "text": "ПОСТЕПЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.34,
-    "end": 22.56,
+    "start": 19.86,
+    "end": 22.41,
     "lines": [
       {
-        "text": "РАЗБОР НЕ ТРЕБУЕТ",
+        "text": "ТАКОЙ ПРОЦЕНТ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖАТЬ ПАЛЕЦ",
+        "text": "ОТОБРАЖАЕТСЯ В ДНЕВНИКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.98,
-    "end": 24.72,
+    "start": 23.13,
+    "end": 24.96,
     "lines": [
       {
-        "text": "ЧТОБЫ НЕ ПРОПУСТИТЬ",
+        "text": "И НЕ ВИДЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНЫЙ МОМЕНТ",
+        "text": "РОДИТЕЛЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.56,
-    "end": 26.91,
+    "start": 26.04,
+    "end": 28.47,
     "lines": [
       {
-        "text": "РАЗБОР НА",
+        "text": "ДНЕВНИК С ТРОЙКАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОРМАЛЬНОЙ СКОРОСТИ",
+        "text": "ЗАМЕНЯЕТСЯ ПРОЦЕНТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 27.54,
-    "end": 30.33,
+    "start": 28.62,
+    "end": 29.52,
     "lines": [
       {
-        "text": "ЗАМЕНЯЕТ ПЕРЕМОТКУ",
+        "text": "КОТОРЫЙ РАСТЁТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВДВОЕ БЫСТРЕЕ",
+        "text": "ПОСТЕПЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 31.17,
-    "end": 33.57,
+    "start": 30.36,
+    "end": 32.46,
     "lines": [
       {
         "text": "ССЫЛКА",
