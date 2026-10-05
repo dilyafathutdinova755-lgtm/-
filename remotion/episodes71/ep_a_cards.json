@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.7,
+    "end": 6.33,
+    "lines": [
+      {
+        "text": "С ПОСТАНОВОЧНОЙ ПАНИКОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ОБРАТНЫМ ОТСЧЁТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР ЗАПУСКАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБНЫЙ ВАРИАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.96,
+    "end": 11.01,
+    "lines": [
+      {
+        "text": "С ОБЫЧНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАЙМЕРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.58,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "БЕЗ ДРАМАТИЧНОЙ МУЗЫКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВЕСЬ ЭКРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.84,
+    "end": 18.33,
+    "lines": [
+      {
+        "text": "ПРОБНИК ПРОСТО ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕСТНОЕ ВРЕМЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.02,
+    "end": 19.89,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПЕЦЭФФЕКТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.61,
+    "end": 24.33,
+    "lines": [
+      {
+        "text": "НИКАКОЙ ПОСТАНОВОЧНОЙ ПАНИКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТРЕБУЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.05,
+    "end": 26.01,
+    "lines": [
+      {
+        "text": "ЧЕСТНОЕ ВРЕМЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В КОНЦЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.4,
+    "end": 29.61,
+    "lines": [
+      {
+        "text": "ЗАМЕНЯЕТ ПОСТАНОВОЧНУЮ ПАНИКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ЛИШНИЕ СПЕЦЭФФЕКТЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.33,
+    "end": 32.49,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
