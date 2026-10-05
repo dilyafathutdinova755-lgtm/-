@@ -84,12 +84,12 @@
     "end": 16.35,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
         "accent": true,
         "size": "big"
       }
