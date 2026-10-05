@@ -1,151 +1,135 @@
 [
   {
-    "start": 2.61,
-    "end": 5.7,
+    "start": 4.53,
+    "end": 6.66,
     "lines": [
       {
-        "text": "ВСЁ ЧТО ПОМНИТ",
+        "text": "КАЖДЫЙ ВЕЧЕР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОДНОЙ ТЕМЕ",
+        "text": "НЕ ЗНАЕШЬ НАЧАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.15,
-    "end": 7.35,
+    "start": 7.35,
+    "end": 9.99,
     "lines": [
       {
-        "text": "И ПОЛУЧИЛОСЬ",
+        "text": "ТРОЕЧНИЦА БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРИ СТРОКИ",
+        "text": "ТОЧКИ СТАРТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.04,
-    "end": 10.02,
+    "start": 10.14,
+    "end": 10.86,
     "lines": [
       {
-        "text": "СОХРАНИЛА ЛИСТОК",
+        "text": "СРАЗУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК ТОЧКУ ОТСЧЁТА",
+        "text": "СДАЁШЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.94,
+    "start": 11.43,
+    "end": 12.96,
     "lines": [
       {
-        "text": "ЧЕРЕЗ НЕДЕЛЮ",
+        "text": "ОТКРЫВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРИЛА ТЕСТ",
+        "text": "ПЕРВОЕ ПОПАВШЕЕСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.18,
-    "end": 14.01,
+    "start": 13.47,
+    "end": 15.39,
     "lines": [
       {
-        "text": "ЧТОБЫ УВИДЕТЬ",
+        "text": "ЗАСТРЕВАЕШЬ НА СЛОЖНОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСТЁТ ЛИ РЕЗУЛЬТАТ",
+        "text": "И ЗАКРЫВАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.64,
-    "end": 16.35,
+    "start": 16.5,
+    "end": 18.3,
     "lines": [
-      {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.59,
-    "end": 17.85,
-    "lines": [
-      {
-        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.33,
-    "end": 20.73,
+    "start": 19.05,
+    "end": 20.94,
     "lines": [
       {
-        "text": "МОЖНО СРАЗУ УВИДЕТЬ",
+        "text": "ОДНО МЕСТО С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОЛЬКО ЗАПОМНИЛОСЬ",
+        "text": "НАСТОЯЩИМИ ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.09,
-    "end": 22.29,
+    "start": 21.54,
+    "end": 23.7,
     "lines": [
       {
-        "text": "БЕЗ СВОИХ",
+        "text": "НЕ НУЖНО ВЫБИРАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕРОВ НА КУХНЕ",
+        "text": "МЕЖДУ СОТНЕЙ ФАЙЛОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.8,
-    "end": 24.43,
+    "start": 24.3,
+    "end": 26.34,
     "lines": [
       {
         "text": "ССЫЛКА",
