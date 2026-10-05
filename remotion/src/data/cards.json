@@ -1,119 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.69,
+    "end": 3.24,
     "lines": [
       {
-        "text": "СОСЕД ПО ПАРТЕ",
+        "text": "ДОЧЬ УВЕРЯЕТ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСЫВАЕТ",
+        "text": "ОБЪЯСНИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.69,
-    "end": 4.98,
+    "start": 3.66,
+    "end": 5.19,
     "lines": [
       {
-        "text": "А ПОТОМ",
+        "text": "А Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УДИВЛЯЕТСЯ",
+        "text": "КИВАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.98,
-    "end": 6.84,
+    "start": 5.61,
+    "end": 6.69,
     "lines": [
       {
-        "text": "ЧТО НА ПРОБНИКЕ",
+        "text": "НО СКАЗАЛА ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "У НЕГО НИЧЕГО",
+        "text": "ПОНЯЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.84,
-    "end": 7.83,
+    "start": 7.29,
+    "end": 8.13,
     "lines": [
       {
-        "text": "НЕ ВЫХОДИТ Я РЕШИЛ",
+        "text": "ТЕПЕРЬ МНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ПУСТЬ",
+        "text": "НЕЛОВКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.83,
-    "end": 9.06,
+    "start": 8.28,
+    "end": 9.27,
     "lines": [
       {
-        "text": "РЕШАЕТ",
+        "text": "И ЕЙ НАВЕРНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМ",
+        "text": "ТОЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.59,
+    "start": 9.69,
+    "end": 11.07,
     "lines": [
       {
-        "text": "И ПОКАЗАЛ ГДЕ",
+        "text": "ОНА ДУМАЕТ ЧТО Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ ЛЕЖАТ",
+        "text": "ВСЕ УСВОИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.95,
-    "end": 12.18,
+    "start": 11.4,
+    "end": 12.42,
     "lines": [
       {
-        "text": "ПО НОМЕРАМ ЗА ВЕЧЕР",
+        "text": "А Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОН РЕШИЛ ЧЕТЫРЕ",
+        "text": "БОЮСЬ ПРИЗНАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.54,
-    "end": 13.44,
+    "start": 12.99,
+    "end": 13.8,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -128,56 +128,56 @@
     ]
   },
   {
-    "start": 13.44,
-    "end": 14.28,
+    "start": 13.8,
+    "end": 14.7,
     "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.28,
-    "end": 15.42,
+    "start": 14.7,
+    "end": 15.69,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛЕЖАТ ПО НОМЕРАМ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.6,
-    "end": 16.62,
+    "start": 15.69,
+    "end": 17.67,
     "lines": [
       {
-        "text": "И НАЧАТЬ МОЖНО",
+        "text": "КОТОРЫЙ МЫ С ДОЧЕРЬЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ЛЮБОГО",
+        "text": "МОЖЕМ ПРОЧИТАТЬ ВМЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.92,
-    "end": 17.97,
+    "start": 18.12,
+    "end": 19.2,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +192,8 @@
     ]
   },
   {
-    "start": 17.97,
-    "end": 18.84,
+    "start": 19.2,
+    "end": 20.098,
     "lines": [
       {
         "text": "ССЫЛКА",
