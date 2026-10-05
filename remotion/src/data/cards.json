@@ -1,135 +1,119 @@
 [
   {
-    "start": 3.315,
-    "end": 5.805,
+    "start": 3.33,
+    "end": 4.41,
     "lines": [
       {
-        "text": "МАЛО ЗНАТЬ ТЕРМИН",
+        "text": "ВЫЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖЕН СВОЙ ПРИМЕР",
+        "text": "ВОПРОС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.495,
-    "end": 8.325,
+    "start": 5.04,
+    "end": 5.88,
     "lines": [
       {
-        "text": "А ПРИМЕРЫ ВСЕГДА",
+        "text": "ЧЬИ ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИНАКОВЫЕ",
+        "text": "ЗАДАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.135,
-    "end": 10.905,
+    "start": 6.75,
+    "end": 9.24,
     "lines": [
       {
-        "text": "НА ПРОБНИКЕ ПРИВЕЛА",
+        "text": "ПРОВЕРЯЕШЬ ОДИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОТ ЖЕ ПРИМЕР",
+        "text": "ИСТОЧНИК И ГОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.265,
-    "end": 12.165,
+    "start": 10.32,
+    "end": 12.99,
     "lines": [
       {
-        "text": "ЧТО И В",
+        "text": "В ПОЛОВИНЕ СЛУЧАЕВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОШЛОМ ОТВЕТЕ",
+        "text": "ИХ ПРОСТО НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.795,
-    "end": 15.135,
+    "start": 14.1,
+    "end": 15.78,
     "lines": [
-      {
-        "text": "ЭКСПЕРТ МОГ ЗАСЧИТАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТОЛЬКО ОДИН РАЗ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.855,
-    "end": 17.595,
-    "lines": [
-      {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.955,
-    "end": 19.245,
-    "lines": [
-      {
-        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.755,
-    "end": 22.095,
+    "start": 16.05,
+    "end": 17.04,
     "lines": [
       {
-        "text": "КОТОРЫЕ ПРИВЯЗЫВАЮТ",
+        "text": "ЭТО ОФИЦИАЛЬНЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРМИН К ПРИМЕРАМ",
+        "text": "БАНК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.695,
-    "end": 24.315,
+    "start": 17.37,
+    "end": 19.59,
+    "lines": [
+      {
+        "text": "ИСТОЧНИК КОТОРОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ НУЖНО ИСКАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.25,
+    "end": 22.14,
     "lines": [
       {
         "text": "ССЫЛКА",
