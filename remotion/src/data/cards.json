@@ -1,199 +1,183 @@
 [
   {
     "start": 1.86,
-    "end": 3.99,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ЗАПИСЫВАЮ В ТЕЛЕФОН",
+        "text": "В СПИСКЕ СЛОВ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОЛОСОВЫЕ ЗАМЕТКИ",
+        "text": "НЕПРОВЕРЯЕМЫМИ ГЛАСНЫМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.2,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ ПО РУССКОМУ У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.99,
-    "end": 5.25,
+    "start": 4.53,
+    "end": 6.09,
     "lines": [
       {
-        "text": "С ОБЪЯСНЕНИЕМ",
+        "text": "ОДНИ И ТЕ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ ЕГЭ",
+        "text": "ПЯТЬ СЛОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.25,
-    "end": 6.6,
+    "start": 6.3,
+    "end": 7.32,
     "lines": [
       {
-        "text": "НЕ МОГУ",
+        "text": "Я УПОРНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЙТИ НУЖНУЮ",
+        "text": "НЕ ПОМНЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.84,
-    "end": 8.7,
+    "start": 7.59,
+    "end": 8.58,
     "lines": [
       {
-        "text": "СРЕДИ СОРОКА",
+        "text": "ОСТАЛЬНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИНАКОВЫХ НАЗВАНИЙ",
+        "text": "ЗАПОМНИЛИСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 9.93,
+    "lines": [
+      {
+        "text": "А ЭТИ ПЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОПРОТИВЛЯЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.14,
+    "end": 12.21,
+    "lines": [
+      {
+        "text": "ПЕРЕЧИТЫВАТЬ ВЕСЬ СПИСОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАДИ НИХ СКУЧНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.54,
-    "end": 11.07,
+    "start": 12.51,
+    "end": 13.92,
     "lines": [
       {
-        "text": "В НАЗВАНИИ СТОИТ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ДАТА",
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.55,
-    "end": 12.63,
+    "start": 14.19,
+    "end": 15.24,
     "lines": [
       {
-        "text": "И ПОКА Я",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЩУ ЗАПИСЬ",
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 17.07,
+    "lines": [
+      {
+        "text": "ГДЕ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.07,
+    "end": 18.24,
+    "lines": [
+      {
+        "text": "СНОВА И СНОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА НЕ ЗАПОМНИШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 15.0,
-    "lines": [
-      {
-        "text": "ЗАБЫВАЮ О КАКОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИИ СПРАШИВАЛА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.41,
-    "end": 17.49,
-    "lines": [
-      {
-        "text": "В ЕГЭ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.49,
-    "end": 18.3,
-    "lines": [
-      {
-        "text": "К ЗАДАНИЯМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕСТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.3,
-    "end": 19.17,
-    "lines": [
-      {
-        "text": "ТЕКСТОВЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗБОР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.53,
-    "end": 21.21,
-    "lines": [
-      {
-        "text": "КОТОРЫЙ ПРИВЯЗАН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "К САМОМУ ЗАДАНИЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.66,
-    "end": 23.4,
-    "lines": [
-      {
-        "text": "И ИСКАТЬ ЕГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО НАЗВАНИЮ НЕ НУЖНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 24.12,
-    "end": 25.2,
+    "start": 18.42,
+    "end": 19.35,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -208,8 +192,8 @@
     ]
   },
   {
-    "start": 25.2,
-    "end": 26.05,
+    "start": 19.35,
+    "end": 20.226,
     "lines": [
       {
         "text": "ССЫЛКА",
