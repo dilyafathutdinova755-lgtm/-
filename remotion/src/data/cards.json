@@ -1,135 +1,135 @@
 [
   {
-    "start": 2.955,
-    "end": 4.845,
+    "start": 3.315,
+    "end": 5.805,
     "lines": [
       {
-        "text": "РАЗБИРАЕШЬ ДО",
+        "text": "МАЛО ЗНАТЬ ТЕРМИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИДЕАЛА",
+        "text": "НУЖЕН СВОЙ ПРИМЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.935,
-    "end": 5.775,
+    "start": 6.495,
+    "end": 8.325,
     "lines": [
       {
-        "text": "НЕ УСПЕВАЕШЬ",
+        "text": "А ПРИМЕРЫ ВСЕГДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАЛЬНЫЕ",
+        "text": "ОДИНАКОВЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.705,
-    "end": 8.865,
+    "start": 9.135,
+    "end": 10.905,
     "lines": [
       {
-        "text": "НА ПРОБНИКЕ ТРАТИШЬ",
+        "text": "НА ПРОБНИКЕ ПРИВЕЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ОДНО ЗАДАНИЕ",
+        "text": "ТОТ ЖЕ ПРИМЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.255,
-    "end": 10.935,
+    "start": 11.265,
+    "end": 12.165,
     "lines": [
       {
-        "text": "ВДВОЕ БОЛЬШЕ",
+        "text": "ЧТО И В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВРЕМЕНИ",
+        "text": "ПРОШЛОМ ОТВЕТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.535,
-    "end": 13.005,
+    "start": 12.795,
+    "end": 15.135,
     "lines": [
       {
-        "text": "И ЖЕРТВУЕШЬ",
+        "text": "ЭКСПЕРТ МОГ ЗАСЧИТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВУМЯ ДРУГИМИ",
+        "text": "ТОЛЬКО ОДИН РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.845,
-    "end": 16.755,
+    "start": 15.855,
+    "end": 17.595,
     "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.235,
-    "end": 19.035,
+    "start": 17.955,
+    "end": 19.245,
     "lines": [
       {
-        "text": "ГЛАВНОЕ ИЗЛОЖЕНО",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКО",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.515,
-    "end": 21.465,
+    "start": 19.755,
+    "end": 22.095,
     "lines": [
       {
-        "text": "КОГДА ОСТАНОВИТЬСЯ",
+        "text": "КОТОРЫЕ ПРИВЯЗЫВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАЗУ ВИДНО",
+        "text": "ТЕРМИН К ПРИМЕРАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.155,
-    "end": 24.045,
+    "start": 22.695,
+    "end": 24.315,
     "lines": [
       {
         "text": "ССЫЛКА",
