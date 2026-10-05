@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.955,
+    "end": 4.845,
+    "lines": [
+      {
+        "text": "РАЗБИРАЕШЬ ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДЕАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.935,
+    "end": 5.775,
+    "lines": [
+      {
+        "text": "НЕ УСПЕВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЛЬНЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.705,
+    "end": 8.865,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ ТРАТИШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ОДНО ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.255,
+    "end": 10.935,
+    "lines": [
+      {
+        "text": "ВДВОЕ БОЛЬШЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.535,
+    "end": 13.005,
+    "lines": [
+      {
+        "text": "И ЖЕРТВУЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВУМЯ ДРУГИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.845,
+    "end": 16.755,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.235,
+    "end": 19.035,
+    "lines": [
+      {
+        "text": "ГЛАВНОЕ ИЗЛОЖЕНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.515,
+    "end": 21.465,
+    "lines": [
+      {
+        "text": "КОГДА ОСТАНОВИТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ ВИДНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.155,
+    "end": 24.045,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

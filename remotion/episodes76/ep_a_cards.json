@@ -1,0 +1,146 @@
+[
+  {
+    "start": 2.58,
+    "end": 4.53,
+    "lines": [
+      {
+        "text": "НЕТ ВТОРОЙ ЧАСТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С РАЗВЁРНУТЫМ ОТВЕТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.16,
+    "end": 6.72,
+    "lines": [
+      {
+        "text": "СТО БАЛЛОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ НАБРАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.44,
+    "end": 8.76,
+    "lines": [
+      {
+        "text": "ПРОВЕРИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ СБОРНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.03,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "В КАЖДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСТЬ УРЕЗАНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 13.29,
+    "lines": [
+      {
+        "text": "ЛИБО БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРИТЕРИЕВ ПРОВЕРКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.07,
+    "end": 16.02,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.26,
+    "end": 17.43,
+    "lines": [
+      {
+        "text": "С ОФИЦИАЛЬНЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.18,
+    "end": 20.85,
+    "lines": [
+      {
+        "text": "НЕ УРЕЗАННЫМИ ВЕРСИЯМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНЫХ СБОРНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.51,
+    "end": 23.43,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

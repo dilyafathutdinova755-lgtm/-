@@ -1,0 +1,146 @@
+[
+  {
+    "start": 3.315,
+    "end": 5.805,
+    "lines": [
+      {
+        "text": "МАЛО ЗНАТЬ ТЕРМИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖЕН СВОЙ ПРИМЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.495,
+    "end": 8.325,
+    "lines": [
+      {
+        "text": "А ПРИМЕРЫ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИНАКОВЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.135,
+    "end": 10.905,
+    "lines": [
+      {
+        "text": "НА ПРОБНИКЕ ПРИВЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОТ ЖЕ ПРИМЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.265,
+    "end": 12.165,
+    "lines": [
+      {
+        "text": "ЧТО И В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОШЛОМ ОТВЕТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.795,
+    "end": 15.135,
+    "lines": [
+      {
+        "text": "ЭКСПЕРТ МОГ ЗАСЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО ОДИН РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.855,
+    "end": 17.595,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.955,
+    "end": 19.245,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.755,
+    "end": 22.095,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ПРИВЯЗЫВАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИН К ПРИМЕРАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.695,
+    "end": 24.315,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
