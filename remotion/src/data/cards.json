@@ -1,103 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 2.7,
+    "end": 3.81,
     "lines": [
       {
-        "text": "НА ТЕТРАДИ С",
+        "text": "ПОДРУГА ОБЪЯСНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОРФОГРАММАМИ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.18,
-    "end": 4.8,
-    "lines": [
-      {
-        "text": "Я ТАК СТАРАЮСЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПИСАТЬ КРАСИВО",
+        "text": "ЗА ДВЕ МИНУТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.27,
+    "start": 4.5,
+    "end": 6.12,
     "lines": [
       {
-        "text": "ЧТО КРАСОТА",
+        "text": "Я КИВАЛА ХОТЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧЕРКА",
+        "text": "К КОНЦУ ПЕРЕМЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.51,
-    "end": 8.46,
+    "start": 6.33,
+    "end": 7.44,
     "lines": [
       {
-        "text": "ОТВЛЕКАЕТ ОТ СМЫСЛА",
+        "text": "УЖЕ НЕ ПОМНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМИХ ПРАВИЛ",
+        "text": "НАЧАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.35,
-    "end": 11.73,
+    "start": 8.34,
+    "end": 9.9,
     "lines": [
       {
-        "text": "Я ТРАЧУ ВЕЧЕР",
+        "text": "ВЕЧЕРОМ ПОПРОБОВАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ОФОРМЛЕНИЕ",
+        "text": "ПОВТОРИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.88,
-    "end": 14.22,
+    "start": 10.2,
+    "end": 11.46,
     "lines": [
       {
-        "text": "И ПОЧТИ НЕ",
+        "text": "И ЗАСТРЯЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮ ПРАВИЛА ВСЛУХ",
+        "text": "НА ВТОРОМ ШАГЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.6,
-    "end": 16.47,
+    "start": 12.12,
+    "end": 14.19,
+    "lines": [
+      {
+        "text": "А ЗВОНИТЬ ПОДРУГЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВТОРОЙ РАЗ НЕЛОВКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.12,
+    "end": 16.2,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,72 +112,72 @@
     ]
   },
   {
-    "start": 16.47,
-    "end": 17.64,
+    "start": 16.2,
+    "end": 17.7,
     "lines": [
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.64,
-    "end": 18.75,
+    "start": 18.21,
+    "end": 19.05,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "ВТОРОЙ ШАГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 19.26,
-    "end": 20.37,
-    "lines": [
-      {
-        "text": "ГДЕ КРАСОТА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НИ ПРИЧЕМ",
+        "text": "КОТОРОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.94,
-    "end": 22.2,
+    "start": 19.32,
+    "end": 20.73,
     "lines": [
       {
-        "text": "А НУЖНО",
+        "text": "МОЖНО ПЕРЕЧИТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТИТЬ НА ВОПРОС",
+        "text": "СКОЛЬКО НУЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.19,
-    "end": 24.24,
+    "start": 21.0,
+    "end": 21.9,
+    "lines": [
+      {
+        "text": "НИКОГО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРАШИВАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.59,
+    "end": 23.67,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +192,8 @@
     ]
   },
   {
-    "start": 24.24,
-    "end": 25.068,
+    "start": 23.67,
+    "end": 24.52,
     "lines": [
       {
         "text": "ССЫЛКА",
