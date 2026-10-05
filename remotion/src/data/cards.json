@@ -1,103 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.54,
+    "end": 3.6,
     "lines": [
       {
-        "text": "В НАШЕМ КЛАССЕ",
+        "text": "В ТЕТРАДИ ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЕРЯТЬ ОТВЕТЫ",
+        "text": "ТРИ СТРАНИЦЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.54,
-    "end": 4.86,
+    "start": 3.6,
+    "end": 5.85,
     "lines": [
       {
-        "text": "ПО ЕГЭ В ЧАТЕ",
+        "text": "И НИ ОДНА ДАТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КТО ПЕРВЫЙ",
+        "text": "НЕ СВЯЗАНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.86,
-    "end": 6.18,
+    "start": 6.24,
+    "end": 7.17,
     "lines": [
       {
-        "text": "ПОЧТИ ВСЕГДА",
+        "text": "ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБАЕТСЯ",
+        "text": "СТОЛБИК ЦИФР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.48,
-    "end": 7.83,
+    "start": 7.38,
+    "end": 9.9,
     "lines": [
       {
-        "text": "ОСТАЛЬНЫЕ",
+        "text": "УЧИТЬ ЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОГЛАШАЮТСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.83,
-    "end": 8.65,
-    "lines": [
-      {
-        "text": "ПОТОМУ ЧТО ЛЕНЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОВЕРЯТЬ",
+        "text": "КАК ТЕЛЕФОННУЮ КНИГУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.65,
-    "end": 10.59,
+    "start": 10.2,
+    "end": 11.31,
     "lines": [
       {
-        "text": "НЕВЕРНЫЙ ОТВЕТ",
+        "text": "БЫСТРО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАБИРАЕТ ПЯТЬ ПЛЮСОВ",
+        "text": "ЗАБЫВАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.86,
-    "end": 11.7,
+    "start": 11.31,
+    "end": 12.18,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,40 +96,72 @@
     ]
   },
   {
-    "start": 11.7,
-    "end": 13.17,
+    "start": 12.18,
+    "end": 13.38,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "text": "ПО ИСТОРИИ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.17,
-    "end": 15.36,
+    "start": 13.38,
+    "end": 14.25,
     "lines": [
       {
-        "text": "ПО КОТОРОМУ ОТВЕТ",
+        "text": "НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО ПРОВЕРИТЬ БЕЗ ЧАТА",
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.54,
+    "lines": [
+      {
+        "text": "ГДЕ ДАТА СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДЁТ ВМЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.6,
-    "end": 16.68,
+    "start": 15.54,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.62,
+    "end": 17.43,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +176,8 @@
     ]
   },
   {
-    "start": 16.68,
-    "end": 17.52,
+    "start": 17.43,
+    "end": 18.327,
     "lines": [
       {
         "text": "ССЫЛКА",
