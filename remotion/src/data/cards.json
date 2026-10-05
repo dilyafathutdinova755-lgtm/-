@@ -1,71 +1,87 @@
 [
   {
-    "start": 2.205,
-    "end": 4.035,
+    "start": 2.58,
+    "end": 4.53,
     "lines": [
       {
-        "text": "ПОВТОРЯЕШЬ ПРО СЕБЯ",
+        "text": "НЕТ ВТОРОЙ ЧАСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕСКОНЕЧНО",
+        "text": "С РАЗВЁРНУТЫМ ОТВЕТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.605,
-    "end": 7.185,
+    "start": 5.16,
+    "end": 6.72,
     "lines": [
       {
-        "text": "А ВСЛУХ ПРОВЕРИТЬ",
+        "text": "СТО БАЛЛОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕБЯ БОИШЬСЯ",
+        "text": "НЕ НАБРАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.115,
-    "end": 10.005,
+    "start": 7.44,
+    "end": 8.76,
     "lines": [
       {
-        "text": "СПОКОЙНЕЕ ДУМАТЬ",
+        "text": "ПРОВЕРИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ВСЁ ЗНАЕШЬ",
+        "text": "ТРИ СБОРНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.365,
-    "end": 12.105,
+    "start": 9.03,
+    "end": 10.65,
     "lines": [
       {
-        "text": "ЧЕМ ПРОВЕРИТЬ",
+        "text": "В КАЖДОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И УВИДЕТЬ ПРОБЕЛЫ",
+        "text": "ЧАСТЬ УРЕЗАНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.125,
-    "end": 14.415,
+    "start": 11.73,
+    "end": 13.29,
+    "lines": [
+      {
+        "text": "ЛИБО БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРИТЕРИЕВ ПРОВЕРКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.07,
+    "end": 16.02,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -73,47 +89,47 @@
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.715,
-    "end": 16.035,
+    "start": 16.26,
+    "end": 17.43,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ НА",
+        "text": "С ОФИЦИАЛЬНЫМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
+        "text": "ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.455,
-    "end": 19.965,
+    "start": 18.18,
+    "end": 20.85,
     "lines": [
       {
-        "text": "ОШИБКА ВЫГЛЯДИТ КАК",
+        "text": "НЕ УРЕЗАННЫМИ ВЕРСИЯМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЫЧНЫЙ ХОД ИГРЫ",
+        "text": "СЛУЧАЙНЫХ СБОРНИКОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.685,
-    "end": 22.408,
+    "start": 21.51,
+    "end": 23.43,
     "lines": [
       {
         "text": "ССЫЛКА",
