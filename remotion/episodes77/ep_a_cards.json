@@ -1,0 +1,130 @@
+[
+  {
+    "start": 3.33,
+    "end": 4.41,
+    "lines": [
+      {
+        "text": "ВЫЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОПРОС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.04,
+    "end": 5.88,
+    "lines": [
+      {
+        "text": "ЧЬИ ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.75,
+    "end": 9.24,
+    "lines": [
+      {
+        "text": "ПРОВЕРЯЕШЬ ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОЧНИК И ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.32,
+    "end": 12.99,
+    "lines": [
+      {
+        "text": "В ПОЛОВИНЕ СЛУЧАЕВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИХ ПРОСТО НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.78,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 17.04,
+    "lines": [
+      {
+        "text": "ЭТО ОФИЦИАЛЬНЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.37,
+    "end": 19.59,
+    "lines": [
+      {
+        "text": "ИСТОЧНИК КОТОРОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ НУЖНО ИСКАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.25,
+    "end": 22.14,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

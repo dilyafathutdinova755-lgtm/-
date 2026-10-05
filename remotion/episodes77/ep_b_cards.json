@@ -1,0 +1,130 @@
+[
+  {
+    "start": 3.735,
+    "end": 6.105,
+    "lines": [
+      {
+        "text": "БЕСИТ СИЛЬНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБСТВЕННОЙ ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.365,
+    "end": 8.925,
+    "lines": [
+      {
+        "text": "ТЫ ЗАСТРЕВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТАКОМ МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.165,
+    "end": 11.265,
+    "lines": [
+      {
+        "text": "НЕ ИДЁШЬ ДАЛЬШЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА НЕ ПОЙМЁШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.685,
+    "end": 12.735,
+    "lines": [
+      {
+        "text": "ЧТО ТАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЧЕВИДНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.635,
+    "end": 16.515,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.995,
+    "end": 18.165,
+    "lines": [
+      {
+        "text": "ГДЕ ШАГИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЕНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.555,
+    "end": 19.755,
+    "lines": [
+      {
+        "text": "А НЕ НАЗВАНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЧЕВИДНЫМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.385,
+    "end": 22.305,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
