@@ -1,87 +1,87 @@
 [
   {
-    "start": 2.58,
-    "end": 4.53,
+    "start": 2.955,
+    "end": 4.845,
     "lines": [
       {
-        "text": "НЕТ ВТОРОЙ ЧАСТИ",
+        "text": "РАЗБИРАЕШЬ ДО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С РАЗВЁРНУТЫМ ОТВЕТОМ",
+        "text": "ИДЕАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.16,
-    "end": 6.72,
+    "start": 4.935,
+    "end": 5.775,
     "lines": [
       {
-        "text": "СТО БАЛЛОВ",
+        "text": "НЕ УСПЕВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ НАБРАТЬ",
+        "text": "ОСТАЛЬНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.44,
-    "end": 8.76,
+    "start": 6.705,
+    "end": 8.865,
     "lines": [
       {
-        "text": "ПРОВЕРИЛА",
+        "text": "НА ПРОБНИКЕ ТРАТИШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРИ СБОРНИКА",
+        "text": "НА ОДНО ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 10.65,
+    "start": 9.255,
+    "end": 10.935,
     "lines": [
       {
-        "text": "В КАЖДОМ",
+        "text": "ВДВОЕ БОЛЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСТЬ УРЕЗАНА",
+        "text": "ВРЕМЕНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.73,
-    "end": 13.29,
+    "start": 11.535,
+    "end": 13.005,
     "lines": [
       {
-        "text": "ЛИБО БЕЗ",
+        "text": "И ЖЕРТВУЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КРИТЕРИЕВ ПРОВЕРКИ",
+        "text": "ДВУМЯ ДРУГИМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.07,
-    "end": 16.02,
+    "start": 13.845,
+    "end": 16.755,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -89,47 +89,47 @@
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.26,
-    "end": 17.43,
+    "start": 17.235,
+    "end": 19.035,
     "lines": [
       {
-        "text": "С ОФИЦИАЛЬНЫМИ",
+        "text": "ГЛАВНОЕ ИЗЛОЖЕНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМИ",
+        "text": "КОРОТКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.18,
-    "end": 20.85,
+    "start": 19.515,
+    "end": 21.465,
     "lines": [
       {
-        "text": "НЕ УРЕЗАННЫМИ ВЕРСИЯМИ",
+        "text": "КОГДА ОСТАНОВИТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛУЧАЙНЫХ СБОРНИКОВ",
+        "text": "СРАЗУ ВИДНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.51,
-    "end": 23.43,
+    "start": 22.155,
+    "end": 24.045,
     "lines": [
       {
         "text": "ССЫЛКА",
