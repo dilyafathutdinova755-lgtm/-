@@ -1,151 +1,103 @@
 [
   {
-    "start": 2.295,
-    "end": 4.305,
+    "start": 2.79,
+    "end": 6.3,
     "lines": [
       {
-        "text": "ОТКЛАДЫВАЕШЬ ДОМАШКУ",
+        "text": "КАКУЮ ДОЛЮ БАНКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПОТОМ",
+        "text": "РЕБЁНОК ПРОШЁЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.935,
-    "end": 6.855,
+    "start": 6.81,
+    "end": 9.24,
     "lines": [
       {
-        "text": "А ДЕНЬ",
+        "text": "В РАЗРОЗНЕННЫХ ПАПКАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКАНЧИВАЕТСЯ САМ",
+        "text": "ЭТО НЕ ПОСЧИТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.905,
-    "end": 10.575,
+    "start": 9.81,
+    "end": 12.09,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЁР ПОДСТАВЛЯЕТ",
+        "text": "СВОДИШЬ В ТАБЛИЦУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН ПУНКТ",
+        "text": "И СБИВАЕШЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.085,
-    "end": 13.065,
+    "start": 12.33,
+    "end": 16.29,
     "lines": [
       {
-        "text": "ВМЕСТО АБСТРАКТНОЙ",
+        "text": "ЗАДАНИЯ ЛЕЖАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОМАШКИ ИЗ ДНЕВНИКА",
+        "text": "ПОД РАЗНЫМИ НОМЕРАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.935,
-    "end": 16.695,
+    "start": 17.1,
+    "end": 19.62,
     "lines": [
       {
-        "text": "ПУНКТ ЗАКРЫВАЕТСЯ",
+        "text": "В ТРЕНАЖЁРЕ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ПАРУ МИНУТ",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.775,
-    "end": 21.555,
+    "start": 20.16,
+    "end": 21.48,
     "lines": [
       {
-        "text": "ЗАКРЫТЫЙ ПУНКТ НЕ",
+        "text": "В ОДНОМ МЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРЕВРАЩАЕТСЯ В ГОРУ",
+        "text": "БЕЗ ДУБЛЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.545,
-    "end": 25.245,
-    "lines": [
-      {
-        "text": "НОВЫЙ ПУНКТ ПРИХОДИТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "АВТОМАТИЧЕСКИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 25.905,
-    "end": 27.765,
-    "lines": [
-      {
-        "text": "БЕЗ ПОВТОРНОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАГЛЯДЫВАНИЯ В ДНЕВНИК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.815,
-    "end": 32.325,
-    "lines": [
-      {
-        "text": "АБСТРАКТНАЯ ДОМАШКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАМЕНЯЕТСЯ ПУНКТОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 33.345,
-    "end": 35.306,
+    "start": 21.9,
+    "end": 23.79,
     "lines": [
       {
         "text": "ССЫЛКА",
