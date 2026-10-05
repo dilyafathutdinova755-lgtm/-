@@ -1,39 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.54,
+    "end": 3.48,
     "lines": [
       {
-        "text": "НА КАНИКУЛАХ",
+        "text": "СЛИТНО ИЛИ РАЗДЕЛЬНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОСТАВИЛ ПЛАН",
+        "text": "В ДИКТАНТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.54,
-    "end": 4.95,
+    "start": 3.48,
+    "end": 4.65,
     "lines": [
       {
-        "text": "ПЯТЬ ЗАДАНИЙ ЕГЭ",
+        "text": "Я ПИШУ ТАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ДЕНЬ",
+        "text": "КАК СЛЫШУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.95,
-    "end": 6.06,
+    "start": 4.65,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "А ПРАВИЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 9.18,
+    "lines": [
+      {
+        "text": "ПОКА ВСПОМИНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.18,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "РУКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСПЕВАЕТ НАПИСАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 12.09,
     "lines": [
       {
         "text": "И",
@@ -41,111 +89,31 @@
         "size": "small"
       },
       {
-        "text": "СЛОМАЛСЯ",
+        "text": "ИСПРАВЛЯТЬ ПРИХОДИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.17,
+    "start": 12.09,
+    "end": 13.89,
     "lines": [
       {
-        "text": "НА ВТОРОЙ ДЕНЬ ПОТОМУ ЧТО",
+        "text": "УЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ЗНАЛ",
+        "text": "В РАБОТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.17,
-    "end": 8.34,
-    "lines": [
-      {
-        "text": "КАКИЕ ПЯТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЫБИРАТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.34,
-    "end": 9.78,
-    "lines": [
-      {
-        "text": "КАЖДЫЙ РАЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "УЖЕ ПОЛОВИНА УСТАЛОСТИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.78,
-    "end": 11.28,
-    "lines": [
-      {
-        "text": "А САМИ ПЯТЬ ЗАДАНИЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЫЛИ БЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.28,
-    "end": 12.51,
-    "lines": [
-      {
-        "text": "ЕРУНДОЙ ЕСЛИ БЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СПИСОК",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.51,
-    "end": 13.38,
-    "lines": [
-      {
-        "text": "БЫЛ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ГОТОВ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.38,
-    "end": 14.34,
+    "start": 13.89,
+    "end": 14.76,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -160,8 +128,24 @@
     ]
   },
   {
-    "start": 14.34,
-    "end": 15.21,
+    "start": 14.76,
+    "end": 15.87,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.87,
+    "end": 16.98,
     "lines": [
       {
         "text": "ЕСТЬ",
@@ -169,66 +153,50 @@
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ИГРЫ НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.21,
-    "end": 16.32,
-    "lines": [
-      {
-        "text": "ГДЕ ЗАДАНИЯ",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "ИДУТ ПО ПОРЯДКУ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 16.32,
-    "end": 17.55,
-    "lines": [
-      {
-        "text": "И ПЯТЬ ПОДРЯД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МОЖНО БРАТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.55,
+    "start": 17.37,
     "end": 19.05,
     "lines": [
       {
-        "text": "С ТОГО МЕСТА",
+        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГДЕ ОСТАНОВИЛСЯ",
+        "text": "ПРИМЕНЯТЬ ПРАВИЛА",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
     "start": 19.35,
-    "end": 20.37,
+    "end": 20.76,
     "lines": [
       {
-        "text": "НА ЕГЭ",
+        "text": "ДО ТОГО КАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУКА НАПИШЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.21,
+    "end": 22.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -240,8 +208,8 @@
     ]
   },
   {
-    "start": 20.37,
-    "end": 21.2,
+    "start": 22.05,
+    "end": 23.042,
     "lines": [
       {
         "text": "ССЫЛКА",
