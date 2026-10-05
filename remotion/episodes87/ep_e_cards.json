@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.69,
+    "lines": [
+      {
+        "text": "СОСЕД ПО ПАРТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСЫВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 4.98,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УДИВЛЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 6.84,
+    "lines": [
+      {
+        "text": "ЧТО НА ПРОБНИКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "У НЕГО НИЧЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.84,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "НЕ ВЫХОДИТ Я РЕШИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ПУСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 9.06,
+    "lines": [
+      {
+        "text": "РЕШАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.06,
+    "end": 10.59,
+    "lines": [
+      {
+        "text": "И ПОКАЗАЛ ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ ЛЕЖАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 12.18,
+    "lines": [
+      {
+        "text": "ПО НОМЕРАМ ЗА ВЕЧЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОН РЕШИЛ ЧЕТЫРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.54,
+    "end": 13.44,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.44,
+    "end": 14.28,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.28,
+    "end": 15.42,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕЖАТ ПО НОМЕРАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "И НАЧАТЬ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ЛЮБОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.92,
+    "end": 17.97,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.97,
+    "end": 18.84,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

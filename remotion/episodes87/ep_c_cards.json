@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.24,
+    "lines": [
+      {
+        "text": "ДОЧЬ РЕШАЕТ ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА КУХНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "ПОКА Я ГОТОВЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛИСТЫ С ЗАДАНИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.27,
+    "lines": [
+      {
+        "text": "У НЕЕ ВЕЧНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В МУКЕ И СОУСЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.78,
+    "end": 7.62,
+    "lines": [
+      {
+        "text": "ОДИН ЛИСТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗМОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.71,
+    "end": 9.39,
+    "lines": [
+      {
+        "text": "ТАК ЧТО УСЛОВИЕ СТАЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕЧИТАЕМЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.88,
+    "lines": [
+      {
+        "text": "И ОНА РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВСЕМ НЕ ТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.63,
+    "end": 13.56,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.56,
+    "end": 14.49,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 16.26,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧИТАЕТСЯ ЦЕЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.59,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "И НИКАКОЙ СОУС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕМУ НЕ СТРАШЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 19.71,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.71,
+    "end": 20.546,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

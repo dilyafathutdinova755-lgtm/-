@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.24,
+    "lines": [
+      {
+        "text": "ДОЧЬ УВЕРЯЕТ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 5.19,
+    "lines": [
+      {
+        "text": "А Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КИВАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.61,
+    "end": 6.69,
+    "lines": [
+      {
+        "text": "НО СКАЗАЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.29,
+    "end": 8.13,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ МНЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕЛОВКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.28,
+    "end": 9.27,
+    "lines": [
+      {
+        "text": "И ЕЙ НАВЕРНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 11.07,
+    "lines": [
+      {
+        "text": "ОНА ДУМАЕТ ЧТО Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕ УСВОИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 12.42,
+    "lines": [
+      {
+        "text": "А Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЮСЬ ПРИЗНАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.99,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.69,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 17.67,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ МЫ С ДОЧЕРЬЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖЕМ ПРОЧИТАТЬ ВМЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.12,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.098,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

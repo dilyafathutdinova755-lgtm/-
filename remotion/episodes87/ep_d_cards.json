@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.39,
+    "lines": [
+      {
+        "text": "МНЕ ЧАСТО ГОВОРЯТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБЕРИ САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "НО В ЗАДАНИИ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я НЕ ЗНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.12,
+    "end": 7.56,
+    "lines": [
+      {
+        "text": "С КАКОГО ВОПРОСА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧИНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.86,
+    "end": 8.76,
+    "lines": [
+      {
+        "text": "МНЕ НУЖНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 9.78,
+    "lines": [
+      {
+        "text": "СНАЧАЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.78,
+    "end": 11.07,
+    "lines": [
+      {
+        "text": "ПОТОМ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.07,
+    "end": 13.02,
+    "lines": [
+      {
+        "text": "ПОТОМ ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ НЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 14.88,
+    "lines": [
+      {
+        "text": "Я НАЧИНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С СЕРЕДИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.88,
+    "end": 16.02,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.02,
+    "end": 17.31,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОТ ПОРЯДОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 19.8,
+    "lines": [
+      {
+        "text": "ЧТО ДАНО ЧТО НАЙТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И КАКИМ СПОСОБОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.01,
+    "end": 21.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.0,
+    "end": 21.88,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

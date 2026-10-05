@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.02,
+    "lines": [
+      {
+        "text": "ДОЧЬ УЧИТ ПРАВИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОГО ЯЗЫКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.02,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "ГОВОРИТ ЧТО ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛУЧШЕ ЗАПОМИНАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.17,
+    "lines": [
+      {
+        "text": "И ВОЗРАЗИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МНЕ НЕЧЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 9.27,
+    "lines": [
+      {
+        "text": "Я СМОТРЕЛА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕЗУЛЬТАТ ТЕСТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.57,
+    "end": 10.83,
+    "lines": [
+      {
+        "text": "ПОМНИТ ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ ЧЕМ РАНЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.13,
+    "end": 13.44,
+    "lines": [
+      {
+        "text": "А ПОВТОРЯТЬ ВСЛУХ ЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НРАВИТСЯ БОЛЬШЕ ЧЕМ ЧИТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.13,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.02,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.02,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.43,
+    "end": 19.77,
+    "lines": [
+      {
+        "text": "ГДЕ ПРАВИЛА МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯТЬ В ЛЮБОМ УДОБНОМ МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.4,
+    "end": 21.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.4,
+    "end": 22.24,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
