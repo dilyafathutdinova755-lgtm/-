@@ -1,103 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 4.02,
+    "end": 3.24,
     "lines": [
       {
-        "text": "ДОЧЬ УЧИТ ПРАВИЛА",
+        "text": "ДОЧЬ РЕШАЕТ ЗАДАНИЕ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКОГО ЯЗЫКА",
+        "text": "НА КУХНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.02,
-    "end": 5.7,
+    "start": 3.69,
+    "end": 4.95,
     "lines": [
       {
-        "text": "ГОВОРИТ ЧТО ТАК",
+        "text": "ПОКА Я ГОТОВЛЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛУЧШЕ ЗАПОМИНАЕТСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.06,
-    "end": 7.17,
-    "lines": [
-      {
-        "text": "И ВОЗРАЗИТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МНЕ НЕЧЕГО",
+        "text": "ЛИСТЫ С ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.83,
-    "end": 9.27,
+    "start": 4.95,
+    "end": 6.27,
     "lines": [
       {
-        "text": "Я СМОТРЕЛА НА",
+        "text": "У НЕЕ ВЕЧНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕЗУЛЬТАТ ТЕСТА",
+        "text": "В МУКЕ И СОУСЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.57,
-    "end": 10.83,
+    "start": 6.78,
+    "end": 7.62,
     "lines": [
       {
-        "text": "ПОМНИТ ОНА",
+        "text": "ОДИН ЛИСТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЛЬШЕ ЧЕМ РАНЬШЕ",
+        "text": "РАЗМОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.13,
-    "end": 13.44,
+    "start": 7.71,
+    "end": 9.39,
     "lines": [
       {
-        "text": "А ПОВТОРЯТЬ ВСЛУХ ЕЙ",
+        "text": "ТАК ЧТО УСЛОВИЕ СТАЛО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НРАВИТСЯ БОЛЬШЕ ЧЕМ ЧИТАТЬ",
+        "text": "НЕЧИТАЕМЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.88,
+    "lines": [
+      {
+        "text": "И ОНА РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВСЕМ НЕ ТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.13,
-    "end": 15.0,
+    "start": 12.63,
+    "end": 13.56,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,56 +112,56 @@
     ]
   },
   {
-    "start": 15.0,
-    "end": 16.02,
+    "start": 13.56,
+    "end": 14.49,
     "lines": [
-      {
-        "text": "ПО РУССКОМУ ЯЗЫКУ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.02,
-    "end": 17.01,
+    "start": 14.49,
+    "end": 16.26,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "ГДЕ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 17.43,
-    "end": 19.77,
-    "lines": [
-      {
-        "text": "ГДЕ ПРАВИЛА МОЖНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЯТЬ В ЛЮБОМ УДОБНОМ МЕСТЕ",
+        "text": "ЧИТАЕТСЯ ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.4,
-    "end": 21.4,
+    "start": 16.59,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "И НИКАКОЙ СОУС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕМУ НЕ СТРАШЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.66,
+    "end": 19.71,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -176,8 +176,8 @@
     ]
   },
   {
-    "start": 21.4,
-    "end": 22.24,
+    "start": 19.71,
+    "end": 20.546,
     "lines": [
       {
         "text": "ССЫЛКА",
