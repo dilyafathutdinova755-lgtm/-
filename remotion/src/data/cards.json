@@ -1,103 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.81,
+    "end": 3.99,
     "lines": [
       {
-        "text": "ПОДРУГА ОБЪЯСНИЛА",
+        "text": "ЗАПИСЫВАЮ В ТЕЛЕФОН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ДВЕ МИНУТЫ",
+        "text": "ГОЛОСОВЫЕ ЗАМЕТКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 6.12,
+    "start": 3.99,
+    "end": 5.25,
     "lines": [
       {
-        "text": "Я КИВАЛА ХОТЯ",
+        "text": "С ОБЪЯСНЕНИЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К КОНЦУ ПЕРЕМЕНЫ",
+        "text": "ЗАДАНИЙ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
-    "end": 7.44,
+    "start": 5.25,
+    "end": 6.6,
     "lines": [
       {
-        "text": "УЖЕ НЕ ПОМНИЛА",
+        "text": "НЕ МОГУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЧАЛА",
+        "text": "НАЙТИ НУЖНУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.34,
-    "end": 9.9,
+    "start": 6.84,
+    "end": 8.7,
     "lines": [
       {
-        "text": "ВЕЧЕРОМ ПОПРОБОВАЛА",
+        "text": "СРЕДИ СОРОКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРИТЬ",
+        "text": "ОДИНАКОВЫХ НАЗВАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.46,
+    "start": 9.54,
+    "end": 11.07,
     "lines": [
       {
-        "text": "И ЗАСТРЯЛА",
+        "text": "В НАЗВАНИИ СТОИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВТОРОМ ШАГЕ",
+        "text": "ТОЛЬКО ДАТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.12,
-    "end": 14.19,
+    "start": 11.55,
+    "end": 12.63,
     "lines": [
       {
-        "text": "А ЗВОНИТЬ ПОДРУГЕ",
+        "text": "И ПОКА Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВТОРОЙ РАЗ НЕЛОВКО",
+        "text": "ИЩУ ЗАПИСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.12,
-    "end": 16.2,
+    "start": 12.9,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "ЗАБЫВАЮ О КАКОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИИ СПРАШИВАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.41,
+    "end": 17.49,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,72 +128,72 @@
     ]
   },
   {
-    "start": 16.2,
-    "end": 17.7,
+    "start": 17.49,
+    "end": 18.3,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ЕСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.21,
-    "end": 19.05,
+    "start": 18.3,
+    "end": 19.17,
     "lines": [
       {
-        "text": "ВТОРОЙ ШАГ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОТОРОГО",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.32,
-    "end": 20.73,
+    "start": 19.53,
+    "end": 21.21,
     "lines": [
       {
-        "text": "МОЖНО ПЕРЕЧИТАТЬ",
+        "text": "КОТОРЫЙ ПРИВЯЗАН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОЛЬКО НУЖНО",
+        "text": "К САМОМУ ЗАДАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.0,
-    "end": 21.9,
+    "start": 21.66,
+    "end": 23.4,
     "lines": [
       {
-        "text": "НИКОГО НЕ",
+        "text": "И ИСКАТЬ ЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПРАШИВАЯ",
+        "text": "ПО НАЗВАНИЮ НЕ НУЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.59,
-    "end": 23.67,
+    "start": 24.12,
+    "end": 25.2,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +208,8 @@
     ]
   },
   {
-    "start": 23.67,
-    "end": 24.52,
+    "start": 25.2,
+    "end": 26.05,
     "lines": [
       {
         "text": "ССЫЛКА",
