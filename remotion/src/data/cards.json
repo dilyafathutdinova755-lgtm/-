@@ -1,151 +1,151 @@
 [
   {
-    "start": 1.83,
-    "end": 3.87,
+    "start": 2.295,
+    "end": 4.305,
     "lines": [
       {
-        "text": "ИЗБЕГАЕШЬ ОТКРЫВАТЬ",
+        "text": "ОТКЛАДЫВАЕШЬ ДОМАШКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДНЕВНИК С ОЦЕНКАМИ",
+        "text": "НА ПОТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.1,
-    "end": 7.62,
+    "start": 4.935,
+    "end": 6.855,
     "lines": [
       {
-        "text": "БОИШЬСЯ УВИДЕТЬ",
+        "text": "А ДЕНЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕЩЁ ОДНУ ТРОЙКУ",
+        "text": "ЗАКАНЧИВАЕТСЯ САМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.67,
-    "end": 11.43,
+    "start": 7.905,
+    "end": 10.575,
     "lines": [
       {
-        "text": "ЕГЭ ТРЕНАЖЁР ПОКАЗЫВАЕТ",
+        "text": "ЕГЭ ТРЕНАЖЁР ПОДСТАВЛЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОЦЕНТ ЗАДАНИЙ",
+        "text": "ОДИН ПУНКТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.61,
-    "end": 14.37,
+    "start": 11.085,
+    "end": 13.065,
     "lines": [
       {
-        "text": "ВМЕСТО ШКОЛЬНОЙ",
+        "text": "ВМЕСТО АБСТРАКТНОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОЦЕНКИ В ДНЕВНИКЕ",
+        "text": "ДОМАШКИ ИЗ ДНЕВНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.36,
-    "end": 19.02,
+    "start": 13.935,
+    "end": 16.695,
     "lines": [
       {
-        "text": "ПРОЦЕНТ РАСТЁТ",
+        "text": "ПУНКТ ЗАКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСТЕПЕННО",
+        "text": "ЗА ПАРУ МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.86,
-    "end": 22.41,
+    "start": 17.775,
+    "end": 21.555,
     "lines": [
       {
-        "text": "ТАКОЙ ПРОЦЕНТ НЕ",
+        "text": "ЗАКРЫТЫЙ ПУНКТ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТОБРАЖАЕТСЯ В ДНЕВНИКЕ",
+        "text": "ПРЕВРАЩАЕТСЯ В ГОРУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.13,
-    "end": 24.96,
+    "start": 22.545,
+    "end": 25.245,
     "lines": [
       {
-        "text": "И НЕ ВИДЕН",
+        "text": "НОВЫЙ ПУНКТ ПРИХОДИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РОДИТЕЛЯМ",
+        "text": "АВТОМАТИЧЕСКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.04,
-    "end": 28.47,
+    "start": 25.905,
+    "end": 27.765,
     "lines": [
       {
-        "text": "ДНЕВНИК С ТРОЙКАМИ",
+        "text": "БЕЗ ПОВТОРНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАМЕНЯЕТСЯ ПРОЦЕНТОМ",
+        "text": "ЗАГЛЯДЫВАНИЯ В ДНЕВНИК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 28.62,
-    "end": 29.52,
+    "start": 28.815,
+    "end": 32.325,
     "lines": [
       {
-        "text": "КОТОРЫЙ РАСТЁТ",
+        "text": "АБСТРАКТНАЯ ДОМАШКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСТЕПЕННО",
+        "text": "ЗАМЕНЯЕТСЯ ПУНКТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 30.36,
-    "end": 32.46,
+    "start": 33.345,
+    "end": 35.306,
     "lines": [
       {
         "text": "ССЫЛКА",
