@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.83,
+    "end": 3.87,
+    "lines": [
+      {
+        "text": "ИЗБЕГАЕШЬ ОТКРЫВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДНЕВНИК С ОЦЕНКАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 7.62,
+    "lines": [
+      {
+        "text": "БОИШЬСЯ УВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕЩЁ ОДНУ ТРОЙКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.67,
+    "end": 11.43,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР ПОКАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЦЕНТ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.61,
+    "end": 14.37,
+    "lines": [
+      {
+        "text": "ВМЕСТО ШКОЛЬНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЦЕНКИ В ДНЕВНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.36,
+    "end": 19.02,
+    "lines": [
+      {
+        "text": "ПРОЦЕНТ РАСТЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТЕПЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.86,
+    "end": 22.41,
+    "lines": [
+      {
+        "text": "ТАКОЙ ПРОЦЕНТ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТОБРАЖАЕТСЯ В ДНЕВНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.13,
+    "end": 24.96,
+    "lines": [
+      {
+        "text": "И НЕ ВИДЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОДИТЕЛЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.04,
+    "end": 28.47,
+    "lines": [
+      {
+        "text": "ДНЕВНИК С ТРОЙКАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕНЯЕТСЯ ПРОЦЕНТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.62,
+    "end": 29.52,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ РАСТЁТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТЕПЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 30.36,
+    "end": 32.46,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

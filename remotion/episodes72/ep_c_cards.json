@@ -1,0 +1,162 @@
+[
+  {
+    "start": 2.295,
+    "end": 4.305,
+    "lines": [
+      {
+        "text": "ОТКЛАДЫВАЕШЬ ДОМАШКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПОТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.935,
+    "end": 6.855,
+    "lines": [
+      {
+        "text": "А ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКАНЧИВАЕТСЯ САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.905,
+    "end": 10.575,
+    "lines": [
+      {
+        "text": "ЕГЭ ТРЕНАЖЁР ПОДСТАВЛЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН ПУНКТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.085,
+    "end": 13.065,
+    "lines": [
+      {
+        "text": "ВМЕСТО АБСТРАКТНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОМАШКИ ИЗ ДНЕВНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.935,
+    "end": 16.695,
+    "lines": [
+      {
+        "text": "ПУНКТ ЗАКРЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ПАРУ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.775,
+    "end": 21.555,
+    "lines": [
+      {
+        "text": "ЗАКРЫТЫЙ ПУНКТ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕВРАЩАЕТСЯ В ГОРУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.545,
+    "end": 25.245,
+    "lines": [
+      {
+        "text": "НОВЫЙ ПУНКТ ПРИХОДИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВТОМАТИЧЕСКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.905,
+    "end": 27.765,
+    "lines": [
+      {
+        "text": "БЕЗ ПОВТОРНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАГЛЯДЫВАНИЯ В ДНЕВНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 28.815,
+    "end": 32.325,
+    "lines": [
+      {
+        "text": "АБСТРАКТНАЯ ДОМАШКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕНЯЕТСЯ ПУНКТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 33.345,
+    "end": 35.306,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
