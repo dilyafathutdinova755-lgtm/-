@@ -1,71 +1,87 @@
 [
   {
-    "start": 2.13,
-    "end": 4.92,
+    "start": 2.67,
+    "end": 4.83,
     "lines": [
       {
-        "text": "В ЧУЖОЙ ПОДБОРКЕ",
+        "text": "ПОСЛЕ ОШИБКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАПУГАЛА ТЕБЯ",
+        "text": "СТАНОВИТСЯ ТРЕВОЖНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 8.55,
+    "start": 5.37,
+    "end": 7.32,
     "lines": [
       {
-        "text": "ТРИ ДНЯ ДУМАЕШЬ",
+        "text": "РАЗБОР ЧИТАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ПРОПУСТИЛА",
+        "text": "ПО ДИАГОНАЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.21,
-    "end": 12.21,
+    "start": 8.28,
+    "end": 9.6,
     "lines": [
       {
-        "text": "А ЗАДАНИЕ ВООБЩЕ",
+        "text": "ВИДИШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ИЗ ЕГЭ",
+        "text": "НЕВЕРНЫЙ ОТВЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.93,
-    "end": 15.9,
+    "start": 10.08,
+    "end": 11.49,
     "lines": [
       {
-        "text": "ТРЕВОГА ИСПОРТИЛА",
+        "text": "ВНУТРИ ВСЁ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЮ НЕДЕЛЮ",
+        "text": "СЖИМАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.85,
-    "end": 19.89,
+    "start": 12.15,
+    "end": 14.73,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЕНИЕ СКОРЕЕ ПРОЛИСТЫВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ ЧИТАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 18.63,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -73,47 +89,47 @@
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.28,
-    "end": 21.93,
+    "start": 18.78,
+    "end": 21.24,
     "lines": [
       {
-        "text": "ВСЕ ЗАДАНИЯ",
+        "text": "ПО ШАГАМ МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩИЕ",
+        "text": "ВЕРНУТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.5,
-    "end": 24.78,
+    "start": 21.48,
+    "end": 22.05,
     "lines": [
       {
-        "text": "ЧУЖИХ ФОРМУЛИРОВОК",
+        "text": "КОГДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПРИХОДИТСЯ ПУГАТЬСЯ",
+        "text": "УСПОКОИШЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.56,
-    "end": 27.48,
+    "start": 22.77,
+    "end": 24.69,
     "lines": [
       {
         "text": "ССЫЛКА",
