@@ -1,71 +1,87 @@
 [
   {
-    "start": 2.745,
-    "end": 6.135,
+    "start": 2.61,
+    "end": 5.7,
     "lines": [
       {
-        "text": "НЕ МОЖЕШЬ ПРОВЕРИТЬ",
+        "text": "ВСЁ ЧТО ПОМНИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНО ЛИ РЕШЕНО",
+        "text": "ПО ОДНОЙ ТЕМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.735,
-    "end": 7.845,
+    "start": 6.15,
+    "end": 7.35,
     "lines": [
       {
-        "text": "СМОТРИШЬ НА",
+        "text": "И ПОЛУЧИЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГО РЕШЕНИЕ",
+        "text": "ТРИ СТРОКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.995,
-    "end": 11.055,
+    "start": 8.04,
+    "end": 10.02,
     "lines": [
       {
-        "text": "МОЖЕШЬ СКАЗАТЬ ТОЛЬКО",
+        "text": "СОХРАНИЛА ЛИСТОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АККУРАТНО ИЛИ НЕТ",
+        "text": "КАК ТОЧКУ ОТСЧЁТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.535,
-    "end": 12.945,
+    "start": 10.38,
+    "end": 11.94,
     "lines": [
       {
-        "text": "А ПРАВИЛЬНО ЛИ",
+        "text": "ЧЕРЕЗ НЕДЕЛЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ МОЖЕШЬ",
+        "text": "ПОВТОРИЛА ТЕСТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.635,
-    "end": 16.215,
+    "start": 12.18,
+    "end": 14.01,
+    "lines": [
+      {
+        "text": "ЧТОБЫ УВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЁТ ЛИ РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.64,
+    "end": 16.35,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -73,31 +89,63 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.545,
-    "end": 19.605,
+    "start": 16.59,
+    "end": 17.85,
     "lines": [
       {
-        "text": "РЕБЁНОК И ТЫ",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЕРЯЕТЕ ХОД РЕШЕНИЯ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.055,
-    "end": 21.915,
+    "start": 18.33,
+    "end": 20.73,
+    "lines": [
+      {
+        "text": "МОЖНО СРАЗУ УВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО ЗАПОМНИЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.09,
+    "end": 22.29,
+    "lines": [
+      {
+        "text": "БЕЗ СВОИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАМЕРОВ НА КУХНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.8,
+    "end": 24.43,
     "lines": [
       {
         "text": "ССЫЛКА",
