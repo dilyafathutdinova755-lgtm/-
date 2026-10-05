@@ -1,103 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.78,
+    "end": 3.54,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ЕГЭ",
+        "text": "В НАШЕМ КЛАССЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ТОМ ЖЕ ЧАТЕ",
+        "text": "СВЕРЯТЬ ОТВЕТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.78,
-    "end": 6.09,
+    "start": 3.54,
+    "end": 4.86,
     "lines": [
       {
-        "text": "КАЖДОЕ СООБЩЕНИЕ",
+        "text": "ПО ЕГЭ В ЧАТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБРЫВАЕТ МЫСЛЬ",
+        "text": "КТО ПЕРВЫЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.09,
-    "end": 8.19,
+    "start": 4.86,
+    "end": 6.18,
     "lines": [
       {
-        "text": "НА",
+        "text": "ПОЧТИ ВСЕГДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЕРЕДИНЕ",
+        "text": "ОШИБАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.19,
-    "end": 10.14,
+    "start": 6.48,
+    "end": 7.83,
     "lines": [
       {
-        "text": "У МЕНЯ ПЯТЬ",
+        "text": "ОСТАЛЬНЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЧАТЫХ ЗАДАНИЙ",
+        "text": "СОГЛАШАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 8.65,
+    "lines": [
+      {
+        "text": "ПОТОМУ ЧТО ЛЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.14,
-    "end": 11.58,
+    "start": 8.65,
+    "end": 10.59,
     "lines": [
       {
-        "text": "И НИ ОДНОГО",
+        "text": "НЕВЕРНЫЙ ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКОНЧЕННОГО",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 12.06,
-    "end": 14.97,
-    "lines": [
-      {
-        "text": "ПОТОМУ ЧТО УЖЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАБЫЛА ЗАЧЕМ",
+        "text": "НАБИРАЕТ ПЯТЬ ПЛЮСОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.64,
+    "start": 10.86,
+    "end": 11.7,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,40 +112,40 @@
     ]
   },
   {
-    "start": 17.64,
-    "end": 18.87,
+    "start": 11.7,
+    "end": 13.17,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.87,
-    "end": 21.0,
+    "start": 13.17,
+    "end": 15.36,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ",
+        "text": "ПО КОТОРОМУ ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫВАЮТСЯ ОТДЕЛЬНО",
+        "text": "МОЖНО ПРОВЕРИТЬ БЕЗ ЧАТА",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 21.57,
-    "end": 22.68,
+    "start": 15.6,
+    "end": 16.68,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 22.68,
-    "end": 23.575,
+    "start": 16.68,
+    "end": 17.52,
     "lines": [
       {
         "text": "ССЫЛКА",
