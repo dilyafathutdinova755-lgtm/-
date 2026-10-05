@@ -1,71 +1,71 @@
 [
   {
-    "start": 3.33,
-    "end": 4.41,
+    "start": 3.735,
+    "end": 6.105,
     "lines": [
       {
-        "text": "ВЫЗЫВАЕТ",
+        "text": "БЕСИТ СИЛЬНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОПРОС",
+        "text": "СОБСТВЕННОЙ ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 5.88,
+    "start": 7.365,
+    "end": 8.925,
     "lines": [
       {
-        "text": "ЧЬИ ЭТО",
+        "text": "ТЫ ЗАСТРЕВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "НА ТАКОМ МЕСТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.75,
-    "end": 9.24,
+    "start": 9.165,
+    "end": 11.265,
     "lines": [
       {
-        "text": "ПРОВЕРЯЕШЬ ОДИН",
+        "text": "НЕ ИДЁШЬ ДАЛЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОЧНИК И ГОД",
+        "text": "ПОКА НЕ ПОЙМЁШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.32,
-    "end": 12.99,
+    "start": 11.685,
+    "end": 12.735,
     "lines": [
       {
-        "text": "В ПОЛОВИНЕ СЛУЧАЕВ",
+        "text": "ЧТО ТАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИХ ПРОСТО НЕТ",
+        "text": "ОЧЕВИДНОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.1,
-    "end": 15.78,
+    "start": 13.635,
+    "end": 16.515,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -73,47 +73,47 @@
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.05,
-    "end": 17.04,
+    "start": 16.995,
+    "end": 18.165,
     "lines": [
       {
-        "text": "ЭТО ОФИЦИАЛЬНЫЙ",
+        "text": "ГДЕ ШАГИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК",
+        "text": "ОБЪЯСНЕНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.37,
-    "end": 19.59,
+    "start": 18.555,
+    "end": 19.755,
     "lines": [
       {
-        "text": "ИСТОЧНИК КОТОРОГО",
+        "text": "А НЕ НАЗВАНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ НУЖНО ИСКАТЬ",
+        "text": "ОЧЕВИДНЫМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.25,
-    "end": 22.14,
+    "start": 20.385,
+    "end": 22.305,
     "lines": [
       {
         "text": "ССЫЛКА",
