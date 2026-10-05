@@ -1,103 +1,103 @@
 [
   {
-    "start": 2.79,
-    "end": 6.3,
+    "start": 2.745,
+    "end": 6.135,
     "lines": [
       {
-        "text": "КАКУЮ ДОЛЮ БАНКА",
+        "text": "НЕ МОЖЕШЬ ПРОВЕРИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕБЁНОК ПРОШЁЛ",
+        "text": "ВЕРНО ЛИ РЕШЕНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.81,
-    "end": 9.24,
+    "start": 6.735,
+    "end": 7.845,
     "lines": [
       {
-        "text": "В РАЗРОЗНЕННЫХ ПАПКАХ",
+        "text": "СМОТРИШЬ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭТО НЕ ПОСЧИТАТЬ",
+        "text": "ЕГО РЕШЕНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.81,
-    "end": 12.09,
+    "start": 7.995,
+    "end": 11.055,
     "lines": [
       {
-        "text": "СВОДИШЬ В ТАБЛИЦУ",
+        "text": "МОЖЕШЬ СКАЗАТЬ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И СБИВАЕШЬСЯ",
+        "text": "АККУРАТНО ИЛИ НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 16.29,
+    "start": 11.535,
+    "end": 12.945,
     "lines": [
       {
-        "text": "ЗАДАНИЯ ЛЕЖАТ",
+        "text": "А ПРАВИЛЬНО ЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОД РАЗНЫМИ НОМЕРАМИ",
+        "text": "НЕ МОЖЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 19.62,
+    "start": 13.635,
+    "end": 16.215,
     "lines": [
       {
-        "text": "В ТРЕНАЖЁРЕ ЕСТЬ",
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.16,
-    "end": 21.48,
+    "start": 16.545,
+    "end": 19.605,
     "lines": [
       {
-        "text": "В ОДНОМ МЕСТЕ",
+        "text": "РЕБЁНОК И ТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ДУБЛЕЙ",
+        "text": "СВЕРЯЕТЕ ХОД РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 21.9,
-    "end": 23.79,
+    "start": 20.055,
+    "end": 21.915,
     "lines": [
       {
         "text": "ССЫЛКА",
