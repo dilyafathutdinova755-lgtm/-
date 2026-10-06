@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.36,
+    "lines": [
+      {
+        "text": "СТАРШИЙ БРАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ ШЕПОТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 4.83,
+    "lines": [
+      {
+        "text": "ЧТОБЫ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБУДИТЬ МАМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 6.96,
+    "lines": [
+      {
+        "text": "И ПОЛОВИНУ СЛОВ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ РАЗБИРАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "Я ПЕРЕСПРАШИВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОН РАЗДРАЖАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.99,
+    "end": 11.28,
+    "lines": [
+      {
+        "text": "МЫ ОБА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБИВАЕМСЯ С МЫСЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 13.89,
+    "lines": [
+      {
+        "text": "ПОЭТОМУ ЗА ВЕЧЕР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫХОДИТ ОДНО ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.54,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 18.09,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.48,
+    "end": 20.31,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОКОЙНО ЧИТАТЬ В ТИШИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.97,
+    "end": 22.02,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.02,
+    "end": 22.85,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

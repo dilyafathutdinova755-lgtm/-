@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.51,
+    "lines": [
+      {
+        "text": "СПИСОК ПРАВИТЕЛЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я ВЫУЧИЛА ПО ПОРЯДКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.11,
+    "end": 6.66,
+    "lines": [
+      {
+        "text": "А ВНЕ ПОРЯДКА НЕ МОГУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАТЬ ДАЖЕ ВТОРОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.47,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "ПОРЯДОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕРЖИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 10.23,
+    "lines": [
+      {
+        "text": "ТОЛЬКО ЕСЛИ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧИНАЮ С САМОГО НАЧАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.59,
+    "end": 12.18,
+    "lines": [
+      {
+        "text": "И ИДУ ПО СПИСКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ПО СТУПЕНЬКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 14.64,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.64,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.63,
+    "end": 16.98,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.98,
+    "end": 18.45,
+    "lines": [
+      {
+        "text": "ГДЕ ВОПРОСЫ ИДУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВПЕРЕМЕШКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.22,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.22,
+    "end": 21.058,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

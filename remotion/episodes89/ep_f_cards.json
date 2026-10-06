@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "ПОДРУГА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСКАЗЫВАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 3.96,
+    "lines": [
+      {
+        "text": "МНЕ ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СО ВЧЕРАШНЕГО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.96,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "ПРОБНИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ПАМЯТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.81,
+    "lines": [
+      {
+        "text": "И КАЖДЫЙ РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕМНОГО ДРУГАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.71,
+    "end": 8.82,
+    "lines": [
+      {
+        "text": "ИЗ ПЕРЕСКАЗА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЙМЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.03,
+    "end": 10.77,
+    "lines": [
+      {
+        "text": "КАК ВЫГЛЯДЕЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАСТОЯЩЕЕ УСЛОВИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.34,
+    "end": 12.93,
+    "lines": [
+      {
+        "text": "А МНЕ ВАЖНО ВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНЫЕ СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.08,
+    "end": 14.76,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.27,
+    "end": 16.29,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.29,
+    "end": 17.94,
+    "lines": [
+      {
+        "text": "С НАСТОЯЩИМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛИРОВКАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.94,
+    "end": 19.23,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСКАЗОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.23,
+    "end": 20.31,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.31,
+    "end": 21.122,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

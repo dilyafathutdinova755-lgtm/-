@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.66,
+    "lines": [
+      {
+        "text": "СОСЕД В ЛИФТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНОГДА СПРАШИВАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 4.71,
+    "lines": [
+      {
+        "text": "У МЕНЯ ТЕРМИН ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ И Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УСПЕВАЮ ОТВЕТИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 9.45,
+    "lines": [
+      {
+        "text": "ТРИ ЭТАЖА ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ СЕКУНДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.96,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "А ПРАВИЛЬНЫЙ ОТВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 13.98,
+    "lines": [
+      {
+        "text": "МНЕ ТОЛЬКО НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕТВЕРТОМ КОГДА ДВЕРИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.96,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.83,
+    "end": 17.73,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.73,
+    "end": 19.02,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.02,
+    "end": 20.76,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ПРИУЧАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕЧАТЬ БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.45,
+    "end": 22.5,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.5,
+    "end": 23.34,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.29,
+    "lines": [
+      {
+        "text": "НА МОЕЙ РАБОТЕ ПО ЕГЭ УЧИТЕЛЬ ПИШЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМОТРИ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.29,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "А ГДЕ ЭТОТ РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКАТЬ НЕ ОБЪЯСНИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.96,
+    "end": 8.28,
+    "lines": [
+      {
+        "text": "Я СПРОСИЛА У",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОКЛАССНИКОВ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.49,
+    "end": 10.02,
+    "lines": [
+      {
+        "text": "И КАЖДЫЙ НАЗВАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОЙ ИСТОЧНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "А РЕШЕНИЕ У ВСЕХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИЛИСЬ РАЗНЫМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.08,
+    "end": 13.92,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 14.76,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.76,
+    "end": 16.17,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.17,
+    "end": 18.0,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ЛЕЖИТ РЯДОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С САМИМ ЗАДАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.63,
+    "end": 19.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.6,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
