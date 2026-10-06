@@ -523,3 +523,13 @@ episodes88/frames/
 episodes88/idframes/
 episodes88/qa_frames/
 episodes88_out/
+sources_coffee123_42/
+asr_coffee123_42/
+episodes89/*.mp4
+episodes89/*.wav
+episodes89/*.log
+episodes89/render/
+episodes89/frames/
+episodes89/idframes/
+episodes89/qa_frames/
+episodes89_out/
