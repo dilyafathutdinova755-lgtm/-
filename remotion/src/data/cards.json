@@ -4,12 +4,12 @@
     "end": 3.21,
     "lines": [
       {
-        "text": "МОЙ ДРУГ СЧИТАЕТ",
+        "text": "Я ПРОВЕРЯЮ РЕШЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОРЫ ЗАДАНИЙ",
+        "text": "В ЧАТ БОТЕ",
         "accent": true,
         "size": "big"
       }
@@ -17,87 +17,71 @@
   },
   {
     "start": 3.21,
-    "end": 4.32,
+    "end": 4.86,
     "lines": [
       {
-        "text": "ЕГЭ",
+        "text": "КОТОРЫЙ ВЫДАЕТ ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧУЖИМИ МЫСЛЯМИ",
+        "text": "ВЕРНО ИЛИ НЕВЕРНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.53,
-    "end": 5.7,
+    "start": 5.19,
+    "end": 6.6,
     "lines": [
       {
-        "text": "А МНЕ НРАВИТСЯ",
+        "text": "ОЦЕНКУ Я ЗНАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАГЛЯДЫВАТЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.91,
-    "end": 7.02,
-    "lines": [
-      {
-        "text": "Я СНАЧАЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШАЮ САМ",
+        "text": "А ПРИЧИНУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.23,
-    "end": 8.13,
+    "start": 6.75,
+    "end": 7.95,
     "lines": [
       {
-        "text": "А ПОТОМ",
+        "text": "НЕТ И ВТОРАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИВАЮ",
+        "text": "ПОПЫТКА ИДЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.34,
-    "end": 10.2,
+    "start": 8.13,
+    "end": 9.06,
     "lines": [
       {
-        "text": "И НАХОЖУ ХОДЫ",
+        "text": "ПОЧТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОТОРЫЕ САМ БЫ НЕ ПРИДУМАЛ",
+        "text": "НАУГАД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 11.31,
+    "start": 9.06,
+    "end": 10.26,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,56 +96,40 @@
     ]
   },
   {
-    "start": 11.31,
-    "end": 12.12,
+    "start": 10.26,
+    "end": 11.28,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.12,
-    "end": 12.99,
+    "start": 11.28,
+    "end": 13.05,
     "lines": [
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "КОТОРЫЙ ПОКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "ПРИЧИНУ ОШИБКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 14.58,
-    "lines": [
-      {
-        "text": "В КОТОРОМ ВСТРЕЧАЮТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТАКИЕ ХОДЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.91,
-    "end": 15.78,
+    "start": 13.35,
+    "end": 14.3,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -176,8 +144,8 @@
     ]
   },
   {
-    "start": 15.78,
-    "end": 16.62,
+    "start": 14.3,
+    "end": 15.127,
     "lines": [
       {
         "text": "ССЫЛКА",
