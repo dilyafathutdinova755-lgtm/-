@@ -1,135 +1,151 @@
 [
   {
     "start": 1.86,
-    "end": 3.21,
+    "end": 3.33,
     "lines": [
       {
-        "text": "Я ПРОВЕРЯЮ РЕШЕНИЕ",
+        "text": "ПАДЕЖНОЕ ОКОНЧАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЧАТ БОТЕ",
+        "text": "СТАВЛЮ ПРАВИЛЬНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.21,
-    "end": 4.86,
+    "start": 3.45,
+    "end": 4.38,
     "lines": [
       {
-        "text": "КОТОРЫЙ ВЫДАЕТ ТОЛЬКО",
+        "text": "В ГОЛОВЕ А",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНО ИЛИ НЕВЕРНО",
+        "text": "В ПИСЬМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.19,
-    "end": 6.6,
+    "start": 4.68,
+    "end": 5.55,
     "lines": [
       {
-        "text": "ОЦЕНКУ Я ЗНАЮ",
+        "text": "ПИШУ НЕ ТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А ПРИЧИНУ",
+        "text": "РУКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.75,
-    "end": 7.95,
+    "start": 5.67,
+    "end": 6.84,
     "lines": [
       {
-        "text": "НЕТ И ВТОРАЯ",
+        "text": "ТОРОПИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОПЫТКА ИДЕТ",
+        "text": "БЫСТРЕЕ МЫСЛЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.13,
-    "end": 9.06,
+    "start": 6.93,
+    "end": 8.7,
     "lines": [
       {
-        "text": "ПОЧТИ",
+        "text": "И ОШИБКИ ПОЛУЧАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАУГАД",
+        "text": "НЕ ОТ НЕЗНАНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.26,
+    "start": 9.0,
+    "end": 9.96,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "А ОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "СКОРОСТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.26,
-    "end": 11.28,
+    "start": 9.96,
+    "end": 11.46,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.28,
-    "end": 13.05,
+    "start": 11.73,
+    "end": 12.84,
     "lines": [
       {
-        "text": "КОТОРЫЙ ПОКАЗЫВАЕТ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЧИНУ ОШИБКИ",
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 14.55,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОРОСТЬ ОТВЕТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.35,
-    "end": 14.3,
+    "start": 14.85,
+    "end": 15.75,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +160,8 @@
     ]
   },
   {
-    "start": 14.3,
-    "end": 15.127,
+    "start": 15.75,
+    "end": 16.62,
     "lines": [
       {
         "text": "ССЫЛКА",
