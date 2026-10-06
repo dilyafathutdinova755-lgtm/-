@@ -1,87 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.51,
+    "end": 3.66,
     "lines": [
       {
-        "text": "СПИСОК ПРАВИТЕЛЕЙ",
+        "text": "СОСЕД В ЛИФТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "Я ВЫУЧИЛА ПО ПОРЯДКУ",
+        "text": "ИНОГДА СПРАШИВАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.11,
-    "end": 6.66,
+    "start": 3.66,
+    "end": 4.71,
     "lines": [
       {
-        "text": "А ВНЕ ПОРЯДКА НЕ МОГУ",
+        "text": "У МЕНЯ ТЕРМИН ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЗВАТЬ ДАЖЕ ВТОРОГО",
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ И Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УСПЕВАЮ ОТВЕТИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.47,
-    "end": 8.55,
+    "start": 7.95,
+    "end": 9.45,
     "lines": [
       {
-        "text": "ПОРЯДОК",
+        "text": "ТРИ ЭТАЖА ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "ТРИ СЕКУНДЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.7,
-    "end": 10.23,
+    "start": 9.96,
+    "end": 11.34,
     "lines": [
       {
-        "text": "ТОЛЬКО ЕСЛИ Я",
+        "text": "А ПРАВИЛЬНЫЙ ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЧИНАЮ С САМОГО НАЧАЛА",
+        "text": "ВСПОМИНАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 13.98,
+    "lines": [
+      {
+        "text": "МНЕ ТОЛЬКО НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕТВЕРТОМ КОГДА ДВЕРИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.59,
-    "end": 12.18,
-    "lines": [
-      {
-        "text": "И ИДУ ПО СПИСКУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАК ПО СТУПЕНЬКАМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.83,
-    "end": 14.64,
+    "start": 15.96,
+    "end": 16.83,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -96,11 +112,11 @@
     ]
   },
   {
-    "start": 14.64,
-    "end": 15.63,
+    "start": 16.83,
+    "end": 17.73,
     "lines": [
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
@@ -112,8 +128,8 @@
     ]
   },
   {
-    "start": 15.63,
-    "end": 16.98,
+    "start": 17.73,
+    "end": 19.02,
     "lines": [
       {
         "text": "ИГРЫ",
@@ -128,27 +144,27 @@
     ]
   },
   {
-    "start": 16.98,
-    "end": 18.45,
+    "start": 19.02,
+    "end": 20.76,
     "lines": [
       {
-        "text": "ГДЕ ВОПРОСЫ ИДУТ",
+        "text": "КОТОРЫЕ ПРИУЧАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВПЕРЕМЕШКУ",
+        "text": "ОТВЕЧАТЬ БЫСТРО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.2,
-    "end": 20.22,
+    "start": 21.45,
+    "end": 22.5,
     "lines": [
       {
-        "text": "ССЫЛКА НА",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +176,8 @@
     ]
   },
   {
-    "start": 20.22,
-    "end": 21.058,
+    "start": 22.5,
+    "end": 23.34,
     "lines": [
       {
         "text": "ССЫЛКА",
