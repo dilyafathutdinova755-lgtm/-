@@ -1,103 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.36,
+    "end": 3.39,
     "lines": [
       {
-        "text": "ДОЧЬ ПОПРОСИЛА",
+        "text": "ДОЧЬ ВЫУЧИЛА ВСЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧИТАТЬ ОБЪЯСНЕНИЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.36,
-    "end": 5.1,
-    "lines": [
-      {
-        "text": "К ЗАДАНИЯМ ВМЕСТЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ОЧЕРЕДИ",
+        "text": "ДАТЫ ПЕРИОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.55,
-    "end": 6.75,
+    "start": 3.39,
+    "end": 4.38,
     "lines": [
       {
-        "text": "И Я НЕОЖИДАННО",
+        "text": "ДЛЯ ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВТЯНУЛАСЬ",
+        "text": "КАРТИНКЕ ТАЙМЛАЙНУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.29,
-    "end": 9.03,
+    "start": 4.38,
+    "end": 5.52,
     "lines": [
       {
-        "text": "МЫ ЧИТАЕМ ШАГ",
+        "text": "А БЕЗ КАРТИНКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАНАВЛИВАЕМСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 9.54,
-    "end": 10.77,
-    "lines": [
-      {
-        "text": "ОНА ПРОБУЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОДОЛЖИТЬ САМА",
+        "text": "ТЕРЯЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.04,
-    "end": 12.54,
+    "start": 6.3,
+    "end": 7.38,
     "lines": [
       {
-        "text": "А ПОТОМ МЫ",
+        "text": "Я ЗАМЕТИЛА ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЕРЯЕМСЯ С ТЕКСТОМ",
+        "text": "КАРТИНКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.23,
-    "end": 14.04,
+    "start": 7.56,
+    "end": 8.46,
+    "lines": [
+      {
+        "text": "ОНА ПОМНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦЕЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "А СОБЫТИЯ НА НЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОТДЕЛЬНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.41,
+    "end": 11.91,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.91,
+    "end": 12.78,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,40 +128,56 @@
     ]
   },
   {
-    "start": 14.04,
-    "end": 15.33,
+    "start": 12.78,
+    "end": 13.86,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "text": "ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ЕСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.33,
-    "end": 17.58,
+    "start": 13.86,
+    "end": 14.85,
     "lines": [
       {
-        "text": "ПО ШАГАМ КОТОРЫЙ",
+        "text": "ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УДОБНО ЧИТАТЬ ВДВОЕМ",
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.85,
+    "end": 16.86,
+    "lines": [
+      {
+        "text": "ГДЕ СОБЫТИЯ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАТЬ БЕЗ КАРТИНКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.21,
-    "end": 19.25,
+    "start": 17.61,
+    "end": 18.69,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +192,8 @@
     ]
   },
   {
-    "start": 19.25,
-    "end": 20.098,
+    "start": 18.69,
+    "end": 19.5,
     "lines": [
       {
         "text": "ССЫЛКА",
