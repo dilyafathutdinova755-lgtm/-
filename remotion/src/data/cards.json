@@ -1,119 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 2.79,
+    "end": 2.76,
     "lines": [
       {
-        "text": "ПО СЕКРЕТУ ОТ МЕНЯ",
+        "text": "ФОРМА ГОСУДАРСТВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЕТ",
+        "text": "ДЛЯ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.79,
-    "end": 3.9,
+    "start": 2.76,
+    "end": 4.17,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ЕГЭ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОЧЬЮ",
+        "text": "Я ЗАПОМНИЛ ПО ТАБЛИЦЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.02,
-    "end": 5.52,
+    "start": 4.59,
+    "end": 6.06,
     "lines": [
       {
-        "text": "И УТРОМ Я ВИЖУ",
+        "text": "А НА ТЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕЕ СОННОЙ И ТИХОЙ",
+        "text": "ТАБЛИЦА ИСЧЕЗАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.24,
-    "end": 7.23,
+    "start": 6.33,
+    "end": 8.16,
     "lines": [
       {
-        "text": "Я НЕ РУГАЮ",
+        "text": "В ГОЛОВЕ ОСТАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НО ХОЧУ",
+        "text": "СТОЛБЦЫ БЕЗ СТРОК",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.32,
-    "end": 8.4,
+    "start": 8.43,
+    "end": 9.9,
     "lines": [
       {
-        "text": "ЧТОБЫ ОНА",
+        "text": "И Я ПОМНЮ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЛА ДНЕМ",
+        "text": "ГДЕ ТО БЫЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.79,
-    "end": 10.56,
+    "start": 10.02,
+    "end": 11.16,
     "lines": [
       {
-        "text": "И МЫ ДОГОВОРИЛИСЬ",
+        "text": "СЛОВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ВЕЧЕРОМ",
+        "text": "РЕСПУБЛИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.68,
-    "end": 12.27,
+    "start": 11.16,
+    "end": 12.36,
     "lines": [
       {
-        "text": "У НЕЕ БУДЕТ",
+        "text": "НО НЕ ПОМНЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВОБОДНЫЙ ЧАС",
+        "text": "ГДЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.27,
-    "end": 13.08,
+    "start": 12.36,
+    "end": 13.17,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -128,72 +128,72 @@
     ]
   },
   {
-    "start": 13.08,
-    "end": 14.22,
+    "start": 13.17,
+    "end": 14.25,
     "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
       {
         "text": "ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.22,
-    "end": 15.42,
+    "start": 14.25,
+    "end": 15.27,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ МОЖНО",
+        "text": "ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАТЬ",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 15.42,
-    "end": 16.65,
+    "start": 15.48,
+    "end": 17.16,
     "lines": [
       {
-        "text": "В УДОБНОЕ ВРЕМЯ И",
+        "text": "ГДЕ ФОРМА ГОСУДАРСТВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОЧЬ",
+        "text": "НУЖНО НАЗЫВАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.65,
-    "end": 17.61,
+    "start": 17.34,
+    "end": 18.15,
     "lines": [
       {
-        "text": "ДЛЯ ЭТОГО НЕ",
+        "text": "ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНА",
+        "text": "ПРИЗНАКАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.3,
-    "end": 19.25,
+    "start": 18.15,
+    "end": 19.17,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -208,8 +208,8 @@
     ]
   },
   {
-    "start": 19.25,
-    "end": 20.098,
+    "start": 19.17,
+    "end": 20.012,
     "lines": [
       {
         "text": "ССЫЛКА",
