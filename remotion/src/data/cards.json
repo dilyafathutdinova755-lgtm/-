@@ -1,151 +1,183 @@
 [
   {
     "start": 1.86,
-    "end": 3.33,
+    "end": 3.15,
     "lines": [
       {
-        "text": "ПАДЕЖНОЕ ОКОНЧАНИЕ",
+        "text": "Я РЕШИЛ ГОТОВИТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАВЛЮ ПРАВИЛЬНО",
+        "text": "ТОЛЬКО ПО НОВЫМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
+    "start": 3.15,
     "end": 4.38,
     "lines": [
       {
-        "text": "В ГОЛОВЕ А",
+        "text": "ЗАДАНИЯМ ЧТОБЫ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПИСЬМЕ",
+        "text": "ВИДЕТЬ ОДНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.68,
-    "end": 5.55,
+    "start": 4.56,
+    "end": 5.79,
     "lines": [
       {
-        "text": "ПИШУ НЕ ТО",
+        "text": "И ТО ЖЕ И НЕ СТАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУКА",
+        "text": "ПОВТОРЯТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.67,
-    "end": 6.84,
+    "start": 6.15,
+    "end": 7.02,
     "lines": [
       {
-        "text": "ТОРОПИТСЯ",
+        "text": "НОВОЕ ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРЕЕ МЫСЛЕЙ",
+        "text": "ХОРОШО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.93,
-    "end": 8.7,
+    "start": 7.29,
+    "end": 9.18,
     "lines": [
       {
-        "text": "И ОШИБКИ ПОЛУЧАЮТСЯ",
+        "text": "НО БЕЗ ПОВТОРОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ОТ НЕЗНАНИЯ",
+        "text": "СЛАБЫЕ МЕСТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 9.96,
+    "start": 9.18,
+    "end": 9.99,
     "lines": [
       {
-        "text": "А ОТ",
+        "text": "ОСТАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОРОСТИ",
+        "text": "СЛАБЫМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.96,
-    "end": 11.46,
+    "start": 9.99,
+    "end": 11.49,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "И НА ПРОБНИКЕ ОНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "text": "ВЫЛЕЗЛИ СНОВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.73,
-    "end": 12.84,
+    "start": 11.76,
+    "end": 12.72,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 13.02,
-    "end": 14.55,
-    "lines": [
-      {
-        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКОРОСТЬ ОТВЕТА",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.85,
-    "end": 15.75,
+    "start": 12.72,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНУТЬСЯ К НОМЕРУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 16.0,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.0,
+    "end": 16.89,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +192,8 @@
     ]
   },
   {
-    "start": 15.75,
-    "end": 16.62,
+    "start": 16.89,
+    "end": 17.88,
     "lines": [
       {
         "text": "ССЫЛКА",
