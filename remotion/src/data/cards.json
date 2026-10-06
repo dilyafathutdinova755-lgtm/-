@@ -1,87 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 4.29,
+    "end": 3.51,
     "lines": [
       {
-        "text": "НА МОЕЙ РАБОТЕ ПО ЕГЭ УЧИТЕЛЬ ПИШЕТ",
+        "text": "СПИСОК ПРАВИТЕЛЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМОТРИ РАЗБОР",
+        "text": "Я ВЫУЧИЛА ПО ПОРЯДКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.29,
-    "end": 6.18,
+    "start": 4.11,
+    "end": 6.66,
     "lines": [
       {
-        "text": "А ГДЕ ЭТОТ РАЗБОР",
+        "text": "А ВНЕ ПОРЯДКА НЕ МОГУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСКАТЬ НЕ ОБЪЯСНИЛ",
+        "text": "НАЗВАТЬ ДАЖЕ ВТОРОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.96,
-    "end": 8.28,
+    "start": 7.47,
+    "end": 8.55,
     "lines": [
       {
-        "text": "Я СПРОСИЛА У",
+        "text": "ПОРЯДОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОКЛАССНИКОВ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 8.49,
-    "end": 10.02,
-    "lines": [
-      {
-        "text": "И КАЖДЫЙ НАЗВАЛ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СВОЙ ИСТОЧНИК",
+        "text": "ДЕРЖИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.53,
-    "end": 12.3,
+    "start": 8.7,
+    "end": 10.23,
     "lines": [
       {
-        "text": "А РЕШЕНИЕ У ВСЕХ",
+        "text": "ТОЛЬКО ЕСЛИ Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛУЧИЛИСЬ РАЗНЫМИ",
+        "text": "НАЧИНАЮ С САМОГО НАЧАЛА",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 13.08,
-    "end": 13.92,
+    "start": 10.59,
+    "end": 12.18,
+    "lines": [
+      {
+        "text": "И ИДУ ПО СПИСКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ПО СТУПЕНЬКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 14.64,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -96,11 +96,11 @@
     ]
   },
   {
-    "start": 13.92,
-    "end": 14.76,
+    "start": 14.64,
+    "end": 15.63,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
@@ -112,43 +112,43 @@
     ]
   },
   {
-    "start": 14.76,
-    "end": 16.17,
+    "start": 15.63,
+    "end": 16.98,
     "lines": [
       {
-        "text": "ТЕКСТОВЫЙ",
+        "text": "ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.98,
+    "end": 18.45,
+    "lines": [
+      {
+        "text": "ГДЕ ВОПРОСЫ ИДУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВПЕРЕМЕШКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.17,
-    "end": 18.0,
+    "start": 19.2,
+    "end": 20.22,
     "lines": [
       {
-        "text": "КОТОРЫЙ ЛЕЖИТ РЯДОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "С САМИМ ЗАДАНИЕМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.63,
-    "end": 19.6,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 19.6,
-    "end": 20.46,
+    "start": 20.22,
+    "end": 21.058,
     "lines": [
       {
         "text": "ССЫЛКА",
