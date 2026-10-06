@@ -1,63 +1,47 @@
 [
   {
     "start": 1.86,
-    "end": 3.15,
+    "end": 3.36,
     "lines": [
       {
-        "text": "Я РЕШИЛ ГОТОВИТЬСЯ",
+        "text": "ДОЧЬ ПОПРОСИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ПО НОВЫМ",
+        "text": "ЧИТАТЬ ОБЪЯСНЕНИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.36,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ВМЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОЧЕРЕДИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.15,
-    "end": 4.38,
+    "start": 5.55,
+    "end": 6.75,
     "lines": [
       {
-        "text": "ЗАДАНИЯМ ЧТОБЫ НЕ",
+        "text": "И Я НЕОЖИДАННО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДЕТЬ ОДНО",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.56,
-    "end": 5.79,
-    "lines": [
-      {
-        "text": "И ТО ЖЕ И НЕ СТАЛ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.15,
-    "end": 7.02,
-    "lines": [
-      {
-        "text": "НОВОЕ ЭТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ХОРОШО",
+        "text": "ВТЯНУЛАСЬ",
         "accent": true,
         "size": "big"
       }
@@ -65,55 +49,55 @@
   },
   {
     "start": 7.29,
-    "end": 9.18,
+    "end": 9.03,
     "lines": [
       {
-        "text": "НО БЕЗ ПОВТОРОВ",
+        "text": "МЫ ЧИТАЕМ ШАГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛАБЫЕ МЕСТА",
+        "text": "ОСТАНАВЛИВАЕМСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.54,
+    "end": 10.77,
+    "lines": [
+      {
+        "text": "ОНА ПРОБУЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОДОЛЖИТЬ САМА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.18,
-    "end": 9.99,
+    "start": 11.04,
+    "end": 12.54,
     "lines": [
       {
-        "text": "ОСТАЮТСЯ",
+        "text": "А ПОТОМ МЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛАБЫМИ",
+        "text": "СВЕРЯЕМСЯ С ТЕКСТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.99,
-    "end": 11.49,
-    "lines": [
-      {
-        "text": "И НА ПРОБНИКЕ ОНИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЫЛЕЗЛИ СНОВА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.76,
-    "end": 12.72,
+    "start": 13.23,
+    "end": 14.04,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -128,56 +112,40 @@
     ]
   },
   {
-    "start": 12.72,
-    "end": 13.65,
+    "start": 14.04,
+    "end": 15.33,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.65,
-    "end": 14.97,
+    "start": 15.33,
+    "end": 17.58,
     "lines": [
       {
-        "text": "ГДЕ МОЖНО",
+        "text": "ПО ШАГАМ КОТОРЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНУТЬСЯ К НОМЕРУ",
+        "text": "УДОБНО ЧИТАТЬ ВДВОЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.18,
-    "end": 16.0,
-    "lines": [
-      {
-        "text": "КОТОРЫЙ НЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОЛУЧИЛСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.0,
-    "end": 16.89,
+    "start": 18.21,
+    "end": 19.25,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +160,8 @@
     ]
   },
   {
-    "start": 16.89,
-    "end": 17.88,
+    "start": 19.25,
+    "end": 20.098,
     "lines": [
       {
         "text": "ССЫЛКА",
