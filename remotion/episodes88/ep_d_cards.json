@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.33,
+    "lines": [
+      {
+        "text": "ПАДЕЖНОЕ ОКОНЧАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАВЛЮ ПРАВИЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 4.38,
+    "lines": [
+      {
+        "text": "В ГОЛОВЕ А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПИСЬМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.68,
+    "end": 5.55,
+    "lines": [
+      {
+        "text": "ПИШУ НЕ ТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.67,
+    "end": 6.84,
+    "lines": [
+      {
+        "text": "ТОРОПИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРЕЕ МЫСЛЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "И ОШИБКИ ПОЛУЧАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОТ НЕЗНАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "А ОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОРОСТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.96,
+    "end": 11.46,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 12.84,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 14.55,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ТРЕНИРУЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОРОСТЬ ОТВЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.85,
+    "end": 15.75,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.75,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

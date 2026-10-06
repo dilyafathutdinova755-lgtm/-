@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.21,
+    "lines": [
+      {
+        "text": "МОЙ ДРУГ СЧИТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОРЫ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.21,
+    "end": 4.32,
+    "lines": [
+      {
+        "text": "ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧУЖИМИ МЫСЛЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.53,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "А МНЕ НРАВИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАГЛЯДЫВАТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.91,
+    "end": 7.02,
+    "lines": [
+      {
+        "text": "Я СНАЧАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЮ САМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.23,
+    "end": 8.13,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАВНИВАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.34,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "И НАХОЖУ ХОДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРЫЕ САМ БЫ НЕ ПРИДУМАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.31,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.31,
+    "end": 12.12,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.12,
+    "end": 12.99,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.99,
+    "end": 14.58,
+    "lines": [
+      {
+        "text": "В КОТОРОМ ВСТРЕЧАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАКИЕ ХОДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.91,
+    "end": 15.78,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.78,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

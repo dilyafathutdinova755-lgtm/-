@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.39,
+    "lines": [
+      {
+        "text": "ДОЧЬ ВЫУЧИЛА ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАТЫ ПЕРИОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.39,
+    "end": 4.38,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТИНКЕ ТАЙМЛАЙНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.38,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "А БЕЗ КАРТИНКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.38,
+    "lines": [
+      {
+        "text": "Я ЗАМЕТИЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТИНКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.56,
+    "end": 8.46,
+    "lines": [
+      {
+        "text": "ОНА ПОМНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦЕЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "А СОБЫТИЯ НА НЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОТДЕЛЬНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.41,
+    "end": 11.91,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.91,
+    "end": 12.78,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.78,
+    "end": 13.86,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.86,
+    "end": 14.85,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.85,
+    "end": 16.86,
+    "lines": [
+      {
+        "text": "ГДЕ СОБЫТИЯ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАТЬ БЕЗ КАРТИНКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.61,
+    "end": 18.69,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.69,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

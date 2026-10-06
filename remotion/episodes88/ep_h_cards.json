@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.79,
+    "lines": [
+      {
+        "text": "ПО СЕКРЕТУ ОТ МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.79,
+    "end": 3.9,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОЧЬЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.02,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "И УТРОМ Я ВИЖУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕЕ СОННОЙ И ТИХОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.24,
+    "end": 7.23,
+    "lines": [
+      {
+        "text": "Я НЕ РУГАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО ХОЧУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.32,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "ЧТОБЫ ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЛА ДНЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.79,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "И МЫ ДОГОВОРИЛИСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ВЕЧЕРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.68,
+    "end": 12.27,
+    "lines": [
+      {
+        "text": "У НЕЕ БУДЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОБОДНЫЙ ЧАС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.08,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.08,
+    "end": 14.22,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.22,
+    "end": 15.42,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "В УДОБНОЕ ВРЕМЯ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.65,
+    "end": 17.61,
+    "lines": [
+      {
+        "text": "ДЛЯ ЭТОГО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.25,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.25,
+    "end": 20.098,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
