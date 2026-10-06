@@ -1,119 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.39,
+    "end": 2.79,
     "lines": [
       {
-        "text": "ДОЧЬ ВЫУЧИЛА ВСЕ",
+        "text": "ПО СЕКРЕТУ ОТ МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАТЫ ПЕРИОДА",
+        "text": "РЕШАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.39,
-    "end": 4.38,
+    "start": 2.79,
+    "end": 3.9,
     "lines": [
       {
-        "text": "ДЛЯ ЕГЭ ПО",
+        "text": "ЗАДАНИЕ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТИНКЕ ТАЙМЛАЙНУ",
+        "text": "НОЧЬЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.38,
+    "start": 4.02,
     "end": 5.52,
     "lines": [
       {
-        "text": "А БЕЗ КАРТИНКИ",
+        "text": "И УТРОМ Я ВИЖУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРЯЕТСЯ",
+        "text": "ЕЕ СОННОЙ И ТИХОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.3,
-    "end": 7.38,
+    "start": 6.24,
+    "end": 7.23,
     "lines": [
       {
-        "text": "Я ЗАМЕТИЛА ЧТО",
+        "text": "Я НЕ РУГАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАРТИНКУ",
+        "text": "НО ХОЧУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.56,
-    "end": 8.46,
+    "start": 7.32,
+    "end": 8.4,
     "lines": [
       {
-        "text": "ОНА ПОМНИТ",
+        "text": "ЧТОБЫ ОНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЦЕЛИКОМ",
+        "text": "РЕШАЛА ДНЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.94,
-    "end": 10.26,
+    "start": 8.79,
+    "end": 10.56,
     "lines": [
       {
-        "text": "А СОБЫТИЯ НА НЕЙ",
+        "text": "И МЫ ДОГОВОРИЛИСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОТДЕЛЬНОСТИ",
+        "text": "ЧТО ВЕЧЕРОМ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.41,
-    "end": 11.91,
+    "start": 10.68,
+    "end": 12.27,
     "lines": [
       {
-        "text": "НЕ",
+        "text": "У НЕЕ БУДЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСПОМИНАЕТ",
+        "text": "СВОБОДНЫЙ ЧАС",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 11.91,
-    "end": 12.78,
+    "start": 12.27,
+    "end": 13.08,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -128,56 +128,72 @@
     ]
   },
   {
-    "start": 12.78,
-    "end": 13.86,
+    "start": 13.08,
+    "end": 14.22,
     "lines": [
-      {
-        "text": "ПО ИСТОРИИ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.86,
-    "end": 14.85,
+    "start": 14.22,
+    "end": 15.42,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "ГДЕ ЗАДАНИЕ МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.85,
-    "end": 16.86,
-    "lines": [
-      {
-        "text": "ГДЕ СОБЫТИЯ НУЖНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВСПОМИНАТЬ БЕЗ КАРТИНКИ",
+        "text": "РЕШАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.61,
-    "end": 18.69,
+    "start": 15.42,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "В УДОБНОЕ ВРЕМЯ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.65,
+    "end": 17.61,
+    "lines": [
+      {
+        "text": "ДЛЯ ЭТОГО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.25,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +208,8 @@
     ]
   },
   {
-    "start": 18.69,
-    "end": 19.5,
+    "start": 19.25,
+    "end": 20.098,
     "lines": [
       {
         "text": "ССЫЛКА",
