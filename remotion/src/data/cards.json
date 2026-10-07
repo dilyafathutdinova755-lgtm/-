@@ -1,33 +1,33 @@
 [
-  { "start": 2.22, "end": 4.65, "lines": [
-    { "text": "СЫН В НАУШНИКАХ", "accent": false, "size": "small" },
-    { "text": "ПРОПУСКАЕТ МИМО", "accent": true, "size": "big" }
+  { "start": 2.55, "end": 5.43, "lines": [
+    { "text": "В ТЕСТЕ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ПУТАЕТСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.65, "end": 7.56, "lines": [
-    { "text": "ВСЕ ЧТО", "accent": false, "size": "small" },
-    { "text": "Я ГОВОРЮ", "accent": true, "size": "big" }
+  { "start": 5.43, "end": 7.77, "lines": [
+    { "text": "ВАРИАНТЫ СБИВАЮТ", "accent": false, "size": "small" },
+    { "text": "С ТОЛКУ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.56, "end": 9.36, "lines": [
-    { "text": "Я ПЕРЕСТАЛА", "accent": false, "size": "small" },
-    { "text": "ГОВОРИТЬ ВСЛУХ", "accent": true, "size": "big" }
+  { "start": 7.77, "end": 9.81, "lines": [
+    { "text": "ПОТОМУ ЧТО", "accent": false, "size": "small" },
+    { "text": "ВЫГЛЯДЯТ ПОХОЖЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.36, "end": 11.79, "lines": [
-    { "text": "СТАЛА ОТПРАВЛЯТЬ", "accent": false, "size": "small" },
-    { "text": "СООБЩЕНИЯ", "accent": true, "size": "big" }
+  { "start": 9.81, "end": 12.03, "lines": [
+    { "text": "НА СЛУХ ОН", "accent": false, "size": "small" },
+    { "text": "СЛЫШИТ ОДНО СЛОВО", "accent": true, "size": "big" }
   ]},
-  { "start": 11.79, "end": 14.34, "lines": [
-    { "text": "СО ССЫЛКОЙ НА", "accent": false, "size": "small" },
-    { "text": "НУЖНОЕ ОБЪЯСНЕНИЕ", "accent": true, "size": "big" }
+  { "start": 12.03, "end": 13.95, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО РУССКОМУ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.34, "end": 17.37, "lines": [
-    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
-    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  { "start": 13.95, "end": 15.51, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.37, "end": 19.56, "lines": [
-    { "text": "НА КОТОРЫЙ", "accent": false, "size": "small" },
-    { "text": "УДОБНО ССЫЛАТЬСЯ", "accent": true, "size": "big" }
+  { "start": 15.51, "end": 17.91, "lines": [
+    { "text": "НУЖНО ВЫБИРАТЬ", "accent": false, "size": "small" },
+    { "text": "ИЗ ПОХОЖИХ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.56, "end": 21.27, "lines": [
+  { "start": 17.91, "end": 19.47, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
