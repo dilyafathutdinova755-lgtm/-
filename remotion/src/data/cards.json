@@ -1,87 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.06,
+    "end": 3.72,
     "lines": [
       {
-        "text": "НА УРОКЕ УЧИТЕЛЬ",
+        "text": "У МЕНЯ ДВЕ ПАПКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБИРАЛ ЕГЭ",
+        "text": "ЕГЭ ПРОБНЫЕ И ПОТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.66,
-    "end": 5.79,
+    "start": 4.26,
+    "end": 6.06,
     "lines": [
       {
-        "text": "Я СИДЕЛА ЗА СПИНОЙ",
+        "text": "И ВТОРАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫСОКОГО ОДНОКЛАССНИКА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.12,
-    "end": 8.25,
-    "lines": [
-      {
-        "text": "И ВИДЕЛА ТОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЕРХНЮЮ ПОЛОВИНУ",
+        "text": "РАСТЕТ БЫСТРЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.44,
+    "start": 7.68,
+    "end": 10.26,
     "lines": [
       {
-        "text": "НИЖНЮЮ ЧАСТЬ",
+        "text": "ПОТОМ Я СКЛАДЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОПИСЫВАЛА ПО ДОГАДКЕ",
+        "text": "ВСЕ ЧТО СТРАШНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.58,
-    "end": 13.89,
+    "start": 10.59,
+    "end": 12.9,
     "lines": [
       {
-        "text": "И ДОМА ВЫЯСНИЛОСЬ",
+        "text": "И ОНО КОПИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОГАДКА БЫЛА НЕВЕРНОЙ",
+        "text": "ПРЕВРАЩАЕТСЯ В ГОРУ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 14.61,
-    "end": 16.83,
+    "start": 13.89,
+    "end": 15.9,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,47 +73,47 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ТЕКСТОВЫЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 16.95,
-    "end": 19.17,
-    "lines": [
-      {
-        "text": "РАЗБОР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ГДЕ РЕШЕНИЕ ЦЕЛИКОМ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.77,
-    "end": 21.45,
+    "start": 16.11,
+    "end": 17.43,
     "lines": [
       {
-        "text": "ОТ ПЕРВОЙ СТРОКИ",
+        "text": "ГДЕ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО ПОСЛЕДНЕЙ",
+        "text": "ИДУТ ПО ПОРЯДКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.23,
-    "end": 23.37,
+    "start": 17.79,
+    "end": 19.77,
+    "lines": [
+      {
+        "text": "И СЛОЖНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПРЯЧУТСЯ В ПАПКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.49,
+    "end": 21.4,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +128,8 @@
     ]
   },
   {
-    "start": 23.37,
-    "end": 24.172,
+    "start": 21.4,
+    "end": 22.338,
     "lines": [
       {
         "text": "ССЫЛКА",
