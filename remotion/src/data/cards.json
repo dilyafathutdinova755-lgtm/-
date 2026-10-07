@@ -1,87 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.75,
+    "end": 3.39,
     "lines": [
       {
-        "text": "ОШИБКИ В ЕГЭ",
+        "text": "ДОЧЬ РЕШАЕТ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАЗБИРАЮ КРАСНОЙ РУЧКОЙ",
+        "text": "С ОШИБКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.41,
-    "end": 6.6,
+    "start": 3.9,
+    "end": 5.31,
     "lines": [
       {
-        "text": "И КРАСНОГО В НЕЙ",
+        "text": "Я ГОВОРЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЛЬШЕ ЧЕМ ЧЕРНОГО",
+        "text": "БУДЬ ВНИМАТЕЛЬНЕЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.73,
+    "end": 6.99,
+    "lines": [
+      {
+        "text": "И ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКОГДА НЕ ПОМОГАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.22,
-    "end": 9.03,
+    "start": 8.04,
+    "end": 9.33,
     "lines": [
       {
-        "text": "КРАСНАЯ",
+        "text": "Я ПОНЯЛА ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУГАЕТ",
+        "text": "ВНИМАТЕЛЬНОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.63,
+    "end": 10.74,
+    "lines": [
+      {
+        "text": "НЕ НАВЫК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А СЛЕДСТВИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.36,
-    "end": 11.49,
+    "start": 10.89,
+    "end": 12.81,
     "lines": [
       {
-        "text": "Я ПЕРЕСТАЛА",
+        "text": "ПОНИМАНИЯ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЗВРАЩАТЬСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 11.94,
-    "end": 14.04,
-    "lines": [
-      {
-        "text": "ХОТЯ ОНИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "САМЫЕ ПОЛЕЗНЫЕ",
+        "text": "Я ПЕРЕСТАЛА ПОВТОРЯТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.09,
-    "end": 17.73,
+    "start": 13.8,
+    "end": 16.17,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -96,40 +112,24 @@
     ]
   },
   {
-    "start": 18.09,
-    "end": 19.35,
+    "start": 16.5,
+    "end": 18.69,
     "lines": [
       {
-        "text": "СПОКОЙНЫЙ ТЕКСТ",
+        "text": "КОТОРЫЙ ПОМОГАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОТОРОМУ",
+        "text": "ПОНЯТЬ А НЕ СОБРАТЬСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.53,
-    "end": 20.97,
-    "lines": [
-      {
-        "text": "МОЖНО ВОЗВРАЩАТЬСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ СТРАХА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 21.63,
-    "end": 22.7,
+    "start": 19.41,
+    "end": 20.4,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +144,8 @@
     ]
   },
   {
-    "start": 22.7,
-    "end": 23.575,
+    "start": 20.4,
+    "end": 21.36,
     "lines": [
       {
         "text": "ССЫЛКА",
