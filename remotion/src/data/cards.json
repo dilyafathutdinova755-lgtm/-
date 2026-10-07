@@ -1,33 +1,33 @@
 [
-  { "start": 2.31, "end": 4.92, "lines": [
-    { "text": "РЕШИЛА ЗАНЯТЬСЯ", "accent": false, "size": "small" },
-    { "text": "ЗАДАНИЯМИ ЕГЭ", "accent": true, "size": "big" }
+  { "start": 4.71, "end": 8.49, "lines": [
+    { "text": "СТОЛЬКО ЖЕ", "accent": false, "size": "small" },
+    { "text": "НЕДЕЛЯ ОБЕДОВ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.92, "end": 9.30, "lines": [
-    { "text": "СБОРНИК ОСТАЛСЯ", "accent": false, "size": "small" },
-    { "text": "В ГАРДЕРОБЕ", "accent": true, "size": "big" }
+  { "start": 8.49, "end": 10.02, "lines": [
+    { "text": "Я ПОСЧИТАЛА", "accent": false, "size": "small" },
+    { "text": "И РЕШИЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 9.30, "end": 12.00, "lines": [
-    { "text": "СОРОК МИНУТ С ТЕЛЕФОНОМ", "accent": false, "size": "small" },
-    { "text": "В РУКАХ", "accent": true, "size": "big" }
+  { "start": 10.02, "end": 12.24, "lines": [
+    { "text": "ОПЛАЧИВАТЬ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "САМЫЕ ТРУДНЫЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.00, "end": 16.59, "lines": [
-    { "text": "ЛИСТАЛА ЛЕНТУ", "accent": false, "size": "small" },
-    { "text": "МОГЛА РЕШИТЬ ТРИ", "accent": true, "size": "big" }
+  { "start": 12.24, "end": 15.39, "lines": [
+    { "text": "ОСТАЛЬНЫЕ", "accent": false, "size": "small" },
+    { "text": "РАЗБИРАТЬ САМОЙ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.59, "end": 18.99, "lines": [
+  { "start": 15.39, "end": 17.10, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
   ]},
-  { "start": 18.99, "end": 20.82, "lines": [
-    { "text": "МОЖНО ОТКРЫТЬ", "accent": false, "size": "small" },
-    { "text": "НА ТЕЛЕФОНЕ", "accent": true, "size": "big" }
+  { "start": 17.10, "end": 18.45, "lines": [
+    { "text": "ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
   ]},
-  { "start": 20.82, "end": 22.59, "lines": [
-    { "text": "В ЛЮБОЙ", "accent": false, "size": "small" },
-    { "text": "ОЧЕРЕДИ", "accent": true, "size": "big" }
+  { "start": 18.45, "end": 20.46, "lines": [
+    { "text": "КОТОРЫЙ ВСЕГДА", "accent": false, "size": "small" },
+    { "text": "ПОД РУКОЙ", "accent": true, "size": "big" }
   ]},
-  { "start": 22.59, "end": 24.48, "lines": [
+  { "start": 20.46, "end": 22.29, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
