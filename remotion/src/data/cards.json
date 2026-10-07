@@ -1,15 +1,15 @@
 [
   {
     "start": 1.86,
-    "end": 4.17,
+    "end": 3.75,
     "lines": [
       {
-        "text": "ДАТЫ ПО ИСТОРИИ",
+        "text": "ОШИБКИ В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСЫВАЮ НА ЛАДОНИ",
+        "text": "РАЗБИРАЮ КРАСНОЙ РУЧКОЙ",
         "accent": true,
         "size": "big"
       }
@@ -17,55 +17,71 @@
   },
   {
     "start": 4.41,
-    "end": 6.18,
+    "end": 6.6,
     "lines": [
       {
-        "text": "А НА ЭКЗАМЕНЕ",
+        "text": "И КРАСНОГО В НЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАК НЕ РАЗРЕШАТ",
+        "text": "БОЛЬШЕ ЧЕМ ЧЕРНОГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.59,
-    "end": 9.27,
+    "start": 8.22,
+    "end": 9.03,
     "lines": [
       {
-        "text": "ПРИХОДИТСЯ",
+        "text": "КРАСНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАТЬ",
+        "text": "ПУГАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.63,
-    "end": 12.81,
+    "start": 9.36,
+    "end": 11.49,
     "lines": [
       {
-        "text": "В ПАМЯТИ ОСТАЕТСЯ",
+        "text": "Я ПЕРЕСТАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТО ЧТО ПОВТОРИЛА",
+        "text": "ВОЗВРАЩАТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.94,
+    "end": 14.04,
+    "lines": [
+      {
+        "text": "ХОТЯ ОНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМЫЕ ПОЛЕЗНЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.86,
-    "end": 15.63,
+    "start": 15.09,
+    "end": 17.73,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,47 +89,47 @@
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 15.81,
-    "end": 16.77,
+    "start": 18.09,
+    "end": 19.35,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "СПОКОЙНЫЙ ТЕКСТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "КОТОРОМУ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 17.22,
-    "end": 19.02,
+    "start": 19.53,
+    "end": 20.97,
     "lines": [
       {
-        "text": "ГДЕ ДАТЫ",
+        "text": "МОЖНО ВОЗВРАЩАТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТСЯ ПОМНОГУ",
+        "text": "БЕЗ СТРАХА",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 19.68,
-    "end": 20.76,
+    "start": 21.63,
+    "end": 22.7,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -128,8 +144,8 @@
     ]
   },
   {
-    "start": 20.76,
-    "end": 21.591,
+    "start": 22.7,
+    "end": 23.575,
     "lines": [
       {
         "text": "ССЫЛКА",
