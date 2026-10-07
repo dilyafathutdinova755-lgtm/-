@@ -1,183 +1,151 @@
 [
   {
     "start": 1.86,
-    "end": 3.06,
+    "end": 2.91,
     "lines": [
       {
-        "text": "ПОДРУГА",
+        "text": "В СПОРАХ С ДРУЗЬЯМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕСКАЗЫВАЕТ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.06,
-    "end": 3.96,
-    "lines": [
-      {
-        "text": "МНЕ ЗАДАНИЕ ЕГЭ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СО ВЧЕРАШНЕГО",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.96,
-    "end": 4.95,
-    "lines": [
-      {
-        "text": "ПРОБНИКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ПАМЯТИ",
+        "text": "ЛЕГКО ПРИВОЖУ ДОВОДЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.95,
-    "end": 6.81,
+    "start": 2.91,
+    "end": 4.41,
     "lines": [
       {
-        "text": "И КАЖДЫЙ РАЗ",
+        "text": "А НА ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕМНОГО ДРУГАЯ",
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.59,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "НУЖНЫ НЕ ДОВОДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.71,
-    "end": 8.82,
+    "start": 6.27,
+    "end": 7.44,
     "lines": [
       {
-        "text": "ИЗ ПЕРЕСКАЗА НЕ",
+        "text": "ТЕРМИНЫ Я ЗНАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЙМЕШЬ",
+        "text": "ОБРЫВКАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 10.77,
+    "start": 7.62,
+    "end": 8.49,
     "lines": [
       {
-        "text": "КАК ВЫГЛЯДЕЛО",
+        "text": "КАК СЛОВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАСТОЯЩЕЕ УСЛОВИЕ",
+        "text": "ИЗ ПЕСНИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.34,
-    "end": 12.93,
+    "start": 8.73,
+    "end": 10.32,
     "lines": [
       {
-        "text": "А МНЕ ВАЖНО ВИДЕТЬ",
+        "text": "В НУЖНЫЙ МОМЕНТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЧНЫЕ СЛОВА",
+        "text": "ВСПОМИНАЮ НЕ ТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.08,
-    "end": 14.76,
+    "start": 10.68,
+    "end": 12.18,
     "lines": [
       {
-        "text": "ЗАДАНИЯ В ЕГЭ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.27,
-    "end": 16.29,
-    "lines": [
-      {
-        "text": "ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БАНК ФИПИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.29,
-    "end": 17.94,
-    "lines": [
-      {
-        "text": "С НАСТОЯЩИМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ФОРМУЛИРОВКАМИ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 17.94,
-    "end": 19.23,
+    "start": 12.42,
+    "end": 13.56,
     "lines": [
       {
-        "text": "БЕЗ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕСКАЗОВ",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 19.23,
-    "end": 20.31,
+    "start": 13.74,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "ГДЕ ТЕРМИНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ ПОЛНОСТЬЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.63,
+    "end": 16.47,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -192,8 +160,8 @@
     ]
   },
   {
-    "start": 20.31,
-    "end": 21.122,
+    "start": 16.47,
+    "end": 17.36,
     "lines": [
       {
         "text": "ССЫЛКА",
