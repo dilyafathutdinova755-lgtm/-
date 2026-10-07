@@ -1,0 +1,42 @@
+[
+  { "start": 1.80, "end": 3.54, "lines": [
+    { "text": "ПОСЛЕ ПРОБНИКА", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО РЕЗУЛЬТАТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.96, "end": 7.02, "lines": [
+    { "text": "КАЖДАЯ ОШИБКА", "accent": false, "size": "small" },
+    { "text": "ПРОСТО «НЕВЕРНО»", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.53, "end": 8.34, "lines": [
+    { "text": "И БОЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "НИЧЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.90, "end": 11.10, "lines": [
+    { "text": "ЗНАЮ ЧТО", "accent": false, "size": "small" },
+    { "text": "ОШИБЛАСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.46, "end": 12.78, "lines": [
+    { "text": "НЕ ЗНАЮ", "accent": false, "size": "small" },
+    { "text": "ГДЕ ИМЕННО", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.23, "end": 14.46, "lines": [
+    { "text": "ПРИХОДИТСЯ", "accent": false, "size": "small" },
+    { "text": "ГАДАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.97, "end": 15.84, "lines": [
+    { "text": "КАКОЙ ШАГ", "accent": false, "size": "small" },
+    { "text": "ПОДВЁЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.28, "end": 20.28, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.52, "end": 23.85, "lines": [
+    { "text": "ПОКАЗЫВАЕТ", "accent": false, "size": "small" },
+    { "text": "ГДЕ СБИЛСЯ ШАГ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.11, "end": 26.88, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
