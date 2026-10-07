@@ -1,25 +1,25 @@
 [
-  { "start": 7.92, "end": 10.08, "lines": [
-    { "text": "Я ПОНЯЛА ЧТО", "accent": false, "size": "small" },
-    { "text": "ДЕЛО НЕ В ЛЕНЕ", "accent": true, "size": "big" }
+  { "start": 6.51, "end": 8.22, "lines": [
+    { "text": "Я ОТХОЖУ", "accent": false, "size": "small" },
+    { "text": "МИНУТ ДЕСЯТЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 10.08, "end": 13.26, "lines": [
-    { "text": "А В ПРИВЫЧКЕ НЕ", "accent": false, "size": "small" },
-    { "text": "ОСТАВАТЬСЯ ОДНОЙ", "accent": true, "size": "big" }
+  { "start": 8.22, "end": 10.53, "lines": [
+    { "text": "САМА ЗОВЁТ ПОКАЗАТЬ", "accent": false, "size": "small" },
+    { "text": "ЧТО ПОНЯЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 13.26, "end": 15.45, "lines": [
+  { "start": 10.53, "end": 12.00, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.45, "end": 17.49, "lines": [
-    { "text": "МОЖНО РЕШАТЬ", "accent": false, "size": "small" },
-    { "text": "ПО ОДНОМУ", "accent": true, "size": "big" }
+  { "start": 12.00, "end": 13.68, "lines": [
+    { "text": "ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
   ]},
-  { "start": 17.49, "end": 18.99, "lines": [
-    { "text": "БЕЗ", "accent": false, "size": "small" },
-    { "text": "РОДИТЕЛЯ РЯДОМ", "accent": true, "size": "big" }
+  { "start": 13.68, "end": 15.21, "lines": [
+    { "text": "МОЖНО ПРОЧИТАТЬ", "accent": false, "size": "small" },
+    { "text": "В ОДИНОЧКУ", "accent": true, "size": "big" }
   ]},
-  { "start": 18.99, "end": 20.88, "lines": [
+  { "start": 15.21, "end": 16.95, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
