@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.75,
+    "lines": [
+      {
+        "text": "ОШИБКИ В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБИРАЮ КРАСНОЙ РУЧКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.41,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "И КРАСНОГО В НЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БОЛЬШЕ ЧЕМ ЧЕРНОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.22,
+    "end": 9.03,
+    "lines": [
+      {
+        "text": "КРАСНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУГАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.36,
+    "end": 11.49,
+    "lines": [
+      {
+        "text": "Я ПЕРЕСТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОЗВРАЩАТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.94,
+    "end": 14.04,
+    "lines": [
+      {
+        "text": "ХОТЯ ОНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМЫЕ ПОЛЕЗНЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.09,
+    "end": 17.73,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 19.35,
+    "lines": [
+      {
+        "text": "СПОКОЙНЫЙ ТЕКСТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОТОРОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.53,
+    "end": 20.97,
+    "lines": [
+      {
+        "text": "МОЖНО ВОЗВРАЩАТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ СТРАХА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.63,
+    "end": 22.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.7,
+    "end": 23.575,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

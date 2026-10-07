@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.17,
+    "lines": [
+      {
+        "text": "В СТАРОЙ ТЕТРАДИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАШЛА РЕШЕНИЕ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.89,
+    "end": 6.87,
+    "lines": [
+      {
+        "text": "И УЖАСНУЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК КОРЯВО БЫЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "Я ПОНЯЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОЙ РОСТ МОТИВИРУЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.92,
+    "end": 13.02,
+    "lines": [
+      {
+        "text": "И ЗАХОТЕЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШИТЬ ЗАНОВО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 17.52,
+    "lines": [
+      {
+        "text": "ГДЕ К ЛЮБОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.76,
+    "end": 19.68,
+    "lines": [
+      {
+        "text": "МОЖНО ВЕРНУТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И РЕШИТЬ ПОВТОРНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.37,
+    "end": 21.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.3,
+    "end": 22.24,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

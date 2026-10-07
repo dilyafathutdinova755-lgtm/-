@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.39,
+    "lines": [
+      {
+        "text": "ДОЧЬ РЕШАЕТ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ОШИБКАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.9,
+    "end": 5.31,
+    "lines": [
+      {
+        "text": "Я ГОВОРЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БУДЬ ВНИМАТЕЛЬНЕЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.73,
+    "end": 6.99,
+    "lines": [
+      {
+        "text": "И ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКОГДА НЕ ПОМОГАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.04,
+    "end": 9.33,
+    "lines": [
+      {
+        "text": "Я ПОНЯЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВНИМАТЕЛЬНОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.63,
+    "end": 10.74,
+    "lines": [
+      {
+        "text": "НЕ НАВЫК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А СЛЕДСТВИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.89,
+    "end": 12.81,
+    "lines": [
+      {
+        "text": "ПОНИМАНИЯ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я ПЕРЕСТАЛА ПОВТОРЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 16.17,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 18.69,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПОМОГАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТЬ А НЕ СОБРАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.41,
+    "end": 20.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.4,
+    "end": 21.36,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
