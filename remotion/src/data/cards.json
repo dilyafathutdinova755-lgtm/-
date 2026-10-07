@@ -1,15 +1,15 @@
 [
   {
     "start": 1.86,
-    "end": 2.91,
+    "end": 2.67,
     "lines": [
       {
-        "text": "В СПОРАХ С ДРУЗЬЯМИ",
+        "text": "ДОЧЬ ВЕДЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛЕГКО ПРИВОЖУ ДОВОДЫ",
+        "text": "СПИСОК СТРАШНЫХ ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
@@ -17,86 +17,54 @@
   },
   {
     "start": 2.91,
-    "end": 4.41,
+    "end": 5.1,
     "lines": [
       {
-        "text": "А НА ЕГЭ ПО",
+        "text": "ЗА НЕДЕЛЮ ВЫРОС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "text": "С ТРЕХ ДО ОДИННАДЦАТИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 4.59,
-    "end": 5.82,
+    "start": 6.36,
+    "end": 8.52,
     "lines": [
       {
-        "text": "НУЖНЫ НЕ ДОВОДЫ",
+        "text": "Я ПРЕДЛОЖИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А ТЕРМИНЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.27,
-    "end": 7.44,
-    "lines": [
-      {
-        "text": "ТЕРМИНЫ Я ЗНАЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБРЫВКАМИ",
+        "text": "ПО ОДНОМУ В ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.62,
-    "end": 8.49,
+    "start": 8.88,
+    "end": 10.2,
     "lines": [
       {
-        "text": "КАК СЛОВА",
+        "text": "И СПИСОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ПЕСНИ",
+        "text": "НАЧАЛ СОКРАЩАТЬСЯ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.73,
-    "end": 10.32,
-    "lines": [
-      {
-        "text": "В НУЖНЫЙ МОМЕНТ",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "ВСПОМИНАЮ НЕ ТЕ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 10.68,
+    "start": 10.86,
     "end": 12.18,
     "lines": [
       {
@@ -105,47 +73,47 @@
         "size": "small"
       },
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 12.42,
-    "end": 13.56,
+    "start": 12.33,
+    "end": 13.77,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ГДЕ ВСЕ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ЛЕЖАТ В ОДНОМ МЕСТЕ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 13.74,
-    "end": 15.36,
+    "start": 13.89,
+    "end": 15.93,
     "lines": [
       {
-        "text": "ГДЕ ТЕРМИНЫ",
+        "text": "И СТРАШНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТСЯ ПОЛНОСТЬЮ",
+        "text": "ЛЕГКО НАЙТИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 15.63,
-    "end": 16.47,
+    "start": 16.53,
+    "end": 17.4,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +128,8 @@
     ]
   },
   {
-    "start": 16.47,
-    "end": 17.36,
+    "start": 17.4,
+    "end": 18.327,
     "lines": [
       {
         "text": "ССЫЛКА",
