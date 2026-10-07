@@ -1,0 +1,46 @@
+[
+  { "start": 1.80, "end": 3.39, "lines": [
+    { "text": "ПРАВА И", "accent": false, "size": "small" },
+    { "text": "ОБЯЗАННОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.39, "end": 5.55, "lines": [
+    { "text": "ГРАЖДАНИНА ДЛЯ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ПО ОБЩЕСТВУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.55, "end": 7.35, "lines": [
+    { "text": "Я ПУТАЮ", "accent": false, "size": "small" },
+    { "text": "С ПРАВАМИ РЕБЁНКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.35, "end": 9.87, "lines": [
+    { "text": "ЧИТАЛА ПОДРЯД", "accent": false, "size": "small" },
+    { "text": "В ГОЛОВЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.87, "end": 12.87, "lines": [
+    { "text": "ОДИН", "accent": false, "size": "small" },
+    { "text": "ДЛИННЫЙ СПИСОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.87, "end": 14.94, "lines": [
+    { "text": "НА ТЕСТЕ", "accent": false, "size": "small" },
+    { "text": "НЕ МОГУ ОПРЕДЕЛИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.94, "end": 17.94, "lines": [
+    { "text": "К КАКОМУ РАЗДЕЛУ", "accent": false, "size": "small" },
+    { "text": "ОТНОСИТСЯ ПУНКТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.94, "end": 20.10, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ЕСТЬ ИГРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.10, "end": 22.05, "lines": [
+    { "text": "ИГРЫ НА", "accent": false, "size": "small" },
+    { "text": "ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 22.05, "end": 25.26, "lines": [
+    { "text": "ПУНКТЫ ОТНОСИТЬ", "accent": false, "size": "small" },
+    { "text": "К СВОИМ РАЗДЕЛАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 25.26, "end": 27.09, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
