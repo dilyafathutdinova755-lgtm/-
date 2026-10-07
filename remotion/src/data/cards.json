@@ -1,103 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 2.7,
+    "end": 3.3,
     "lines": [
       {
-        "text": "РЕШАЮ ЗАДАНИЕ ЕГЭ",
+        "text": "ОДНОКЛАССНИЦА ПРИСЛАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОД МУЗЫКУ",
+        "text": "ФОТО РЕШЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.7,
-    "end": 4.53,
+    "start": 3.54,
+    "end": 4.56,
     "lines": [
       {
-        "text": "НА ПЕСНЕ СО СЛОВАМИ",
+        "text": "А ПОЧЕРК У НЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СБИВАЮСЬ ЧАЩЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.07,
-    "end": 5.88,
-    "lines": [
-      {
-        "text": "ЧЕМ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИНСТРУМЕНТАЛЬНОЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.15,
-    "end": 7.23,
-    "lines": [
-      {
-        "text": "НО ВЫБИРАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЛЕЙЛИСТ",
+        "text": "ТАКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.53,
-    "end": 9.42,
+    "start": 4.77,
+    "end": 6.24,
     "lines": [
       {
-        "text": "ЭТО ОТДЕЛЬНОЕ ЗАНЯТИЕ",
+        "text": "РАЗОБРАЛ ТРИ СТРОКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ДЕСЯТЬ МИНУТ",
+        "text": "ИЗ ДЕСЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.63,
-    "end": 11.04,
+    "start": 6.57,
+    "end": 7.83,
     "lines": [
       {
-        "text": "ЕЩЕ ДО",
+        "text": "ОСТАЛЬНЫЕ СЕМЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРВОГО ЗАДАНИЯ",
+        "text": "Я УГАДЫВАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.43,
-    "end": 12.81,
+    "start": 8.01,
+    "end": 9.93,
+    "lines": [
+      {
+        "text": "И ПЕРЕСКАЗАЛ ЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.93,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "КОТОРОГО У НЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ БЫЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.92,
+    "end": 12.45,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -105,47 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 13.68,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.99,
-    "end": 14.61,
+    "start": 13.8,
+    "end": 15.9,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ",
+        "text": "НАБРАННЫЙ КАК ТЕКСТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫВАЕТСЯ СРАЗУ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.82,
-    "end": 16.32,
-    "lines": [
-      {
-        "text": "ПОКА ПЛЕЙЛИСТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ УСПЕЛ ОТВЛЕЧЬ",
+        "text": "И ЧИТАЕТСЯ ЦЕЛИКОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.56,
+    "start": 16.17,
+    "end": 17.1,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 17.56,
-    "end": 18.4,
+    "start": 17.1,
+    "end": 17.964,
     "lines": [
       {
         "text": "ССЫЛКА",
