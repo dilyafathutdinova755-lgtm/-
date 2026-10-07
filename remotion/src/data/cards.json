@@ -1,103 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.18,
+    "end": 3.12,
     "lines": [
       {
-        "text": "НЕ ЛЮБЛЮ ЧИТАТЬ",
+        "text": "ДОЧЬ ПИШЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛИННЫЕ ТЕКСТЫ",
+        "text": "СООБЩЕНИЯ ПОДРУГАМ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.39,
-    "end": 4.23,
+    "start": 3.12,
+    "end": 4.26,
     "lines": [
       {
-        "text": "РАЗБОР ЗАДАНИЯ ЕГЭ",
+        "text": "БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ДВЕ СТРАНИЦЫ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.47,
-    "end": 5.7,
-    "lines": [
-      {
-        "text": "ЗАКРЫВАЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ВТОРОЙ СТРОКЕ",
+        "text": "ЗАПЯТЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.03,
-    "end": 7.65,
+    "start": 4.41,
+    "end": 5.61,
     "lines": [
       {
-        "text": "МНЕ НУЖНО ЧТОБЫ",
+        "text": "МНЕ СТРАШНО ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГЛАВНОЕ ПОМЕЩАЛОСЬ",
+        "text": "ЕГЭ НЕ СДАСТ",
         "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.21,
+    "end": 7.71,
+    "lines": [
+      {
+        "text": "Я ПРЕДЛОЖИЛА",
+        "accent": false,
         "size": "small"
+      },
+      {
+        "text": "СЧИТАТЬ ЗАПЯТЫЕ",
+        "accent": true,
+        "size": "big"
       }
     ]
   },
   {
     "start": 7.83,
-    "end": 8.63,
+    "end": 9.18,
     "lines": [
       {
-        "text": "НА ОДИН",
+        "text": "В СООБЩЕНИЯХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКРАН",
+        "text": "КАК ТРЕНИРОВКУ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 8.64,
-    "end": 9.63,
+    "start": 9.57,
+    "end": 11.16,
     "lines": [
       {
-        "text": "И ДОЧИТЫВАЛОСЬ",
+        "text": "И ОНА СОГЛАСИЛАСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДО КОНЦА",
+        "text": "ИЗ ЛЮБОПЫТСТВА",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 11.34,
+    "start": 11.82,
+    "end": 13.41,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -105,47 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "text": "ПО РУССКОМУ ЕСТЬ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 11.55,
-    "end": 12.99,
+    "start": 13.92,
+    "end": 15.06,
     "lines": [
       {
-        "text": "РАЗБОР",
+        "text": "ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКИМИ ШАГАМИ",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.11,
-    "end": 14.4,
+    "start": 15.45,
+    "end": 16.92,
     "lines": [
       {
-        "text": "ПО ОДНОМУ",
+        "text": "ГДЕ ЗАПЯТЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЭКРАН",
+        "text": "ТРЕНИРУЮТСЯ В ИГРЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 14.7,
-    "end": 15.77,
+    "start": 17.58,
+    "end": 18.6,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 15.77,
-    "end": 16.684,
+    "start": 18.6,
+    "end": 19.586,
     "lines": [
       {
         "text": "ССЫЛКА",
