@@ -1,87 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.33,
+    "end": 3.18,
     "lines": [
       {
-        "text": "В ШУМНОЙ СТОЛОВОЙ",
+        "text": "НЕ ЛЮБЛЮ ЧИТАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮ ПРАВИЛА",
+        "text": "ДЛИННЫЕ ТЕКСТЫ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.33,
-    "end": 4.86,
+    "start": 3.39,
+    "end": 4.23,
     "lines": [
       {
-        "text": "РУССКОГО",
+        "text": "РАЗБОР ЗАДАНИЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ЕГЭ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 5.37,
-    "end": 7.44,
-    "lines": [
-      {
-        "text": "И ЛОВЛЮ СЕБЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ОДНОЙ СТРОЧКЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.25,
-    "end": 9.6,
-    "lines": [
-      {
-        "text": "ШУМ МЕШАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДЛИННОМУ ЧТЕНИЮ",
+        "text": "НА ДВЕ СТРАНИЦЫ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 10.17,
-    "end": 12.39,
+    "start": 4.47,
+    "end": 5.7,
     "lines": [
       {
-        "text": "А КОРОТКИЕ ВОПРОСЫ",
+        "text": "ЗАКРЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОН ПОЧТИ НЕ ПОРТИТ",
+        "text": "НА ВТОРОЙ СТРОКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.41,
-    "end": 14.91,
+    "start": 6.03,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "МНЕ НУЖНО ЧТОБЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛАВНОЕ ПОМЕЩАЛОСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 8.63,
+    "lines": [
+      {
+        "text": "НА ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.64,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "И ДОЧИТЫВАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 11.34,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,47 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЕСТЬ",
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 15.27,
-    "end": 16.38,
+    "start": 11.55,
+    "end": 12.99,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "КОРОТКИМИ ШАГАМИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 16.68,
-    "end": 18.15,
+    "start": 13.11,
+    "end": 14.4,
     "lines": [
       {
-        "text": "ПОСТРОЕННЫЕ НА",
+        "text": "ПО ОДНОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОРОТКИХ ВОПРОСАХ",
+        "text": "НА ЭКРАН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.81,
-    "end": 19.73,
+    "start": 14.7,
+    "end": 15.77,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +160,8 @@
     ]
   },
   {
-    "start": 19.73,
-    "end": 20.631,
+    "start": 15.77,
+    "end": 16.684,
     "lines": [
       {
         "text": "ССЫЛКА",
