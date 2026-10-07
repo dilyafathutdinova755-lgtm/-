@@ -1,103 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.12,
+    "end": 3.51,
     "lines": [
       {
-        "text": "ДОЧЬ ПИШЕТ",
+        "text": "ДВОЮРОДНЫЙ БРАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СООБЩЕНИЯ ПОДРУГАМ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.12,
-    "end": 4.26,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАПЯТЫХ",
+        "text": "СДАЛ ЕГЭ В ПРОШЛОМ ГОДУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.41,
-    "end": 5.61,
+    "start": 3.51,
+    "end": 4.8,
     "lines": [
       {
-        "text": "МНЕ СТРАШНО ЧТО",
+        "text": "И ГОВОРИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ НЕ СДАСТ",
+        "text": "РЕШАЙ ПОБОЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.21,
-    "end": 7.71,
+    "start": 5.04,
+    "end": 6.03,
     "lines": [
       {
-        "text": "Я ПРЕДЛОЖИЛА",
+        "text": "НО СКОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЧИТАТЬ ЗАПЯТЫЕ",
+        "text": "НЕ ОБЪЯСНИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.83,
-    "end": 9.18,
+    "start": 6.15,
+    "end": 7.38,
     "lines": [
       {
-        "text": "В СООБЩЕНИЯХ",
+        "text": "Я НЕ ЗНАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК ТРЕНИРОВКУ",
+        "text": "КАКОЕ ЧИСЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.53,
+    "end": 8.97,
+    "lines": [
+      {
+        "text": "СЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОСТАТОЧНЫМ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 9.57,
-    "end": 11.16,
+    "start": 8.97,
+    "end": 10.26,
     "lines": [
       {
-        "text": "И ОНА СОГЛАСИЛАСЬ",
+        "text": "НУЖНО ХОТЯ БЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ЛЮБОПЫТСТВА",
+        "text": "ПОНЯТЬ ОБЪЕМ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 11.82,
-    "end": 13.41,
+    "start": 10.71,
+    "end": 12.36,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -105,47 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЕСТЬ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 13.92,
-    "end": 15.06,
+    "start": 12.51,
+    "end": 13.74,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "ГДЕ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ИДУТ ПО НОМЕРАМ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 15.45,
-    "end": 16.92,
+    "start": 13.98,
+    "end": 15.09,
     "lines": [
       {
-        "text": "ГДЕ ЗАПЯТЫЕ",
+        "text": "И ОБЪЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНИРУЮТСЯ В ИГРЕ",
+        "text": "МОЖНО ОЦЕНИТЬ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 17.58,
-    "end": 18.6,
+    "start": 15.42,
+    "end": 16.35,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 18.6,
-    "end": 19.586,
+    "start": 16.35,
+    "end": 17.218,
     "lines": [
       {
         "text": "ССЫЛКА",
