@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "ДОЧЬ ВЕДЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК СТРАШНЫХ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.91,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "ЗА НЕДЕЛЮ ВЫРОС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ТРЕХ ДО ОДИННАДЦАТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.36,
+    "end": 8.52,
+    "lines": [
+      {
+        "text": "Я ПРЕДЛОЖИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОДНОМУ В ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.88,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "И СПИСОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧАЛ СОКРАЩАТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 12.18,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.33,
+    "end": 13.77,
+    "lines": [
+      {
+        "text": "ГДЕ ВСЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕЖАТ В ОДНОМ МЕСТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.89,
+    "end": 15.93,
+    "lines": [
+      {
+        "text": "И СТРАШНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕГКО НАЙТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 18.327,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

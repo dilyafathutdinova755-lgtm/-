@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.51,
+    "lines": [
+      {
+        "text": "ДВОЮРОДНЫЙ БРАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СДАЛ ЕГЭ В ПРОШЛОМ ГОДУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.51,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "И ГОВОРИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЙ ПОБОЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.04,
+    "end": 6.03,
+    "lines": [
+      {
+        "text": "НО СКОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОБЪЯСНИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 7.38,
+    "lines": [
+      {
+        "text": "Я НЕ ЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАКОЕ ЧИСЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.53,
+    "end": 8.97,
+    "lines": [
+      {
+        "text": "СЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОСТАТОЧНЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.97,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "НУЖНО ХОТЯ БЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТЬ ОБЪЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.71,
+    "end": 12.36,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.51,
+    "end": 13.74,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДУТ ПО НОМЕРАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.98,
+    "end": 15.09,
+    "lines": [
+      {
+        "text": "И ОБЪЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО ОЦЕНИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 16.35,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.35,
+    "end": 17.218,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

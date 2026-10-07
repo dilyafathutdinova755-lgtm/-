@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ОДНОКЛАССНИЦА ПРИСЛАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОТО РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "А ПОЧЕРК У НЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.77,
+    "end": 6.24,
+    "lines": [
+      {
+        "text": "РАЗОБРАЛ ТРИ СТРОКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ДЕСЯТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.57,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "ОСТАЛЬНЫЕ СЕМЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я УГАДЫВАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.01,
+    "end": 9.93,
+    "lines": [
+      {
+        "text": "И ПЕРЕСКАЗАЛ ЕЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.93,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "КОТОРОГО У НЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ БЫЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.92,
+    "end": 12.45,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 13.68,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "НАБРАННЫЙ КАК ТЕКСТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ЧИТАЕТСЯ ЦЕЛИКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.17,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 17.964,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

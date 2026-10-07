@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.12,
+    "lines": [
+      {
+        "text": "ДОЧЬ ПИШЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СООБЩЕНИЯ ПОДРУГАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.12,
+    "end": 4.26,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПЯТЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.41,
+    "end": 5.61,
+    "lines": [
+      {
+        "text": "МНЕ СТРАШНО ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ НЕ СДАСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.21,
+    "end": 7.71,
+    "lines": [
+      {
+        "text": "Я ПРЕДЛОЖИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧИТАТЬ ЗАПЯТЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 9.18,
+    "lines": [
+      {
+        "text": "В СООБЩЕНИЯХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ТРЕНИРОВКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.57,
+    "end": 11.16,
+    "lines": [
+      {
+        "text": "И ОНА СОГЛАСИЛАСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ЛЮБОПЫТСТВА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 13.41,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 15.06,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.45,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАПЯТЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНИРУЮТСЯ В ИГРЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.58,
+    "end": 18.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.6,
+    "end": 19.586,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

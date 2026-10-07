@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.18,
+    "lines": [
+      {
+        "text": "НЕ ЛЮБЛЮ ЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛИННЫЕ ТЕКСТЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.39,
+    "end": 4.23,
+    "lines": [
+      {
+        "text": "РАЗБОР ЗАДАНИЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ДВЕ СТРАНИЦЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.47,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "ЗАКРЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВТОРОЙ СТРОКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.03,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "МНЕ НУЖНО ЧТОБЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛАВНОЕ ПОМЕЩАЛОСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.83,
+    "end": 8.63,
+    "lines": [
+      {
+        "text": "НА ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭКРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.64,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "И ДОЧИТЫВАЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО КОНЦА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ТЕКСТОВЫЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.55,
+    "end": 12.99,
+    "lines": [
+      {
+        "text": "РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ ШАГАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.11,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "ПО ОДНОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЭКРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.77,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.77,
+    "end": 16.684,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

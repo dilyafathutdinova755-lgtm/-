@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.7,
+    "lines": [
+      {
+        "text": "РЕШАЮ ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОД МУЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.7,
+    "end": 4.53,
+    "lines": [
+      {
+        "text": "НА ПЕСНЕ СО СЛОВАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБИВАЮСЬ ЧАЩЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.07,
+    "end": 5.88,
+    "lines": [
+      {
+        "text": "ЧЕМ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНСТРУМЕНТАЛЬНОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 7.23,
+    "lines": [
+      {
+        "text": "НО ВЫБИРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛЕЙЛИСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.53,
+    "end": 9.42,
+    "lines": [
+      {
+        "text": "ЭТО ОТДЕЛЬНОЕ ЗАНЯТИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ДЕСЯТЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.63,
+    "end": 11.04,
+    "lines": [
+      {
+        "text": "ЕЩЕ ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРВОГО ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.43,
+    "end": 12.81,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.99,
+    "end": 14.61,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫВАЕТСЯ СРАЗУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.82,
+    "end": 16.32,
+    "lines": [
+      {
+        "text": "ПОКА ПЛЕЙЛИСТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ УСПЕЛ ОТВЛЕЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 17.56,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.56,
+    "end": 18.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

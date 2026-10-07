@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.09,
+    "lines": [
+      {
+        "text": "ПАПА ЗА УЖИНОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРАШИВАЕТ ДАТЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.09,
+    "end": 4.68,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "ОТВЕЧАЮ ПРАВИЛЬНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН СЛУЧАЙ ИЗ ТРЕХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 7.83,
+    "lines": [
+      {
+        "text": "ОН СМЕЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я КРАСНЕЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.16,
+    "end": 9.21,
+    "lines": [
+      {
+        "text": "А ДАТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЮТСЯ ТЕ ЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 11.19,
+    "lines": [
+      {
+        "text": "ПОТОМУ ЧТО УЧУ ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕД КОНТРОЛЬНОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.49,
+    "end": 12.72,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.93,
+    "end": 14.07,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.78,
+    "lines": [
+      {
+        "text": "ГДЕ ДАТЫ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯТЬ КАЖДЫЙ ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.29,
+    "end": 17.25,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.25,
+    "end": 18.12,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

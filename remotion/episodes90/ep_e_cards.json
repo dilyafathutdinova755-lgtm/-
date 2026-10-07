@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.33,
+    "lines": [
+      {
+        "text": "В ШУМНОЙ СТОЛОВОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮ ПРАВИЛА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.33,
+    "end": 4.86,
+    "lines": [
+      {
+        "text": "РУССКОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.37,
+    "end": 7.44,
+    "lines": [
+      {
+        "text": "И ЛОВЛЮ СЕБЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ОДНОЙ СТРОЧКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.25,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "ШУМ МЕШАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛИННОМУ ЧТЕНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.17,
+    "end": 12.39,
+    "lines": [
+      {
+        "text": "А КОРОТКИЕ ВОПРОСЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОН ПОЧТИ НЕ ПОРТИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.41,
+    "end": 14.91,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.27,
+    "end": 16.38,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.68,
+    "end": 18.15,
+    "lines": [
+      {
+        "text": "ПОСТРОЕННЫЕ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИХ ВОПРОСАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.81,
+    "end": 19.73,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.73,
+    "end": 20.631,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
