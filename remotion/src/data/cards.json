@@ -1,103 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.39,
+    "end": 4.2,
     "lines": [
       {
-        "text": "ДОЧЬ РЕШАЕТ ЕГЭ",
+        "text": "СВОЕ РЕШЕНИЕ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ОШИБКАМИ",
+        "text": "ПРОВЕРИЛА КАЛЬКУЛЯТОРОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.65,
+    "end": 6.33,
+    "lines": [
+      {
+        "text": "НА ПОХОЖЕМ ЗАДАНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я ПОТЕРЯЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.9,
-    "end": 5.31,
+    "start": 7.11,
+    "end": 8.7,
     "lines": [
       {
-        "text": "Я ГОВОРЮ",
+        "text": "КАЛЬКУЛЯТОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БУДЬ ВНИМАТЕЛЬНЕЕ",
+        "text": "ПОДТВЕРЖДАЕТ ЧИСЛО",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 5.73,
-    "end": 6.99,
+    "start": 9.15,
+    "end": 10.26,
     "lines": [
       {
-        "text": "И ЭТО",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИКОГДА НЕ ПОМОГАЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.04,
-    "end": 9.33,
-    "lines": [
-      {
-        "text": "Я ПОНЯЛА ЧТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВНИМАТЕЛЬНОСТЬ",
+        "text": "РАССУЖДЕНИЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 9.63,
-    "end": 10.74,
+    "start": 10.26,
+    "end": 12.75,
     "lines": [
       {
-        "text": "НЕ НАВЫК",
+        "text": "ПОЭТОМУ НА НОВЫХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А СЛЕДСТВИЕ",
+        "text": "НИЧЕМ НЕ ПОМОГАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.89,
-    "end": 12.81,
-    "lines": [
-      {
-        "text": "ПОНИМАНИЯ И",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "Я ПЕРЕСТАЛА ПОВТОРЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.8,
-    "end": 16.17,
+    "start": 13.68,
+    "end": 15.03,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -105,31 +89,47 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 16.5,
-    "end": 18.69,
+    "start": 15.18,
+    "end": 16.2,
     "lines": [
       {
-        "text": "КОТОРЫЙ ПОМОГАЕТ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТЬ А НЕ СОБРАТЬСЯ",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.41,
-    "end": 20.4,
+    "start": 16.53,
+    "end": 18.78,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ ПРОВЕРЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ЧИСЛО А РАССУЖДЕНИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.56,
+    "end": 20.5,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "start": 20.4,
+    "start": 20.5,
     "end": 21.36,
     "lines": [
       {
