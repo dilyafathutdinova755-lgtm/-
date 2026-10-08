@@ -1,71 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 4.08,
+    "end": 4.02,
     "lines": [
       {
-        "text": "НОМЕРА ЗАДАНИЙ",
+        "text": "БРАТ ХРАНИТ РАСПЕЧАТКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАЮ КАЖДЫЙ РАЗ",
+        "text": "В КОРОБКЕ НА БАЛКОНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.53,
-    "end": 6.6,
+    "start": 4.41,
+    "end": 5.61,
     "lines": [
       {
-        "text": "ПРИХОДИТСЯ",
+        "text": "А ЛЕЗТЬ ТУДА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАГЛЯДЫВАТЬ В БУМАЖКУ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.29,
-    "end": 9.78,
-    "lines": [
-      {
-        "text": "НУЖНО ВИДЕТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НОМЕР И ТЕМУ РЯДОМ",
+        "text": "НЕ ХОЧЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.99,
-    "end": 11.4,
+    "start": 6.0,
+    "end": 7.08,
     "lines": [
       {
-        "text": "ЧТОБЫ ОНИ",
+        "text": "ТАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАЛИСЬ ВМЕСТЕ",
+        "text": "ПЫЛЬ И СЫРОСТЬ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 12.33,
-    "end": 13.98,
+    "start": 7.26,
+    "end": 9.33,
+    "lines": [
+      {
+        "text": "И ВОЗМОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЫШИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "НУЖНЫЕ СТРАНИЦЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕЩЕ НАДО НАЙТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.76,
+    "end": 13.47,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -80,24 +96,24 @@
     ]
   },
   {
-    "start": 14.49,
-    "end": 17.28,
+    "start": 13.71,
+    "end": 15.6,
     "lines": [
       {
-        "text": "ГДЕ У КАЖДОГО",
+        "text": "ГДЕ ЗАДАНИЯ ЧИСТЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ ЕСТЬ НОМЕР",
+        "text": "И БЕЗ МЫШЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.15,
-    "end": 19.17,
+    "start": 15.93,
+    "end": 16.9,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -112,8 +128,8 @@
     ]
   },
   {
-    "start": 19.17,
-    "end": 20.012,
+    "start": 16.9,
+    "end": 17.73,
     "lines": [
       {
         "text": "ССЫЛКА",
