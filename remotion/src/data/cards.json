@@ -1,87 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 4.02,
+    "end": 2.67,
     "lines": [
       {
-        "text": "БРАТ ХРАНИТ РАСПЕЧАТКИ",
+        "text": "БАБУШКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В КОРОБКЕ НА БАЛКОНЕ",
+        "text": "НАЛОГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.41,
-    "end": 5.61,
+    "start": 3.33,
+    "end": 4.8,
     "lines": [
       {
-        "text": "А ЛЕЗТЬ ТУДА",
+        "text": "А МНЕ ДЛЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ХОЧЕТСЯ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 7.05,
+    "lines": [
+      {
+        "text": "НУЖНО РАЗЛИЧАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЯМЫЕ И КОСВЕННЫЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 7.08,
+    "start": 7.98,
+    "end": 9.12,
     "lines": [
       {
-        "text": "ТАМ",
+        "text": "ДОМА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЫЛЬ И СЫРОСТЬ",
+        "text": "РАЗНИЦА НЕЗАМЕТНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.26,
-    "end": 9.33,
+    "start": 9.45,
+    "end": 11.07,
     "lines": [
       {
-        "text": "И ВОЗМОЖНО",
+        "text": "А НА ЭКЗАМЕНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЫШИ",
+        "text": "ОНА СТОИТ БАЛЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.69,
-    "end": 11.25,
+    "start": 11.4,
+    "end": 13.02,
     "lines": [
       {
-        "text": "НУЖНЫЕ СТРАНИЦЫ",
+        "text": "И ТАБЛИЦА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕЩЕ НАДО НАЙТИ",
+        "text": "ЕЕ НЕ ЗАКРЕПЛЯЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.76,
-    "end": 13.47,
+    "start": 14.1,
+    "end": 15.63,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,31 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 13.71,
-    "end": 15.6,
+    "start": 15.87,
+    "end": 17.04,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЯ ЧИСТЫЕ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И БЕЗ МЫШЕЙ",
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 19.38,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ЗАСТАВЛЯЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАТЬ РАЗЛИЧИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.93,
-    "end": 16.9,
+    "start": 20.13,
+    "end": 21.05,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -128,8 +160,8 @@
     ]
   },
   {
-    "start": 16.9,
-    "end": 17.73,
+    "start": 21.05,
+    "end": 21.96,
     "lines": [
       {
         "text": "ССЫЛКА",
