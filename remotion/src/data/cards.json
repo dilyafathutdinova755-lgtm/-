@@ -1,87 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.93,
+    "end": 3.06,
     "lines": [
       {
-        "text": "ОБЪЯСНЕНИЕ ОТ",
+        "text": "МОИ ДРУЗЬЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНОКЛАССНИЦЫ",
+        "text": "ПИШУТ КАК ПРИДЕТСЯ",
         "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.36,
+    "end": 4.2,
+    "lines": [
+      {
+        "text": "И Я",
+        "accent": false,
         "size": "small"
+      },
+      {
+        "text": "НАЧАЛ ТАКЖЕ",
+        "accent": true,
+        "size": "big"
       }
     ]
   },
   {
     "start": 4.59,
-    "end": 5.52,
+    "end": 6.24,
     "lines": [
       {
-        "text": "ЗВУЧАЛО",
+        "text": "А ЕГЭ ПО РУССКОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУ ТАМ ПО ФОРМУЛЕ",
+        "text": "ЭТОГО НЕ ПРОСТИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.33,
-    "end": 7.89,
+    "start": 6.81,
+    "end": 8.37,
     "lines": [
       {
-        "text": "Я ПОШЛА",
+        "text": "ПРИВЫЧКИ ИЗ ЧАТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСКАТЬ ФОРМУЛУ",
+        "text": "ПОПАДАЮТ В ДИКТАНТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 9.81,
+    "start": 8.55,
+    "end": 9.78,
     "lines": [
       {
-        "text": "НАШЛА ТРИ ПОХОЖИХ",
+        "text": "И ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ВЫБРАЛА НЕ ТУ",
+        "text": "ИСПРАВЛЯТЬ ПО ОДНОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 12.12,
-    "lines": [
-      {
-        "text": "ПОТОМУ ЧТО НИКТО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ОБЪЯСНИЛ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.96,
-    "end": 14.52,
+    "start": 10.35,
+    "end": 11.85,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,47 +89,31 @@
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.67,
-    "end": 16.08,
-    "lines": [
-      {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ГДЕ НАПИСАНО",
+        "text": "ПО РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.23,
-    "end": 18.03,
+    "start": 12.06,
+    "end": 14.61,
     "lines": [
       {
-        "text": "ПОЧЕМУ ВЫБРАНА",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИМЕННО ЭТА ФОРМУЛА",
+        "text": "ГДЕ ПАРЫ ЗАКРЕПЛЯЮТСЯ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 18.48,
-    "end": 19.4,
+    "start": 14.94,
+    "end": 15.95,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +128,8 @@
     ]
   },
   {
-    "start": 19.4,
-    "end": 20.332,
+    "start": 15.95,
+    "end": 16.855,
     "lines": [
       {
         "text": "ССЫЛКА",
