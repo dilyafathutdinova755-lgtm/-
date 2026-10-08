@@ -1,87 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.45,
+    "end": 3.81,
     "lines": [
       {
-        "text": "СОСЕДКА ПО ПАРТЕ",
+        "text": "ДОЧЬ ПРОСИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПРОСИЛА ПРАВИЛО",
+        "text": "РАСПЕЧАТАТЬ ЕГЭ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.17,
+    "end": 6.45,
+    "lines": [
+      {
+        "text": "ПРИНТЕР НА РАБОТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМОТРИТ С УКОРОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.11,
-    "end": 6.3,
+    "start": 7.11,
+    "end": 8.43,
     "lines": [
       {
-        "text": "Я ДЛЯ ЕГЭ",
+        "text": "МНЕ НАДОЕЛО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕТИЛА НЕ СРАЗУ",
+        "text": "НОСИТЬ БУМАГУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.32,
-    "end": 9.0,
+    "start": 8.73,
+    "end": 10.89,
     "lines": [
       {
-        "text": "ПРАВИЛО Я",
+        "text": "ДОЧЕРИ НАДОЕЛО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАЮ",
+        "text": "ЖДАТЬ МЕНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.45,
-    "end": 11.4,
-    "lines": [
-      {
-        "text": "НО В МОМЕНТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТВЕТ НЕ ПРИШЕЛ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.03,
-    "end": 14.73,
-    "lines": [
-      {
-        "text": "ЗНАЧИТ НУЖНА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЫСТРАЯ РЕАКЦИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.87,
-    "end": 17.43,
+    "start": 11.73,
+    "end": 13.35,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,47 +73,31 @@
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЕСТЬ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 17.91,
-    "end": 19.2,
+    "start": 13.56,
+    "end": 15.15,
     "lines": [
       {
-        "text": "ИГРЫ",
+        "text": "ГДЕ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ОТКРЫВАЮТСЯ БЕЗ ПЕЧАТИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 19.47,
-    "end": 21.78,
-    "lines": [
-      {
-        "text": "ГДЕ СЛОВА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОВТОРЯЮТСЯ СНОВА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 22.56,
-    "end": 23.6,
+    "start": 15.72,
+    "end": 16.65,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +112,8 @@
     ]
   },
   {
-    "start": 23.6,
-    "end": 24.52,
+    "start": 16.65,
+    "end": 17.602,
     "lines": [
       {
         "text": "ССЫЛКА",
