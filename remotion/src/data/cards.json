@@ -1,103 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.27,
+    "end": 3.45,
     "lines": [
       {
-        "text": "ДОЧЬ НА ВОПРОС",
+        "text": "БОЮСЬ ЧТО В РАЗБОРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК РЕШИЛА",
+        "text": "БУДЕТ МНОГО ЛИШНЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.66,
-    "end": 4.74,
+    "start": 3.63,
+    "end": 5.43,
     "lines": [
       {
-        "text": "ОТВЕЧАЕТ",
+        "text": "И ОТКРЫВАЮ ЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НО Я ПОСЧИТАЛА",
+        "text": "ТОЛЬКО В КРАЙНЕМ СЛУЧАЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.74,
-    "end": 6.3,
+    "start": 5.76,
+    "end": 7.47,
     "lines": [
       {
-        "text": "И РАЗГОВОР",
+        "text": "ОКАЗАЛОСЬ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЭТОМ ЗАКАНЧИВАЕТСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.81,
-    "end": 8.19,
-    "lines": [
-      {
-        "text": "Я ПОПРОСИЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАПИСАТЬ ПЕРВОЕ",
+        "text": "ЛИШНЕЕ ЛЕГКО ПРОПУСТИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.28,
-    "end": 9.66,
+    "start": 7.59,
+    "end": 9.27,
     "lines": [
       {
-        "text": "ПРЕДЛОЖЕНИЕ",
+        "text": "ЕСЛИ ОНО РАЗБИТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕНИЯ СЛОВАМИ",
+        "text": "НА ПОНЯТНЫЕ ШАГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.87,
-    "end": 11.76,
-    "lines": [
-      {
-        "text": "И НЕОЖИДАННО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОНА ЗАГОВОРИЛА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.27,
-    "end": 13.53,
+    "start": 9.63,
+    "end": 11.88,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -105,50 +73,34 @@
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.71,
-    "end": 14.67,
+    "start": 12.12,
+    "end": 14.61,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "РАЗБИТЫЙ НА ШАГИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "МОЖНО ПРОПУСТИТЬ ИЛИ ПРОЧИТАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.03,
-    "end": 16.92,
+    "start": 14.85,
+    "end": 15.78,
     "lines": [
       {
-        "text": "ПО ОБРАЗЦУ КОТОРОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛЕГКО НАЧАТЬ РАССКАЗ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.49,
-    "end": 18.55,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +112,8 @@
     ]
   },
   {
-    "start": 18.55,
-    "end": 19.65,
+    "start": 15.78,
+    "end": 16.62,
     "lines": [
       {
         "text": "ССЫЛКА",
