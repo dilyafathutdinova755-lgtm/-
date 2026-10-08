@@ -1,71 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 2.91,
+    "end": 3.18,
     "lines": [
       {
-        "text": "ПРАВИЛА ПЕРЕНОСА",
+        "text": "ДОЧЬ ПЕРЕСКАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ЕГЭ ПО РУССКОМУ",
+        "text": "НОВОСТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.18,
-    "end": 4.77,
+    "start": 3.42,
+    "end": 5.16,
     "lines": [
       {
-        "text": "ЗНАЮ СМУТНО",
+        "text": "НО СПРОСИ ТЕРМИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ШКОЛЕ СЧИТАЛИ ЛЕГКИМИ",
+        "text": "ИЗ НИХ ПО ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.98,
-    "end": 6.99,
+    "start": 5.37,
+    "end": 6.9,
     "lines": [
       {
-        "text": "ЛЕГКОЕ УЧАТ",
+        "text": "И ОНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МАЛО",
+        "text": "МОЛЧИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.11,
-    "end": 8.58,
+    "start": 7.05,
+    "end": 9.54,
     "lines": [
       {
-        "text": "ИМЕННО НА НЕМ",
+        "text": "НОВОСТИ ОНА ЗНАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРЯЮТСЯ БАЛЛЫ",
+        "text": "ЯЗЫК НАУКИ ПОКА НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.76,
-    "end": 10.23,
+    "start": 11.04,
+    "end": 12.57,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,15 +73,15 @@
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 11.55,
+    "start": 12.75,
+    "end": 13.92,
     "lines": [
       {
         "text": "ЕСТЬ ИГРЫ",
@@ -96,24 +96,24 @@
     ]
   },
   {
-    "start": 11.7,
-    "end": 13.56,
+    "start": 14.1,
+    "end": 16.2,
     "lines": [
       {
-        "text": "ГДЕ ПРОВЕРЯЮТСЯ",
+        "text": "ГДЕ ТЕРМИНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ЛЕГКИЕ ПРАВИЛА",
+        "text": "ЗАКРЕПЛЯЮТСЯ НА ПРИМЕРАХ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 13.74,
-    "end": 14.55,
+    "start": 16.71,
+    "end": 17.75,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -128,8 +128,8 @@
     ]
   },
   {
-    "start": 14.55,
-    "end": 15.362,
+    "start": 17.75,
+    "end": 18.562,
     "lines": [
       {
         "text": "ССЫЛКА",
