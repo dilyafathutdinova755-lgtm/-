@@ -1,87 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 2.73,
+    "end": 2.91,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ЕГЭ",
+        "text": "ПРАВИЛА ПЕРЕНОСА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИЛИ РИСУНКОМ",
+        "text": "ДЛЯ ЕГЭ ПО РУССКОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.0,
-    "end": 4.38,
+    "start": 3.18,
+    "end": 4.77,
     "lines": [
       {
-        "text": "НО РИСУНОК",
+        "text": "ЗНАЮ СМУТНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕЧЕРОМ НЕ НАШЕЛ",
+        "text": "В ШКОЛЕ СЧИТАЛИ ЛЕГКИМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.74,
-    "end": 5.76,
+    "start": 4.98,
+    "end": 6.99,
     "lines": [
       {
-        "text": "А СЛОВ",
+        "text": "ЛЕГКОЕ УЧАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НИКТО НЕ ЗАПИСАЛ",
+        "text": "МАЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.44,
+    "start": 7.11,
+    "end": 8.58,
     "lines": [
       {
-        "text": "ОСТАЛИСЬ ТОЛЬКО",
+        "text": "ИМЕННО НА НЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРЕЛКИ В ГОЛОВЕ",
+        "text": "ТЕРЯЮТСЯ БАЛЛЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.68,
-    "end": 8.61,
-    "lines": [
-      {
-        "text": "И ОНИ ВЕДУТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В НИКУДА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.0,
-    "end": 10.2,
+    "start": 8.76,
+    "end": 10.23,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,47 +73,47 @@
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.38,
-    "end": 11.25,
+    "start": 10.5,
+    "end": 11.55,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 11.4,
-    "end": 12.9,
+    "start": 11.7,
+    "end": 13.56,
     "lines": [
       {
-        "text": "В КОТОРОМ ВСЕ",
+        "text": "ГДЕ ПРОВЕРЯЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСАНО СЛОВАМИ",
+        "text": "И ЛЕГКИЕ ПРАВИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.17,
-    "end": 14.05,
+    "start": 13.74,
+    "end": 14.55,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -144,8 +128,8 @@
     ]
   },
   {
-    "start": 14.05,
-    "end": 15.084,
+    "start": 14.55,
+    "end": 15.362,
     "lines": [
       {
         "text": "ССЫЛКА",
