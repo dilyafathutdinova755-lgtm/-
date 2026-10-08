@@ -1,71 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.18,
+    "end": 3.27,
     "lines": [
       {
-        "text": "ДОЧЬ ПЕРЕСКАЗЫВАЕТ",
+        "text": "ДОЧЬ НА ВОПРОС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОВОСТИ",
+        "text": "КАК РЕШИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.42,
-    "end": 5.16,
+    "start": 3.66,
+    "end": 4.74,
     "lines": [
       {
-        "text": "НО СПРОСИ ТЕРМИН",
+        "text": "ОТВЕЧАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ НИХ ПО ЕГЭ",
+        "text": "НО Я ПОСЧИТАЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.37,
-    "end": 6.9,
+    "start": 4.74,
+    "end": 6.3,
     "lines": [
       {
-        "text": "И ОНА",
+        "text": "И РАЗГОВОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЛЧИТ",
+        "text": "НА ЭТОМ ЗАКАНЧИВАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.81,
+    "end": 8.19,
+    "lines": [
+      {
+        "text": "Я ПОПРОСИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПИСАТЬ ПЕРВОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.05,
-    "end": 9.54,
+    "start": 8.28,
+    "end": 9.66,
     "lines": [
       {
-        "text": "НОВОСТИ ОНА ЗНАЕТ",
+        "text": "ПРЕДЛОЖЕНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЯЗЫК НАУКИ ПОКА НЕТ",
+        "text": "РЕШЕНИЯ СЛОВАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.04,
-    "end": 12.57,
+    "start": 9.87,
+    "end": 11.76,
+    "lines": [
+      {
+        "text": "И НЕОЖИДАННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА ЗАГОВОРИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.53,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,47 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "К ЗАДАНИЯМ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 12.75,
-    "end": 13.92,
+    "start": 13.71,
+    "end": 14.67,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 14.1,
-    "end": 16.2,
+    "start": 15.03,
+    "end": 16.92,
     "lines": [
       {
-        "text": "ГДЕ ТЕРМИНЫ",
+        "text": "ПО ОБРАЗЦУ КОТОРОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКРЕПЛЯЮТСЯ НА ПРИМЕРАХ",
+        "text": "ЛЕГКО НАЧАТЬ РАССКАЗ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 16.71,
-    "end": 17.75,
+    "start": 17.49,
+    "end": 18.55,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -128,8 +160,8 @@
     ]
   },
   {
-    "start": 17.75,
-    "end": 18.562,
+    "start": 18.55,
+    "end": 19.65,
     "lines": [
       {
         "text": "ССЫЛКА",
