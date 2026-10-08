@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.27,
+    "lines": [
+      {
+        "text": "ДОЧЬ НА ВОПРОС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК РЕШИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 4.74,
+    "lines": [
+      {
+        "text": "ОТВЕЧАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НО Я ПОСЧИТАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "И РАЗГОВОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЭТОМ ЗАКАНЧИВАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.81,
+    "end": 8.19,
+    "lines": [
+      {
+        "text": "Я ПОПРОСИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПИСАТЬ ПЕРВОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.28,
+    "end": 9.66,
+    "lines": [
+      {
+        "text": "ПРЕДЛОЖЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ СЛОВАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 11.76,
+    "lines": [
+      {
+        "text": "И НЕОЖИДАННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА ЗАГОВОРИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.71,
+    "end": 14.67,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.03,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "ПО ОБРАЗЦУ КОТОРОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛЕГКО НАЧАТЬ РАССКАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.49,
+    "end": 18.55,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.55,
+    "end": 19.65,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

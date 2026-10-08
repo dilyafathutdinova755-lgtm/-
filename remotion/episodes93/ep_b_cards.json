@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.73,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИЛИ РИСУНКОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.38,
+    "lines": [
+      {
+        "text": "НО РИСУНОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЧЕРОМ НЕ НАШЕЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.74,
+    "end": 5.76,
+    "lines": [
+      {
+        "text": "А СЛОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКТО НЕ ЗАПИСАЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.44,
+    "lines": [
+      {
+        "text": "ОСТАЛИСЬ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРЕЛКИ В ГОЛОВЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.68,
+    "end": 8.61,
+    "lines": [
+      {
+        "text": "И ОНИ ВЕДУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В НИКУДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.38,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "В КОТОРОМ ВСЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПИСАНО СЛОВАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.17,
+    "end": 14.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.05,
+    "end": 15.084,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

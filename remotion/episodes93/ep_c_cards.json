@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.91,
+    "lines": [
+      {
+        "text": "ПРАВИЛА ПЕРЕНОСА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ЕГЭ ПО РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.18,
+    "end": 4.77,
+    "lines": [
+      {
+        "text": "ЗНАЮ СМУТНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ШКОЛЕ СЧИТАЛИ ЛЕГКИМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 6.99,
+    "lines": [
+      {
+        "text": "ЛЕГКОЕ УЧАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МАЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.58,
+    "lines": [
+      {
+        "text": "ИМЕННО НА НЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЮТСЯ БАЛЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.76,
+    "end": 10.23,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.55,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 13.56,
+    "lines": [
+      {
+        "text": "ГДЕ ПРОВЕРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ЛЕГКИЕ ПРАВИЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.74,
+    "end": 14.55,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.55,
+    "end": 15.362,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
