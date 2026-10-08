@@ -1,71 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.81,
+    "end": 4.08,
     "lines": [
       {
-        "text": "ДОЧЬ ПРОСИТ",
+        "text": "НОМЕРА ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСПЕЧАТАТЬ ЕГЭ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.17,
-    "end": 6.45,
-    "lines": [
-      {
-        "text": "ПРИНТЕР НА РАБОТЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СМОТРИТ С УКОРОМ",
+        "text": "ПУТАЮ КАЖДЫЙ РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.11,
-    "end": 8.43,
+    "start": 4.53,
+    "end": 6.6,
     "lines": [
       {
-        "text": "МНЕ НАДОЕЛО",
+        "text": "ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НОСИТЬ БУМАГУ",
+        "text": "ЗАГЛЯДЫВАТЬ В БУМАЖКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.29,
+    "end": 9.78,
+    "lines": [
+      {
+        "text": "НУЖНО ВИДЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НОМЕР И ТЕМУ РЯДОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.73,
-    "end": 10.89,
+    "start": 9.99,
+    "end": 11.4,
     "lines": [
       {
-        "text": "ДОЧЕРИ НАДОЕЛО",
+        "text": "ЧТОБЫ ОНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖДАТЬ МЕНЯ",
+        "text": "ЗАПОМИНАЛИСЬ ВМЕСТЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 11.73,
-    "end": 13.35,
+    "start": 12.33,
+    "end": 13.98,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -80,24 +80,24 @@
     ]
   },
   {
-    "start": 13.56,
-    "end": 15.15,
+    "start": 14.49,
+    "end": 17.28,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЯ",
+        "text": "ГДЕ У КАЖДОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫВАЮТСЯ БЕЗ ПЕЧАТИ",
+        "text": "ЗАДАНИЯ ЕСТЬ НОМЕР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 15.72,
-    "end": 16.65,
+    "start": 18.15,
+    "end": 19.17,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -112,8 +112,8 @@
     ]
   },
   {
-    "start": 16.65,
-    "end": 17.602,
+    "start": 19.17,
+    "end": 20.012,
     "lines": [
       {
         "text": "ССЫЛКА",
