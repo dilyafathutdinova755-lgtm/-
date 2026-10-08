@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "БАБУШКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЛОГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.33,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "А МНЕ ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 7.05,
+    "lines": [
+      {
+        "text": "НУЖНО РАЗЛИЧАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЯМЫЕ И КОСВЕННЫЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.98,
+    "end": 9.12,
+    "lines": [
+      {
+        "text": "ДОМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗНИЦА НЕЗАМЕТНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 11.07,
+    "lines": [
+      {
+        "text": "А НА ЭКЗАМЕНЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА СТОИТ БАЛЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.02,
+    "lines": [
+      {
+        "text": "И ТАБЛИЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕЕ НЕ ЗАКРЕПЛЯЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.63,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.87,
+    "end": 17.04,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.22,
+    "end": 19.38,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ЗАСТАВЛЯЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМИНАТЬ РАЗЛИЧИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.13,
+    "end": 21.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.05,
+    "end": 21.96,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

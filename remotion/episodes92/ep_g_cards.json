@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.86,
+    "lines": [
+      {
+        "text": "КОМПЬЮТЕР ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТРОИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 6.15,
+    "lines": [
+      {
+        "text": "РЕШАТЬ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "ОСТАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВАДЦАТЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.93,
+    "end": 11.58,
+    "lines": [
+      {
+        "text": "Я ПЕРЕСТАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСТЯГИВАТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.76,
+    "end": 14.76,
+    "lines": [
+      {
+        "text": "И ПРОБУЮ УЛОЖИТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДВА ТРИ ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.06,
+    "end": 16.89,
+    "lines": [
+      {
+        "text": "ПОКА НИКТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ВЕРНУЛ КЛАВИАТУРУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.09,
+    "end": 20.22,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.61,
+    "end": 22.62,
+    "lines": [
+      {
+        "text": "ГДЕ НУЖНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАХОДИТСЯ БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.01,
+    "end": 25.05,
+    "lines": [
+      {
+        "text": "И ДВАДЦАТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХВАТАЕТ НА НЕСКОЛЬКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.71,
+    "end": 26.75,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 26.75,
+    "end": 27.692,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

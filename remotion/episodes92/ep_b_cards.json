@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.45,
+    "lines": [
+      {
+        "text": "СОСЕДКА ПО ПАРТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРОСИЛА ПРАВИЛО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.11,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "Я ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТИЛА НЕ СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.32,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "ПРАВИЛО Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "НО В МОМЕНТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ НЕ ПРИШЕЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.03,
+    "end": 14.73,
+    "lines": [
+      {
+        "text": "ЗНАЧИТ НУЖНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРАЯ РЕАКЦИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.87,
+    "end": 17.43,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.91,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.47,
+    "end": 21.78,
+    "lines": [
+      {
+        "text": "ГДЕ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ СНОВА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 22.56,
+    "end": 23.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.6,
+    "end": 24.52,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

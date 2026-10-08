@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.06,
+    "lines": [
+      {
+        "text": "МОИ ДРУЗЬЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПИШУТ КАК ПРИДЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.36,
+    "end": 4.2,
+    "lines": [
+      {
+        "text": "И Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЧАЛ ТАКЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.59,
+    "end": 6.24,
+    "lines": [
+      {
+        "text": "А ЕГЭ ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОГО НЕ ПРОСТИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.81,
+    "end": 8.37,
+    "lines": [
+      {
+        "text": "ПРИВЫЧКИ ИЗ ЧАТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПАДАЮТ В ДИКТАНТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 9.78,
+    "lines": [
+      {
+        "text": "И ПРИХОДИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСПРАВЛЯТЬ ПО ОДНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.06,
+    "end": 14.61,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ПАРЫ ЗАКРЕПЛЯЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.94,
+    "end": 15.95,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.95,
+    "end": 16.855,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

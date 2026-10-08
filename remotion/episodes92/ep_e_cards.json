@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.02,
+    "lines": [
+      {
+        "text": "БРАТ ХРАНИТ РАСПЕЧАТКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В КОРОБКЕ НА БАЛКОНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.41,
+    "end": 5.61,
+    "lines": [
+      {
+        "text": "А ЛЕЗТЬ ТУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ХОЧЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 7.08,
+    "lines": [
+      {
+        "text": "ТАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЫЛЬ И СЫРОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.26,
+    "end": 9.33,
+    "lines": [
+      {
+        "text": "И ВОЗМОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЫШИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.69,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "НУЖНЫЕ СТРАНИЦЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕЩЕ НАДО НАЙТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.76,
+    "end": 13.47,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.71,
+    "end": 15.6,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЯ ЧИСТЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И БЕЗ МЫШЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.93,
+    "end": 16.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.9,
+    "end": 17.73,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
