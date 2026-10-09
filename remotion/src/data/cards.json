@@ -1,71 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.0,
+    "end": 2.88,
     "lines": [
       {
-        "text": "ОТВЕТ ПО ЗАДАНИЮ",
+        "text": "ЧТО ТАКОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОВПАЛ С КЛЮЧОМ",
+        "text": "ИНФЛЯЦИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.6,
-    "end": 5.55,
+    "start": 3.03,
+    "end": 4.32,
     "lines": [
       {
-        "text": "А ХОД РЕШЕНИЯ",
+        "text": "ОБЪЯСНЯЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛУЧИЛСЯ ДРУГИМ",
+        "text": "НА ЦЕНАХ В МАГАЗИНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.18,
-    "end": 7.56,
+    "start": 4.59,
+    "end": 5.82,
     "lines": [
       {
-        "text": "НЕ ЗНАЮ",
+        "text": "НО В ТЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАСЧИТАЕТ ЛИ ТАКОЙ",
+        "text": "НУЖНЫ ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 9.81,
+    "start": 6.03,
+    "end": 7.38,
     "lines": [
       {
-        "text": "ХОД И СПРОСИТЬ",
+        "text": "БЫТОВОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЭТОТ МОМЕНТ НЕКОГО",
+        "text": "ОБЪЯСНЕНИЕ ПОНЯТНОЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.92,
-    "end": 12.39,
+    "start": 7.56,
+    "end": 8.37,
+    "lines": [
+      {
+        "text": "А ЭКЗАМЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЕТ СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.61,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "РОСТ ОБЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УРОВНЯ ЦЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 12.06,
+    "lines": [
+      {
+        "text": "СНИЖЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКУПАТЕЛЬНОЙ СПОСОБНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.39,
+    "end": 13.92,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,50 +121,50 @@
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 12.6,
-    "end": 13.53,
+    "start": 14.16,
+    "end": 15.27,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 13.83,
-    "end": 15.9,
+    "start": 15.42,
+    "end": 17.16,
     "lines": [
       {
-        "text": "С КОТОРЫМ МОЖНО",
+        "text": "ГДЕ ОПРЕДЕЛЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СРАВНИТЬ СВОЙ ХОД",
+        "text": "ПОВТОРЯЮТСЯ КОРОТКО",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 16.53,
-    "end": 17.55,
+    "start": 17.43,
+    "end": 18.35,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +176,8 @@
     ]
   },
   {
-    "start": 17.55,
-    "end": 18.48,
+    "start": 18.35,
+    "end": 19.202,
     "lines": [
       {
         "text": "ССЫЛКА",
