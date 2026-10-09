@@ -1,119 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 2.88,
+    "end": 3.45,
     "lines": [
       {
-        "text": "ЧТО ТАКОЕ",
+        "text": "ОТЕЦ ДАЛ СРОК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИНФЛЯЦИЯ",
+        "text": "ДЕСЯТЬ ВАРИАНТОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.03,
-    "end": 4.32,
+    "start": 3.69,
+    "end": 5.7,
     "lines": [
       {
-        "text": "ОБЪЯСНЯЮ",
+        "text": "Я ПОСЧИТАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЦЕНАХ В МАГАЗИНЕ",
+        "text": "ПО ОДНОМУ В НЕДЕЛЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.59,
-    "end": 5.82,
+    "start": 6.06,
+    "end": 7.65,
     "lines": [
       {
-        "text": "НО В ТЕСТЕ",
+        "text": "ОДИН ВАРИАНТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНЫ ТЕРМИНЫ",
+        "text": "ЗВУЧИТ ЛЕГКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.03,
-    "end": 7.38,
+    "start": 8.1,
+    "end": 9.63,
     "lines": [
       {
-        "text": "БЫТОВОЕ",
+        "text": "НО В НЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЕНИЕ ПОНЯТНОЕ",
+        "text": "ЗАДАНИЯ РАЗНЫХ ТИПОВ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.56,
-    "end": 8.37,
+    "start": 9.87,
+    "end": 11.4,
     "lines": [
       {
-        "text": "А ЭКЗАМЕН",
+        "text": "И ОН РАСТЯГИВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯЕТ СЛОВА",
+        "text": "НА ТРИ ВЕЧЕРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.61,
-    "end": 10.26,
-    "lines": [
-      {
-        "text": "РОСТ ОБЩЕГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "УРОВНЯ ЦЕН",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.53,
-    "end": 12.06,
-    "lines": [
-      {
-        "text": "СНИЖЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОКУПАТЕЛЬНОЙ СПОСОБНОСТИ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 12.39,
-    "end": 13.92,
+    "start": 11.82,
+    "end": 13.56,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -121,50 +89,50 @@
         "size": "small"
       },
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 14.16,
-    "end": 15.27,
+    "start": 13.74,
+    "end": 15.24,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ГДЕ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "МОЖНО БРАТЬ ПО ТИПАМ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
     "start": 15.42,
-    "end": 17.16,
+    "end": 16.92,
     "lines": [
       {
-        "text": "ГДЕ ОПРЕДЕЛЕНИЯ",
+        "text": "И ЗАКРЫВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТСЯ КОРОТКО",
+        "text": "ОДИН ТИП ЗА ВЕЧЕР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 17.43,
-    "end": 18.35,
+    "start": 17.25,
+    "end": 18.27,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -176,7 +144,7 @@
     ]
   },
   {
-    "start": 18.35,
+    "start": 18.27,
     "end": 19.202,
     "lines": [
       {
