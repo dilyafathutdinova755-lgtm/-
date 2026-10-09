@@ -4,142 +4,110 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "УЧИТЕЛЬНИЦА ВЕРНУЛА",
+        "text": "ДОЧЬ РЕШАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАБОТУ С ПОМЕТКОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 3.6,
-    "end": 5.1,
-    "lines": [
-      {
-        "text": "НА ПОЛЯХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СМОТРИ УСЛОВИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 5.25,
-    "end": 6.9,
-    "lines": [
-      {
-        "text": "ЧТО ИМЕННО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В УСЛОВИЯ Я ПРОПУСТИЛА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.05,
-    "end": 8.25,
-    "lines": [
-      {
-        "text": "ИЗ ПОМЕТКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕ ПОНЯТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.4,
-    "end": 9.9,
-    "lines": [
-      {
-        "text": "А СПРОСИТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "Я ПОСТЕСНЯЛАСЬ",
+        "text": "НА ПОДОКОННИКЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 10.8,
-    "end": 11.7,
+    "start": 3.45,
+    "end": 5.4,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "ЗА СТОЛОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "ОТВЛЕКАЕТ МЛАДШИЙ БРАТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.7,
-    "end": 12.9,
+    "start": 5.55,
+    "end": 7.05,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПОДОКОННИК УЗКИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ РАЗБОР",
+        "text": "ЛИСТЫ ПАДАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.05,
-    "end": 15.0,
+    "start": 7.95,
+    "end": 9.45,
     "lines": [
       {
-        "text": "ГДЕ УКАЗАНО",
+        "text": "НА ВТОРОМ ЗАДАНИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА КАКУЮ ДЕТАЛЬ",
+        "text": "ОНА СДАЕТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.0,
-    "end": 16.35,
+    "start": 10.2,
+    "end": 11.4,
     "lines": [
       {
-        "text": "УСЛОВИЯ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СМОТРЕТЬ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
         "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.55,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫВАЮТСЯ НА ТЕЛЕФОНЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.35,
+    "end": 15.4,
+    "lines": [
+      {
+        "text": "И ЛИСТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПОДОКОННИКЕ НЕ НУЖНЫ",
+        "accent": true,
+        "size": "small"
       }
     ]
   },
@@ -161,7 +129,7 @@
   },
   {
     "start": 17.6,
-    "end": 18.48,
+    "end": 18.4,
     "lines": [
       {
         "text": "ССЫЛКА",
