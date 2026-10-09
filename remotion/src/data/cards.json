@@ -1,71 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.51,
+    "end": 5.01,
     "lines": [
       {
-        "text": "БРАТ СПРОСИЛ",
+        "text": "В УЧЕБНИКЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОЛЬКО Я ЗАНИМАЛСЯ",
+        "text": "ПОЛСТРАНИЦЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.34,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "НЕ ЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЬЕ ЛУЧШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.84,
-    "end": 6.03,
+    "start": 6.72,
+    "end": 7.65,
     "lines": [
       {
-        "text": "ОТВЕТИЛ",
+        "text": "ТРИ СТРОКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСА ДВА",
+        "text": "БЫСТРЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.63,
-    "end": 9.03,
+    "start": 7.92,
+    "end": 10.29,
     "lines": [
       {
-        "text": "ЧЕСТНЫЙ СЧЕТ",
+        "text": "НО БОЮСЬ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЗАДАНИЯХ А НЕ В ЧАСАХ",
+        "text": "ЭКЗАМЕН ПОТРЕБУЕТ ХОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.42,
-    "end": 11.22,
+    "start": 10.53,
+    "end": 11.91,
     "lines": [
       {
-        "text": "СКОЛЬКО РЕШЕНО",
+        "text": "И ПОТЕРЯЮ БАЛЛЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТОЛЬКО СДЕЛАНО",
+        "text": "ЗА ПРОПУСКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.61,
-    "end": 13.38,
+    "start": 12.27,
+    "end": 13.41,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,31 +89,47 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "К ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.53,
-    "end": 16.17,
+    "start": 13.59,
+    "end": 14.46,
     "lines": [
       {
-        "text": "ГДЕ РЕЗУЛЬТАТ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗМЕРЯЕТСЯ ЗАДАНИЯМИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.62,
-    "end": 17.62,
+    "start": 14.61,
+    "end": 16.53,
+    "lines": [
+      {
+        "text": "ГДЕ ВИДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО ШАГОВ ЗАПИСАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 17.76,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -112,8 +144,8 @@
     ]
   },
   {
-    "start": 17.62,
-    "end": 18.562,
+    "start": 17.76,
+    "end": 18.604,
     "lines": [
       {
         "text": "ССЫЛКА",
