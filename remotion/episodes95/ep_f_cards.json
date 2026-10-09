@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ДОЧЬ ПРОСИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯТЬ ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "Я ЧИТАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОПРОСЫ ПО БУМАЖКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ТЕМП",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧАЕТСЯ МЕДЛЕННЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "ОНА УСПЕВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫТЬ ВОПРОС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "ПОКА Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕЛИСТЫВАЮ СТРАНИЦУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ПОВТОРЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЯНЕТСЯ ДОЛЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "ГДЕ ВОПРОСЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДУТ БЫСТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "БЕЗ МОЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧАСТИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 19.863,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

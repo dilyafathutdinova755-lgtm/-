@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ТАЙМЕР НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВАДЦАТЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.15,
+    "end": 5.25,
+    "lines": [
+      {
+        "text": "НА ПЕРВОМ ЗАДАНИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОН СРАБОТАЛ РАНЬШЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.4,
+    "end": 7.95,
+    "lines": [
+      {
+        "text": "ЧЕМ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЧИТАЛА УСЛОВИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СНАЧАЛА ТО ЧТО УМЕЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "ОСТАЛЬНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВТОРОЙ КРУГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.55,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 18.0,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО ВЗЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕСКОЛЬКО ЗАДАНИЙ ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.15,
+    "end": 19.8,
+    "lines": [
+      {
+        "text": "И ТРЕНИРОВАТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ТАКОМ ТЕМПЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.25,
+    "end": 21.35,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.35,
+    "end": 22.38,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

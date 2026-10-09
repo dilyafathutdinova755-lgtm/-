@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "ЗАПЯТУЮ ПРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВВОДНЫХ СЛОВАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "НА ЕГЭ ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЮ НА СЛУХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "ЗВУЧИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОРЖЕСТВЕННО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.05,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ВВОДНОЕ ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЛИ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "НА СЛУХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОПРЕДЕЛИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.55,
+    "end": 13.1,
+    "lines": [
+      {
+        "text": "ПРОВЕРКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО УБРАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.25,
+    "end": 15.05,
+    "lines": [
+      {
+        "text": "ПОВТОРЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО АВТОМАТИЗМА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.15,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.85,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.65,
+    "end": 22.0,
+    "lines": [
+      {
+        "text": "ГДЕ ТАКИЕ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДУТ ОДИН ЗА ДРУГИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.5,
+    "end": 23.65,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.65,
+    "end": 24.471,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
