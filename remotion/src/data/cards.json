@@ -1,87 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 2.97,
+    "end": 3.15,
     "lines": [
       {
-        "text": "СВЕРИЛ ОТВЕТЫ",
+        "text": "ЗАДАНИЕ ИЗ БАНКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ЧАТЕ",
+        "text": "РЕШИЛА ЗА МИНУТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.15,
-    "end": 4.8,
+    "start": 3.69,
+    "end": 6.18,
     "lines": [
       {
-        "text": "ТРОЕ ПОЛУЧИЛИ",
+        "text": "А ПОТОМ ПОЛЧАСА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРИ РАЗНЫХ ЧИСЛА",
+        "text": "ПРОВЕРЯЛА НЕ ОШИБЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.13,
-    "end": 6.75,
+    "start": 7.05,
+    "end": 9.12,
     "lines": [
       {
-        "text": "КАЖДЫЙ УВЕРЕН",
+        "text": "ПРОВЕРКА БЕЗ ПЛАНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ПРАВ",
+        "text": "ПРЕВРАЩАЕТСЯ В ТРЕВОГУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.78,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "ПЕРЕЧИТЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНО И ТО ЖЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.87,
-    "end": 9.18,
+    "start": 12.27,
+    "end": 13.23,
     "lines": [
       {
-        "text": "ВЫЯСНИТЬ КТО ОШИБСЯ",
+        "text": "И НЕ ЗНАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО ПО РЕШЕНИЮ",
+        "text": "ГДЕ ИСКАТЬ ОШИБКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.45,
-    "end": 10.68,
+    "start": 14.16,
+    "end": 14.97,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.86,
-    "end": 11.7,
+    "start": 15.15,
+    "end": 15.99,
     "lines": [
       {
         "text": "ЕСТЬ",
@@ -89,31 +105,31 @@
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.82,
-    "end": 14.22,
+    "start": 16.29,
+    "end": 19.05,
     "lines": [
       {
-        "text": "ПО КОТОРОМУ",
+        "text": "ГДЕ ПОСЛЕ ОТВЕТА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШИТЬ СПОР БЕЗ УЧИТЕЛЯ",
+        "text": "СРАЗУ ВИДНО РЕШЕНО ЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 15.45,
+    "start": 19.8,
+    "end": 20.8,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -128,8 +144,8 @@
     ]
   },
   {
-    "start": 15.45,
-    "end": 16.343,
+    "start": 20.8,
+    "end": 21.676,
     "lines": [
       {
         "text": "ССЫЛКА",
