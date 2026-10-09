@@ -4,68 +4,100 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "ДОЧЬ РЕШАЕТ",
+        "text": "ДОЧЬ ПРОСИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПОДОКОННИКЕ",
+        "text": "ПРОВЕРЯТЬ ПО ИСТОРИИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
     "start": 3.45,
-    "end": 5.4,
+    "end": 4.8,
     "lines": [
       {
-        "text": "ЗА СТОЛОМ",
+        "text": "Я ЧИТАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЛЕКАЕТ МЛАДШИЙ БРАТ",
+        "text": "ВОПРОСЫ ПО БУМАЖКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.55,
-    "end": 7.05,
+    "start": 4.95,
+    "end": 6.6,
     "lines": [
       {
-        "text": "ПОДОКОННИК УЗКИЙ",
+        "text": "ТЕМП",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛИСТЫ ПАДАЮТ",
+        "text": "ПОЛУЧАЕТСЯ МЕДЛЕННЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "ОНА УСПЕВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫТЬ ВОПРОС",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.95,
-    "end": 9.45,
+    "start": 9.0,
+    "end": 10.2,
     "lines": [
       {
-        "text": "НА ВТОРОМ ЗАДАНИИ",
+        "text": "ПОКА Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОНА СДАЕТСЯ",
+        "text": "ПЕРЕЛИСТЫВАЮ СТРАНИЦУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ПОВТОРЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЯНЕТСЯ ДОЛЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.4,
+    "start": 12.6,
+    "end": 14.1,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,50 +105,66 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "ПО ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.55,
-    "end": 13.2,
+    "start": 14.1,
+    "end": 15.15,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЯ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКРЫВАЮТСЯ НА ТЕЛЕФОНЕ",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.35,
-    "end": 15.4,
+    "start": 15.3,
+    "end": 16.5,
     "lines": [
       {
-        "text": "И ЛИСТЫ",
+        "text": "ГДЕ ВОПРОСЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПОДОКОННИКЕ НЕ НУЖНЫ",
+        "text": "ИДУТ БЫСТРО",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
     "start": 16.5,
-    "end": 17.6,
+    "end": 17.8,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "БЕЗ МОЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧАСТИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +176,8 @@
     ]
   },
   {
-    "start": 17.6,
-    "end": 18.4,
+    "start": 19.0,
+    "end": 19.863,
     "lines": [
       {
         "text": "ССЫЛКА",
