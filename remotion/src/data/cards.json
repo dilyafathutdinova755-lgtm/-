@@ -1,71 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 2.97,
     "lines": [
       {
-        "text": "ВЕТВИ ВЛАСТИ",
+        "text": "СВЕРИЛ ОТВЕТЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАЗВАТЬ МОГУ",
+        "text": "В ЧАТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 4.68,
+    "start": 3.15,
+    "end": 4.8,
     "lines": [
       {
-        "text": "А КТО ЧТО",
+        "text": "ТРОЕ ПОЛУЧИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕЛАЕТ",
+        "text": "ТРИ РАЗНЫХ ЧИСЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.98,
-    "end": 7.5,
+    "start": 5.13,
+    "end": 6.75,
     "lines": [
       {
-        "text": "ПЕРЕПУТЫВАЮ",
+        "text": "КАЖДЫЙ УВЕРЕН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКОНОДАТЕЛЬНУЮ",
+        "text": "ЧТО ПРАВ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 7.59,
-    "end": 10.23,
+    "start": 6.87,
+    "end": 9.18,
     "lines": [
       {
-        "text": "МЕНЯЮТСЯ МЕСТАМИ",
+        "text": "ВЫЯСНИТЬ КТО ОШИБСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСЛИ ПОТОРОПИТЬСЯ",
+        "text": "ТОЛЬКО ПО РЕШЕНИЮ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.56,
-    "end": 12.06,
+    "start": 9.45,
+    "end": 10.68,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -73,50 +73,50 @@
         "size": "small"
       },
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 12.33,
-    "end": 13.38,
-    "lines": [
-      {
-        "text": "ЕСТЬ ИГРЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 13.59,
-    "end": 15.57,
-    "lines": [
-      {
-        "text": "ГДЕ ВЕТВИ ВЛАСТИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СВЯЗАНЫ С ФУНКЦИЯМИ",
+        "text": "К ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.87,
-    "end": 16.9,
+    "start": 10.86,
+    "end": 11.7,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 14.22,
+    "lines": [
+      {
+        "text": "ПО КОТОРОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШИТЬ СПОР БЕЗ УЧИТЕЛЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 15.45,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +128,8 @@
     ]
   },
   {
-    "start": 16.9,
-    "end": 17.8,
+    "start": 15.45,
+    "end": 16.343,
     "lines": [
       {
         "text": "ССЫЛКА",
