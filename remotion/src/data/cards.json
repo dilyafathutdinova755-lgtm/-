@@ -1,10 +1,10 @@
 [
   {
     "start": 1.86,
-    "end": 2.73,
+    "end": 3.3,
     "lines": [
       {
-        "text": "РЕФОРМУ ПО ИСТОРИИ",
+        "text": "ВЕТВИ ВЛАСТИ",
         "accent": false,
         "size": "small"
       },
@@ -16,72 +16,56 @@
     ]
   },
   {
-    "start": 3.06,
-    "end": 4.92,
+    "start": 3.63,
+    "end": 4.68,
     "lines": [
       {
-        "text": "А ПРИ КАКОМ",
+        "text": "А КТО ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИТЕЛЕ ПУТАЮ",
+        "text": "ДЕЛАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.09,
-    "end": 7.08,
+    "start": 4.98,
+    "end": 7.5,
     "lines": [
       {
-        "text": "СВЯЗКА",
+        "text": "ПЕРЕПУТЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИТЕЛЬ РЕФОРМА",
+        "text": "ЗАКОНОДАТЕЛЬНУЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 7.35,
-    "end": 8.64,
+    "start": 7.59,
+    "end": 10.23,
     "lines": [
       {
-        "text": "ДЕРЖИТСЯ",
+        "text": "МЕНЯЮТСЯ МЕСТАМИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛОХО",
+        "text": "ЕСЛИ ПОТОРОПИТЬСЯ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.88,
-    "end": 11.85,
-    "lines": [
-      {
-        "text": "ПОКА НЕ ПОВТОРИТЬ",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "В РАЗНОМ ПОРЯДКЕ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 13.08,
-    "end": 14.37,
+    "start": 10.56,
+    "end": 12.06,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,15 +73,15 @@
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 14.67,
-    "end": 15.9,
+    "start": 12.33,
+    "end": 13.38,
     "lines": [
       {
         "text": "ЕСТЬ ИГРЫ",
@@ -112,27 +96,27 @@
     ]
   },
   {
-    "start": 16.2,
-    "end": 18.57,
+    "start": 13.59,
+    "end": 15.57,
     "lines": [
       {
-        "text": "ГДЕ РЕФОРМЫ И",
+        "text": "ГДЕ ВЕТВИ ВЛАСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИТЕЛЕЙ СОПОСТАВЛЯЮТ",
+        "text": "СВЯЗАНЫ С ФУНКЦИЯМИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 19.17,
-    "end": 20.05,
+    "start": 15.87,
+    "end": 16.9,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +128,8 @@
     ]
   },
   {
-    "start": 20.05,
-    "end": 20.908,
+    "start": 16.9,
+    "end": 17.8,
     "lines": [
       {
         "text": "ССЫЛКА",
