@@ -1,87 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.45,
+    "end": 3.51,
     "lines": [
       {
-        "text": "ОТЕЦ ДАЛ СРОК",
+        "text": "БРАТ СПРОСИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕСЯТЬ ВАРИАНТОВ",
+        "text": "СКОЛЬКО Я ЗАНИМАЛСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.69,
-    "end": 5.7,
+    "start": 3.84,
+    "end": 6.03,
     "lines": [
       {
-        "text": "Я ПОСЧИТАЛ",
+        "text": "ОТВЕТИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОДНОМУ В НЕДЕЛЮ",
+        "text": "ЧАСА ДВА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.06,
-    "end": 7.65,
+    "start": 6.63,
+    "end": 9.03,
     "lines": [
       {
-        "text": "ОДИН ВАРИАНТ",
+        "text": "ЧЕСТНЫЙ СЧЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗВУЧИТ ЛЕГКО",
+        "text": "В ЗАДАНИЯХ А НЕ В ЧАСАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 9.63,
+    "start": 9.42,
+    "end": 11.22,
     "lines": [
       {
-        "text": "НО В НЕМ",
+        "text": "СКОЛЬКО РЕШЕНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ РАЗНЫХ ТИПОВ",
+        "text": "СТОЛЬКО СДЕЛАНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.87,
-    "end": 11.4,
-    "lines": [
-      {
-        "text": "И ОН РАСТЯГИВАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НА ТРИ ВЕЧЕРА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.82,
-    "end": 13.56,
+    "start": 11.61,
+    "end": 13.38,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -96,43 +80,27 @@
     ]
   },
   {
-    "start": 13.74,
-    "end": 15.24,
+    "start": 13.53,
+    "end": 16.17,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ",
+        "text": "ГДЕ РЕЗУЛЬТАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО БРАТЬ ПО ТИПАМ",
+        "text": "ИЗМЕРЯЕТСЯ ЗАДАНИЯМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.42,
-    "end": 16.92,
+    "start": 16.62,
+    "end": 17.62,
     "lines": [
       {
-        "text": "И ЗАКРЫВАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОДИН ТИП ЗА ВЕЧЕР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.25,
-    "end": 18.27,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +112,8 @@
     ]
   },
   {
-    "start": 18.27,
-    "end": 19.202,
+    "start": 17.62,
+    "end": 18.562,
     "lines": [
       {
         "text": "ССЫЛКА",
