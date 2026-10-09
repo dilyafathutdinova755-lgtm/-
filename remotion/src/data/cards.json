@@ -1,87 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 5.01,
+    "end": 3.15,
     "lines": [
       {
-        "text": "В УЧЕБНИКЕ",
+        "text": "ЗАПЯТУЮ ПРИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛСТРАНИЦЫ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.34,
-    "end": 6.18,
-    "lines": [
-      {
-        "text": "НЕ ЗНАЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЧЬЕ ЛУЧШЕ",
+        "text": "ВВОДНЫХ СЛОВАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.72,
-    "end": 7.65,
+    "start": 3.3,
+    "end": 4.95,
     "lines": [
       {
-        "text": "ТРИ СТРОКИ",
+        "text": "НА ЕГЭ ПО РУССКОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЫСТРЕЕ",
+        "text": "РЕШАЮ НА СЛУХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.92,
-    "end": 10.29,
+    "start": 5.1,
+    "end": 6.9,
     "lines": [
       {
-        "text": "НО БОЮСЬ ЧТО",
+        "text": "ЗВУЧИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭКЗАМЕН ПОТРЕБУЕТ ХОД",
+        "text": "ТОРЖЕСТВЕННО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.05,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ВВОДНОЕ ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЛИ НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.53,
-    "end": 11.91,
+    "start": 9.45,
+    "end": 11.4,
     "lines": [
       {
-        "text": "И ПОТЕРЯЮ БАЛЛЫ",
+        "text": "НА СЛУХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ПРОПУСКИ",
+        "text": "НЕ ОПРЕДЕЛИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.27,
-    "end": 13.41,
+    "start": 11.55,
+    "end": 13.1,
+    "lines": [
+      {
+        "text": "ПРОВЕРКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО УБРАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.25,
+    "end": 15.05,
+    "lines": [
+      {
+        "text": "ПОВТОРЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО АВТОМАТИЗМА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.15,
+    "end": 17.7,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -89,47 +121,47 @@
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.59,
-    "end": 14.46,
+    "start": 17.85,
+    "end": 19.5,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 14.61,
-    "end": 16.53,
+    "start": 19.65,
+    "end": 22.0,
     "lines": [
       {
-        "text": "ГДЕ ВИДНО",
+        "text": "ГДЕ ТАКИЕ СЛОВА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКОЛЬКО ШАГОВ ЗАПИСАТЬ",
+        "text": "ИДУТ ОДИН ЗА ДРУГИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.8,
-    "end": 17.76,
+    "start": 22.5,
+    "end": 23.65,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -144,8 +176,8 @@
     ]
   },
   {
-    "start": 17.76,
-    "end": 18.604,
+    "start": 23.65,
+    "end": 24.471,
     "lines": [
       {
         "text": "ССЫЛКА",
