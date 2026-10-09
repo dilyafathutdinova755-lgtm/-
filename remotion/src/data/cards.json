@@ -1,87 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.0,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ТАЙМЕР НА",
+        "text": "УЧИТЕЛЬНИЦА ВЕРНУЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВАДЦАТЬ МИНУТ",
+        "text": "РАБОТУ С ПОМЕТКОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.15,
-    "end": 5.25,
+    "start": 3.6,
+    "end": 5.1,
     "lines": [
       {
-        "text": "НА ПЕРВОМ ЗАДАНИИ",
+        "text": "НА ПОЛЯХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОН СРАБОТАЛ РАНЬШЕ",
+        "text": "СМОТРИ УСЛОВИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.4,
-    "end": 7.95,
+    "start": 5.25,
+    "end": 6.9,
     "lines": [
       {
-        "text": "ЧЕМ Я",
+        "text": "ЧТО ИМЕННО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОЧИТАЛА УСЛОВИЯ",
+        "text": "В УСЛОВИЯ Я ПРОПУСТИЛА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.55,
-    "end": 10.5,
+    "start": 7.05,
+    "end": 8.25,
     "lines": [
       {
-        "text": "ТЕПЕРЬ РЕШАЮ",
+        "text": "ИЗ ПОМЕТКИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНАЧАЛА ТО ЧТО УМЕЮ",
+        "text": "НЕ ПОНЯТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.95,
-    "end": 12.9,
+    "start": 8.4,
+    "end": 9.9,
     "lines": [
       {
-        "text": "ОСТАЛЬНОЕ",
+        "text": "А СПРОСИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ВТОРОЙ КРУГ",
+        "text": "Я ПОСТЕСНЯЛАСЬ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 13.5,
-    "end": 14.55,
+    "start": 10.8,
+    "end": 11.7,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -96,56 +96,56 @@
     ]
   },
   {
-    "start": 14.7,
-    "end": 15.9,
+    "start": 11.7,
+    "end": 12.9,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.9,
-    "end": 18.0,
+    "start": 13.05,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ГДЕ МОЖНО ВЗЯТЬ",
+        "text": "ГДЕ УКАЗАНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕСКОЛЬКО ЗАДАНИЙ ПОДРЯД",
+        "text": "НА КАКУЮ ДЕТАЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.15,
-    "end": 19.8,
+    "start": 15.0,
+    "end": 16.35,
     "lines": [
       {
-        "text": "И ТРЕНИРОВАТЬСЯ",
+        "text": "УСЛОВИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ТАКОМ ТЕМПЕ",
+        "text": "СМОТРЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.25,
-    "end": 21.35,
+    "start": 16.5,
+    "end": 17.6,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 21.35,
-    "end": 22.38,
+    "start": 17.6,
+    "end": 18.48,
     "lines": [
       {
         "text": "ССЫЛКА",
