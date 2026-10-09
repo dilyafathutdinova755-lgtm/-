@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ВЕТВИ ВЛАСТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАТЬ МОГУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.63,
+    "end": 4.68,
+    "lines": [
+      {
+        "text": "А КТО ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.98,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "ПЕРЕПУТЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНОДАТЕЛЬНУЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.59,
+    "end": 10.23,
+    "lines": [
+      {
+        "text": "МЕНЯЮТСЯ МЕСТАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСЛИ ПОТОРОПИТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.56,
+    "end": 12.06,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.33,
+    "end": 13.38,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.59,
+    "end": 15.57,
+    "lines": [
+      {
+        "text": "ГДЕ ВЕТВИ ВЛАСТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЯЗАНЫ С ФУНКЦИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.87,
+    "end": 16.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.9,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

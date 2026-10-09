@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ОТВЕТ ПО ЗАДАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАЛ С КЛЮЧОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.6,
+    "end": 5.55,
+    "lines": [
+      {
+        "text": "А ХОД РЕШЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИЛСЯ ДРУГИМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.18,
+    "end": 7.56,
+    "lines": [
+      {
+        "text": "НЕ ЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАСЧИТАЕТ ЛИ ТАКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 9.81,
+    "lines": [
+      {
+        "text": "ХОД И СПРОСИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЭТОТ МОМЕНТ НЕКОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.92,
+    "end": 12.39,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 13.53,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.83,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "С КОТОРЫМ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАВНИТЬ СВОЙ ХОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.53,
+    "end": 17.55,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.55,
+    "end": 18.48,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

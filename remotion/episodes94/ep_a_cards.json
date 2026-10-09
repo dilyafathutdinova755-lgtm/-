@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.73,
+    "lines": [
+      {
+        "text": "РЕФОРМУ ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАТЬ МОГУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 4.92,
+    "lines": [
+      {
+        "text": "А ПРИ КАКОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИТЕЛЕ ПУТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.09,
+    "end": 7.08,
+    "lines": [
+      {
+        "text": "СВЯЗКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИТЕЛЬ РЕФОРМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 8.64,
+    "lines": [
+      {
+        "text": "ДЕРЖИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЛОХО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.88,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "ПОКА НЕ ПОВТОРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В РАЗНОМ ПОРЯДКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.08,
+    "end": 14.37,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.67,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 18.57,
+    "lines": [
+      {
+        "text": "ГДЕ РЕФОРМЫ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИТЕЛЕЙ СОПОСТАВЛЯЮТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.17,
+    "end": 20.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.05,
+    "end": 20.908,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.97,
+    "lines": [
+      {
+        "text": "СВЕРИЛ ОТВЕТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЧАТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.15,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "ТРОЕ ПОЛУЧИЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ РАЗНЫХ ЧИСЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.13,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ УВЕРЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ПРАВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.87,
+    "end": 9.18,
+    "lines": [
+      {
+        "text": "ВЫЯСНИТЬ КТО ОШИБСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО ПО РЕШЕНИЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 10.68,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 14.22,
+    "lines": [
+      {
+        "text": "ПО КОТОРОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШИТЬ СПОР БЕЗ УЧИТЕЛЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 15.45,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.45,
+    "end": 16.343,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

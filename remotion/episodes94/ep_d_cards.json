@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ИЗ БАНКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШИЛА ЗА МИНУТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 6.18,
+    "lines": [
+      {
+        "text": "А ПОТОМ ПОЛЧАСА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЛА НЕ ОШИБЛАСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.05,
+    "end": 9.12,
+    "lines": [
+      {
+        "text": "ПРОВЕРКА БЕЗ ПЛАНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЕВРАЩАЕТСЯ В ТРЕВОГУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.78,
+    "end": 11.97,
+    "lines": [
+      {
+        "text": "ПЕРЕЧИТЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНО И ТО ЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.27,
+    "end": 13.23,
+    "lines": [
+      {
+        "text": "И НЕ ЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ИСКАТЬ ОШИБКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.16,
+    "end": 14.97,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.15,
+    "end": 15.99,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.29,
+    "end": 19.05,
+    "lines": [
+      {
+        "text": "ГДЕ ПОСЛЕ ОТВЕТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ ВИДНО РЕШЕНО ЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.8,
+    "end": 20.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.8,
+    "end": 21.676,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.45,
+    "lines": [
+      {
+        "text": "ОТЕЦ ДАЛ СРОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕСЯТЬ ВАРИАНТОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.69,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "Я ПОСЧИТАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОДНОМУ В НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.06,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "ОДИН ВАРИАНТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗВУЧИТ ЛЕГКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 9.63,
+    "lines": [
+      {
+        "text": "НО В НЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ РАЗНЫХ ТИПОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "И ОН РАСТЯГИВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТРИ ВЕЧЕРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.82,
+    "end": 13.56,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.74,
+    "end": 15.24,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО БРАТЬ ПО ТИПАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "И ЗАКРЫВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН ТИП ЗА ВЕЧЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.25,
+    "end": 18.27,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.27,
+    "end": 19.202,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

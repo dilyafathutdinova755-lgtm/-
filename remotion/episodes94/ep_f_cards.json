@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.88,
+    "lines": [
+      {
+        "text": "ЧТО ТАКОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИНФЛЯЦИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.03,
+    "end": 4.32,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЯЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЦЕНАХ В МАГАЗИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.59,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "НО В ТЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНЫ ТЕРМИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.03,
+    "end": 7.38,
+    "lines": [
+      {
+        "text": "БЫТОВОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЕНИЕ ПОНЯТНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.56,
+    "end": 8.37,
+    "lines": [
+      {
+        "text": "А ЭКЗАМЕН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЕТ СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.61,
+    "end": 10.26,
+    "lines": [
+      {
+        "text": "РОСТ ОБЩЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УРОВНЯ ЦЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.53,
+    "end": 12.06,
+    "lines": [
+      {
+        "text": "СНИЖЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКУПАТЕЛЬНОЙ СПОСОБНОСТИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.39,
+    "end": 13.92,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.16,
+    "end": 15.27,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.42,
+    "end": 17.16,
+    "lines": [
+      {
+        "text": "ГДЕ ОПРЕДЕЛЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ КОРОТКО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.43,
+    "end": 18.35,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.35,
+    "end": 19.202,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
