@@ -1,63 +1,79 @@
 [
   {
     "start": 1.86,
-    "end": 3.15,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ЗАПЯТУЮ ПРИ",
+        "text": "ДОЧЬ ПРИНЕСЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВВОДНЫХ СЛОВАХ",
+        "text": "ЗАДАНИЕ ПО ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.3,
-    "end": 4.95,
+    "start": 3.45,
+    "end": 4.8,
     "lines": [
       {
-        "text": "НА ЕГЭ ПО РУССКОМУ",
+        "text": "ЛИСТОК С РЕШЕНИЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЮ НА СЛУХ",
+        "text": "ОТ РЕПЕТИТОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.1,
-    "end": 6.9,
+    "start": 4.95,
+    "end": 6.0,
     "lines": [
       {
-        "text": "ЗВУЧИТ",
+        "text": "Я НИЧЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОРЖЕСТВЕННО",
+        "text": "НЕ ПОНЯЛА",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 7.05,
+    "start": 6.15,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "ПЯТЬ СТРОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
     "end": 9.3,
     "lines": [
       {
-        "text": "ВВОДНОЕ ЭТО",
+        "text": "КАК ОДНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЛИ НЕТ",
+        "text": "ПЕРЕХОДИТ В ДРУГУЮ",
         "accent": true,
         "size": "big"
       }
@@ -65,55 +81,23 @@
   },
   {
     "start": 9.45,
-    "end": 11.4,
+    "end": 10.65,
     "lines": [
       {
-        "text": "НА СЛУХ",
+        "text": "НЕ НАПИСАНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ОПРЕДЕЛИТЬ",
+        "text": "И СПРОСИТЬ НЕЛОВКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.55,
-    "end": 13.1,
-    "lines": [
-      {
-        "text": "ПРОВЕРКУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МОЖНО УБРАТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.25,
-    "end": 15.05,
-    "lines": [
-      {
-        "text": "ПОВТОРЯТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДО АВТОМАТИЗМА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 16.15,
-    "end": 17.7,
+    "start": 11.4,
+    "end": 12.6,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -121,50 +105,66 @@
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "text": "К ЗАДАНИЯМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.85,
-    "end": 19.5,
+    "start": 12.75,
+    "end": 14.1,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 19.65,
-    "end": 22.0,
-    "lines": [
-      {
-        "text": "ГДЕ ТАКИЕ СЛОВА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИДУТ ОДИН ЗА ДРУГИМ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.5,
-    "end": 23.65,
+    "start": 14.25,
+    "end": 16.5,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ГДЕ ПУТЬ ОТ СТРОКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К СТРОКЕ ОБЪЯСНЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.65,
+    "end": 18.0,
+    "lines": [
+      {
+        "text": "СЛОВАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ТЕПЕРЬ ПОНЯТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.15,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +176,8 @@
     ]
   },
   {
-    "start": 23.65,
-    "end": 24.471,
+    "start": 19.2,
+    "end": 20.012,
     "lines": [
       {
         "text": "ССЫЛКА",
