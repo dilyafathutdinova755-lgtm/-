@@ -1,119 +1,103 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.0,
     "lines": [
       {
-        "text": "ДОЧЬ ПРИНЕСЛА",
+        "text": "ТАЙМЕР НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ ПО ЕГЭ",
+        "text": "ДВАДЦАТЬ МИНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.8,
+    "start": 3.15,
+    "end": 5.25,
     "lines": [
       {
-        "text": "ЛИСТОК С РЕШЕНИЕМ",
+        "text": "НА ПЕРВОМ ЗАДАНИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ РЕПЕТИТОРА",
+        "text": "ОН СРАБОТАЛ РАНЬШЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.95,
-    "end": 6.0,
+    "start": 5.4,
+    "end": 7.95,
     "lines": [
       {
-        "text": "Я НИЧЕГО",
+        "text": "ЧЕМ Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОНЯЛА",
+        "text": "ДОЧИТАЛА УСЛОВИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.15,
-    "end": 7.5,
+    "start": 8.55,
+    "end": 10.5,
     "lines": [
       {
-        "text": "ПЯТЬ СТРОК",
+        "text": "ТЕПЕРЬ РЕШАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФОРМУЛ",
+        "text": "СНАЧАЛА ТО ЧТО УМЕЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.65,
-    "end": 9.3,
+    "start": 10.95,
+    "end": 12.9,
     "lines": [
       {
-        "text": "КАК ОДНА",
+        "text": "ОСТАЛЬНОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕХОДИТ В ДРУГУЮ",
+        "text": "НА ВТОРОЙ КРУГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.45,
-    "end": 10.65,
+    "start": 13.5,
+    "end": 14.55,
     "lines": [
       {
-        "text": "НЕ НАПИСАНО",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И СПРОСИТЬ НЕЛОВКО",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.4,
-    "end": 12.6,
-    "lines": [
-      {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "К ЗАДАНИЯМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.75,
-    "end": 14.1,
+    "start": 14.7,
+    "end": 15.9,
     "lines": [
       {
         "text": "ЕСТЬ",
@@ -121,39 +105,23 @@
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.25,
-    "end": 16.5,
-    "lines": [
-      {
-        "text": "ГДЕ ПУТЬ ОТ СТРОКИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "К СТРОКЕ ОБЪЯСНЕН",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.65,
+    "start": 15.9,
     "end": 18.0,
     "lines": [
       {
-        "text": "СЛОВАМИ",
+        "text": "ГДЕ МОЖНО ВЗЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ТЕПЕРЬ ПОНЯТНО",
+        "text": "НЕСКОЛЬКО ЗАДАНИЙ ПОДРЯД",
         "accent": true,
         "size": "big"
       }
@@ -161,7 +129,23 @@
   },
   {
     "start": 18.15,
-    "end": 19.2,
+    "end": 19.8,
+    "lines": [
+      {
+        "text": "И ТРЕНИРОВАТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ТАКОМ ТЕМПЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.25,
+    "end": 21.35,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -176,8 +160,8 @@
     ]
   },
   {
-    "start": 19.2,
-    "end": 20.012,
+    "start": 21.35,
+    "end": 22.38,
     "lines": [
       {
         "text": "ССЫЛКА",
