@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ЧИСЛИТЕЛЬНЫЕ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОСВЕННЫХ ПАДЕЖАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 5.4,
+    "lines": [
+      {
+        "text": "СКЛОНЯЮ ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК СЛЫШАЛА В МАГАЗИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК В УЧЕБНИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "УСТНАЯ РЕЧЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЯНЕТ В ОДНУ СТОРОНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.45,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "ПРАВИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДРУГУЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.8,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "ПОКА ФОРМА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СТАЛА ПРИВЫЧНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.75,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СБИВАЮСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.85,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "ГДЕ ТАКИЕ ФОРМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 20.8,
+    "lines": [
+      {
+        "text": "КОРОТКИМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕРИЯМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.95,
+    "end": 22.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.0,
+    "end": 22.92,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

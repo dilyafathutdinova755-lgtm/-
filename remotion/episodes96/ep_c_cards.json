@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ФУНКЦИИ СЕМЬИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ЕГЭ ЗНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 5.4,
+    "lines": [
+      {
+        "text": "НО НАЗЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО ДВЕ ИЗ ПЯТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 7.2,
+    "lines": [
+      {
+        "text": "ОСТАЛЬНЫЕ ТРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЮТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "ПО ДОРОГЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕЧИСЛЕНИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "НУЖНО ЗАКРЕПИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЕНИЕМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.65,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.9,
+    "end": 16.4,
+    "lines": [
+      {
+        "text": "ГДЕ ФУНКЦИИ СЕМЬИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ СПИСКОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.55,
+    "end": 17.5,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.5,
+    "end": 18.327,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

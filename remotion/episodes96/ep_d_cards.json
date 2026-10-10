@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "ТЕЛЕФОН РАЗРЯДИЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТРЕТЬЕМ ЗАДАНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "ВАРИАНТ ОСТАЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕДОРЕШЕННЫМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.0,
+    "lines": [
+      {
+        "text": "ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЧЕРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "ВЕРНУТЬСЯ ЧЕРЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕСКОЛЬКО ЧАСОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.65,
+    "end": 9.15,
+    "lines": [
+      {
+        "text": "ТЯЖЕЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я ЗАБЫВАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.15,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "НА ЧЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАНОВИЛАСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.65,
+    "end": 12.0,
+    "lines": [
+      {
+        "text": "И ЧТО УЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБОВАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.05,
+    "end": 14.2,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.2,
+    "end": 15.75,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО РЕШАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЛЮБОМ УСТРОЙСТВЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.1,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "И БРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛЕДУЮЩЕЕ ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.8,
+    "end": 18.7,
+    "lines": [
+      {
+        "text": "БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОИСКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.8,
+    "end": 19.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.9,
+    "end": 20.695,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "ЗАНИМАТЬСЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОЧУ В ТИШИНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 5.4,
+    "lines": [
+      {
+        "text": "А ДОМА ТИХО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗ В НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "ЖДАТЬ ТИШИНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕСПОЛЕЗНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "УЧУСЬ РЕШАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИ ЛЮБОМ ФОНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 11.85,
+    "lines": [
+      {
+        "text": "НАЧИНАЯ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИХ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 16.05,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 18.5,
+    "lines": [
+      {
+        "text": "И ИХ МОЖНО РЕШАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАЖЕ В ШУМНОЙ ОБСТАНОВКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.1,
+    "end": 20.15,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.15,
+    "end": 21.058,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

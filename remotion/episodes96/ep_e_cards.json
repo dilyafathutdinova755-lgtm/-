@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "КЛАССНЫЙ ЧАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УСТРОИЛ МАРАФОН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "НА ВТОРОЙ ДЕНЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТСТАЛ ОТ ОСТАЛЬНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.65,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "ОТСТАВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕПРИЯТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.05,
+    "lines": [
+      {
+        "text": "ПОЭТОМУ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕСТАЛ СМОТРЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.05,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "НА ЧУЖОЙ СЧЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И СЧИТАЮ СВОИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 11.1,
+    "lines": [
+      {
+        "text": "В ЕГ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.85,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО ВЫБРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНОЕ ЧИСЛО ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 15.7,
+    "lines": [
+      {
+        "text": "И ЗАКРЫТЬ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ ОГЛЯДКИ НА ДРУГИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.8,
+    "end": 16.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 17.73,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

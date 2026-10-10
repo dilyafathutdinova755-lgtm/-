@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИЛИ ТРИ РАЗА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.35,
+    "lines": [
+      {
+        "text": "И В ТРЕТИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я КИВНУЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.35,
+    "end": 5.2,
+    "lines": [
+      {
+        "text": "ХОТЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПОНЯЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.2,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "КИВАТЬ ПРОЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ ПРИЗНАТЬСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 7.95,
+    "lines": [
+      {
+        "text": "И ВОПРОС",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЛСЯ ВИСЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "САМОГО ТЕСТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 9.85,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.85,
+    "end": 10.65,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.65,
+    "end": 12.45,
+    "lines": [
+      {
+        "text": "КОТОРЫЙ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕЧИТЫВАТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.45,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "СТОЛЬКО РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКОЛЬКО НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 14.65,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТЕСНЯЯСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.65,
+    "end": 15.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.7,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

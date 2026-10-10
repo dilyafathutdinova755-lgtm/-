@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ПОДРУГА ПОЛУЧИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВА БАЛЛА ИЗ ТРЕХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "И НЕ ПОНЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ЧТО СНЯЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "ТРЕТИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КРИТЕРИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 7.95,
+    "lines": [
+      {
+        "text": "КРИТЕРИИ ОЦЕНИВАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ШКОЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "ПОКАЗЫВАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕДКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "И МЫ ГАДАЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ИМЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ПРОВЕРЯЮЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОТЕЛ УВИДЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.35,
+    "end": 14.25,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.15,
+    "end": 16.65,
+    "lines": [
+      {
+        "text": "ГДЕ ОБЪЯСНЕНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО НУЖНО ЗАПИСАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ЧТОБЫ ЗАСЧИТАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛНЫЙ БАЛЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.3,
+    "end": 21.36,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
