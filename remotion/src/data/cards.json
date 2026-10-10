@@ -1,15 +1,15 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.0,
     "lines": [
       {
-        "text": "ЧИСЛИТЕЛЬНЫЕ В",
+        "text": "ФУНКЦИИ СЕМЬИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КОСВЕННЫХ ПАДЕЖАХ",
+        "text": "ДЛЯ ЕГЭ ЗНАЮ",
         "accent": true,
         "size": "big"
       }
@@ -20,12 +20,12 @@
     "end": 5.4,
     "lines": [
       {
-        "text": "СКЛОНЯЮ ТАК",
+        "text": "НО НАЗЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК СЛЫШАЛА В МАГАЗИНЕ",
+        "text": "ТОЛЬКО ДВЕ ИЗ ПЯТИ",
         "accent": true,
         "size": "big"
       }
@@ -33,87 +33,55 @@
   },
   {
     "start": 6.0,
-    "end": 6.9,
+    "end": 7.2,
     "lines": [
       {
-        "text": "А НЕ",
+        "text": "ОСТАЛЬНЫЕ ТРИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК В УЧЕБНИКЕ",
+        "text": "ТЕРЯЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.65,
-    "end": 9.3,
+    "start": 7.35,
+    "end": 8.7,
     "lines": [
       {
-        "text": "УСТНАЯ РЕЧЬ",
+        "text": "ПО ДОРОГЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЯНЕТ В ОДНУ СТОРОНУ",
+        "text": "ПЕРЕЧИСЛЕНИЯ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 9.45,
-    "end": 10.5,
+    "start": 8.7,
+    "end": 9.9,
     "lines": [
       {
-        "text": "ПРАВИЛА",
+        "text": "НУЖНО ЗАКРЕПИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ДРУГУЮ",
+        "text": "ПОВТОРЕНИЕМ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.8,
-    "end": 12.6,
-    "lines": [
-      {
-        "text": "ПОКА ФОРМА",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "НЕ СТАЛА ПРИВЫЧНОЙ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 12.75,
-    "end": 13.8,
-    "lines": [
-      {
-        "text": "Я",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СБИВАЮСЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.25,
-    "end": 15.9,
+    "start": 10.65,
+    "end": 11.7,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -121,15 +89,15 @@
         "size": "small"
       },
       {
-        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 16.2,
-    "end": 17.7,
+    "start": 12.3,
+    "end": 13.5,
     "lines": [
       {
         "text": "ЕСТЬ ИГРЫ",
@@ -144,40 +112,24 @@
     ]
   },
   {
-    "start": 17.85,
-    "end": 19.5,
+    "start": 13.9,
+    "end": 16.4,
     "lines": [
       {
-        "text": "ГДЕ ТАКИЕ ФОРМЫ",
+        "text": "ГДЕ ФУНКЦИИ СЕМЬИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТСЯ",
+        "text": "ПОВТОРЯЮТСЯ СПИСКОМ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 19.5,
-    "end": 20.8,
-    "lines": [
-      {
-        "text": "КОРОТКИМИ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СЕРИЯМИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.95,
-    "end": 22.0,
+    "start": 16.55,
+    "end": 17.5,
     "lines": [
       {
         "text": "ССЫЛКА НА",
@@ -192,8 +144,8 @@
     ]
   },
   {
-    "start": 22.0,
-    "end": 22.92,
+    "start": 17.5,
+    "end": 18.327,
     "lines": [
       {
         "text": "ССЫЛКА",
