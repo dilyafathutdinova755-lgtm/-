@@ -1,31 +1,31 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.0,
     "lines": [
       {
-        "text": "КЛАССНЫЙ ЧАТ",
+        "text": "ПОДРУГА РЕШИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УСТРОИЛ МАРАФОН",
+        "text": "ЗАДАНИЕ ИНАЧЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.3,
+    "start": 3.0,
     "end": 4.65,
     "lines": [
       {
-        "text": "НА ВТОРОЙ ДЕНЬ",
+        "text": "ЧЕМ Я И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТСТАЛ ОТ ОСТАЛЬНЫХ",
+        "text": "МЫ ЧАС СПОРИЛИ",
         "accent": true,
         "size": "big"
       }
@@ -33,122 +33,138 @@
   },
   {
     "start": 4.65,
-    "end": 5.7,
+    "end": 6.3,
     "lines": [
       {
-        "text": "ОТСТАВАТЬ",
+        "text": "ЧЕЙ СПОСОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕПРИЯТНО",
+        "text": "ДОПУСТИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 7.05,
+    "start": 6.3,
+    "end": 8.1,
     "lines": [
       {
-        "text": "ПОЭТОМУ Я",
+        "text": "СПОР ЗАКОНЧИЛСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕСТАЛ СМОТРЕТЬ",
+        "text": "НИЧЕМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.05,
-    "end": 8.4,
+    "start": 8.1,
+    "end": 9.3,
     "lines": [
       {
-        "text": "НА ЧУЖОЙ СЧЕТ",
+        "text": "ПОТОМУ ЧТО У НАС",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И СЧИТАЮ СВОИ",
+        "text": "НЕТ ИСТОЧНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.4,
-    "end": 9.9,
+    "start": 9.3,
+    "end": 10.8,
     "lines": [
       {
-        "text": "ЗАДАНИЯ",
+        "text": "КОТОРЫЙ СКАЖЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ДЕНЬ",
+        "text": "КАКОЙ ХОД ПРИНЯТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 11.1,
+    "start": 12.15,
+    "end": 13.2,
     "lines": [
       {
-        "text": "В ЕГ ТРЕНАЖЕРЕ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.85,
-    "end": 13.65,
+    "start": 13.2,
+    "end": 14.4,
     "lines": [
       {
-        "text": "ГДЕ МОЖНО ВЫБРАТЬ",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНОЕ ЧИСЛО ЗАДАНИЙ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.8,
-    "end": 15.7,
+    "start": 14.85,
+    "end": 16.45,
     "lines": [
       {
-        "text": "И ЗАКРЫТЬ ЕГО",
+        "text": "ГДЕ СПОСОБ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ ОГЛЯДКИ НА ДРУГИХ",
+        "text": "РЕШЕНИЯ ОБЪЯСНЕН",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.8,
-    "end": 16.8,
+    "start": 16.65,
+    "end": 18.5,
     "lines": [
       {
-        "text": "ССЫЛКА НА",
+        "text": "ТАК КАК ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЖИДАЮТ НА ЭКЗАМЕНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.8,
+    "end": 19.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +176,8 @@
     ]
   },
   {
-    "start": 16.8,
-    "end": 17.73,
+    "start": 19.9,
+    "end": 20.823,
     "lines": [
       {
         "text": "ССЫЛКА",
