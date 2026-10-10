@@ -1,122 +1,106 @@
 [
   {
     "start": 1.86,
-    "end": 3.0,
+    "end": 3.15,
     "lines": [
       {
-        "text": "НА ПРОБНИКЕ",
+        "text": "РОЛИ И СТАТУСЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОТЕРЯЛ БАЛЛ",
+        "text": "ДЛЯ ЕГЭ ПУТАЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.0,
-    "end": 3.9,
+    "start": 3.3,
+    "end": 4.95,
     "lines": [
       {
-        "text": "ЗА МЕЛОЧЬ",
+        "text": "УЧИТЕЛЬ ЭТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ЗАПИСАЛ",
+        "text": "СТАТУС ИЛИ РОЛЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.9,
-    "end": 5.4,
+    "start": 4.95,
+    "end": 6.0,
     "lines": [
       {
-        "text": "ОТКУДА ВЗЯЛОСЬ",
+        "text": "ЗАВИСИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧИСЛО",
+        "text": "ОТ НАСТРОЕНИЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.4,
-    "end": 6.3,
+    "start": 6.15,
+    "end": 7.35,
     "lines": [
       {
-        "text": "МЕЛОЧИ НЕЛЬЗЯ",
+        "text": "ПОНЯТИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УГАДАТЬ",
+        "text": "ПОХОЖЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.3,
-    "end": 7.5,
+    "start": 7.35,
+    "end": 9.0,
     "lines": [
       {
-        "text": "ЗАРАНЕЕ",
+        "text": "РАЗЛИЧАТЬ ИХ МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И КАЖДЫЙ РАЗ",
+        "text": "ТОЛЬКО НА ПРИМЕРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.5,
-    "end": 8.4,
+    "start": 9.15,
+    "end": 10.8,
     "lines": [
       {
-        "text": "УЗНАЕШЬ О НИХ",
+        "text": "КОТОРЫЕ ПРИХОДИТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСЛЕДНИМ",
+        "text": "ПРОКРУЧИВАТЬ МНОГО РАЗ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.4,
-    "end": 9.3,
-    "lines": [
-      {
-        "text": "КОГДА ИСПРАВИТЬ",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "УЖЕ НЕЛЬЗЯ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 10.2,
+    "start": 11.1,
+    "end": 12.0,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -128,59 +112,59 @@
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.0,
+    "start": 12.0,
+    "end": 12.9,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ РАЗБОР",
+        "text": "ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 11.6,
-    "end": 13.0,
+    "start": 12.9,
+    "end": 14.25,
     "lines": [
       {
-        "text": "ГДЕ ПОКАЗАНО",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ИМЕННО",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 13.0,
-    "end": 14.15,
+    "start": 14.25,
+    "end": 16.35,
     "lines": [
       {
-        "text": "ЗАПИСЫВАЮТ",
+        "text": "ГДЕ СТАТУСЫ И РОЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В РЕШЕНИИ",
+        "text": "СООТНОСЯТСЯ С ПРИМЕРАМИ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 14.2,
-    "end": 15.3,
+    "start": 16.5,
+    "end": 17.6,
     "lines": [
       {
-        "text": "ССЫЛКА НА ИГ",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -192,8 +176,8 @@
     ]
   },
   {
-    "start": 15.3,
-    "end": 16.108,
+    "start": 17.6,
+    "end": 18.4,
     "lines": [
       {
         "text": "ССЫЛКА",
