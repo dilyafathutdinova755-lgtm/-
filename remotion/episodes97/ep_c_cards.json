@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "ДОЧЬ НАЗЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЯ ДЛЯ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.15,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОРЯДКЕ УЧЕБНИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.65,
+    "end": 5.55,
+    "lines": [
+      {
+        "text": "А В ТЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНИ ВПЕРЕМЕЖКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.9,
+    "end": 7.2,
+    "lines": [
+      {
+        "text": "ПОРЯДОК УЧЕБНИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕРЖИТ ЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.4,
+    "end": 8.8,
+    "lines": [
+      {
+        "text": "ПОКА ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМОТРИТ В СТРАНИЦУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.2,
+    "end": 10.9,
+    "lines": [
+      {
+        "text": "А ВПЕРЕМЕЖКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЯ РАЗВАЛИВАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 12.55,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.55,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.35,
+    "end": 14.35,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.75,
+    "end": 16.45,
+    "lines": [
+      {
+        "text": "ГДЕ СОБЫТИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИХОДЯТ ВПЕРЕМЕЖКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 18.1,
+    "lines": [
+      {
+        "text": "И ИХ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАССТАВЛЯТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.15,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.098,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

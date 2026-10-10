@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ДОЧЬ ПОПРОСИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСИДЕТЬ РЯДОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "ПОКА ОНА РЕШАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.65,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "И Я ПОНЯЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО МНЕ НЕЧЕМ ПОМОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.0,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "ПОМОЩЬ ЕЙ НУЖНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ В ОТВЕТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "А В ТОМ ЧТОБЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО ТО ОБЪЯСНИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "ЧТО СТОИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ФОРМУЛАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 12.5,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.4,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ШАГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 16.1,
+    "lines": [
+      {
+        "text": "ОПИСАНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОВАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.1,
+    "end": 17.2,
+    "lines": [
+      {
+        "text": "ПОНЯТНЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И МНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.3,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.202,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

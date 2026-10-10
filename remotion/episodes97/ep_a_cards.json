@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.15,
+    "lines": [
+      {
+        "text": "РОЛИ И СТАТУСЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛЯ ЕГЭ ПУТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "УЧИТЕЛЬ ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАТУС ИЛИ РОЛЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.0,
+    "lines": [
+      {
+        "text": "ЗАВИСИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТ НАСТРОЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.15,
+    "end": 7.35,
+    "lines": [
+      {
+        "text": "ПОНЯТИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОХОЖЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.35,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "РАЗЛИЧАТЬ ИХ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО НА ПРИМЕРАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.15,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "КОТОРЫЕ ПРИХОДИТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОКРУЧИВАТЬ МНОГО РАЗ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.1,
+    "end": 12.0,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.0,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 14.25,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 16.35,
+    "lines": [
+      {
+        "text": "ГДЕ СТАТУСЫ И РОЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СООТНОСЯТСЯ С ПРИМЕРАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 17.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.6,
+    "end": 18.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

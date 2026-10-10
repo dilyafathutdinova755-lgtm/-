@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "У МЕНЯ ТРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧЕБНИКА ПО ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.35,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ ОБЪЯСНЯЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМУ ПО СВОЕМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.35,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "ПОЭТОМУ Я НЕ ЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С КАКОГО НАЧИНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "ТРИ ОБЪЯСНЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "ПРЕВРАЩАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ПУТАНИЦУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.75,
+    "lines": [
+      {
+        "text": "МНЕ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНО РАБОЧЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "И МНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.0,
+    "end": 11.95,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.95,
+    "end": 12.95,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.95,
+    "end": 14.45,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО СРАЗУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕХОДИТЬ К ПРАКТИКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.5,
+    "end": 16.0,
+    "lines": [
+      {
+        "text": "НЕ ВЫБИРАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕЖДУ УЧЕБНИКАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 17.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.0,
+    "end": 17.964,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
