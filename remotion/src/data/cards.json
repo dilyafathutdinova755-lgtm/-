@@ -1,15 +1,15 @@
 [
   {
     "start": 1.86,
-    "end": 3.15,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ТЕЛЕФОН РАЗРЯДИЛСЯ",
+        "text": "КЛАССНЫЙ ЧАТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ТРЕТЬЕМ ЗАДАНИИ",
+        "text": "УСТРОИЛ МАРАФОН",
         "accent": true,
         "size": "big"
       }
@@ -17,183 +17,135 @@
   },
   {
     "start": 3.3,
-    "end": 4.8,
+    "end": 4.65,
     "lines": [
       {
-        "text": "ВАРИАНТ ОСТАЛСЯ",
+        "text": "НА ВТОРОЙ ДЕНЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕДОРЕШЕННЫМ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.95,
-    "end": 6.0,
-    "lines": [
-      {
-        "text": "ДО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЕЧЕРА",
+        "text": "ОТСТАЛ ОТ ОСТАЛЬНЫХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.15,
-    "end": 7.65,
+    "start": 4.65,
+    "end": 5.7,
     "lines": [
       {
-        "text": "ВЕРНУТЬСЯ ЧЕРЕЗ",
+        "text": "ОТСТАВАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕСКОЛЬКО ЧАСОВ",
+        "text": "НЕПРИЯТНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.65,
-    "end": 9.15,
+    "start": 5.7,
+    "end": 7.05,
     "lines": [
       {
-        "text": "ТЯЖЕЛО",
+        "text": "ПОЭТОМУ Я",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "Я ЗАБЫВАЮ",
+        "text": "ПЕРЕСТАЛ СМОТРЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.15,
-    "end": 10.65,
+    "start": 7.05,
+    "end": 8.4,
     "lines": [
       {
-        "text": "НА ЧЕМ",
+        "text": "НА ЧУЖОЙ СЧЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАНОВИЛАСЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 10.65,
-    "end": 12.0,
-    "lines": [
-      {
-        "text": "И ЧТО УЖЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОБОВАЛА",
+        "text": "И СЧИТАЮ СВОИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.15,
-    "end": 13.05,
+    "start": 8.4,
+    "end": 9.9,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "ЗА ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.05,
-    "end": 14.2,
+    "start": 10.05,
+    "end": 11.1,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "В ЕГ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.2,
-    "end": 15.75,
+    "start": 11.85,
+    "end": 13.65,
     "lines": [
       {
-        "text": "ГДЕ МОЖНО РЕШАТЬ",
+        "text": "ГДЕ МОЖНО ВЫБРАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЛЮБОМ УСТРОЙСТВЕ",
+        "text": "НУЖНОЕ ЧИСЛО ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.1,
-    "end": 17.8,
+    "start": 13.8,
+    "end": 15.7,
     "lines": [
       {
-        "text": "И БРАТЬ",
+        "text": "И ЗАКРЫТЬ ЕГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛЕДУЮЩЕЕ ЗАДАНИЕ",
+        "text": "БЕЗ ОГЛЯДКИ НА ДРУГИХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.8,
-    "end": 18.7,
-    "lines": [
-      {
-        "text": "БЕЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОИСКА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.8,
-    "end": 19.9,
+    "start": 15.8,
+    "end": 16.8,
     "lines": [
       {
         "text": "ССЫЛКА НА",
@@ -208,8 +160,8 @@
     ]
   },
   {
-    "start": 19.9,
-    "end": 20.695,
+    "start": 16.8,
+    "end": 17.73,
     "lines": [
       {
         "text": "ССЫЛКА",
