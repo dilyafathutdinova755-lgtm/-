@@ -1,119 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.0,
     "lines": [
       {
-        "text": "ПОДРУГА ПОЛУЧИЛА",
+        "text": "НА ПРОБНИКЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВА БАЛЛА ИЗ ТРЕХ",
+        "text": "ПОТЕРЯЛ БАЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 5.1,
+    "start": 3.0,
+    "end": 3.9,
     "lines": [
       {
-        "text": "И НЕ ПОНЯЛА",
+        "text": "ЗА МЕЛОЧЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА ЧТО СНЯЛИ",
+        "text": "НЕ ЗАПИСАЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.1,
-    "end": 6.9,
+    "start": 3.9,
+    "end": 5.4,
     "lines": [
       {
-        "text": "ТРЕТИЙ",
+        "text": "ОТКУДА ВЗЯЛОСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КРИТЕРИЙ",
+        "text": "ЧИСЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 7.95,
+    "start": 5.4,
+    "end": 6.3,
     "lines": [
       {
-        "text": "КРИТЕРИИ ОЦЕНИВАНИЯ",
+        "text": "МЕЛОЧИ НЕЛЬЗЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ШКОЛЕ",
+        "text": "УГАДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.95,
-    "end": 9.0,
+    "start": 6.3,
+    "end": 7.5,
     "lines": [
       {
-        "text": "ПОКАЗЫВАЮТ",
+        "text": "ЗАРАНЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕДКО",
+        "text": "И КАЖДЫЙ РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 10.35,
+    "start": 7.5,
+    "end": 8.4,
     "lines": [
       {
-        "text": "И МЫ ГАДАЕМ",
+        "text": "УЗНАЕШЬ О НИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ИМЕННО",
+        "text": "ПОСЛЕДНИМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.35,
-    "end": 12.15,
+    "start": 8.4,
+    "end": 9.3,
     "lines": [
       {
-        "text": "ПРОВЕРЯЮЩИЙ",
+        "text": "КОГДА ИСПРАВИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОТЕЛ УВИДЕТЬ",
+        "text": "УЖЕ НЕЛЬЗЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.3,
-    "end": 13.35,
+    "start": 9.3,
+    "end": 10.2,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -128,8 +128,8 @@
     ]
   },
   {
-    "start": 13.35,
-    "end": 14.25,
+    "start": 10.2,
+    "end": 11.0,
     "lines": [
       {
         "text": "К ЗАДАНИЯМ",
@@ -144,43 +144,43 @@
     ]
   },
   {
-    "start": 15.15,
-    "end": 16.65,
+    "start": 11.6,
+    "end": 13.0,
     "lines": [
       {
-        "text": "ГДЕ ОБЪЯСНЕНО",
+        "text": "ГДЕ ПОКАЗАНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО НУЖНО ЗАПИСАТЬ",
+        "text": "ЧТО ИМЕННО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.1,
-    "end": 19.0,
+    "start": 13.0,
+    "end": 14.15,
     "lines": [
       {
-        "text": "ЧТОБЫ ЗАСЧИТАЛИ",
+        "text": "ЗАПИСЫВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛНЫЙ БАЛЛ",
+        "text": "В РЕШЕНИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.2,
-    "end": 20.3,
+    "start": 14.2,
+    "end": 15.3,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -192,8 +192,8 @@
     ]
   },
   {
-    "start": 20.3,
-    "end": 21.36,
+    "start": 15.3,
+    "end": 16.108,
     "lines": [
       {
         "text": "ССЫЛКА",
