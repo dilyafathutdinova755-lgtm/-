@@ -1,79 +1,63 @@
 [
   {
     "start": 1.86,
-    "end": 3.0,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ЗАДАНИЕ ЕГЭ",
+        "text": "ПОДРУГА ПОЛУЧИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИЛИ ТРИ РАЗА",
+        "text": "ДВА БАЛЛА ИЗ ТРЕХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.0,
-    "end": 4.35,
+    "start": 3.45,
+    "end": 5.1,
     "lines": [
       {
-        "text": "И В ТРЕТИЙ",
+        "text": "И НЕ ПОНЯЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "Я КИВНУЛ",
+        "text": "ЗА ЧТО СНЯЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 5.2,
+    "start": 5.1,
+    "end": 6.9,
     "lines": [
       {
-        "text": "ХОТЯ",
+        "text": "ТРЕТИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОНЯЛ",
+        "text": "КРИТЕРИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.2,
-    "end": 6.3,
-    "lines": [
-      {
-        "text": "КИВАТЬ ПРОЩЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЧЕМ ПРИЗНАТЬСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.45,
+    "start": 6.9,
     "end": 7.95,
     "lines": [
       {
-        "text": "И ВОПРОС",
+        "text": "КРИТЕРИИ ОЦЕНИВАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАЛСЯ ВИСЕТЬ",
+        "text": "В ШКОЛЕ",
         "accent": true,
         "size": "big"
       }
@@ -84,12 +68,12 @@
     "end": 9.0,
     "lines": [
       {
-        "text": "ДО",
+        "text": "ПОКАЗЫВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОГО ТЕСТА",
+        "text": "РЕДКО",
         "accent": true,
         "size": "big"
       }
@@ -97,10 +81,42 @@
   },
   {
     "start": 9.0,
-    "end": 9.85,
+    "end": 10.35,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "И МЫ ГАДАЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ИМЕННО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ПРОВЕРЯЮЩИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОТЕЛ УВИДЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.3,
+    "end": 13.35,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -112,8 +128,8 @@
     ]
   },
   {
-    "start": 9.85,
-    "end": 10.65,
+    "start": 13.35,
+    "end": 14.25,
     "lines": [
       {
         "text": "К ЗАДАНИЯМ",
@@ -128,56 +144,40 @@
     ]
   },
   {
-    "start": 10.65,
-    "end": 12.45,
+    "start": 15.15,
+    "end": 16.65,
     "lines": [
       {
-        "text": "КОТОРЫЙ МОЖНО",
+        "text": "ГДЕ ОБЪЯСНЕНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕЧИТЫВАТЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 12.45,
-    "end": 13.8,
-    "lines": [
-      {
-        "text": "СТОЛЬКО РАЗ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СКОЛЬКО НУЖНО",
+        "text": "ЧТО НУЖНО ЗАПИСАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.8,
-    "end": 14.65,
+    "start": 17.1,
+    "end": 19.0,
     "lines": [
       {
-        "text": "НЕ",
+        "text": "ЧТОБЫ ЗАСЧИТАЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТЕСНЯЯСЬ",
+        "text": "ПОЛНЫЙ БАЛЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.65,
-    "end": 15.7,
+    "start": 19.2,
+    "end": 20.3,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -192,8 +192,8 @@
     ]
   },
   {
-    "start": 15.7,
-    "end": 16.62,
+    "start": 20.3,
+    "end": 21.36,
     "lines": [
       {
         "text": "ССЫЛКА",
