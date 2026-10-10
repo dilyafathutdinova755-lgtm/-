@@ -4,12 +4,12 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "У МЕНЯ ТРИ",
+        "text": "ДОЧЬ ПОПРОСИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧЕБНИКА ПО ЕГЭ",
+        "text": "ПОСИДЕТЬ РЯДОМ",
         "accent": true,
         "size": "big"
       }
@@ -17,106 +17,90 @@
   },
   {
     "start": 3.3,
-    "end": 4.35,
+    "end": 4.65,
     "lines": [
       {
-        "text": "КАЖДЫЙ ОБЪЯСНЯЕТ",
+        "text": "ПОКА ОНА РЕШАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕМУ ПО СВОЕМУ",
+        "text": "ЗАДАНИЕ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.35,
-    "end": 5.7,
+    "start": 4.65,
+    "end": 6.3,
     "lines": [
       {
-        "text": "ПОЭТОМУ Я НЕ ЗНАЮ",
+        "text": "И Я ПОНЯЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С КАКОГО НАЧИНАТЬ",
+        "text": "ЧТО МНЕ НЕЧЕМ ПОМОЧЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.7,
-    "end": 7.5,
+    "start": 7.0,
+    "end": 8.4,
     "lines": [
       {
-        "text": "ТРИ ОБЪЯСНЕНИЯ",
+        "text": "ПОМОЩЬ ЕЙ НУЖНА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДРЯД",
+        "text": "НЕ В ОТВЕТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.5,
-    "end": 8.7,
+    "start": 8.4,
+    "end": 9.9,
     "lines": [
       {
-        "text": "ПРЕВРАЩАЮТСЯ",
+        "text": "А В ТОМ ЧТОБЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПУТАНИЦУ",
+        "text": "КТО ТО ОБЪЯСНИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.7,
-    "end": 9.75,
+    "start": 9.9,
+    "end": 11.4,
     "lines": [
       {
-        "text": "МНЕ НУЖНО",
+        "text": "ЧТО СТОИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДНО РАБОЧЕЕ",
+        "text": "ЗА ФОРМУЛАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.75,
-    "end": 10.8,
+    "start": 11.6,
+    "end": 12.5,
     "lines": [
       {
-        "text": "И МНОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.0,
-    "end": 11.95,
-    "lines": [
-      {
-        "text": "В ЕГ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -128,59 +112,75 @@
     ]
   },
   {
-    "start": 11.95,
-    "end": 12.95,
+    "start": 12.5,
+    "end": 13.35,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.95,
-    "end": 14.45,
+    "start": 13.4,
+    "end": 14.7,
     "lines": [
       {
-        "text": "ГДЕ МОЖНО СРАЗУ",
+        "text": "ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕХОДИТЬ К ПРАКТИКЕ",
+        "text": "ГДЕ ШАГИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.5,
-    "end": 16.0,
+    "start": 14.7,
+    "end": 16.1,
     "lines": [
       {
-        "text": "НЕ ВЫБИРАЯ",
+        "text": "ОПИСАНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕЖДУ УЧЕБНИКАМИ",
+        "text": "СЛОВАМИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 16.05,
-    "end": 17.0,
+    "start": 16.1,
+    "end": 17.2,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ПОНЯТНЫМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И МНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.3,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -192,8 +192,8 @@
     ]
   },
   {
-    "start": 17.0,
-    "end": 17.964,
+    "start": 18.3,
+    "end": 19.202,
     "lines": [
       {
         "text": "ССЫЛКА",
