@@ -1,103 +1,119 @@
 [
   {
     "start": 1.86,
-    "end": 3.15,
+    "end": 3.3,
     "lines": [
       {
-        "text": "РОЛИ И СТАТУСЫ",
+        "text": "СОЮЗНИКОВ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЛЯ ЕГЭ ПУТАЮ",
+        "text": "ПРОТИВНИКОВ РОССИИ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
     "start": 3.3,
-    "end": 4.95,
+    "end": 4.5,
     "lines": [
       {
-        "text": "УЧИТЕЛЬ ЭТО",
+        "text": "В ВОЙНАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТАТУС ИЛИ РОЛЬ",
+        "text": "ДЛЯ ЕГЭ ПО ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.95,
+    "start": 4.5,
     "end": 6.0,
     "lines": [
       {
-        "text": "ЗАВИСИТ",
+        "text": "Я ПОМНЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТ НАСТРОЕНИЯ",
+        "text": "КРАСИВЫЕ КАРТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.15,
-    "end": 7.35,
+    "start": 6.0,
+    "end": 7.0,
     "lines": [
       {
-        "text": "ПОНЯТИЕ",
+        "text": "А КТО С КЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОХОЖЕЕ",
+        "text": "ВОЕВАЛ ПУТАЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.35,
-    "end": 9.0,
+    "start": 7.05,
+    "end": 8.7,
     "lines": [
       {
-        "text": "РАЗЛИЧАТЬ ИХ МОЖНО",
+        "text": "НА КАРТЕ ВСЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТОЛЬКО НА ПРИМЕРАХ",
+        "text": "СТОИТ НА МЕСТАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.15,
-    "end": 10.8,
+    "start": 8.85,
+    "end": 10.5,
     "lines": [
       {
-        "text": "КОТОРЫЕ ПРИХОДИТСЯ",
+        "text": "А В ТЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОКРУЧИВАТЬ МНОГО РАЗ",
+        "text": "НАДО НАЗВАТЬ УЧАСТНИКОВ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 11.1,
-    "end": 12.0,
+    "start": 10.6,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "БЕЗ ПОВТОРЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНИ МЕНЯЮТСЯ МЕСТАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.1,
+    "end": 14.15,
     "lines": [
       {
         "text": "В ЕГ",
@@ -112,59 +128,75 @@
     ]
   },
   {
-    "start": 12.0,
-    "end": 12.9,
+    "start": 14.15,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ПО",
+        "text": "ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "ОБЩЕСТВОЗНАНИЮ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 12.9,
-    "end": 14.25,
-    "lines": [
       {
         "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 15.85,
+    "lines": [
+      {
+        "text": "НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 14.25,
-    "end": 16.35,
+    "start": 15.85,
+    "end": 17.45,
     "lines": [
       {
-        "text": "ГДЕ СТАТУСЫ И РОЛИ",
+        "text": "ГДЕ ВОЙНЫ И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СООТНОСЯТСЯ С ПРИМЕРАМИ",
+        "text": "ИХ УЧАСТНИКОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.45,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОПОСТАВЛЯТЬ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 16.5,
-    "end": 17.6,
+    "start": 18.35,
+    "end": 19.3,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ИГО",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +208,8 @@
     ]
   },
   {
-    "start": 17.6,
-    "end": 18.4,
+    "start": 19.3,
+    "end": 20.162,
     "lines": [
       {
         "text": "ССЫЛКА",
