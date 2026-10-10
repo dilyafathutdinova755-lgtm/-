@@ -1,95 +1,79 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.15,
     "lines": [
       {
-        "text": "ДОЧЬ ПРОСИТ",
+        "text": "ЗАНИМАТЬСЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯТЬ ПО ИСТОРИИ",
+        "text": "ХОЧУ В ТИШИНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.8,
+    "start": 3.3,
+    "end": 5.4,
     "lines": [
       {
-        "text": "Я ЧИТАЮ",
+        "text": "А ДОМА ТИХО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОПРОСЫ ПО БУМАЖКЕ",
+        "text": "РАЗ В НЕДЕЛЮ",
         "accent": true,
         "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.95,
-    "end": 6.6,
-    "lines": [
-      {
-        "text": "ТЕМП",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОЛУЧАЕТСЯ МЕДЛЕННЫМ",
-        "accent": true,
-        "size": "small"
       }
     ]
   },
   {
     "start": 6.9,
-    "end": 8.85,
+    "end": 8.1,
     "lines": [
       {
-        "text": "ОНА УСПЕВАЕТ",
+        "text": "ЖДАТЬ ТИШИНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАБЫТЬ ВОПРОС",
+        "text": "БЕСПОЛЕЗНО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
+    "start": 8.4,
     "end": 10.2,
     "lines": [
       {
-        "text": "ПОКА Я",
+        "text": "УЧУСЬ РЕШАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕЛИСТЫВАЮ СТРАНИЦУ",
+        "text": "ПРИ ЛЮБОМ ФОНЕ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
     "start": 10.35,
-    "end": 12.15,
+    "end": 11.85,
     "lines": [
       {
-        "text": "ПОВТОРЕНИЕ",
+        "text": "НАЧИНАЯ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЯНЕТСЯ ДОЛЬШЕ",
+        "text": "КОРОТКИХ ЗАДАНИЙ",
         "accent": true,
         "size": "big"
       }
@@ -97,71 +81,71 @@
   },
   {
     "start": 12.6,
-    "end": 14.1,
+    "end": 13.65,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.1,
-    "end": 15.15,
+    "start": 13.65,
+    "end": 14.7,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 15.3,
-    "end": 16.5,
-    "lines": [
-      {
-        "text": "ГДЕ ВОПРОСЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИДУТ БЫСТРО",
+        "text": "БАНК ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.5,
-    "end": 17.8,
+    "start": 14.7,
+    "end": 16.05,
     "lines": [
       {
-        "text": "БЕЗ МОЕГО",
+        "text": "ГДЕ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧАСТИЯ",
+        "text": "КОРОТКИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.0,
-    "end": 19.0,
+    "start": 16.2,
+    "end": 18.5,
+    "lines": [
+      {
+        "text": "И ИХ МОЖНО РЕШАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАЖЕ В ШУМНОЙ ОБСТАНОВКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.1,
+    "end": 20.15,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -176,8 +160,8 @@
     ]
   },
   {
-    "start": 19.0,
-    "end": 19.863,
+    "start": 20.15,
+    "end": 21.058,
     "lines": [
       {
         "text": "ССЫЛКА",
