@@ -1,87 +1,39 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.15,
     "lines": [
       {
-        "text": "СОЮЗНИКОВ И",
+        "text": "ДОЧЬ НАЗЫВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОТИВНИКОВ РОССИИ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.3,
-    "end": 4.5,
-    "lines": [
-      {
-        "text": "В ВОЙНАХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДЛЯ ЕГЭ ПО ИСТОРИИ",
+        "text": "СОБЫТИЯ ДЛЯ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.5,
-    "end": 6.0,
+    "start": 3.15,
+    "end": 4.65,
     "lines": [
       {
-        "text": "Я ПОМНЮ",
+        "text": "ПО ИСТОРИИ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КРАСИВЫЕ КАРТЫ",
+        "text": "ПОРЯДКЕ УЧЕБНИКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 7.0,
-    "lines": [
-      {
-        "text": "А КТО С КЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВОЕВАЛ ПУТАЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.05,
-    "end": 8.7,
-    "lines": [
-      {
-        "text": "НА КАРТЕ ВСЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТОИТ НА МЕСТАХ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.85,
-    "end": 10.5,
+    "start": 4.65,
+    "end": 5.55,
     "lines": [
       {
         "text": "А В ТЕСТЕ",
@@ -89,34 +41,66 @@
         "size": "small"
       },
       {
-        "text": "НАДО НАЗВАТЬ УЧАСТНИКОВ",
+        "text": "ОНИ ВПЕРЕМЕЖКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.6,
-    "end": 12.6,
+    "start": 5.9,
+    "end": 7.2,
     "lines": [
       {
-        "text": "БЕЗ ПОВТОРЕНИЯ",
+        "text": "ПОРЯДОК УЧЕБНИКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОНИ МЕНЯЮТСЯ МЕСТАМИ",
+        "text": "ДЕРЖИТ ЕЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.1,
-    "end": 14.15,
+    "start": 7.4,
+    "end": 8.8,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "ПОКА ОНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СМОТРИТ В СТРАНИЦУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.2,
+    "end": 10.9,
+    "lines": [
+      {
+        "text": "А ВПЕРЕМЕЖКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОБЫТИЯ РАЗВАЛИВАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 12.55,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +112,8 @@
     ]
   },
   {
-    "start": 14.15,
-    "end": 15.0,
+    "start": 12.55,
+    "end": 13.35,
     "lines": [
       {
         "text": "ПО ИСТОРИИ",
@@ -144,8 +128,8 @@
     ]
   },
   {
-    "start": 15.0,
-    "end": 15.85,
+    "start": 13.35,
+    "end": 14.35,
     "lines": [
       {
         "text": "НА",
@@ -160,43 +144,43 @@
     ]
   },
   {
-    "start": 15.85,
-    "end": 17.45,
+    "start": 14.75,
+    "end": 16.45,
     "lines": [
       {
-        "text": "ГДЕ ВОЙНЫ И",
+        "text": "ГДЕ СОБЫТИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИХ УЧАСТНИКОВ",
+        "text": "ПРИХОДЯТ ВПЕРЕМЕЖКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.45,
-    "end": 18.3,
+    "start": 16.6,
+    "end": 18.1,
     "lines": [
       {
-        "text": "НУЖНО",
+        "text": "И ИХ НУЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОПОСТАВЛЯТЬ",
+        "text": "РАССТАВЛЯТЬ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 18.35,
-    "end": 19.3,
+    "start": 18.15,
+    "end": 19.2,
     "lines": [
       {
-        "text": "ССЫЛКА НА ИГО",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -208,8 +192,8 @@
     ]
   },
   {
-    "start": 19.3,
-    "end": 20.162,
+    "start": 19.2,
+    "end": 20.098,
     "lines": [
       {
         "text": "ССЫЛКА",
