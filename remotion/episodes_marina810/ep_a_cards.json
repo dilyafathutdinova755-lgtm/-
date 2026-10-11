@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.30, "lines": [
+    { "text": "ПО БУМАГЕ", "accent": false, "size": "small" },
+    { "text": "СКУЧНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.90, "end": 5.58, "lines": [
+    { "text": "НА ЭКРАНЕ", "accent": false, "size": "small" },
+    { "text": "АЗАРТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.15, "end": 9.57, "lines": [
+    { "text": "ЗА ВЕЧЕР", "accent": false, "size": "small" },
+    { "text": "РЕШАЕТ БОЛЬШЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 11.07, "lines": [
+    { "text": "ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "ТЕ ЖЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.76, "end": 13.77, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.19, "end": 16.08, "lines": [
+    { "text": "РЕШАЮТСЯ", "accent": false, "size": "small" },
+    { "text": "НА ЭКРАНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.77, "end": 18.57, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
