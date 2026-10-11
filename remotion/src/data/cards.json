@@ -1,25 +1,29 @@
 [
-  { "start": 1.80, "end": 5.43, "lines": [
-    { "text": "ЗОВУТ УЖИНАТЬ", "accent": false, "size": "small" },
-    { "text": "НЕ УСПЕВАЮ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 3.42, "lines": [
+    { "text": "РЕСПУБЛИКА", "accent": false, "size": "small" },
+    { "text": "ИЛИ МОНАРХИЯ?", "accent": true, "size": "big" }
   ]},
-  { "start": 6.09, "end": 8.04, "lines": [
-    { "text": "ДЛИННОЕ", "accent": false, "size": "small" },
-    { "text": "НАЧИНАТЬ НЕТ СМЫСЛА", "accent": true, "size": "big" }
+  { "start": 3.93, "end": 7.11, "lines": [
+    { "text": "ОТВЕТИЛА", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО ПРО ПРЕЗИДЕНТА", "accent": true, "size": "big" }
   ]},
-  { "start": 8.28, "end": 10.20, "lines": [
-    { "text": "КОРОТКОЕ", "accent": false, "size": "small" },
-    { "text": "НЕ НАЙТИ", "accent": true, "size": "big" }
+  { "start": 7.62, "end": 9.30, "lines": [
+    { "text": "ИЗ ПЯТИ ПРИЗНАКОВ", "accent": false, "size": "small" },
+    { "text": "НАЗВАЛА ОДИН", "accent": true, "size": "big" }
   ]},
-  { "start": 10.44, "end": 11.40, "lines": [
-    { "text": "ВЕЧЕР", "accent": false, "size": "small" },
-    { "text": "ПРОПАДАЕТ", "accent": true, "size": "big" }
+  { "start": 9.60, "end": 11.04, "lines": [
+    { "text": "НА ТЕСТЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ХВАТИЛО БЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.12, "end": 15.93, "lines": [
-    { "text": "БАНК ФИПИ", "accent": false, "size": "small" },
-    { "text": "КОРОТКОЕ ЗАДАНИЕ", "accent": true, "size": "big" }
+  { "start": 11.70, "end": 14.70, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.41, "end": 17.97, "lines": [
+  { "start": 14.94, "end": 17.34, "lines": [
+    { "text": "ФОРМА ПРАВЛЕНИЯ", "accent": false, "size": "small" },
+    { "text": "С ПРИЗНАКАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.85, "end": 19.47, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
