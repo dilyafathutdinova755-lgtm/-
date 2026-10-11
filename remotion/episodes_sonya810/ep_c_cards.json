@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.68, "lines": [
+    { "text": "ПЕРЕВОРОТЫ", "accent": false, "size": "small" },
+    { "text": "ОДИН ЗА ДРУГИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.95, "end": 6.81, "lines": [
+    { "text": "КАК СЕРИИ", "accent": false, "size": "small" },
+    { "text": "СЕРИАЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.44, "end": 9.81, "lines": [
+    { "text": "ПОМНЮ КТО", "accent": false, "size": "small" },
+    { "text": "НЕ ПОМНЮ КОГДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.26, "end": 11.67, "lines": [
+    { "text": "ТЕСТ СПРАШИВАЕТ", "accent": false, "size": "small" },
+    { "text": "ИМЕННО КОГДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.78, "end": 15.54, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.72, "end": 17.49, "lines": [
+    { "text": "СОБЫТИЯ", "accent": false, "size": "small" },
+    { "text": "ПРИВЯЗАНЫ К ДАТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.94, "end": 19.68, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

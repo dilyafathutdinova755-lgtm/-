@@ -1,0 +1,34 @@
+[
+  { "start": 1.80, "end": 4.62, "lines": [
+    { "text": "РЯДОМ ЧИСТЫЙ", "accent": false, "size": "small" },
+    { "text": "ЛИСТОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.10, "end": 7.14, "lines": [
+    { "text": "К КОНЦУ ВЕЧЕРА", "accent": false, "size": "small" },
+    { "text": "ЛИСТОК ПУСТОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.77, "end": 10.53, "lines": [
+    { "text": "ВСЁ ПОНЯЛА", "accent": false, "size": "small" },
+    { "text": "ИЛИ НЕ ЗАМЕТИЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.01, "end": 12.24, "lines": [
+    { "text": "ПОДОЗРЕВАЮ", "accent": false, "size": "small" },
+    { "text": "ВТОРОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.17, "end": 14.46, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.70, "end": 17.28, "lines": [
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "МОЖНО ПРОВЕРИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.52, "end": 18.78, "lines": [
+    { "text": "ЧТО ИМЕННО", "accent": false, "size": "small" },
+    { "text": "ДОЛЖНО БЫТЬ ПОНЯТНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 19.20, "end": 20.88, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

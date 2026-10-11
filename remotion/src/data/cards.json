@@ -1,29 +1,29 @@
 [
-  { "start": 1.80, "end": 3.42, "lines": [
-    { "text": "РЕСПУБЛИКА", "accent": false, "size": "small" },
-    { "text": "ИЛИ МОНАРХИЯ?", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 3.30, "lines": [
+    { "text": "НЕТ КРУЖКА", "accent": false, "size": "small" },
+    { "text": "ПО ЕГЭ", "accent": true, "size": "big" }
   ]},
-  { "start": 3.93, "end": 7.11, "lines": [
-    { "text": "ОТВЕТИЛА", "accent": false, "size": "small" },
-    { "text": "ТОЛЬКО ПРО ПРЕЗИДЕНТА", "accent": true, "size": "big" }
+  { "start": 3.72, "end": 5.70, "lines": [
+    { "text": "СОБИРАЮ", "accent": false, "size": "small" },
+    { "text": "ПРОГРАММУ САМА", "accent": true, "size": "big" }
   ]},
-  { "start": 7.62, "end": 9.30, "lines": [
-    { "text": "ИЗ ПЯТИ ПРИЗНАКОВ", "accent": false, "size": "small" },
-    { "text": "НАЗВАЛА ОДИН", "accent": true, "size": "big" }
+  { "start": 6.30, "end": 8.82, "lines": [
+    { "text": "ВРЕМЯ УХОДИТ", "accent": false, "size": "small" },
+    { "text": "НА ПОИСК", "accent": true, "size": "big" }
   ]},
-  { "start": 9.60, "end": 11.04, "lines": [
-    { "text": "НА ТЕСТЕ", "accent": false, "size": "small" },
-    { "text": "НЕ ХВАТИЛО БЫ", "accent": true, "size": "big" }
+  { "start": 9.03, "end": 9.99, "lines": [
+    { "text": "НЕ НА", "accent": false, "size": "small" },
+    { "text": "РЕШЕНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 11.70, "end": 14.70, "lines": [
+  { "start": 10.68, "end": 14.01, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.94, "end": 17.34, "lines": [
-    { "text": "ФОРМА ПРАВЛЕНИЯ", "accent": false, "size": "small" },
-    { "text": "С ПРИЗНАКАМИ", "accent": true, "size": "big" }
+  { "start": 14.22, "end": 15.36, "lines": [
+    { "text": "ИДТИ", "accent": false, "size": "small" },
+    { "text": "ПО ПОРЯДКУ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.85, "end": 19.47, "lines": [
+  { "start": 15.84, "end": 17.52, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
