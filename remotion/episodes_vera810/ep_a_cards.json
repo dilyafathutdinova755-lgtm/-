@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.43, "lines": [
+    { "text": "ЗОВУТ УЖИНАТЬ", "accent": false, "size": "small" },
+    { "text": "НЕ УСПЕВАЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.09, "end": 8.04, "lines": [
+    { "text": "ДЛИННОЕ", "accent": false, "size": "small" },
+    { "text": "НАЧИНАТЬ НЕТ СМЫСЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.28, "end": 10.20, "lines": [
+    { "text": "КОРОТКОЕ", "accent": false, "size": "small" },
+    { "text": "НЕ НАЙТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.44, "end": 11.40, "lines": [
+    { "text": "ВЕЧЕР", "accent": false, "size": "small" },
+    { "text": "ПРОПАДАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.12, "end": 15.93, "lines": [
+    { "text": "БАНК ФИПИ", "accent": false, "size": "small" },
+    { "text": "КОРОТКОЕ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.41, "end": 17.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

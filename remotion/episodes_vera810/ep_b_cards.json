@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.25, "lines": [
+    { "text": "ПОДУМАЙ ЕЩЁ", "accent": false, "size": "small" },
+    { "text": "ТА ЖЕ КОЛЕЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.94, "end": 8.61, "lines": [
+    { "text": "ПОКАЗАЛИ БЫ", "accent": false, "size": "small" },
+    { "text": "ГДЕ СВЕРНУТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.97, "end": 10.11, "lines": [
+    { "text": "СПРАВИЛАСЬ БЫ", "accent": false, "size": "small" },
+    { "text": "ЗА МИНУТУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.86, "end": 14.22, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.43, "end": 14.97, "lines": [
+    { "text": "ЭТУ", "accent": false, "size": "small" },
+    { "text": "РАЗВИЛКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.57, "end": 17.28, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

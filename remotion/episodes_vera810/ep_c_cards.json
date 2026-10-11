@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.42, "lines": [
+    { "text": "РЕСПУБЛИКА", "accent": false, "size": "small" },
+    { "text": "ИЛИ МОНАРХИЯ?", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.93, "end": 7.11, "lines": [
+    { "text": "ОТВЕТИЛА", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО ПРО ПРЕЗИДЕНТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.62, "end": 9.30, "lines": [
+    { "text": "ИЗ ПЯТИ ПРИЗНАКОВ", "accent": false, "size": "small" },
+    { "text": "НАЗВАЛА ОДИН", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.60, "end": 11.04, "lines": [
+    { "text": "НА ТЕСТЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ХВАТИЛО БЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.70, "end": 14.70, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.94, "end": 17.34, "lines": [
+    { "text": "ФОРМА ПРАВЛЕНИЯ", "accent": false, "size": "small" },
+    { "text": "С ПРИЗНАКАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.85, "end": 19.47, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
