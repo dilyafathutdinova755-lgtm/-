@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.66, "lines": [
+    { "text": "РЕФОРМЫ", "accent": false, "size": "small" },
+    { "text": "ВЫСТРАИВАЮТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.78, "end": 5.64, "lines": [
+    { "text": "ОДНА ДЛИННАЯ", "accent": false, "size": "small" },
+    { "text": "КАША БЕЗ ИМЁН", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.27, "end": 7.20, "lines": [
+    { "text": "НУЖНЫ", "accent": false, "size": "small" },
+    { "text": "ЯРЛЫКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.71, "end": 10.65, "lines": [
+    { "text": "ЧЬИ РЕФОРМЫ", "accent": false, "size": "small" },
+    { "text": "В КАКОМ ВЕКЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.73, "end": 14.37, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.70, "end": 16.80, "lines": [
+    { "text": "РЕФОРМА", "accent": false, "size": "small" },
+    { "text": "СВЯЗАНА С ПРАВИТЕЛЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.25, "end": 18.87, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

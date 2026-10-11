@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.25, "lines": [
+    { "text": "ЗАКРЫВАЮ ТЕТРАДЬ", "accent": false, "size": "small" },
+    { "text": "ЧЕРЕЗ ЧАС", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.46, "end": 7.35, "lines": [
+    { "text": "ПО ПАМЯТИ", "accent": false, "size": "small" },
+    { "text": "ЧТО ЗАПОМНИЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.83, "end": 11.28, "lines": [
+    { "text": "ВЫХОДИТ", "accent": false, "size": "small" },
+    { "text": "ДВЕ ТРЕТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.82, "end": 13.08, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.32, "end": 16.14, "lines": [
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "ЛЕГКО НАЙТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.71, "end": 18.27, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

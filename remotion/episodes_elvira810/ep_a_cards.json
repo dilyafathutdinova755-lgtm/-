@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.50, "lines": [
+    { "text": "РАСПЕЧАТКИ", "accent": false, "size": "small" },
+    { "text": "СТОЛ ЗАНЯТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.77, "end": 5.46, "lines": [
+    { "text": "РЕШАТЬ", "accent": false, "size": "small" },
+    { "text": "НЕГДЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.00, "end": 8.97, "lines": [
+    { "text": "УБИРАТЬ ДОЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ЧЕМ РЕШАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.12, "end": 10.80, "lines": [
+    { "text": "ОХОТА ПРОПАДАЕТ", "accent": false, "size": "small" },
+    { "text": "ДО НАЧАЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.55, "end": 14.76, "lines": [
+    { "text": "БАНК ФИПИ", "accent": false, "size": "small" },
+    { "text": "ОТКРЫВАЕТСЯ НА ЭКРАНЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.03, "end": 16.35, "lines": [
+    { "text": "СТОЛ", "accent": false, "size": "small" },
+    { "text": "СВОБОДЕН", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.92, "end": 18.54, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
