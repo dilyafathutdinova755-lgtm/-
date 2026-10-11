@@ -1,27 +1,27 @@
 [
-  { "start": 1.80, "end": 3.69, "lines": [
-    { "text": "ДЛЯ ЕГЭ", "accent": false, "size": "small" },
-    { "text": "ТОЛЬКО С ХОДУ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 3.84, "lines": [
+    { "text": "ПОМНИТ КТО ПОБЕДИЛ", "accent": false, "size": "small" },
+    { "text": "НЕ ПОМНИТ ГДЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 3.93, "end": 5.46, "lines": [
-    { "text": "ОБХОДИТ", "accent": false, "size": "small" },
-    { "text": "НЕЛЮБИМУЮ ТЕМУ", "accent": true, "size": "big" }
+  { "start": 4.41, "end": 6.87, "lines": [
+    { "text": "НА ЕГЭ СПРАШИВАЮТ", "accent": false, "size": "small" },
+    { "text": "И ТО И ДРУГОЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 6.36, "end": 9.12, "lines": [
-    { "text": "Я ЗАМЕТИЛА", "accent": false, "size": "small" },
-    { "text": "ОДНУ СХЕМУ", "accent": true, "size": "big" }
+  { "start": 7.53, "end": 9.27, "lines": [
+    { "text": "ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
+    { "text": "ПО РАССКАЗУ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.24, "end": 11.79, "lines": [
-    { "text": "В КОНЦЕ СПИСКА", "accent": false, "size": "small" },
-    { "text": "РУКИ НЕ ДОХОДЯТ", "accent": true, "size": "big" }
+  { "start": 9.81, "end": 12.15, "lines": [
+    { "text": "КАРТУ", "accent": false, "size": "small" },
+    { "text": "НЕ ПОВТОРЯЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 12.63, "end": 16.20, "lines": [
+  { "start": 12.90, "end": 15.54, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.50, "end": 18.12, "lines": [
-    { "text": "ОБОЙТИ ТЕМУ", "accent": false, "size": "small" },
-    { "text": "СЛОЖНЕЕ", "accent": true, "size": "big" }
+  { "start": 15.75, "end": 18.30, "lines": [
+    { "text": "МЕСТО И ИТОГ", "accent": false, "size": "small" },
+    { "text": "ВМЕСТЕ", "accent": true, "size": "big" }
   ]},
   { "start": 18.93, "end": 20.61, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
