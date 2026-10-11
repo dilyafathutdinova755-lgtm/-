@@ -1,29 +1,29 @@
 [
-  { "start": 1.80, "end": 4.50, "lines": [
-    { "text": "РАСПЕЧАТКИ", "accent": false, "size": "small" },
-    { "text": "СТОЛ ЗАНЯТ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 3.66, "lines": [
+    { "text": "РЕФОРМЫ", "accent": false, "size": "small" },
+    { "text": "ВЫСТРАИВАЮТСЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.77, "end": 5.46, "lines": [
-    { "text": "РЕШАТЬ", "accent": false, "size": "small" },
-    { "text": "НЕГДЕ", "accent": true, "size": "big" }
+  { "start": 3.78, "end": 5.64, "lines": [
+    { "text": "ОДНА ДЛИННАЯ", "accent": false, "size": "small" },
+    { "text": "КАША БЕЗ ИМЁН", "accent": true, "size": "big" }
   ]},
-  { "start": 6.00, "end": 8.97, "lines": [
-    { "text": "УБИРАТЬ ДОЛЬШЕ", "accent": false, "size": "small" },
-    { "text": "ЧЕМ РЕШАТЬ", "accent": true, "size": "big" }
+  { "start": 6.27, "end": 7.20, "lines": [
+    { "text": "НУЖНЫ", "accent": false, "size": "small" },
+    { "text": "ЯРЛЫКИ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.12, "end": 10.80, "lines": [
-    { "text": "ОХОТА ПРОПАДАЕТ", "accent": false, "size": "small" },
-    { "text": "ДО НАЧАЛА", "accent": true, "size": "big" }
+  { "start": 7.71, "end": 10.65, "lines": [
+    { "text": "ЧЬИ РЕФОРМЫ", "accent": false, "size": "small" },
+    { "text": "В КАКОМ ВЕКЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 11.55, "end": 14.76, "lines": [
-    { "text": "БАНК ФИПИ", "accent": false, "size": "small" },
-    { "text": "ОТКРЫВАЕТСЯ НА ЭКРАНЕ", "accent": true, "size": "big" }
+  { "start": 11.73, "end": 14.37, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.03, "end": 16.35, "lines": [
-    { "text": "СТОЛ", "accent": false, "size": "small" },
-    { "text": "СВОБОДЕН", "accent": true, "size": "big" }
+  { "start": 14.70, "end": 16.80, "lines": [
+    { "text": "РЕФОРМА", "accent": false, "size": "small" },
+    { "text": "СВЯЗАНА С ПРАВИТЕЛЕМ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.92, "end": 18.54, "lines": [
+  { "start": 17.25, "end": 18.87, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
