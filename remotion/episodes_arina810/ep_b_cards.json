@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.99, "lines": [
+    { "text": "ЧИТАЕТ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "ПОДЧЁРКИВАЕТ ВСЁ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.23, "end": 6.24, "lines": [
+    { "text": "ПОТОМ НЕ ПОМНИТ", "accent": false, "size": "small" },
+    { "text": "ЧТО ГЛАВНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.72, "end": 10.11, "lines": [
+    { "text": "БОИТСЯ ПРОПУСТИТЬ", "accent": false, "size": "small" },
+    { "text": "ВАЖНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.04, "end": 13.41, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.62, "end": 15.15, "lines": [
+    { "text": "ГЛАВНОЕ", "accent": false, "size": "small" },
+    { "text": "ПО ШАГАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.57, "end": 17.25, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

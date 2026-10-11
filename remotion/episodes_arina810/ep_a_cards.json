@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.69, "lines": [
+    { "text": "ДЛЯ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО С ХОДУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.93, "end": 5.46, "lines": [
+    { "text": "ОБХОДИТ", "accent": false, "size": "small" },
+    { "text": "НЕЛЮБИМУЮ ТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.36, "end": 9.12, "lines": [
+    { "text": "Я ЗАМЕТИЛА", "accent": false, "size": "small" },
+    { "text": "ОДНУ СХЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.24, "end": 11.79, "lines": [
+    { "text": "В КОНЦЕ СПИСКА", "accent": false, "size": "small" },
+    { "text": "РУКИ НЕ ДОХОДЯТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.63, "end": 16.20, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.50, "end": 18.12, "lines": [
+    { "text": "ОБОЙТИ ТЕМУ", "accent": false, "size": "small" },
+    { "text": "СЛОЖНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.93, "end": 20.61, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
