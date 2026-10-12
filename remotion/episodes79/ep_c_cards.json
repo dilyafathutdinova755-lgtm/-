@@ -1,0 +1,146 @@
+[
+  {
+    "start": 3.93,
+    "end": 6.0,
+    "lines": [
+      {
+        "text": "А УТРОМ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМНИШЬ СТРАНИЦЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.14,
+    "end": 8.88,
+    "lines": [
+      {
+        "text": "ПЕРЕЧИТЫВАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ТРИ РАЗА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.09,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "И ВСЁ РАВНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПУТАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.16,
+    "end": 12.39,
+    "lines": [
+      {
+        "text": "ЗАТО В ИГРАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТЕЛЕФОНЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 14.67,
+    "lines": [
+      {
+        "text": "БЕЗ УСИЛИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАЕШЬ ИМЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.69,
+    "end": 17.01,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.28,
+    "end": 18.48,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 21.6,
+    "lines": [
+      {
+        "text": "ДАТЫ И ИМЕНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ РАУНДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.56,
+    "end": 24.33,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
