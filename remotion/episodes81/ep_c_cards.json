@@ -1,0 +1,66 @@
+[
+  {
+    "start": 4.6,
+    "end": 6.46,
+    "lines": [
+      { "text": "НО СЛОВА", "accent": false, "size": "small" },
+      { "text": "ПОМНЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.27,
+    "end": 8.74,
+    "lines": [
+      { "text": "ПРИЗНАЮ", "accent": false, "size": "small" },
+      { "text": "РАБОТАЕТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.04,
+    "end": 10.48,
+    "lines": [
+      { "text": "РАЗДРАЖАЕТ", "accent": false, "size": "small" },
+      { "text": "ПОДАЧА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.26,
+    "end": 13.24,
+    "lines": [
+      { "text": "НУЖЕН ВАРИАНТ", "accent": false, "size": "small" },
+      { "text": "БЕЗ РИФМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.39,
+    "end": 15.28,
+    "lines": [
+      { "text": "ГЛУПОСТЕЙ", "accent": false, "size": "small" },
+      { "text": "С ПОВТОРЕНИЕМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.03,
+    "end": 18.73,
+    "lines": [
+      { "text": "ПО РУССКОМУ", "accent": false, "size": "small" },
+      { "text": "ЕСТЬ ИГРЫ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.88,
+    "end": 22.36,
+    "lines": [
+      { "text": "КОРОТКИМИ", "accent": false, "size": "small" },
+      { "text": "ЗАДАНИЯМИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 23.05,
+    "end": 24.8,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
