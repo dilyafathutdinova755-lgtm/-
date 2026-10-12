@@ -1,87 +1,119 @@
 [
   {
-    "start": 3.99,
-    "end": 6.27,
+    "start": 3.33,
+    "end": 4.32,
     "lines": [
       {
-        "text": "НЕ МОЖЕШЬ ПОНЯТЬ",
+        "text": "ПРАВИЛА РУССКОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГДЕ ОН ОШИБСЯ",
+        "text": "ЯЗЫКА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.72,
-    "end": 8.55,
+    "start": 4.5,
+    "end": 6.36,
     "lines": [
       {
-        "text": "СПРАШИВАТЬ ПОЧЕМУ",
+        "text": "НЕ УДЕРЖИВАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕСПОЛЕЗНО",
+        "text": "И НЕДЕЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.88,
-    "end": 10.23,
+    "start": 6.93,
+    "end": 8.34,
     "lines": [
       {
-        "text": "ОТВЕЧАЕТ ЧТО",
+        "text": "ДЕЛО НЕ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТАК НАДО",
+        "text": "ПАМЯТИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.68,
-    "end": 12.48,
+    "start": 8.73,
+    "end": 10.86,
     "lines": [
       {
-        "text": "НУЖНО СВЕРИТЬ",
+        "text": "А В ПОДАЧЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОД РЕШЕНИЯ",
+        "text": "СЕРИАЛ ДЕРЖИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.69,
-    "end": 14.28,
+    "start": 11.16,
+    "end": 11.88,
     "lines": [
       {
-        "text": "С ЭТАЛОННЫМ",
+        "text": "А ТАБЛИЦЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРОКА ЗА СТРОКОЙ",
+        "text": "НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.79,
-    "end": 16.11,
+    "start": 12.39,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ПРОВЕРИЛА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВУХ ПРАВИЛАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.09,
+    "end": 17.16,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ ТРИ ДНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕБЁНОК ВСПОМНИЛ ОБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.58,
+    "end": 19.17,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -89,47 +121,47 @@
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.32,
-    "end": 18.54,
+    "start": 19.5,
+    "end": 20.7,
     "lines": [
       {
-        "text": "ПО ШАГАМ И",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОШИБКУ НАЙДЁШЬ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.69,
-    "end": 20.28,
+    "start": 21.12,
+    "end": 22.95,
     "lines": [
       {
-        "text": "ПО КОНКРЕТНОЙ",
+        "text": "ПРАВИЛА ПОДАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СТРОКЕ",
+        "text": "В ИГРОВОЙ ФОРМЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 20.79,
-    "end": 22.74,
+    "start": 23.58,
+    "end": 25.2,
     "lines": [
       {
         "text": "ССЫЛКА",
