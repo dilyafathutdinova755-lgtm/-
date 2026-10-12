@@ -1,0 +1,146 @@
+[
+  {
+    "start": 3.99,
+    "end": 6.27,
+    "lines": [
+      {
+        "text": "НЕ МОЖЕШЬ ПОНЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ОН ОШИБСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.72,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "СПРАШИВАТЬ ПОЧЕМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕСПОЛЕЗНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.88,
+    "end": 10.23,
+    "lines": [
+      {
+        "text": "ОТВЕЧАЕТ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАК НАДО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.68,
+    "end": 12.48,
+    "lines": [
+      {
+        "text": "НУЖНО СВЕРИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОД РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.69,
+    "end": 14.28,
+    "lines": [
+      {
+        "text": "С ЭТАЛОННЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОКА ЗА СТРОКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.79,
+    "end": 16.11,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.32,
+    "end": 18.54,
+    "lines": [
+      {
+        "text": "ПО ШАГАМ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКУ НАЙДЁШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.69,
+    "end": 20.28,
+    "lines": [
+      {
+        "text": "ПО КОНКРЕТНОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.79,
+    "end": 22.74,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

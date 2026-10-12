@@ -1,0 +1,178 @@
+[
+  {
+    "start": 3.33,
+    "end": 4.32,
+    "lines": [
+      {
+        "text": "ПРАВИЛА РУССКОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 6.36,
+    "lines": [
+      {
+        "text": "НЕ УДЕРЖИВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И НЕДЕЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 8.34,
+    "lines": [
+      {
+        "text": "ДЕЛО НЕ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАМЯТИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "А В ПОДАЧЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕРИАЛ ДЕРЖИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.16,
+    "end": 11.88,
+    "lines": [
+      {
+        "text": "А ТАБЛИЦЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.39,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ПРОВЕРИЛА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВУХ ПРАВИЛАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.09,
+    "end": 17.16,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ ТРИ ДНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕБЁНОК ВСПОМНИЛ ОБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.58,
+    "end": 19.17,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 20.7,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.12,
+    "end": 22.95,
+    "lines": [
+      {
+        "text": "ПРАВИЛА ПОДАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ИГРОВОЙ ФОРМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.58,
+    "end": 25.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
