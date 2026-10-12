@@ -1,27 +1,27 @@
 [
   { "start": 1.80, "end": 3.69, "lines": [
-    { "text": "ДЛЯ ЕГЭ", "accent": false, "size": "small" },
-    { "text": "ТОЛЬКО С ХОДУ", "accent": true, "size": "big" }
+    { "text": "УЧИТ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "ЗНАКОМОЕ", "accent": true, "size": "big" }
   ]},
   { "start": 3.93, "end": 5.46, "lines": [
-    { "text": "ОБХОДИТ", "accent": false, "size": "small" },
+    { "text": "ИЗБЕГАЕТ", "accent": false, "size": "small" },
     { "text": "НЕЛЮБИМУЮ ТЕМУ", "accent": true, "size": "big" }
   ]},
   { "start": 6.36, "end": 9.12, "lines": [
-    { "text": "Я ЗАМЕТИЛА", "accent": false, "size": "small" },
-    { "text": "ОДНУ СХЕМУ", "accent": true, "size": "big" }
+    { "text": "ЗАМЕТИЛА", "accent": false, "size": "small" },
+    { "text": "ПРИВЫЧКУ", "accent": true, "size": "big" }
   ]},
   { "start": 9.24, "end": 11.79, "lines": [
-    { "text": "В КОНЦЕ СПИСКА", "accent": false, "size": "small" },
+    { "text": "ПОСЛЕДНЕЙ В СПИСКЕ", "accent": false, "size": "small" },
     { "text": "РУКИ НЕ ДОХОДЯТ", "accent": true, "size": "big" }
   ]},
   { "start": 12.63, "end": 16.20, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    { "text": "ВСЕ ТИПЫ ВМЕСТЕ", "accent": true, "size": "big" }
   ]},
   { "start": 16.50, "end": 18.12, "lines": [
-    { "text": "ОБОЙТИ ТЕМУ", "accent": false, "size": "small" },
-    { "text": "СЛОЖНЕЕ", "accent": true, "size": "big" }
+    { "text": "НЕЛЮБИМЫЙ ТИП", "accent": false, "size": "small" },
+    { "text": "НЕ ОБОЙТИ", "accent": true, "size": "big" }
   ]},
   { "start": 18.93, "end": 20.61, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },

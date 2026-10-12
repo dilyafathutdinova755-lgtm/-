@@ -1,27 +1,27 @@
 [
   { "start": 1.80, "end": 3.84, "lines": [
-    { "text": "ПОМНИТ КТО ПОБЕДИЛ", "accent": false, "size": "small" },
-    { "text": "НЕ ПОМНИТ ГДЕ", "accent": true, "size": "big" }
+    { "text": "ЗНАЕТ ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗНАЕТ МЕСТО", "accent": true, "size": "big" }
   ]},
   { "start": 4.41, "end": 6.87, "lines": [
-    { "text": "НА ЕГЭ СПРАШИВАЮТ", "accent": false, "size": "small" },
-    { "text": "И ТО И ДРУГОЕ", "accent": true, "size": "big" }
+    { "text": "НА ЕГЭ", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЮТ ОБА", "accent": true, "size": "big" }
   ]},
   { "start": 7.53, "end": 9.27, "lines": [
     { "text": "ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
-    { "text": "ПО РАССКАЗУ", "accent": true, "size": "big" }
+    { "text": "ИЗ РАССКАЗА", "accent": true, "size": "big" }
   ]},
   { "start": 9.81, "end": 12.15, "lines": [
-    { "text": "КАРТУ", "accent": false, "size": "small" },
+    { "text": "МЕСТО НА КАРТЕ", "accent": false, "size": "small" },
     { "text": "НЕ ПОВТОРЯЛА", "accent": true, "size": "big" }
   ]},
   { "start": 12.90, "end": 15.54, "lines": [
-    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+    { "text": "ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
   { "start": 15.75, "end": 18.30, "lines": [
     { "text": "МЕСТО И ИТОГ", "accent": false, "size": "small" },
-    { "text": "ВМЕСТЕ", "accent": true, "size": "big" }
+    { "text": "ОДНОЙ КАРТОЧКОЙ", "accent": true, "size": "big" }
   ]},
   { "start": 18.93, "end": 20.61, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
