@@ -247,6 +247,8 @@ episodes80/*.log
 episodes81/*.mp4
 episodes81/*.wav
 episodes81/*.log
+episodes81/*.pid
+episodes81/qa/
 episodes82/*.mp4
 episodes82/*.wav
 episodes82/*.log
