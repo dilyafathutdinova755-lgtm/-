@@ -1,87 +1,87 @@
 [
   {
-    "start": 1.995,
-    "end": 2.685,
+    "start": 3.93,
+    "end": 6.0,
     "lines": [
       {
-        "text": "ВИДЕОРАЗБОР",
+        "text": "А УТРОМ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БРОСАЕШЬ СМОТРЕТЬ",
+        "text": "ПОМНИШЬ СТРАНИЦЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.435,
-    "end": 4.995,
+    "start": 7.14,
+    "end": 8.88,
     "lines": [
       {
-        "text": "ПОКА НУЖНОЕ МЕСТО",
+        "text": "ПЕРЕЧИТЫВАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОХОДИТ ПОЛЧАСА",
+        "text": "ПО ТРИ РАЗА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.785,
-    "end": 9.615,
+    "start": 9.09,
+    "end": 10.35,
     "lines": [
       {
-        "text": "ПОТЕРЯ ВРЕМЕНИ",
+        "text": "И ВСЁ РАВНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТБИВАЕТ ОХОТУ",
+        "text": "ПУТАЕШЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.605,
-    "end": 12.405,
+    "start": 11.16,
+    "end": 12.39,
     "lines": [
       {
-        "text": "ТЕКСТ ПРОБЕГАЕШЬ",
+        "text": "ЗАТО В ИГРАХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗА МИНУТУ",
+        "text": "НА ТЕЛЕФОНЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.675,
-    "end": 14.205,
+    "start": 12.6,
+    "end": 14.67,
     "lines": [
       {
-        "text": "И МОЖЕШЬ ВЕРНУТЬСЯ",
+        "text": "БЕЗ УСИЛИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К НУЖНОЙ СТРОКЕ",
+        "text": "ЗАПОМИНАЕШЬ ИМЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.345,
-    "end": 18.825,
+    "start": 15.69,
+    "end": 17.01,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -89,31 +89,47 @@
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ПО ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 19.545,
-    "end": 21.165,
+    "start": 17.28,
+    "end": 18.48,
     "lines": [
       {
-        "text": "НУЖНУЮ СТРОКУ",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАХОДИШЬ СРАЗУ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.185,
-    "end": 24.165,
+    "start": 19.2,
+    "end": 21.6,
+    "lines": [
+      {
+        "text": "ДАТЫ И ИМЕНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ РАУНДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.56,
+    "end": 24.33,
     "lines": [
       {
         "text": "ССЫЛКА",
