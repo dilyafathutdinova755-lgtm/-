@@ -1,63 +1,63 @@
 [
   {
-    "start": 4.6,
-    "end": 6.46,
+    "start": 3.49,
+    "end": 5.83,
     "lines": [
-      { "text": "НО СЛОВА", "accent": false, "size": "small" },
-      { "text": "ПОМНЮ", "accent": true, "size": "big" }
+      { "text": "НЕ УСПЕЛА", "accent": false, "size": "small" },
+      { "text": "НЕ МОГЛА УСНУТЬ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 7.27,
-    "end": 8.74,
+    "start": 6.79,
+    "end": 9.28,
     "lines": [
-      { "text": "ПРИЗНАЮ", "accent": false, "size": "small" },
-      { "text": "РАБОТАЕТ", "accent": true, "size": "big" }
+      { "text": "СТАЛО", "accent": false, "size": "small" },
+      { "text": "СПОКОЙНЕЕ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 9.04,
-    "end": 10.48,
+    "start": 9.49,
+    "end": 11.92,
     "lines": [
-      { "text": "РАЗДРАЖАЕТ", "accent": false, "size": "small" },
-      { "text": "ПОДАЧА", "accent": true, "size": "big" }
+      { "text": "ВЫЧЕРКИВАЮ", "accent": false, "size": "small" },
+      { "text": "ПРОЙДЕННЫЕ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 11.26,
-    "end": 13.24,
+    "start": 12.76,
+    "end": 14.71,
     "lines": [
-      { "text": "НУЖЕН ВАРИАНТ", "accent": false, "size": "small" },
-      { "text": "БЕЗ РИФМ", "accent": true, "size": "big" }
+      { "text": "КОНКРЕТНЫЙ", "accent": false, "size": "small" },
+      { "text": "ОБЪЕМ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 13.39,
-    "end": 15.28,
+    "start": 14.95,
+    "end": 17.02,
     "lines": [
-      { "text": "ГЛУПОСТЕЙ", "accent": false, "size": "small" },
-      { "text": "С ПОВТОРЕНИЕМ", "accent": true, "size": "big" }
+      { "text": "ЧЕМ БЕЗ КОНЦА", "accent": false, "size": "small" },
+      { "text": "ЛЕГЧЕ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 16.03,
-    "end": 18.73,
+    "start": 18.1,
+    "end": 20.23,
     "lines": [
-      { "text": "ПО РУССКОМУ", "accent": false, "size": "small" },
-      { "text": "ЕСТЬ ИГРЫ", "accent": true, "size": "big" }
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 18.88,
-    "end": 22.36,
+    "start": 20.86,
+    "end": 23.62,
     "lines": [
-      { "text": "КОРОТКИМИ", "accent": false, "size": "small" },
-      { "text": "ЗАДАНИЯМИ", "accent": true, "size": "big" }
+      { "text": "ПО ТЕМАМ", "accent": false, "size": "small" },
+      { "text": "ОБЪЕМ ВИДЕН", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 23.05,
-    "end": 24.8,
+    "start": 24.28,
+    "end": 26.32,
     "lines": [
       { "text": "ССЫЛКА", "accent": true, "size": "big" },
       { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }

@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.49,
+    "end": 7.27,
+    "lines": [
+      { "text": "ХОЧУ ПРОВЕРИТЬ", "accent": false, "size": "small" },
+      { "text": "НО БОЮСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.05,
+    "end": 10.24,
+    "lines": [
+      { "text": "ОТКЛАДЫВАЮ", "accent": false, "size": "small" },
+      { "text": "НА ВЕЧЕР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.75,
+    "end": 12.91,
+    "lines": [
+      { "text": "К ВЕЧЕРУ", "accent": false, "size": "small" },
+      { "text": "НЕ ПОМНЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.69,
+    "end": 16.51,
+    "lines": [
+      { "text": "ЛУЧШЕ СРАЗУ", "accent": false, "size": "small" },
+      { "text": "ПОКА СВЕЖО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.38,
+    "end": 20.17,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.65,
+    "end": 23.08,
+    "lines": [
+      { "text": "СРАЗУ ПОСЛЕ", "accent": false, "size": "small" },
+      { "text": "РЕШЕНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 23.86,
+    "end": 25.87,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
