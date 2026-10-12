@@ -1,27 +1,27 @@
 [
-  { "start": 1.80, "end": 3.69, "lines": [
-    { "text": "УЧИТ ТОЛЬКО", "accent": false, "size": "small" },
-    { "text": "ЗНАКОМОЕ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 3.84, "lines": [
+    { "text": "ЗНАЕТ ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗНАЕТ МЕСТО", "accent": true, "size": "big" }
   ]},
-  { "start": 3.93, "end": 5.46, "lines": [
-    { "text": "ИЗБЕГАЕТ", "accent": false, "size": "small" },
-    { "text": "НЕЛЮБИМУЮ ТЕМУ", "accent": true, "size": "big" }
+  { "start": 4.41, "end": 6.87, "lines": [
+    { "text": "НА ЕГЭ", "accent": false, "size": "small" },
+    { "text": "СПРАШИВАЮТ ОБА", "accent": true, "size": "big" }
   ]},
-  { "start": 6.36, "end": 9.12, "lines": [
-    { "text": "ЗАМЕТИЛА", "accent": false, "size": "small" },
-    { "text": "ПРИВЫЧКУ", "accent": true, "size": "big" }
+  { "start": 7.53, "end": 9.27, "lines": [
+    { "text": "ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
+    { "text": "ИЗ РАССКАЗА", "accent": true, "size": "big" }
   ]},
-  { "start": 9.24, "end": 11.79, "lines": [
-    { "text": "ПОСЛЕДНЕЙ В СПИСКЕ", "accent": false, "size": "small" },
-    { "text": "РУКИ НЕ ДОХОДЯТ", "accent": true, "size": "big" }
+  { "start": 9.81, "end": 12.15, "lines": [
+    { "text": "МЕСТО НА КАРТЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ПОВТОРЯЛА", "accent": true, "size": "big" }
   ]},
-  { "start": 12.63, "end": 16.20, "lines": [
-    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ВСЕ ТИПЫ ВМЕСТЕ", "accent": true, "size": "big" }
+  { "start": 12.90, "end": 15.54, "lines": [
+    { "text": "ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.50, "end": 18.12, "lines": [
-    { "text": "НЕЛЮБИМЫЙ ТИП", "accent": false, "size": "small" },
-    { "text": "НЕ ОБОЙТИ", "accent": true, "size": "big" }
+  { "start": 15.75, "end": 18.30, "lines": [
+    { "text": "МЕСТО И ИТОГ", "accent": false, "size": "small" },
+    { "text": "ОДНОЙ КАРТОЧКОЙ", "accent": true, "size": "big" }
   ]},
   { "start": 18.93, "end": 20.61, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
