@@ -252,3 +252,5 @@ episodes81/qa/
 episodes82/*.mp4
 episodes82/*.wav
 episodes82/*.log
+episodes82/*.pid
+episodes82/qa/
