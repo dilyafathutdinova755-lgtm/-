@@ -1,135 +1,103 @@
 [
   {
-    "start": 2.865,
-    "end": 3.945,
+    "start": 3.51,
+    "end": 4.74,
     "lines": [
       {
-        "text": "ПРОВЕРЯЕШЬ",
+        "text": "НУЖНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО РАЗБОРУ",
+        "text": "ИСКЛЮЧЕНИЯ ИЗ ПРАВИЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.665,
-    "end": 6.255,
+    "start": 5.37,
+    "end": 6.81,
     "lines": [
       {
-        "text": "БЫВАЕТ РЕШИЛА",
+        "text": "И ОНИ ПУТАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРАВИЛЬНО",
+        "text": "БЫСТРЕЕ ВСЕГО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.645,
-    "end": 8.565,
+    "start": 7.71,
+    "end": 8.55,
     "lines": [
       {
-        "text": "А СПОСОБ ДЛИННЕЕ",
+        "text": "ПРАВИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ТРИ ШАГА",
+        "text": "ЗНАЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.435,
-    "end": 10.515,
+    "start": 9.0,
+    "end": 10.47,
     "lines": [
       {
-        "text": "ДЛЯ МАКСИМАЛЬНОГО",
+        "text": "А СПИСКИ СЛОВ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАЛЛА",
+        "text": "ИСКЛЮЧЕНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.785,
-    "end": 12.285,
+    "start": 10.74,
+    "end": 12.06,
     "lines": [
       {
-        "text": "ВАЖНО НЕ ТОЛЬКО",
+        "text": "ВЫВЕТРИВАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛУЧИТЬ ОТВЕТ",
+        "text": "ЗА ПАРУ ДНЕЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.885,
-    "end": 14.085,
+    "start": 12.87,
+    "end": 15.21,
     "lines": [
       {
-        "text": "НО И",
+        "text": "НУЖНО ПОВТОРЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЛОЖИТЬСЯ ПО ВРЕМЕНИ",
+        "text": "ЧАСТО И КОРОТКО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.895,
-    "end": 16.695,
-    "lines": [
-      {
-        "text": "СРАВНИВАЯ ХОД",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "С ЭТАЛОННЫМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 17.025,
-    "end": 18.255,
-    "lines": [
-      {
-        "text": "НАХОДИШЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЛИШНИЕ ШАГИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.215,
-    "end": 21.945,
+    "start": 16.02,
+    "end": 17.67,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -137,31 +105,47 @@
         "size": "small"
       },
       {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 22.455,
-    "end": 24.675,
+    "start": 18.12,
+    "end": 19.38,
     "lines": [
       {
-        "text": "С КОТОРЫМ СВЕРЯЕШЬ",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВОЙ ПУТЬ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 25.245,
-    "end": 27.105,
+    "start": 19.92,
+    "end": 22.44,
+    "lines": [
+      {
+        "text": "ИСКЛЮЧЕНИЯ ПОВТОРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ РАУНДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.04,
+    "end": 24.631,
     "lines": [
       {
         "text": "ССЫЛКА",
