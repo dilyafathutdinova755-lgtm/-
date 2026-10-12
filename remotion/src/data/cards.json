@@ -1,135 +1,87 @@
 [
   {
-    "start": 2.76,
-    "end": 4.29,
+    "start": 1.995,
+    "end": 2.685,
     "lines": [
       {
-        "text": "НЕ УЗНАЛА",
+        "text": "ВИДЕОРАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛОВИНУ ЗАДАНИЙ",
+        "text": "БРОСАЕШЬ СМОТРЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.04,
-    "end": 6.66,
+    "start": 3.435,
+    "end": 4.995,
     "lines": [
       {
-        "text": "ПЕРВОЙ МЫСЛЬЮ",
+        "text": "ПОКА НУЖНОЕ МЕСТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСЁ БРОСИТЬ",
+        "text": "ПРОХОДИТ ПОЛЧАСА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.71,
-    "end": 9.57,
+    "start": 7.785,
+    "end": 9.615,
     "lines": [
       {
-        "text": "ТРОЕЧНИЦЕ ВАЖНО",
+        "text": "ПОТЕРЯ ВРЕМЕНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНАЧАЛА ПОСМОТРЕТЬ",
+        "text": "ОТБИВАЕТ ОХОТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.72,
-    "end": 11.94,
+    "start": 10.605,
+    "end": 12.405,
     "lines": [
       {
-        "text": "КАК ВЫГЛЯДЯТ",
+        "text": "ТЕКСТ ПРОБЕГАЕШЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "ЗА МИНУТУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 13.53,
+    "start": 12.675,
+    "end": 14.205,
     "lines": [
       {
-        "text": "А УЧИТЬ",
+        "text": "И МОЖЕШЬ ВЕРНУТЬСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЖЕ ПОТОМ",
+        "text": "К НУЖНОЙ СТРОКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.52,
-    "end": 16.17,
-    "lines": [
-      {
-        "text": "СТАЛА РЕШАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ОДНОМУ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.41,
-    "end": 18.03,
-    "lines": [
-      {
-        "text": "ИЗ БАНКА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗА НЕДЕЛЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.21,
-    "end": 19.26,
-    "lines": [
-      {
-        "text": "ПЕРЕСТАЛА ИХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БОЯТЬСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.43,
-    "end": 22.32,
+    "start": 15.345,
+    "end": 18.825,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЁРЕ",
@@ -137,47 +89,31 @@
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 23.01,
-    "end": 25.59,
+    "start": 19.545,
+    "end": 21.165,
     "lines": [
       {
-        "text": "НАСТОЯЩИЕ ЗАДАНИЯ",
+        "text": "НУЖНУЮ СТРОКУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЕШЬ ПО ОДНОМУ",
+        "text": "НАХОДИШЬ СРАЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 26.28,
-    "end": 27.48,
-    "lines": [
-      {
-        "text": "А НЕ ЦЕЛЫМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВАРИАНТОМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 28.32,
-    "end": 30.24,
+    "start": 22.185,
+    "end": 24.165,
     "lines": [
       {
         "text": "ССЫЛКА",
