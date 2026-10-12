@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.76,
+    "end": 7.57,
+    "lines": [
+      { "text": "А НЕ АВТОРСКИХ", "accent": false, "size": "small" },
+      { "text": "НАСТОЯЩИХ ЗАДАНИЯХ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.47,
+    "end": 11.23,
+    "lines": [
+      { "text": "БЕРУ ЗАДАНИЕ", "accent": false, "size": "small" },
+      { "text": "ИЗ БАНКА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.62,
+    "end": 13.45,
+    "lines": [
+      { "text": "ШАБЛОН", "accent": false, "size": "small" },
+      { "text": "РАБОТАЕТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.11,
+    "end": 16.39,
+    "lines": [
+      { "text": "ЧУЖИМ ВЫВОДАМ", "accent": false, "size": "small" },
+      { "text": "НЕ ВЕРЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.2,
+    "end": 19.27,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.6,
+    "end": 23.14,
+    "lines": [
+      { "text": "СЛОВА РЕПЕТИТОРА", "accent": false, "size": "small" },
+      { "text": "ПРОВЕРЯЮТСЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 23.86,
+    "end": 26.0,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
