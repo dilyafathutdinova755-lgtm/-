@@ -1,0 +1,130 @@
+[
+  {
+    "start": 2.64,
+    "end": 3.66,
+    "lines": [
+      {
+        "text": "САМЫЕ РЕДКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТИПЫ ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.23,
+    "end": 7.71,
+    "lines": [
+      {
+        "text": "В ОБЫЧНЫХ СБОРНИКАХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА 20 СТРАНИЦ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.55,
+    "end": 11.79,
+    "lines": [
+      {
+        "text": "РАЗНЫЕ ФОРМУЛИРОВКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОЧЕШЬ ВИДЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.21,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "ЧТОБЫ ЗАМЕТИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО МЕНЯЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.72,
+    "end": 18.6,
+    "lines": [
+      {
+        "text": "РАЗБРОСАННЫЕ ПО СБОРНИКАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ВИДНО КАРТИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.32,
+    "end": 21.39,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.96,
+    "end": 24.54,
+    "lines": [
+      {
+        "text": "ЗАДАНИЯ ОДНОГО ТИПА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЕШЬ ПОДРЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.11,
+    "end": 26.91,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

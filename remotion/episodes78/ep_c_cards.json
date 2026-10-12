@@ -1,0 +1,162 @@
+[
+  {
+    "start": 3.51,
+    "end": 4.74,
+    "lines": [
+      {
+        "text": "НУЖНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКЛЮЧЕНИЯ ИЗ ПРАВИЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.37,
+    "end": 6.81,
+    "lines": [
+      {
+        "text": "И ОНИ ПУТАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЫСТРЕЕ ВСЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.71,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "ПРАВИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.47,
+    "lines": [
+      {
+        "text": "А СПИСКИ СЛОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКЛЮЧЕНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.74,
+    "end": 12.06,
+    "lines": [
+      {
+        "text": "ВЫВЕТРИВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА ПАРУ ДНЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.87,
+    "end": 15.21,
+    "lines": [
+      {
+        "text": "НУЖНО ПОВТОРЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСТО И КОРОТКО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.02,
+    "end": 17.67,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.12,
+    "end": 19.38,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.92,
+    "end": 22.44,
+    "lines": [
+      {
+        "text": "ИСКЛЮЧЕНИЯ ПОВТОРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ РАУНДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.04,
+    "end": 24.631,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

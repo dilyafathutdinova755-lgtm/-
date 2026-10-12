@@ -1,0 +1,178 @@
+[
+  {
+    "start": 2.865,
+    "end": 3.945,
+    "lines": [
+      {
+        "text": "ПРОВЕРЯЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РАЗБОРУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.665,
+    "end": 6.255,
+    "lines": [
+      {
+        "text": "БЫВАЕТ РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИЛЬНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.645,
+    "end": 8.565,
+    "lines": [
+      {
+        "text": "А СПОСОБ ДЛИННЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ТРИ ШАГА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.435,
+    "end": 10.515,
+    "lines": [
+      {
+        "text": "ДЛЯ МАКСИМАЛЬНОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАЛЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.785,
+    "end": 12.285,
+    "lines": [
+      {
+        "text": "ВАЖНО НЕ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИТЬ ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.885,
+    "end": 14.085,
+    "lines": [
+      {
+        "text": "НО И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЛОЖИТЬСЯ ПО ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.895,
+    "end": 16.695,
+    "lines": [
+      {
+        "text": "СРАВНИВАЯ ХОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ЭТАЛОННЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.025,
+    "end": 18.255,
+    "lines": [
+      {
+        "text": "НАХОДИШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛИШНИЕ ШАГИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.215,
+    "end": 21.945,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЁРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.455,
+    "end": 24.675,
+    "lines": [
+      {
+        "text": "С КОТОРЫМ СВЕРЯЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОЙ ПУТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 25.245,
+    "end": 27.105,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
