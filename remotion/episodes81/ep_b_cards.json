@@ -1,0 +1,66 @@
+[
+  {
+    "start": 3.61,
+    "end": 6.88,
+    "lines": [
+      { "text": "ПО ИХ ФОРМУЛИРОВКАМ", "accent": false, "size": "small" },
+      { "text": "ВИЖУ ЭТО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.78,
+    "end": 10.15,
+    "lines": [
+      { "text": "УСТАЛА СВЕРЯТЬ", "accent": false, "size": "small" },
+      { "text": "ТРИ ОБЪЯСНЕНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.36,
+    "end": 12.76,
+    "lines": [
+      { "text": "ОДНОГО ЗАДАНИЯ", "accent": false, "size": "small" },
+      { "text": "КОМУ ВЕРИТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.39,
+    "end": 15.94,
+    "lines": [
+      { "text": "ХОЧЕТСЯ", "accent": false, "size": "small" },
+      { "text": "ОДИН РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.15,
+    "end": 18.7,
+    "lines": [
+      { "text": "РАСПИСАН", "accent": false, "size": "small" },
+      { "text": "ПРОВЕРЯЮ САМА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.63,
+    "end": 22.42,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.63,
+    "end": 25.12,
+    "lines": [
+      { "text": "КАЖДЫЙ ШАГ", "accent": false, "size": "small" },
+      { "text": "МОЖНО ПРОВЕРИТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 26.05,
+    "end": 28.32,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
