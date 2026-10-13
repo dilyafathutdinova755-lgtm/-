@@ -1,0 +1,66 @@
+[
+  {
+    "start": 3.43,
+    "end": 5.89,
+    "lines": [
+      { "text": "ЗАПИСЫВАЮ", "accent": false, "size": "small" },
+      { "text": "ГДЕ УКЛАДЫВАЮСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.64,
+    "end": 9.4,
+    "lines": [
+      { "text": "ВАЖНО ЗНАТЬ", "accent": false, "size": "small" },
+      { "text": "РЕАЛЬНУЮ СКОРОСТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.79,
+    "end": 11.08,
+    "lines": [
+      { "text": "НЕ СРЕДНЮЮ", "accent": false, "size": "small" },
+      { "text": "ПО ВАРИАНТАМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.83,
+    "end": 13.96,
+    "lines": [
+      { "text": "НУЖНЫ", "accent": false, "size": "small" },
+      { "text": "НАСТОЯЩИЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.44,
+    "end": 16.78,
+    "lines": [
+      { "text": "У ПРИДУМАННЫХ", "accent": false, "size": "small" },
+      { "text": "СЛОЖНОСТЬ ДРУГАЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.77,
+    "end": 19.4,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.5,
+    "end": 23.74,
+    "lines": [
+      { "text": "ЗАДАНИЯ ЧТОБЫ", "accent": false, "size": "small" },
+      { "text": "МЕРИТЬ СКОРОСТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 24.49,
+    "end": 26.41,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

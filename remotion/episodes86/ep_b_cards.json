@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.76,
+    "end": 6.22,
+    "lines": [
+      { "text": "ПЕРЕСТАЛА ВЕРИТЬ", "accent": false, "size": "small" },
+      { "text": "БЕЗ ОБЪЯСНЕНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.0,
+    "end": 9.43,
+    "lines": [
+      { "text": "ТЕПЕРЬ ВАЖНО", "accent": false, "size": "small" },
+      { "text": "КАК ПОЛУЧЕН", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.61,
+    "end": 11.08,
+    "lines": [
+      { "text": "ЧТОБЫ ПРОВЕРИТЬ", "accent": false, "size": "small" },
+      { "text": "САМОЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.89,
+    "end": 14.68,
+    "lines": [
+      { "text": "БЕЗ ХОДА РЕШЕНИЯ", "accent": false, "size": "small" },
+      { "text": "НИЧЕГО НЕ СТОИТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.64,
+    "end": 18.67,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.86,
+    "end": 21.31,
+    "lines": [
+      { "text": "МОЖНО ПРОВЕРИТЬ", "accent": false, "size": "small" },
+      { "text": "ХОД РЕШЕНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.09,
+    "end": 23.95,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
