@@ -1,87 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.0,
     "lines": [
       {
-        "text": "ТРЕНИРОВКА ПО ЕГЭ",
+        "text": "ШКОЛЬНЫЙ ПРОЕКТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАКАНЧИВАЕТСЯ ТАМ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.3,
-    "end": 4.95,
-    "lines": [
-      {
-        "text": "ГДЕ НАЧИНАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СЛОЖНОЕ",
+        "text": "СОВПАЛ С ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.95,
-    "end": 6.75,
+    "start": 3.0,
+    "end": 4.2,
     "lines": [
       {
-        "text": "СЛОЖНОЕ Я",
+        "text": "И ВЕЧЕРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКЛАДЫВАЮ НА ЗАВТРА",
+        "text": "ЗАКОНЧИЛИСЬ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 6.75,
-    "end": 8.7,
+    "start": 4.2,
+    "end": 5.7,
     "lines": [
       {
-        "text": "А ЗАВТРА",
+        "text": "Я РАЗБИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНОВА ОТКЛАДЫВАЕТСЯ",
+        "text": "ПОДГОТОВКУ НА БЛОКИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 8.7,
-    "end": 10.35,
+    "start": 5.7,
+    "end": 7.2,
     "lines": [
       {
-        "text": "И СПИСОК",
+        "text": "ПО ДЕСЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕРЕШЕННОГО РАСТЕТ",
+        "text": "МИНУТ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.35,
-    "end": 11.25,
+    "start": 7.2,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.3,
     "lines": [
       {
         "text": "В ЕГ",
@@ -96,8 +96,8 @@
     ]
   },
   {
-    "start": 11.25,
-    "end": 12.15,
+    "start": 9.3,
+    "end": 10.2,
     "lines": [
       {
         "text": "ЕСТЬ",
@@ -112,43 +112,59 @@
     ]
   },
   {
-    "start": 12.15,
-    "end": 13.6,
+    "start": 10.2,
+    "end": 11.6,
     "lines": [
       {
-        "text": "ГДЕ МОЖНО",
+        "text": "ГДЕ ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЗВРАЩАТЬСЯ",
+        "text": "КОРОТКИЕ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 13.6,
-    "end": 14.4,
+    "start": 11.6,
+    "end": 12.9,
     "lines": [
       {
-        "text": "К ТРУДНЫМ",
+        "text": "И ДЕСЯТЬ МИНУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯМ ПО ОДНОМУ",
+        "text": "ХВАТАЕТ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 14.4,
-    "end": 15.35,
+    "start": 12.9,
+    "end": 13.7,
     "lines": [
       {
-        "text": "ССЫЛКА НА ИГ",
+        "text": "НА ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.77,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +176,8 @@
     ]
   },
   {
-    "start": 15.35,
-    "end": 16.172,
+    "start": 14.7,
+    "end": 15.682,
     "lines": [
       {
         "text": "ССЫЛКА",
