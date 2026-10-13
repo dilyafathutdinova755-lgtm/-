@@ -1,29 +1,29 @@
 [
-  { "start": 1.80, "end": 3.84, "lines": [
-    { "text": "ЗНАЕТ ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
-    { "text": "НЕ ЗНАЕТ МЕСТО", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 3.48, "lines": [
+    { "text": "БЛОКИРОВКА", "accent": false, "size": "small" },
+    { "text": "СОЦСЕТЕЙ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.41, "end": 6.87, "lines": [
-    { "text": "НА ЕГЭ", "accent": false, "size": "small" },
-    { "text": "СПРАШИВАЮТ ОБА", "accent": true, "size": "big" }
+  { "start": 3.69, "end": 5.49, "lines": [
+    { "text": "САМА ЖЕ", "accent": false, "size": "small" },
+    { "text": "НАШЛА ОБХОД", "accent": true, "size": "big" }
   ]},
-  { "start": 7.53, "end": 9.27, "lines": [
-    { "text": "ПОБЕДИТЕЛЯ", "accent": false, "size": "small" },
-    { "text": "ИЗ РАССКАЗА", "accent": true, "size": "big" }
+  { "start": 6.33, "end": 10.11, "lines": [
+    { "text": "НЕ ЗАМЕНЯЕТ", "accent": false, "size": "small" },
+    { "text": "ЖЕЛАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.81, "end": 12.15, "lines": [
-    { "text": "МЕСТО НА КАРТЕ", "accent": false, "size": "small" },
-    { "text": "НЕ ПОВТОРЯЛА", "accent": true, "size": "big" }
+  { "start": 10.32, "end": 11.46, "lines": [
+    { "text": "ДАЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "КАК ПОЙДЁТ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.90, "end": 15.54, "lines": [
-    { "text": "ИГРЫ", "accent": false, "size": "small" },
-    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  { "start": 12.24, "end": 13.92, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.75, "end": 18.30, "lines": [
-    { "text": "МЕСТО И ИТОГ", "accent": false, "size": "small" },
-    { "text": "ОДНОЙ КАРТОЧКОЙ", "accent": true, "size": "big" }
+  { "start": 14.19, "end": 16.77, "lines": [
+    { "text": "ЗАДАНИЕ ЗАТЯГИВАЕТ", "accent": false, "size": "small" },
+    { "text": "БЛОКИРОВКА НЕ НУЖНА", "accent": true, "size": "big" }
   ]},
-  { "start": 18.93, "end": 20.61, "lines": [
+  { "start": 17.40, "end": 19.17, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

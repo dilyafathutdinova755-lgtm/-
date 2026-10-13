@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.54, "lines": [
+    { "text": "РАЗНЫЕ ЦВЕТА", "accent": false, "size": "small" },
+    { "text": "МАРКЕРОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.72, "end": 5.55, "lines": [
+    { "text": "НЕ ПОМНИТ", "accent": false, "size": "small" },
+    { "text": "ЧТО ЗНАЧИЛ ЦВЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.09, "end": 7.89, "lines": [
+    { "text": "БЕЗ КЛЮЧА", "accent": false, "size": "small" },
+    { "text": "НИЧЕГО НЕ ЗНАЧИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.10, "end": 10.32, "lines": [
+    { "text": "РАЗБОР", "accent": false, "size": "small" },
+    { "text": "НУЖНЕЕ ЦВЕТОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.22, "end": 12.66, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.90, "end": 16.26, "lines": [
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "СЛОВАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.77, "end": 18.27, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
