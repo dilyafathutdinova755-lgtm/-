@@ -1,0 +1,66 @@
+[
+  {
+    "start": 3.04,
+    "end": 5.1,
+    "lines": [
+      { "text": "ВЕРЮ В", "accent": false, "size": "small" },
+      { "text": "КОЛИЧЕСТВО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 7.0,
+    "lines": [
+      { "text": "МОЙ ПЛАН", "accent": false, "size": "small" },
+      { "text": "СКУЧЕН", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.63,
+    "end": 10.03,
+    "lines": [
+      { "text": "КАЖДЫЙ ДЕНЬ", "accent": false, "size": "small" },
+      { "text": "НАСТОЯЩИЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.63,
+    "end": 12.85,
+    "lines": [
+      { "text": "НЕ МОТИВАЦИЯ", "accent": false, "size": "small" },
+      { "text": "ВИДЕО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.03,
+    "end": 15.67,
+    "lines": [
+      { "text": "НУЖНЫ НЕ ОНИ", "accent": false, "size": "small" },
+      { "text": "САМИ ЗАДАНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.54,
+    "end": 18.28,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.64,
+    "end": 20.77,
+    "lines": [
+      { "text": "ЗАДАНИЯ", "accent": false, "size": "small" },
+      { "text": "БЕЗ ОБЕРТКИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.4,
+    "end": 23.29,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

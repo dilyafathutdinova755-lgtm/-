@@ -1,0 +1,66 @@
+[
+  {
+    "start": 3.28,
+    "end": 5.62,
+    "lines": [
+      { "text": "УЧИТЬ ПЛАВАНИЕ", "accent": false, "size": "small" },
+      { "text": "ПО ИНСТРУКЦИИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.43,
+    "end": 7.69,
+    "lines": [
+      { "text": "ПРАВИЛА", "accent": false, "size": "small" },
+      { "text": "ПОНИМАЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.69,
+    "end": 9.64,
+    "lines": [
+      { "text": "НА СКОРОСТИ", "accent": false, "size": "small" },
+      { "text": "ОШИБАЮСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.51,
+    "end": 12.79,
+    "lines": [
+      { "text": "ПРИХОДИТ ТОЛЬКО", "accent": false, "size": "small" },
+      { "text": "ОТ ПОВТОРЕНИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.24,
+    "end": 15.25,
+    "lines": [
+      { "text": "ПРИЗНАЮ", "accent": false, "size": "small" },
+      { "text": "БЕЗ ВОСТОРГА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.15,
+    "end": 19.66,
+    "lines": [
+      { "text": "ПО РУССКОМУ", "accent": false, "size": "small" },
+      { "text": "ЕСТЬ ИГРЫ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.14,
+    "end": 23.11,
+    "lines": [
+      { "text": "МНОГО ПОВТОРОВ", "accent": false, "size": "small" },
+      { "text": "ЗА КОРОТКОЕ ВРЕМЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 23.8,
+    "end": 25.55,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
