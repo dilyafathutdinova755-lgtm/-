@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.64,
+    "end": 6.58,
+    "lines": [
+      { "text": "ОТ ШУМА", "accent": false, "size": "small" },
+      { "text": "ВСЁ ВАЛИЛОСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.78,
+    "end": 10.45,
+    "lines": [
+      { "text": "ИНОГДА РЕШАЮ", "accent": false, "size": "small" },
+      { "text": "В КАФЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 14.68,
+    "lines": [
+      { "text": "БЕЗ РАСПЕЧАТОК", "accent": false, "size": "small" },
+      { "text": "ПОД РУКОЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.49,
+    "end": 17.53,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.07,
+    "end": 20.8,
+    "lines": [
+      { "text": "ЗАДАНИЯ ОТКРЫТЬ", "accent": false, "size": "small" },
+      { "text": "ГДЕ УГОДНО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.73,
+    "end": 23.71,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
