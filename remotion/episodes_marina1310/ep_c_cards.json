@@ -1,0 +1,34 @@
+[
+  { "start": 1.80, "end": 3.18, "lines": [
+    { "text": "ПО ОБЩЕСТВОЗНАНИЮ", "accent": false, "size": "small" },
+    { "text": "ДВЕ ОЦЕНКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.87, "end": 5.91, "lines": [
+    { "text": "ПЯТЬ УСТНО", "accent": false, "size": "small" },
+    { "text": "ТРИ НА ТЕСТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.42, "end": 7.74, "lines": [
+    { "text": "РАЗНИЦА", "accent": false, "size": "small" },
+    { "text": "НЕПОНЯТНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.46, "end": 10.92, "lines": [
+    { "text": "УСТНО", "accent": false, "size": "small" },
+    { "text": "СВОБОДНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.19, "end": 13.44, "lines": [
+    { "text": "ТОЧНЫЕ", "accent": false, "size": "small" },
+    { "text": "ФОРМУЛИРОВКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.22, "end": 17.49, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.00, "end": 20.67, "lines": [
+    { "text": "ЗАКРЕПЛЯЮТСЯ", "accent": false, "size": "small" },
+    { "text": "ТОЧНЫМИ ВОПРОСАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 21.24, "end": 22.98, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

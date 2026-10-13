@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.69, "lines": [
+    { "text": "СЫН ЗАПИСАЛ", "accent": false, "size": "small" },
+    { "text": "ЭКЗАМЕНЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.20, "end": 5.82, "lines": [
+    { "text": "А ПОДГОТОВКУ", "accent": false, "size": "small" },
+    { "text": "НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.54, "end": 9.09, "lines": [
+    { "text": "ПОДГОТОВКА", "accent": false, "size": "small" },
+    { "text": "БЕЗ ДАТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.63, "end": 12.21, "lines": [
+    { "text": "ЗА ПРЕДМЕТОМ", "accent": false, "size": "small" },
+    { "text": "СВОЙ ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.87, "end": 15.72, "lines": [
+    { "text": "БАНК", "accent": false, "size": "small" },
+    { "text": "ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.93, "end": 17.55, "lines": [
+    { "text": "НУЖНЫЙ ПРЕДМЕТ", "accent": false, "size": "small" },
+    { "text": "НУЖНЫЙ ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.12, "end": 19.84, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
