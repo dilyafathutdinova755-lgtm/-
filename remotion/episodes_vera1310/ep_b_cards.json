@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.06, "lines": [
+    { "text": "НА УРОКЕ", "accent": false, "size": "small" },
+    { "text": "РАЗОБРАЛИ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.45, "end": 5.97, "lines": [
+    { "text": "ПОЛОВИНА ОТВЕТОВ", "accent": false, "size": "small" },
+    { "text": "ВРОДЕ БЫ ТАК", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.93, "end": 9.42, "lines": [
+    { "text": "ВРОДЕ БЫ", "accent": false, "size": "small" },
+    { "text": "НЕ ОТВЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.57, "end": 12.00, "lines": [
+    { "text": "ДРУГАЯ ФОРМУЛИРОВКА", "accent": false, "size": "small" },
+    { "text": "НЕ УЗНАЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.84, "end": 15.15, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.39, "end": 17.61, "lines": [
+    { "text": "ЗВУЧИТ", "accent": false, "size": "small" },
+    { "text": "ТВЁРДО", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.12, "end": 19.74, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

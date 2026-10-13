@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.54, "lines": [
+    { "text": "ПРОБНИК ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ПЕРЕНЕСЛИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.90, "end": 6.06, "lines": [
+    { "text": "ЗА ОДИН ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "ПОТЕРЯЛА НЕДЕЛЮ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.72, "end": 8.88, "lines": [
+    { "text": "ПАНИКОВАТЬ ПОЗДНО", "accent": false, "size": "small" },
+    { "text": "ПЕРЕСЧИТАЛА ПЛАН", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.30, "end": 11.10, "lines": [
+    { "text": "ВМЕСТО ТРЁХ", "accent": false, "size": "small" },
+    { "text": "ЧЕТЫРЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.61, "end": 13.74, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.98, "end": 15.78, "lines": [
+    { "text": "БЫСТРО ДОБРАТЬ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.29, "end": 17.80, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
