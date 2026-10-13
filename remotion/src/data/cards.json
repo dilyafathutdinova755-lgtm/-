@@ -1,29 +1,25 @@
 [
-  { "start": 1.80, "end": 3.42, "lines": [
-    { "text": "ЗНАЕТ ГОДЫ", "accent": false, "size": "small" },
-    { "text": "ПУТАЕТ ВЕКА", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 2.70, "lines": [
+    { "text": "НА ПОДГОТОВКУ", "accent": false, "size": "small" },
+    { "text": "ВЫХОДНОЙ ДЕНЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 3.78, "end": 5.52, "lines": [
-    { "text": "А КОГДА", "accent": false, "size": "small" },
-    { "text": "ПОПРАВИЛА — ОБИДЕЛАСЬ", "accent": true, "size": "big" }
+  { "start": 2.97, "end": 6.00, "lines": [
+    { "text": "МАМА СЧИТАЕТ", "accent": false, "size": "small" },
+    { "text": "ВЫХОДНЫЕ ДЛЯ ОТДЫХА", "accent": true, "size": "big" }
   ]},
-  { "start": 6.96, "end": 7.98, "lines": [
-    { "text": "ВЕК", "accent": false, "size": "small" },
-    { "text": "ЭТО НЕ ГОД", "accent": true, "size": "big" }
+  { "start": 6.81, "end": 10.17, "lines": [
+    { "text": "КОМПРОМИСС", "accent": false, "size": "small" },
+    { "text": "ДВА ЧАСА БЕЗ ТЕЛЕФОНА", "accent": true, "size": "big" }
   ]},
-  { "start": 8.22, "end": 11.43, "lines": [
-    { "text": "РАЗНИЦУ ЗАКРЕПИТЬ", "accent": false, "size": "small" },
-    { "text": "ЧТОБЫ ГОД САМ ВСТАВАЛ", "accent": true, "size": "big" }
+  { "start": 10.44, "end": 11.16, "lines": [
+    { "text": "ПОТОМ", "accent": false, "size": "small" },
+    { "text": "СВОБОДНОЕ ВРЕМЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.03, "end": 14.73, "lines": [
-    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  { "start": 12.24, "end": 15.66, "lines": [
+    { "text": "БАНК ФИПИ", "accent": false, "size": "small" },
+    { "text": "ЧАСЫ ПРОХОДЯТ БЫСТРО", "accent": true, "size": "big" }
   ]},
-  { "start": 14.94, "end": 16.53, "lines": [
-    { "text": "ГОДЫ", "accent": false, "size": "small" },
-    { "text": "ПРИВЯЗАНЫ К ВЕКАМ", "accent": true, "size": "big" }
-  ]},
-  { "start": 17.01, "end": 18.78, "lines": [
+  { "start": 15.96, "end": 17.67, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 2.85, "lines": [
+    { "text": "КАРТА РОССИИ", "accent": false, "size": "small" },
+    { "text": "XVII ВЕКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.09, "end": 5.70, "lines": [
+    { "text": "ЗНАЮ ТОЛЬКО", "accent": false, "size": "small" },
+    { "text": "МОСКВУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.30, "end": 8.34, "lines": [
+    { "text": "БЕЗ ПОДПИСЕЙ", "accent": false, "size": "small" },
+    { "text": "КАК ТАБЛИЦА БЕЗ ЦИФР", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.67, "end": 10.35, "lines": [
+    { "text": "СМОТРИШЬ", "accent": false, "size": "small" },
+    { "text": "НИЧЕГО НЕ ЗАПОМИНАЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 13.74, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.89, "end": 16.17, "lines": [
+    { "text": "СОБЫТИЯ", "accent": false, "size": "small" },
+    { "text": "КОРОТКИМИ ЗАДАНИЯМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.71, "end": 18.45, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

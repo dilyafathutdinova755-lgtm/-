@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.42, "lines": [
+    { "text": "ТРИ РЕШЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ОДНОГО ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.78, "end": 5.28, "lines": [
+    { "text": "ПЕРВЫЙ ШАГ", "accent": false, "size": "small" },
+    { "text": "КАЖДЫЙ РАЗ РАЗНЫЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.70, "end": 9.63, "lines": [
+    { "text": "НЕ МОГУ ВЫБРАТЬ", "accent": false, "size": "small" },
+    { "text": "КАКОЙ ЛУЧШЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.08, "end": 13.62, "lines": [
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "ОБЪЯСНЯЕТ ПОЧЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.89, "end": 15.09, "lines": [
+    { "text": "ПЕРВЫЙ ШАГ", "accent": false, "size": "small" },
+    { "text": "ИМЕННО ТАКОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.39, "end": 17.04, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
