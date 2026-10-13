@@ -1,47 +1,47 @@
 [
   {
-    "start": 5.47,
-    "end": 8.35,
+    "start": 2.85,
+    "end": 5.37,
     "lines": [
-      { "text": "В СБОРНИКЕ", "accent": false, "size": "small" },
-      { "text": "НЕТ НОРМЫ", "accent": true, "size": "big" }
+      { "text": "НЕ ЗНАЮ КАК", "accent": false, "size": "small" },
+      { "text": "ПРОВЕРИТЬ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 8.98,
-    "end": 12.4,
+    "start": 6.03,
+    "end": 9.33,
     "lines": [
-      { "text": "ПРИКИНУЛА ВРЕМЯ", "accent": false, "size": "small" },
-      { "text": "НА ЗАДАНИЕ", "accent": true, "size": "big" }
+      { "text": "ПЕРЕСКАЗ ОБРЫВОЧНЫЙ", "accent": false, "size": "small" },
+      { "text": "ВИДЕН ПРОБЕЛ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 12.94,
-    "end": 15.91,
+    "start": 9.96,
+    "end": 12.69,
     "lines": [
-      { "text": "БЕЗ ДЕЛЕНИЯ", "accent": false, "size": "small" },
-      { "text": "НЕВОЗМОЖНО", "accent": true, "size": "big" }
+      { "text": "ПРАВИЛЬНО ЛИ", "accent": false, "size": "small" },
+      { "text": "САМА НЕ ЗНАЮ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 16.63,
-    "end": 18.4,
+    "start": 13.53,
+    "end": 16.14,
     "lines": [
       { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
-      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 18.7,
-    "end": 21.97,
+    "start": 16.53,
+    "end": 18.57,
     "lines": [
-      { "text": "ПО ТИПАМ", "accent": false, "size": "small" },
-      { "text": "МОЖНО ПЛАНИРОВАТЬ", "accent": true, "size": "big" }
+      { "text": "МОЖНО СРАВНИТЬ", "accent": false, "size": "small" },
+      { "text": "ПЕРЕСКАЗ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 22.99,
-    "end": 24.91,
+    "start": 19.14,
+    "end": 21.06,
     "lines": [
       { "text": "ССЫЛКА", "accent": true, "size": "big" },
       { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
