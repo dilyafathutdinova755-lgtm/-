@@ -1,0 +1,258 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "СЛОВО ЧЕРЕСЧУР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДИКТАНТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.35,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ НАПИСАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.35,
+    "end": 5.4,
+    "lines": [
+      {
+        "text": "В ТРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЕМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.4,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "СНАЧАЛА ТАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТОМ ИНАЧЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАЧЕРКНУЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "РЕДКИЕ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ВЫВОДЯТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.9,
+    "lines": [
+      {
+        "text": "ПРАВИЛОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИХ НУЖНО ВИДЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.9,
+    "end": 13.6,
+    "lines": [
+      {
+        "text": "МНОГО РАЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА НАПИСАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 16.1,
+    "lines": [
+      {
+        "text": "НЕ СТАНЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИВЫЧНЫМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 17.1,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.1,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.1,
+    "end": 19.6,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.8,
+    "end": 21.8,
+    "lines": [
+      {
+        "text": "ГДЕ ТАКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕДКИЕ СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 21.8,
+    "end": 22.8,
+    "lines": [
+      {
+        "text": "ПОВТОРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.9,
+    "end": 23.85,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА Г",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 23.85,
+    "end": 24.663,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

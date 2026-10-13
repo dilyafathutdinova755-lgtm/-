@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ШКОЛЬНЫЙ ПРОЕКТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВПАЛ С ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.2,
+    "lines": [
+      {
+        "text": "И ВЕЧЕРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНЧИЛИСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.2,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "Я РАЗБИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГОТОВКУ НА БЛОКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.2,
+    "lines": [
+      {
+        "text": "ПО ДЕСЯТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.2,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "МЕЖДУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "И ДЕСЯТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХВАТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 13.7,
+    "lines": [
+      {
+        "text": "НА ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.77,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.682,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

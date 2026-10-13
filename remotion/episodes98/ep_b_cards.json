@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "ПЕРЕПИСАЛ РЕШЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.2,
+    "lines": [
+      {
+        "text": "ИЗ РАЗБОРА И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДСТАВИЛ СВОИ ЧИСЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.2,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "НО ОТВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СОШЕЛСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "ЗНАЧИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕХАНИЧЕСКИ ПОДСТАВЛЯТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "НЕЛЬЗЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНО ВИДЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "ЗАЧЕМ СДЕЛАН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЖДЫЙ ШАГ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 10.8,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.8,
+    "end": 11.9,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.9,
+    "end": 13.3,
+    "lines": [
+      {
+        "text": "ГДЕ У КАЖДОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАГА ЕСТЬ ОБЪЯСНЕНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.3,
+    "end": 14.9,
+    "lines": [
+      {
+        "text": "ЗАЧЕМ ОН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖЕН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.9,
+    "end": 15.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.8,
+    "end": 16.62,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ТРЕНИРОВКА ПО ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКАНЧИВАЕТСЯ ТАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.95,
+    "lines": [
+      {
+        "text": "ГДЕ НАЧИНАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖНОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.95,
+    "end": 6.75,
+    "lines": [
+      {
+        "text": "СЛОЖНОЕ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКЛАДЫВАЮ НА ЗАВТРА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.75,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "А ЗАВТРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СНОВА ОТКЛАДЫВАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "И СПИСОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕРЕШЕННОГО РАСТЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 11.25,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.25,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.15,
+    "end": 13.6,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОЗВРАЩАТЬСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "К ТРУДНЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯМ ПО ОДНОМУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.4,
+    "end": 15.35,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.35,
+    "end": 16.172,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

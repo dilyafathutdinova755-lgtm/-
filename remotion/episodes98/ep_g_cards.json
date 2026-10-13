@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "УЧИТЕЛЬНИЦА СКАЗАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА СОБРАНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.0,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "ЧТО НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 5.85,
+    "lines": [
+      {
+        "text": "ЧАЩЕ ВСЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРЯЮТ БАЛЛЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОРФОГРАФИИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 7.95,
+    "lines": [
+      {
+        "text": "ДОМА Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПРОСИЛА ДОЧЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.95,
+    "end": 8.75,
+    "lines": [
+      {
+        "text": "КАКИЕ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА ПУТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.75,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "ЧАЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 11.2,
+    "lines": [
+      {
+        "text": "И ОНА НАЗВАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ ПЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 13.6,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЗЫКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 14.8,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.9,
+    "end": 16.6,
+    "lines": [
+      {
+        "text": "ГДЕ ТАКИЕ СЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ КОРОТКО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 18.05,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.05,
+    "end": 18.903,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
