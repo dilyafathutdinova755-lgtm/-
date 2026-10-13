@@ -613,3 +613,13 @@ episodes97/frames/
 episodes97/idframes/
 episodes97/qa_frames/
 episodes97_out/
+sources_coffee123_51/
+asr_coffee123_51/
+episodes98/*.mp4
+episodes98/*.wav
+episodes98/*.log
+episodes98/render/
+episodes98/frames/
+episodes98/idframes/
+episodes98/qa_frames/
+episodes98_out/
