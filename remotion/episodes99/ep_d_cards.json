@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ПОДРУГА ЗОВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГУЛЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "А У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИ ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.4,
+    "lines": [
+      {
+        "text": "СТОЮ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КУРТКОЙ В РУКАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.4,
+    "end": 8.6,
+    "lines": [
+      {
+        "text": "РЕШИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОГОВОРИТЬСЯ С СОБОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.6,
+    "end": 10.4,
+    "lines": [
+      {
+        "text": "ОДНО ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДО ВЫХОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.4,
+    "end": 12.2,
+    "lines": [
+      {
+        "text": "ОСТАЛЬНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕЧЕРОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.2,
+    "end": 14.0,
+    "lines": [
+      {
+        "text": "И СОВЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПОКОЙНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.0,
+    "end": 15.6,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 17.2,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.2,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "УКЛАДЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЯТЬ СЕМЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 20.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.6,
+    "end": 22.17,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "СБОРНИК ПО ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА НЕДЕЛЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "КАК УСПЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕПИСАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ВСЕ НУЖНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ НЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.6,
+    "lines": [
+      {
+        "text": "ПЕРЕПИСЫВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЛГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.6,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "РЕШИЛА РЕШАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.8,
+    "lines": [
+      {
+        "text": "ПРЯМО ОТТУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НЕ КОПИРОВАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.8,
+    "end": 13.4,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.4,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.6,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ВСЕГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОД РУКОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 18.2,
+    "lines": [
+      {
+        "text": "ПЕРЕПИСЫВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ НУЖНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.2,
+    "end": 19.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.4,
+    "end": 20.37,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
