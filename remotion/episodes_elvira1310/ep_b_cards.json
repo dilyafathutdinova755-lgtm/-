@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.33, "lines": [
+    { "text": "ГЛЯДЯ НА РАЗБОР", "accent": false, "size": "small" },
+    { "text": "РЕШИЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.51, "end": 6.00, "lines": [
+    { "text": "ДЕЛО ВО МНЕ", "accent": false, "size": "small" },
+    { "text": "ИЛИ В ОБРАЗЦЕ?", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.84, "end": 10.02, "lines": [
+    { "text": "ПОДСКАЗАЛ ШАГИ", "accent": false, "size": "small" },
+    { "text": "НЕ НАУЧИЛ ВЫБИРАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.38, "end": 12.81, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.02, "end": 15.93, "lines": [
+    { "text": "НЕ ПРОСТО ПОКАЗЫВАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ОБЪЯСНЯЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.47, "end": 17.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

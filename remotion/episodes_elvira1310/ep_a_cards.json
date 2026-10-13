@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.86, "lines": [
+    { "text": "ПОДРУГА УЕХАЛА", "accent": false, "size": "small" },
+    { "text": "РЕШАТЬ ВМЕСТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.13, "end": 8.52, "lines": [
+    { "text": "ТЕПЕРЬ ОДНА", "accent": false, "size": "small" },
+    { "text": "СКУЧНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.79, "end": 10.26, "lines": [
+    { "text": "ЗАДАНИЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗНАЕТ РАЗНИЦЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.53, "end": 12.96, "lines": [
+    { "text": "ПРИВЫЧКА", "accent": false, "size": "small" },
+    { "text": "ОТМЕЧАТЬ РЕШЁННОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.68, "end": 15.39, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.66, "end": 17.82, "lines": [
+    { "text": "В ОДИНОЧКУ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ПОТЕРИ ТЕМПА", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.33, "end": 19.95, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
