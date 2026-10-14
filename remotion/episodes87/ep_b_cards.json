@@ -1,0 +1,58 @@
+[
+  {
+    "start": 4.24,
+    "end": 6.25,
+    "lines": [
+      { "text": "КАК ПРИШЛИ", "accent": false, "size": "small" },
+      { "text": "НИКТО НЕ ПИШЕТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.27,
+    "end": 10.09,
+    "lines": [
+      { "text": "ПЕРЕПИСЫВАЮ ШАГИ", "accent": false, "size": "small" },
+      { "text": "НЕ ПОНИМАЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.75,
+    "end": 12.7,
+    "lines": [
+      { "text": "НА СЛЕДУЮЩЕМ", "accent": false, "size": "small" },
+      { "text": "СНОВА ТЕРЯЮСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.84,
+    "end": 16.63,
+    "lines": [
+      { "text": "КАЖДЫЙ ШАГ", "accent": false, "size": "small" },
+      { "text": "СЛОВАМИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.65,
+    "end": 20.26,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.83,
+    "end": 22.51,
+    "lines": [
+      { "text": "КАЖДЫЙ ШАГ", "accent": false, "size": "small" },
+      { "text": "ЗАПИСАН СЛОВАМИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 23.38,
+    "end": 25.33,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "start": 4.93,
+    "end": 7.27,
+    "lines": [
+      { "text": "РЕШИЛА НАЧАТЬ", "accent": false, "size": "small" },
+      { "text": "С ПРОСТЫХ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.29,
+    "end": 11.5,
+    "lines": [
+      { "text": "Я ТРОЕЧНИЦА", "accent": false, "size": "small" },
+      { "text": "ЧЕСТНЫЙ СПИСОК", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.61,
+    "end": 13.09,
+    "lines": [
+      { "text": "ЧТО МОГУ", "accent": false, "size": "small" },
+      { "text": "РЕШИТЬ СЕЙЧАС", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.26,
+    "end": 16.57,
+    "lines": [
+      { "text": "ОТОБРАЛА ИЗ БАНКА", "accent": false, "size": "small" },
+      { "text": "ПЕРВУЮ ЧАСТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.26,
+    "end": 18.82,
+    "lines": [
+      { "text": "КАЖДЫЙ ДЕНЬ", "accent": false, "size": "small" },
+      { "text": "ПО ПЯТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.72,
+    "end": 21.58,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.12,
+    "end": 23.98,
+    "lines": [
+      { "text": "МОЖНО БРАТЬ", "accent": false, "size": "small" },
+      { "text": "ПО НОМЕРАМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 24.82,
+    "end": 26.83,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
