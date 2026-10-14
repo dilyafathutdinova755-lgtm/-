@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "В ДОЖДЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТОРОПЛЮСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "И ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКЛАДЫВАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ДО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УТРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.4,
+    "lines": [
+      {
+        "text": "Я ЗАМЕТИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНОМЕРНОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.4,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ ЗАРАНЕЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.8,
+    "lines": [
+      {
+        "text": "ПОКА НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАССЛАБИЛАСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.8,
+    "end": 13.4,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.4,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.8,
+    "lines": [
+      {
+        "text": "ПАРА ЗАДАНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕСЯТЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 18.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.8,
+    "end": 21.48,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

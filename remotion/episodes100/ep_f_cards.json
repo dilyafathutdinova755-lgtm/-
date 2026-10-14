@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.2,
+    "lines": [
+      {
+        "text": "СТАРШИЙ БРАТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТУПИЛ В ВУЗ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.2,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "РАССКАЗЫВАЕТ ПРО ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ПРО ПРОШЛОЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.4,
+    "lines": [
+      {
+        "text": "ГЛАВНЫЙ СОВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ТЯНУТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.4,
+    "end": 8.0,
+    "lines": [
+      {
+        "text": "ЗАПИСАЛ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЛИСТОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "НАД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОЛОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 11.2,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 12.8,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 14.2,
+    "lines": [
+      {
+        "text": "ТЯНУТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕЗАЧЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.2,
+    "end": 15.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.2,
+    "end": 16.11,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

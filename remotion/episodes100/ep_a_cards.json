@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ВИДЕОУРОК ПО ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЯТНАДЦАТЬ МИНУТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "А Я СМОТРЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОРОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "НА КАЖДОМ ШАГЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАУЗА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "ДО ЗАДАНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЕЛО ДОХОДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 9.8,
+    "lines": [
+      {
+        "text": "КОГДА СИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЖЕ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.8,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ СМОТРЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН РАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.0,
+    "lines": [
+      {
+        "text": "А РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 18.2,
+    "lines": [
+      {
+        "text": "ПОСЛЕ ПРОСМОТРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО ВЗЯТЬ ЗАДАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.2,
+    "end": 19.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.8,
+    "end": 21.45,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

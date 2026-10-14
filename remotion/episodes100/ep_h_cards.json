@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "УЧИТЕЛЬ ПОКАЗАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЕ НА ДОСКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТЕР ЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "НЕ ДОЖДАВШИСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА МЫ ПЕРЕПИШЕМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "ЗАПОМНИТЬ ШАГИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ОДНОГО ВЗГЛЯДА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 9.8,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЛУЧИЛОСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.8,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "ОСТАЛСЯ ТОЛЬКО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.0,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ОСТАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕД ГЛАЗАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "ПОКА ТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГО ЧИТАЕШЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.8,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 20.16,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

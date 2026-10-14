@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "МОЙ КОТ ЛЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА КАРТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "С ДАТАМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ЭТО ЕДИНСТВЕННОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО Я ЗАПОМНИЛА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "ЗАПОМИНАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЛЬКО КОТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "ЗНАЧИТ ДАТЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНО ПОДАВАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.0,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "ИНАЧЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ ИГРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАРТОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.8,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.8,
+    "end": 16.4,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.4,
+    "end": 18.0,
+    "lines": [
+      {
+        "text": "ДАТЫ ПОДАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОРОТКИМИ РАУНДАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 19.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.6,
+    "end": 21.48,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
