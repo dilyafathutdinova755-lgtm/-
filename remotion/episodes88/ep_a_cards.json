@@ -1,0 +1,66 @@
+[
+  {
+    "start": 2.5,
+    "end": 4.48,
+    "lines": [
+      { "text": "РЕШАЮ", "accent": false, "size": "small" },
+      { "text": "С УТРА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 5.05,
+    "end": 6.97,
+    "lines": [
+      { "text": "ТОЧНОСТЬ", "accent": false, "size": "small" },
+      { "text": "ЗАМЕТНО ВЫШЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.72,
+    "end": 11.35,
+    "lines": [
+      { "text": "НУЖНО ЗНАТЬ", "accent": false, "size": "small" },
+      { "text": "ГДЕ ТРУДНЫЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.77,
+    "end": 12.94,
+    "lines": [
+      { "text": "НЕ ИСКАТЬ ИХ", "accent": false, "size": "small" },
+      { "text": "С УТРА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.81,
+    "end": 15.94,
+    "lines": [
+      { "text": "ПОИСК СЪЕДАЕТ", "accent": false, "size": "small" },
+      { "text": "ВРЕМЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.84,
+    "end": 18.67,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.12,
+    "end": 20.8,
+    "lines": [
+      { "text": "ЗАДАНИЯ", "accent": false, "size": "small" },
+      { "text": "ПО НОМЕРАМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.37,
+    "end": 23.26,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

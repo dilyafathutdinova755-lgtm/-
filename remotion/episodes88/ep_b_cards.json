@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.43,
+    "end": 4.99,
+    "lines": [
+      { "text": "СРАВНИВАЮ", "accent": false, "size": "small" },
+      { "text": "НАДЕЖНЕЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 5.77,
+    "end": 8.11,
+    "lines": [
+      { "text": "ДЛЯ СТА БАЛЛОВ", "accent": false, "size": "small" },
+      { "text": "ЗАПАСНОЙ ПУТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.59,
+    "end": 11.08,
+    "lines": [
+      { "text": "ЕСЛИ ОСНОВНОЙ", "accent": false, "size": "small" },
+      { "text": "ПОДВЕДЕТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.92,
+    "end": 15.04,
+    "lines": [
+      { "text": "ИДЕИ БЕРУ", "accent": false, "size": "small" },
+      { "text": "ИЗ РАЗБОРА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.85,
+    "end": 18.52,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.94,
+    "end": 20.77,
+    "lines": [
+      { "text": "МОЖНО НАЙТИ", "accent": false, "size": "small" },
+      { "text": "ТАКИЕ ИДЕИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.4,
+    "end": 23.17,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

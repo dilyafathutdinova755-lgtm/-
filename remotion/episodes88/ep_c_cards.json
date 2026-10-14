@@ -1,0 +1,74 @@
+[
+  {
+    "start": 4.99,
+    "end": 7.12,
+    "lines": [
+      { "text": "ПОВТОРЕНИЕ", "accent": false, "size": "small" },
+      { "text": "ВЕСЬ ВЕЧЕР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.84,
+    "end": 10.27,
+    "lines": [
+      { "text": "СОКРАТИТЬ ДО", "accent": false, "size": "small" },
+      { "text": "ДЕСЯТИ МИНУТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.63,
+    "end": 11.65,
+    "lines": [
+      { "text": "БЕЗ ПОТЕРИ", "accent": false, "size": "small" },
+      { "text": "КАЧЕСТВА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 12.52,
+    "end": 15.1,
+    "lines": [
+      { "text": "ПРОВЕРИЛА", "accent": false, "size": "small" },
+      { "text": "КОРОТКИЕ ПРОВЕРКИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.52,
+    "end": 17.56,
+    "lines": [
+      { "text": "ЛУЧШЕ ЧЕМ", "accent": false, "size": "small" },
+      { "text": "РАЗ В НЕДЕЛЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.43,
+    "end": 20.14,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ПО ОБЩЕСТВУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.44,
+    "end": 22.54,
+    "lines": [
+      { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+      { "text": "НА ПАМЯТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.66,
+    "end": 24.67,
+    "lines": [
+      { "text": "КОРОТКИЕ", "accent": false, "size": "small" },
+      { "text": "КАЖДЫЙ ДЕНЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 25.3,
+    "end": 26.97,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
