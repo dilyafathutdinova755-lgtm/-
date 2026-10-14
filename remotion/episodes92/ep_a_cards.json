@@ -1,0 +1,50 @@
+[
+  {
+    "start": 4.2,
+    "end": 6.9,
+    "lines": [
+      { "text": "ХОЧУ ОПИРАТЬСЯ", "accent": false, "size": "small" },
+      { "text": "НА ФАКТЫ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.1,
+    "end": 9.4,
+    "lines": [
+      { "text": "ДОГАДКИ", "accent": false, "size": "small" },
+      { "text": "НЕ ПРОВЕРИШЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 12.7,
+    "lines": [
+      { "text": "БЕРУ ТОЛЬКО", "accent": false, "size": "small" },
+      { "text": "НАСТОЯЩЕЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.3,
+    "end": 16.4,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.9,
+    "end": 18.2,
+    "lines": [
+      { "text": "БЕЗ ПРОГНОЗОВ", "accent": false, "size": "small" },
+      { "text": "И ДОГАДОК", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 20.3,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
