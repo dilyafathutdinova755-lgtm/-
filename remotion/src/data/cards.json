@@ -1,55 +1,63 @@
 [
   {
-    "start": 6.76,
-    "end": 9.1,
+    "start": 3.28,
+    "end": 5.62,
     "lines": [
-      { "text": "ЧИТАЮ РАЗБОР", "accent": false, "size": "small" },
-      { "text": "НЕ КАК ИСТИНУ", "accent": true, "size": "big" }
+      { "text": "УЧИТЬ ПЛАВАНИЕ", "accent": false, "size": "small" },
+      { "text": "ПО ИНСТРУКЦИИ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 9.46,
-    "end": 11.53,
+    "start": 6.43,
+    "end": 7.69,
     "lines": [
-      { "text": "А КАК ВЕРСИЮ", "accent": false, "size": "small" },
-      { "text": "НАДО ПРОВЕРИТЬ", "accent": true, "size": "big" }
+      { "text": "ПРАВИЛА", "accent": false, "size": "small" },
+      { "text": "ПОНИМАЮ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 12.34,
-    "end": 14.05,
+    "start": 7.69,
+    "end": 9.64,
     "lines": [
-      { "text": "ХОД РАССУЖДЕНИЯ", "accent": false, "size": "small" },
-      { "text": "РАСПИСАН", "accent": true, "size": "big" }
+      { "text": "НА СКОРОСТИ", "accent": false, "size": "small" },
+      { "text": "ОШИБАЮСЬ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 14.29,
-    "end": 16.03,
+    "start": 10.51,
+    "end": 12.79,
     "lines": [
-      { "text": "ПРОВЕРИТЬ МОЖНО", "accent": false, "size": "small" },
-      { "text": "ЗА ПАРУ МИНУТ", "accent": true, "size": "big" }
+      { "text": "ПРИХОДИТ ТОЛЬКО", "accent": false, "size": "small" },
+      { "text": "ОТ ПОВТОРЕНИЯ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 16.9,
-    "end": 19.54,
+    "start": 13.24,
+    "end": 15.25,
     "lines": [
-      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
-      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+      { "text": "ПРИЗНАЮ", "accent": false, "size": "small" },
+      { "text": "БЕЗ ВОСТОРГА", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 19.78,
-    "end": 22.3,
+    "start": 16.15,
+    "end": 19.66,
     "lines": [
-      { "text": "ПО ШАГАМ", "accent": false, "size": "small" },
-      { "text": "ПРИДИРЧИВО", "accent": true, "size": "big" }
+      { "text": "ПО РУССКОМУ", "accent": false, "size": "small" },
+      { "text": "ЕСТЬ ИГРЫ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 22.84,
-    "end": 24.73,
+    "start": 20.14,
+    "end": 23.11,
+    "lines": [
+      { "text": "МНОГО ПОВТОРОВ", "accent": false, "size": "small" },
+      { "text": "ЗА КОРОТКОЕ ВРЕМЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 23.8,
+    "end": 25.55,
     "lines": [
       { "text": "ССЫЛКА", "accent": true, "size": "big" },
       { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
