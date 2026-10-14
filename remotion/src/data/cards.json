@@ -4,14 +4,14 @@
     "end": 3.4,
     "lines": [
       {
-        "text": "СБОРНИК ПО ЕГЭ",
+        "text": "ВИДЕОУРОК ПО ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА НЕДЕЛЮ",
+        "text": "ПЯТНАДЦАТЬ МИНУТ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
@@ -20,12 +20,12 @@
     "end": 5.0,
     "lines": [
       {
-        "text": "КАК УСПЕТЬ",
+        "text": "А Я СМОТРЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЕРЕПИСАТЬ",
+        "text": "СОРОК",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.6,
     "lines": [
       {
-        "text": "ВСЕ НУЖНОЕ",
+        "text": "НА КАЖДОМ ШАГЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ НЕГО",
+        "text": "ПАУЗА",
         "accent": true,
         "size": "big"
       }
@@ -49,55 +49,71 @@
   },
   {
     "start": 6.6,
-    "end": 8.6,
+    "end": 8.2,
     "lines": [
       {
-        "text": "ПЕРЕПИСЫВАТЬ",
+        "text": "ДО ЗАДАНИЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДОЛГО",
+        "text": "ДЕЛО ДОХОДИТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.6,
-    "end": 10.2,
+    "start": 8.2,
+    "end": 9.8,
     "lines": [
       {
-        "text": "РЕШИЛА РЕШАТЬ",
+        "text": "КОГДА СИЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ",
+        "text": "УЖЕ НЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.8,
+    "start": 9.8,
+    "end": 11.4,
     "lines": [
       {
-        "text": "ПРЯМО ОТТУДА",
+        "text": "ТЕПЕРЬ СМОТРЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "А НЕ КОПИРОВАТЬ",
+        "text": "ОДИН РАЗ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.8,
-    "end": 13.4,
+    "start": 11.4,
+    "end": 13.0,
+    "lines": [
+      {
+        "text": "А РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СРАЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 14.6,
     "lines": [
       {
         "text": "В ЕГ",
@@ -112,8 +128,8 @@
     ]
   },
   {
-    "start": 13.4,
-    "end": 15.0,
+    "start": 14.6,
+    "end": 16.2,
     "lines": [
       {
         "text": "ЕСТЬ",
@@ -128,43 +144,27 @@
     ]
   },
   {
-    "start": 15.0,
-    "end": 16.6,
-    "lines": [
-      {
-        "text": "ЗАДАНИЕ ВСЕГДА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПОД РУКОЙ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.6,
+    "start": 16.2,
     "end": 18.2,
     "lines": [
       {
-        "text": "ПЕРЕПИСЫВАТЬ",
+        "text": "ПОСЛЕ ПРОСМОТРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ НУЖНО",
+        "text": "МОЖНО ВЗЯТЬ ЗАДАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
     "start": 18.2,
-    "end": 19.4,
+    "end": 19.8,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +176,8 @@
     ]
   },
   {
-    "start": 19.4,
-    "end": 20.37,
+    "start": 19.8,
+    "end": 21.45,
     "lines": [
       {
         "text": "ССЫЛКА",
