@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.0,
+    "end": 4.8,
+    "lines": [
+      { "text": "ПУТАЮ", "accent": false, "size": "small" },
+      { "text": "ДРУГ С ДРУГОМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 5.8,
+    "end": 8.5,
+    "lines": [
+      { "text": "ЛЕЖАТ КУЧЕЙ", "accent": false, "size": "small" },
+      { "text": "НЕ РАЗЛИЧИТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 14.7,
+    "lines": [
+      { "text": "ПОМОГАЕТ", "accent": false, "size": "small" },
+      { "text": "ПО ОДНОМУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.8,
+    "end": 17.6,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ПО ОБЩЕСТВУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.2,
+    "end": 19.5,
+    "lines": [
+      { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+      { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.0,
+    "end": 21.7,
+    "lines": [
+      { "text": "ПРОВЕРЯЮТСЯ", "accent": false, "size": "small" },
+      { "text": "ПО ОДНОМУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.6,
+    "end": 24.4,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

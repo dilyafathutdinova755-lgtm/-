@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.57,
+    "end": 5.31,
+    "lines": [
+      { "text": "ПОНИМАЮ", "accent": false, "size": "small" },
+      { "text": "С ТРЕТЬЕГО РАЗА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 9.81,
+    "lines": [
+      { "text": "ПРИ ВСЕМ КЛАССЕ", "accent": false, "size": "small" },
+      { "text": "МОЛЧУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.01,
+    "end": 13.68,
+    "lines": [
+      { "text": "ДОМА ХОЧУ", "accent": false, "size": "small" },
+      { "text": "В СВОЕМ ТЕМПЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.88,
+    "end": 17.52,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.06,
+    "end": 20.01,
+    "lines": [
+      { "text": "ЧИТАЮ", "accent": false, "size": "small" },
+      { "text": "В СВОЕМ ТЕМПЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.9,
+    "end": 23.4,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "start": 3.6,
+    "end": 6.3,
+    "lines": [
+      { "text": "НАЧАТА", "accent": false, "size": "small" },
+      { "text": "И БРОШЕНА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.3,
+    "end": 9.0,
+    "lines": [
+      { "text": "КАЖДЫЙ РАЗ", "accent": false, "size": "small" },
+      { "text": "ЗАНОВО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.4,
+    "end": 12.3,
+    "lines": [
+      { "text": "НЕ ПОНИМАЮ", "accent": false, "size": "small" },
+      { "text": "СВОИ ЖЕ ЗАПИСИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 15.8,
+    "lines": [
+      { "text": "НУЖНО", "accent": false, "size": "small" },
+      { "text": "ОДНО МЕСТО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 18.1,
+    "lines": [
+      { "text": "ПРОДОЛЖИТЬ", "accent": false, "size": "small" },
+      { "text": "С ЛЮБОГО НОМЕРА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.9,
+    "end": 21.1,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.4,
+    "end": 25.1,
+    "lines": [
+      { "text": "ЗАДАНИЯ", "accent": false, "size": "small" },
+      { "text": "ПО НОМЕРАМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 25.9,
+    "end": 28.3,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
