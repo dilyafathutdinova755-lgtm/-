@@ -1,63 +1,63 @@
 [
   {
-    "start": 4.03,
-    "end": 5.95,
+    "start": 4.31,
+    "end": 6.62,
     "lines": [
-      { "text": "ДЛЯ ТОЛСТОЙ", "accent": false, "size": "small" },
-      { "text": "МЕСТА НЕТ", "accent": true, "size": "big" }
+      { "text": "А МНЕ КАЖЕТСЯ", "accent": false, "size": "small" },
+      { "text": "НИКОГДА", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 6.64,
-    "end": 8.8,
+    "start": 7.67,
+    "end": 9.56,
     "lines": [
-      { "text": "ДЕСЯТЬ УТРОМ", "accent": false, "size": "small" },
-      { "text": "ДЕСЯТЬ ВЕЧЕРОМ", "accent": true, "size": "big" }
+      { "text": "СРАВНИВАЮ ТЕМП", "accent": false, "size": "small" },
+      { "text": "С ЧУЖИМ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 9.4,
-    "end": 10.63,
+    "start": 9.83,
+    "end": 11.6,
     "lines": [
-      { "text": "ВОТ ВСЁ", "accent": false, "size": "small" },
-      { "text": "ЧТО ЕСТЬ", "accent": true, "size": "big" }
+      { "text": "ЗАБЫВАЮ", "accent": false, "size": "small" },
+      { "text": "СВОЙ ТЕМП", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 11.5,
-    "end": 14.38,
+    "start": 12.65,
+    "end": 14.66,
     "lines": [
-      { "text": "ЗА ЭТО ВРЕМЯ", "accent": false, "size": "small" },
-      { "text": "ЗАПОМНИЛОСЬ", "accent": true, "size": "big" }
+      { "text": "ЗАПОМИНАЮ", "accent": false, "size": "small" },
+      { "text": "ПЯТЬ В ДЕНЬ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 15.34,
-    "end": 17.14,
+    "start": 15.08,
+    "end": 17.06,
+    "lines": [
+      { "text": "НЕ ПРОПУСТИЛА", "accent": false, "size": "small" },
+      { "text": "НИ ОДНОГО ДНЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.2,
+    "end": 19.91,
     "lines": [
       { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
       { "text": "ПО РУССКОМУ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 17.8,
-    "end": 19.12,
+    "start": 20.3,
+    "end": 24.08,
     "lines": [
       { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
-      { "text": "НА ПАМЯТЬ", "accent": true, "size": "big" }
+      { "text": "СВОЙ ТЕМП", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 19.72,
-    "end": 21.16,
-    "lines": [
-      { "text": "РАССЧИТАНЫ", "accent": false, "size": "small" },
-      { "text": "НА МИНУТЫ", "accent": true, "size": "big" }
-    ]
-  },
-  {
-    "start": 21.94,
-    "end": 23.68,
+    "start": 24.95,
+    "end": 26.63,
     "lines": [
       { "text": "ССЫЛКА", "accent": true, "size": "big" },
       { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
