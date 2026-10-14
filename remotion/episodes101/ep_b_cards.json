@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.2,
+    "lines": [
+      {
+        "text": "НА ОЛИМПИАДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ КАК НА ЕГЭ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.2,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "РЕШИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДРУГИМ СПОСОБОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.4,
+    "lines": [
+      {
+        "text": "ДВА СПОСОБА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДИН ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.4,
+    "end": 8.0,
+    "lines": [
+      {
+        "text": "НО КАКОЙ БЛИЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЭКЗАМЕНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "Я НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНИМАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 11.2,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 12.8,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "ГДЕ ПОКАЗАНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИНЯТЫЙ СПОСОБ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.4,
+    "end": 15.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 16.47,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ЕСЛИ БЫ РАЗРЕШАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШПАРГАЛКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "Я БЫ РИСОВАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СХЕМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "НЕ ПИСАЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕРМИНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "СХЕМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАЮТСЯ ЛУЧШЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 9.8,
+    "lines": [
+      {
+        "text": "НО В ТЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНЫ СЛОВА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.8,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "НУЖНЫ ОБА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РИСУНОК И ТЕРМИН",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.0,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.0,
+    "end": 17.67,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

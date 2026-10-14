@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "РЕШЕНИЕ ПО ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОЧЬ ПРОТЯГИВАЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "СМОТРЮ НА ЛИСТОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И НЕ ЗНАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ЧТО ИМЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "ОТВЕТ МОГУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЕРИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "НО ШАГИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОЦЕНИТЬ НЕ МОГУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.0,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "НУЖНА ПРОВЕРКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ОТВЕТА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.8,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.8,
+    "end": 16.4,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.4,
+    "end": 18.0,
+    "lines": [
+      {
+        "text": "ХОД МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРИТЬ ШАГ ЗА ШАГОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 19.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.2,
+    "end": 20.28,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

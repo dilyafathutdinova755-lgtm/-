@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.2,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ТАБЛИЦЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.2,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.4,
+    "lines": [
+      {
+        "text": "ЧИТАЮ ПО СТРОКАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "А НУЖНО ПО СТОЛБЦАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.4,
+    "end": 8.0,
+    "lines": [
+      {
+        "text": "ПРИВЫЧКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЕПЛЕНА ШКОЛОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "МЕНЯТЬ ЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАДО ОСОЗНАННО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 11.2,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 12.8,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 14.3,
+    "lines": [
+      {
+        "text": "ГДЕ ПОКАЗАНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ЧИТАТЬ ТАБЛИЦУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.3,
+    "end": 15.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.14,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "СОБЫТИЯ ПЕТРОВСКОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭПОХИ ПО ПОРЯДКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ПОЛУЧАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГИРЛЯНДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "С ПЕРЕГОРЕВШИМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛАМПОЧКАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 9.8,
+    "lines": [
+      {
+        "text": "ЧАСТЬ ГОРИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАСТЬ НЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.8,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "НАЙТИ ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОЖНО ПОВТОРЕНИЕМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.0,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "СОБЫТИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАССТАВЛЯЮТСЯ ПО ПОРЯДКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.8,
+    "end": 19.47,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
