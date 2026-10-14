@@ -1,63 +1,55 @@
 [
   {
-    "start": 3.04,
-    "end": 5.1,
+    "start": 6.76,
+    "end": 9.1,
     "lines": [
-      { "text": "ВЕРЮ В", "accent": false, "size": "small" },
-      { "text": "КОЛИЧЕСТВО", "accent": true, "size": "big" }
+      { "text": "ЧИТАЮ РАЗБОР", "accent": false, "size": "small" },
+      { "text": "НЕ КАК ИСТИНУ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 5.5,
-    "end": 7.0,
+    "start": 9.46,
+    "end": 11.53,
     "lines": [
-      { "text": "МОЙ ПЛАН", "accent": false, "size": "small" },
-      { "text": "СКУЧЕН", "accent": true, "size": "big" }
+      { "text": "А КАК ВЕРСИЮ", "accent": false, "size": "small" },
+      { "text": "НАДО ПРОВЕРИТЬ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 7.63,
-    "end": 10.03,
+    "start": 12.34,
+    "end": 14.05,
     "lines": [
-      { "text": "КАЖДЫЙ ДЕНЬ", "accent": false, "size": "small" },
-      { "text": "НАСТОЯЩИЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+      { "text": "ХОД РАССУЖДЕНИЯ", "accent": false, "size": "small" },
+      { "text": "РАСПИСАН", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 10.63,
-    "end": 12.85,
+    "start": 14.29,
+    "end": 16.03,
     "lines": [
-      { "text": "НЕ МОТИВАЦИЯ", "accent": false, "size": "small" },
-      { "text": "ВИДЕО", "accent": true, "size": "big" }
+      { "text": "ПРОВЕРИТЬ МОЖНО", "accent": false, "size": "small" },
+      { "text": "ЗА ПАРУ МИНУТ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 13.03,
-    "end": 15.67,
-    "lines": [
-      { "text": "НУЖНЫ НЕ ОНИ", "accent": false, "size": "small" },
-      { "text": "САМИ ЗАДАНИЯ", "accent": true, "size": "big" }
-    ]
-  },
-  {
-    "start": 16.54,
-    "end": 18.28,
+    "start": 16.9,
+    "end": 19.54,
     "lines": [
       { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
-      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 18.64,
-    "end": 20.77,
+    "start": 19.78,
+    "end": 22.3,
     "lines": [
-      { "text": "ЗАДАНИЯ", "accent": false, "size": "small" },
-      { "text": "БЕЗ ОБЕРТКИ", "accent": true, "size": "big" }
+      { "text": "ПО ШАГАМ", "accent": false, "size": "small" },
+      { "text": "ПРИДИРЧИВО", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 21.4,
-    "end": 23.29,
+    "start": 22.84,
+    "end": 24.73,
     "lines": [
       { "text": "ССЫЛКА", "accent": true, "size": "big" },
       { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
