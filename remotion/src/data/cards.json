@@ -4,14 +4,14 @@
     "end": 3.4,
     "lines": [
       {
-        "text": "СОБЫТИЯ ПЕТРОВСКОЙ",
+        "text": "ЕСЛИ БЫ РАЗРЕШАЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭПОХИ ПО ПОРЯДКУ",
+        "text": "ШПАРГАЛКИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
@@ -20,12 +20,12 @@
     "end": 5.0,
     "lines": [
       {
-        "text": "ДЛЯ ЕГЭ",
+        "text": "Я БЫ РИСОВАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "СХЕМЫ",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.6,
     "lines": [
       {
-        "text": "ПОЛУЧАЕТСЯ",
+        "text": "НЕ ПИСАЛ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГИРЛЯНДА",
+        "text": "ТЕРМИНЫ",
         "accent": true,
         "size": "big"
       }
@@ -52,12 +52,12 @@
     "end": 8.2,
     "lines": [
       {
-        "text": "С ПЕРЕГОРЕВШИМИ",
+        "text": "СХЕМЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛАМПОЧКАМИ",
+        "text": "ЗАПОМИНАЮТСЯ ЛУЧШЕ",
         "accent": true,
         "size": "small"
       }
@@ -68,12 +68,12 @@
     "end": 9.8,
     "lines": [
       {
-        "text": "ЧАСТЬ ГОРИТ",
+        "text": "НО В ТЕСТЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧАСТЬ НЕТ",
+        "text": "НУЖНЫ СЛОВА",
         "accent": true,
         "size": "big"
       }
@@ -84,12 +84,12 @@
     "end": 11.4,
     "lines": [
       {
-        "text": "НАЙТИ ИХ",
+        "text": "НУЖНЫ ОБА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОЖНО ПОВТОРЕНИЕМ",
+        "text": "РИСУНОК И ТЕРМИН",
         "accent": true,
         "size": "small"
       }
@@ -116,39 +116,23 @@
     "end": 14.6,
     "lines": [
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
     "start": 14.6,
-    "end": 16.2,
+    "end": 16.0,
     "lines": [
       {
-        "text": "СОБЫТИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАССТАВЛЯЮТСЯ ПО ПОРЯДКУ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 16.2,
-    "end": 17.8,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +144,8 @@
     ]
   },
   {
-    "start": 17.8,
-    "end": 19.47,
+    "start": 16.0,
+    "end": 17.67,
     "lines": [
       {
         "text": "ССЫЛКА",
