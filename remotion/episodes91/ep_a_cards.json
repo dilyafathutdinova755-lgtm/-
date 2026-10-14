@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.4,
+    "end": 6.9,
+    "lines": [
+      { "text": "БОЮСЬ", "accent": false, "size": "small" },
+      { "text": "НЕЗНАКОМЫХ ЗАДАНИЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 11.9,
+    "lines": [
+      { "text": "СПОСОБ ПРОСТОЙ", "accent": false, "size": "small" },
+      { "text": "УВИДЕТЬ БОЛЬШЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 15.6,
+    "lines": [
+      { "text": "НЕИЗВЕСТНОЕ", "accent": false, "size": "small" },
+      { "text": "СТРАШНО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.8,
+    "end": 17.9,
+    "lines": [
+      { "text": "НИКАКОЙ", "accent": false, "size": "small" },
+      { "text": "ПСИХОЛОГИИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.5,
+    "end": 20.8,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.1,
+    "end": 23.6,
+    "lines": [
+      { "text": "ПРОСМОТР", "accent": false, "size": "small" },
+      { "text": "ДО ЭКЗАМЕНА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 24.0,
+    "end": 26.3,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
