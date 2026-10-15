@@ -4,12 +4,12 @@
     "end": 3.4,
     "lines": [
       {
-        "text": "НА ЕГЭ ПО ИСТОРИИ",
+        "text": "НА ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОПРОС ПРО КУЛЬТУРУ",
+        "text": "ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
         "size": "small"
       }
@@ -20,14 +20,14 @@
     "end": 5.0,
     "lines": [
       {
-        "text": "ВОСЕМНАДЦАТОГО ВЕКА",
+        "text": "СПРОСЯТ ПРО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "Я ВСПОМНИЛ",
+        "text": "ВИДЫ ВЛАСТИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
@@ -36,14 +36,14 @@
     "end": 6.6,
     "lines": [
       {
-        "text": "ТОЛЬКО",
+        "text": "А Я ПОМНЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОМОНОСОВА",
+        "text": "ТОЛЬКО ТУ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
@@ -52,14 +52,14 @@
     "end": 8.2,
     "lines": [
       {
-        "text": "ОДИН ЧЕЛОВЕК",
+        "text": "ЧТО У",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ДЕЛАЕТ ЭПОХУ",
+        "text": "РОДИТЕЛЕЙ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
@@ -68,12 +68,12 @@
     "end": 10.0,
     "lines": [
       {
-        "text": "НУЖНЫ ЕЩЕ",
+        "text": "ВЕТВИ ВЛАСТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИМЕНА И ДОСТИЖЕНИЯ",
+        "text": "И ИХ ФУНКЦИИ",
         "accent": true,
         "size": "small"
       }
@@ -84,7 +84,23 @@
     "end": 11.6,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "НУЖНО ЗНАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -96,43 +112,27 @@
     ]
   },
   {
-    "start": 11.6,
-    "end": 13.2,
+    "start": 13.2,
+    "end": 14.8,
     "lines": [
-      {
-        "text": "ПО ИСТОРИИ",
-        "accent": false,
-        "size": "small"
-      },
       {
         "text": "ЕСТЬ ИГРЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.2,
-    "end": 15.0,
-    "lines": [
-      {
-        "text": "ИМЕНА И ДОСТИЖЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СОЕДИНЯЮТСЯ В ПАРЫ",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 15.0,
-    "end": 16.4,
+    "start": 14.8,
+    "end": 16.0,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +144,8 @@
     ]
   },
   {
-    "start": 16.4,
-    "end": 18.27,
+    "start": 16.0,
+    "end": 17.31,
     "lines": [
       {
         "text": "ССЫЛКА",
