@@ -4,14 +4,14 @@
     "end": 3.4,
     "lines": [
       {
-        "text": "ПЕРВЫЙ СНЕГ",
+        "text": "НА ЕГЭ ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ОКТЯБРЕ",
+        "text": "ВОПРОС ПРО КУЛЬТУРУ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
@@ -20,14 +20,14 @@
     "end": 5.0,
     "lines": [
       {
-        "text": "ВМЕСТО ЕГЭ",
+        "text": "ВОСЕМНАДЦАТОГО ВЕКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЛЧАСА",
+        "text": "Я ВСПОМНИЛ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
@@ -36,12 +36,12 @@
     "end": 6.6,
     "lines": [
       {
-        "text": "СМОТРЕЛА",
+        "text": "ТОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ОКНО",
+        "text": "ЛОМОНОСОВА",
         "accent": true,
         "size": "big"
       }
@@ -49,58 +49,42 @@
   },
   {
     "start": 6.6,
-    "end": 8.0,
+    "end": 8.2,
     "lines": [
       {
-        "text": "ОКНО НИКУДА",
+        "text": "ОДИН ЧЕЛОВЕК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ДЕНЕТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.0,
-    "end": 9.6,
-    "lines": [
-      {
-        "text": "А ДЕСЯТЬ МИНУТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАД ЗАДАНИЕМ",
+        "text": "НЕ ДЕЛАЕТ ЭПОХУ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 9.6,
-    "end": 11.2,
+    "start": 8.2,
+    "end": 10.0,
     "lines": [
       {
-        "text": "МОЖНО НАЙТИ",
+        "text": "НУЖНЫ ЕЩЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАЖЕ В ТАКОЙ ДЕНЬ",
+        "text": "ИМЕНА И ДОСТИЖЕНИЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 11.2,
-    "end": 13.0,
+    "start": 10.0,
+    "end": 11.6,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -112,40 +96,40 @@
     ]
   },
   {
-    "start": 13.0,
-    "end": 14.6,
+    "start": 11.6,
+    "end": 13.2,
     "lines": [
       {
-        "text": "ЕСТЬ",
+        "text": "ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНК ФИПИ",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.6,
-    "end": 16.6,
+    "start": 13.2,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ДЕСЯТЬ МИНУТ",
+        "text": "ИМЕНА И ДОСТИЖЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СКЛАДЫВАЮТСЯ В НЕДЕЛЮ",
+        "text": "СОЕДИНЯЮТСЯ В ПАРЫ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 16.6,
-    "end": 17.8,
+    "start": 15.0,
+    "end": 16.4,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +144,8 @@
     ]
   },
   {
-    "start": 17.8,
-    "end": 19.41,
+    "start": 16.4,
+    "end": 18.27,
     "lines": [
       {
         "text": "ССЫЛКА",
