@@ -1,0 +1,50 @@
+[
+  {
+    "start": 4.6,
+    "end": 8.3,
+    "lines": [
+      { "text": "ПРОЛИСТЫВАЮ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТ ПО ДЕЛУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.8,
+    "lines": [
+      { "text": "УСЛОВИЯ ШАГИ", "accent": false, "size": "small" },
+      { "text": "ИТОГ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.3,
+    "end": 13.0,
+    "lines": [
+      { "text": "УТЕШЕНИЕ", "accent": false, "size": "small" },
+      { "text": "НАЙДУ САМА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.0,
+    "end": 16.8,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.3,
+    "end": 19.9,
+    "lines": [
+      { "text": "НЕТ ВСТУПЛЕНИЙ", "accent": false, "size": "small" },
+      { "text": "ШАГИ И ИТОГ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.4,
+    "end": 22.6,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "start": 2.5,
+    "end": 6.3,
+    "lines": [
+      { "text": "БАЛЛЫ ЗА ЗНАНИЕ", "accent": false, "size": "small" },
+      { "text": "ГДЕ ЗАПЯТЫЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.4,
+    "end": 9.3,
+    "lines": [
+      { "text": "ПРЯЧУТСЯ", "accent": false, "size": "small" },
+      { "text": "В ИЗВЕСТНЫХ МЕСТАХ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.9,
+    "end": 12.0,
+    "lines": [
+      { "text": "ПЕРЕД СОЮЗАМИ", "accent": false, "size": "small" },
+      { "text": "ВОКРУГ ОБОРОТОВ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 13.9,
+    "lines": [
+      { "text": "УЧИТСЯ", "accent": false, "size": "small" },
+      { "text": "ПОВТОРЕНИЕМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.9,
+    "end": 18.5,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ИГРЫ НА ЗАПЯТЫЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 21.5,
+    "lines": [
+      { "text": "ИЩУТСЯ", "accent": false, "size": "small" },
+      { "text": "В КОРОТКИХ ФРАЗАХ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.9,
+    "end": 23.8,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
