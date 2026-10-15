@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.03, "lines": [
+    { "text": "В ЧАТЕ КЛАССА", "accent": false, "size": "small" },
+    { "text": "РЕШАЕМ ВМЕСТЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.57, "end": 6.12, "lines": [
+    { "text": "ЗА НЕДЕЛЮ", "accent": false, "size": "small" },
+    { "text": "БОЛЬШЕ ШУТОК", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.66, "end": 10.47, "lines": [
+    { "text": "ВЫШЛА ИЗ ЧАТА", "accent": false, "size": "small" },
+    { "text": "СВОИ ПРАВИЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.43, "end": 13.98, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.25, "end": 15.78, "lines": [
+    { "text": "РЕШАТЬ ВМЕСТЕ", "accent": false, "size": "small" },
+    { "text": "СЧИТАТЬ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.35, "end": 17.97, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

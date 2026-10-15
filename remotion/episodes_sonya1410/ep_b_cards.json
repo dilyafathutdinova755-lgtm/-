@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.20, "lines": [
+    { "text": "ПРОВЕРИЛА", "accent": false, "size": "small" },
+    { "text": "ПОДСТАНОВКОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.65, "end": 6.96, "lines": [
+    { "text": "ПРОВЕРЯЮЩИЙ", "accent": false, "size": "small" },
+    { "text": "ТРЕБУЕТ ДРУГОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.35, "end": 8.79, "lines": [
+    { "text": "ПОДСТАНОВКА", "accent": false, "size": "small" },
+    { "text": "СПОСОБ ПРОВЕРКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.00, "end": 11.43, "lines": [
+    { "text": "НЕ РЕШЕНИЯ", "accent": false, "size": "small" },
+    { "text": "КОГДА ДОПУСТИМА?", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.00, "end": 14.52, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.73, "end": 17.19, "lines": [
+    { "text": "КАКОЙ СПОСОБ", "accent": false, "size": "small" },
+    { "text": "ЗАСЧИТЫВАЮТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.64, "end": 19.38, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
