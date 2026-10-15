@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.43, "lines": [
+    { "text": "НУЖНО ЛИ", "accent": false, "size": "small" },
+    { "text": "ПОВТОРЯТЬ УСЛОВИЯ?", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.18, "end": 7.71, "lines": [
+    { "text": "ПРАВИЛА", "accent": false, "size": "small" },
+    { "text": "НАВЕРНОЕ ЕСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.98, "end": 10.20, "lines": [
+    { "text": "БЕЗ РАЗБОРА", "accent": false, "size": "small" },
+    { "text": "ОБА ГАДАЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.04, "end": 14.28, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.61, "end": 16.35, "lines": [
+    { "text": "ЧТО ПИСАТЬ", "accent": false, "size": "small" },
+    { "text": "А ЧТО НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.95, "end": 18.87, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

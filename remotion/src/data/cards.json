@@ -1,29 +1,29 @@
 [
-  { "start": 1.80, "end": 2.61, "lines": [
-    { "text": "ПО РУССКОМУ", "accent": false, "size": "small" },
-    { "text": "ВЫУЧИЛА ПРАВИЛА", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 4.29, "lines": [
+    { "text": "ПРОЧИТАЛ", "accent": false, "size": "small" },
+    { "text": "ТРИ РАЗА", "accent": true, "size": "big" }
   ]},
-  { "start": 3.06, "end": 6.24, "lines": [
-    { "text": "В ЖИВОМ ТЕКСТЕ", "accent": false, "size": "small" },
-    { "text": "НЕ УЗНАЁТ", "accent": true, "size": "big" }
+  { "start": 4.77, "end": 6.60, "lines": [
+    { "text": "НЕ СМОГ", "accent": false, "size": "small" },
+    { "text": "НАЗВАТЬ ВИДЫ РЫНКОВ", "accent": true, "size": "big" }
   ]},
-  { "start": 6.78, "end": 8.07, "lines": [
-    { "text": "УЗНАВАНИЕ", "accent": false, "size": "small" },
-    { "text": "В ТЕКСТЕ", "accent": true, "size": "big" }
+  { "start": 7.38, "end": 9.72, "lines": [
+    { "text": "ЧТЕНИЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 8.28, "end": 11.04, "lines": [
-    { "text": "ОТДЕЛЬНЫЙ НАВЫК", "accent": false, "size": "small" },
-    { "text": "ТОЛЬКО НА ПРИМЕРАХ", "accent": true, "size": "big" }
+  { "start": 10.02, "end": 12.00, "lines": [
+    { "text": "НУЖНЫ", "accent": false, "size": "small" },
+    { "text": "ВОПРОСЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 11.73, "end": 14.70, "lines": [
+  { "start": 12.78, "end": 15.87, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
     { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 15.00, "end": 17.22, "lines": [
-    { "text": "УЗНАВАТЬ", "accent": false, "size": "small" },
-    { "text": "В КОРОТКОМ ТЕКСТЕ", "accent": true, "size": "big" }
+  { "start": 16.20, "end": 18.75, "lines": [
+    { "text": "НЕ ПЕРЕЧИТЫВАТЬ", "accent": false, "size": "small" },
+    { "text": "А ВСПОМИНАТЬ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.88, "end": 19.74, "lines": [
+  { "start": 19.23, "end": 20.94, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

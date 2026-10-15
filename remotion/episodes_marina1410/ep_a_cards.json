@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.63, "lines": [
+    { "text": "СРАВНИЛ", "accent": false, "size": "small" },
+    { "text": "С ДЛИННЫМ БЕГОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.17, "end": 7.41, "lines": [
+    { "text": "НА ДИСТАНЦИИ", "accent": false, "size": "small" },
+    { "text": "НУЖНЫ ТРЕНИРОВКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.13, "end": 10.56, "lines": [
+    { "text": "РЕШИЛ НАЧАТЬ", "accent": false, "size": "small" },
+    { "text": "ТРИ ЗАДАЧИ В ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.13, "end": 12.90, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.32, "end": 15.54, "lines": [
+    { "text": "ТРИ ЗАДАЧИ", "accent": false, "size": "small" },
+    { "text": "БЕЗ УСИЛИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.05, "end": 17.67, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
