@@ -1,103 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.4,
+    "end": 3.2,
     "lines": [
       {
-        "text": "ЕСЛИ БЫ РАЗРЕШАЛИ",
+        "text": "ФОРМУЛУ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ШПАРГАЛКИ",
+        "text": "НУЖНО УГАДАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.4,
-    "end": 5.0,
+    "start": 3.2,
+    "end": 4.8,
     "lines": [
       {
-        "text": "Я БЫ РИСОВАЛ",
+        "text": "А В РАЗБОРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СХЕМЫ",
+        "text": "ОНА ВЫВОДИТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.0,
-    "end": 6.6,
+    "start": 4.8,
+    "end": 6.2,
     "lines": [
       {
-        "text": "НЕ ПИСАЛ",
+        "text": "ЗА ДВЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТЕРМИНЫ",
+        "text": "СТРОКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.6,
-    "end": 8.2,
+    "start": 6.2,
+    "end": 7.8,
     "lines": [
       {
-        "text": "СХЕМЫ",
+        "text": "ВЫВОД",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАЮТСЯ ЛУЧШЕ",
+        "text": "ЗАПОМИНАЕТСЯ ЛУЧШЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 8.2,
-    "end": 9.8,
+    "start": 7.8,
+    "end": 9.4,
     "lines": [
       {
-        "text": "НО В ТЕСТЕ",
+        "text": "ТЕПЕРЬ СМОТРЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНЫ СЛОВА",
+        "text": "ОТКУДА ОНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.8,
-    "end": 11.4,
-    "lines": [
-      {
-        "text": "НУЖНЫ ОБА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РИСУНОК И ТЕРМИН",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 11.4,
-    "end": 13.0,
+    "start": 9.4,
+    "end": 11.0,
     "lines": [
       {
         "text": "В ЕГ",
@@ -112,27 +96,43 @@
     ]
   },
   {
-    "start": 13.0,
-    "end": 14.6,
+    "start": 11.0,
+    "end": 12.6,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 14.6,
-    "end": 16.0,
+    "start": 12.6,
+    "end": 14.2,
     "lines": [
       {
-        "text": "ССЫЛКА НА ИГ",
+        "text": "ФОРМУЛЫ НЕ ПАДАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С НЕБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.2,
+    "end": 15.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +144,8 @@
     ]
   },
   {
-    "start": 16.0,
-    "end": 17.67,
+    "start": 15.4,
+    "end": 16.98,
     "lines": [
       {
         "text": "ССЫЛКА",
