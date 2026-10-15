@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ЛЮБИМЫЙ ОТВЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ВОПРОС ПОЧЕМУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "ПОТОМУ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТАК В КЛЮЧЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "НЕ РАБОТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИ НА УРОКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "НИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДОМА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "ПРИЧИНУ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАТЬ СЛОВАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.0,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "ИНАЧЕ КЛЮЧ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЕТСЯ ШИФРОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.8,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.8,
+    "end": 16.6,
+    "lines": [
+      {
+        "text": "У КАЖДОГО ОТВЕТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ПРИЧИНА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 17.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.6,
+    "end": 18.72,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

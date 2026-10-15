@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ПОПЫТАЛАСЬ ЧИТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР С ДОЧЕРЬЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "ВПЕРВЫЕ ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МНОГО ЛЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ПОЧУВСТВОВАЛА СЕБЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧЕНИЦЕЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "ЕСЛИ РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТЕН МНЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "ЗНАЧИТ ОН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАПИСАН ХОРОШО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.0,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "ПОНЯТНЫЙ ДАЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕМ КТО ДАВНО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.6,
+    "lines": [
+      {
+        "text": "ЗАКОНЧИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШКОЛУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.8,
+    "end": 19.44,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

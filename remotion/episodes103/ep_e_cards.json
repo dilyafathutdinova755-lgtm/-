@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.2,
+    "lines": [
+      {
+        "text": "ДЯДЯ ШАХМАТИСТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЕТ ЭТЮД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.2,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "КАЖДОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УТРО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.4,
+    "lines": [
+      {
+        "text": "Я РЕШИЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТО ЖЕ САМОЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.4,
+    "end": 8.0,
+    "lines": [
+      {
+        "text": "С ЗАДАНИЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 9.6,
+    "lines": [
+      {
+        "text": "ЧЕРЕЗ МЕСЯЦ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРИДЦАТЬ ЗАДАНИЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.6,
+    "end": 11.2,
+    "lines": [
+      {
+        "text": "А ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЖЕ ЗАМЕТНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.2,
+    "end": 12.8,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.8,
+    "end": 13.6,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗА МИНУТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.4,
+    "end": 15.21,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
