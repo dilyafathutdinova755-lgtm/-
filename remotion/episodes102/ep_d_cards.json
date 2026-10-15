@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ПОДРУГА ПРИСЛАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОЛОСОВОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "НА СЕМЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРО ЗАДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "К КОНЦУ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАБЫЛА НАЧАЛО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.8,
+    "lines": [
+      {
+        "text": "ЕГО НЕЛЬЗЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБЕЖАТЬ ГЛАЗАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.8,
+    "end": 10.6,
+    "lines": [
+      {
+        "text": "МНЕ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДХОДИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.6,
+    "end": 12.4,
+    "lines": [
+      {
+        "text": "ХОЧУ ВЕРНУТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К СТРОКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.4,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 18.0,
+    "lines": [
+      {
+        "text": "МОЖНО ПРОБЕЖАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГЛАЗАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "lines": [
+      {
+        "text": "И ВЕРНУТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЛЮБОЙ СТРОКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА Г",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.0,
+    "end": 23.16,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

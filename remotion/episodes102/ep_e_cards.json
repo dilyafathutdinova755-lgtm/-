@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ОДНОКЛАССНИК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХВАСТАЕТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "РЕШИЛ ЗА ЛЕТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОТНИ ЗАДАНИЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "НО КАКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕЧАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "РАЗНЫХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛУЧАЙНЫХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "ЭТО НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКРЫВАЕТ ПРОБЕЛЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.0,
+    "end": 11.8,
+    "lines": [
+      {
+        "text": "МНЕ НУЖНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО ТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.8,
+    "end": 13.6,
+    "lines": [
+      {
+        "text": "ГДЕ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАЮСЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 15.2,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.2,
+    "end": 16.8,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНК ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 18.4,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ВЫБИРАЕШЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО НОМЕРУ И ТЕМЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.4,
+    "end": 19.6,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.6,
+    "end": 20.91,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

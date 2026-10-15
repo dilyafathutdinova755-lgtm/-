@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "ПОДРУГА СЧИТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОРЫ ДЛЯ СЛАБЫХ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "А Я ЧИТАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "ЧТОБЫ СТАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СИЛЬНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "СИЛЬНЫЕ ТОЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБАЮТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 9.8,
+    "lines": [
+      {
+        "text": "ПРОСТО ЗНАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ ИСКАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.8,
+    "end": 11.4,
+    "lines": [
+      {
+        "text": "ПРИЧИНУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОШИБКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.0,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.0,
+    "end": 14.6,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 16.2,
+    "lines": [
+      {
+        "text": "ПРИЧИНА ОШИБКИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНА ПРЯМО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.2,
+    "end": 17.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.0,
+    "end": 18.06,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

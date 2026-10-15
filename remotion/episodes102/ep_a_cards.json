@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.2,
+    "lines": [
+      {
+        "text": "ФОРМУЛУ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНО УГАДАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.2,
+    "end": 4.8,
+    "lines": [
+      {
+        "text": "А В РАЗБОРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА ВЫВОДИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 6.2,
+    "lines": [
+      {
+        "text": "ЗА ДВЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТРОКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.2,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "ВЫВОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАЕТСЯ ЛУЧШЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 9.4,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ СМОТРЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКУДА ОНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.4,
+    "end": 11.0,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.0,
+    "end": 12.6,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.6,
+    "end": 14.2,
+    "lines": [
+      {
+        "text": "ФОРМУЛЫ НЕ ПАДАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С НЕБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.2,
+    "end": 15.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 16.98,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
