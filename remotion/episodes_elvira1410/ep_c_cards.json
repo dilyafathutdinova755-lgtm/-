@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.84, "lines": [
+    { "text": "ЛЕНТА НОВОСТЕЙ", "accent": false, "size": "small" },
+    { "text": "ТРИ ТЕРМИНА В ДЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.44, "end": 6.96, "lines": [
+    { "text": "НА ЕГЭ", "accent": false, "size": "small" },
+    { "text": "НЕ ВСПОМНЮ НИ ОДНОГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.53, "end": 9.69, "lines": [
+    { "text": "В ЛЕНТЕ", "accent": false, "size": "small" },
+    { "text": "БЕЗ ОПРЕДЕЛЕНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 11.94, "lines": [
+    { "text": "БЕЗ ПОВТОРЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ОСТАЮТСЯ ШУМОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.54, "end": 15.54, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.81, "end": 17.97, "lines": [
+    { "text": "ТЕРМИНЫ", "accent": false, "size": "small" },
+    { "text": "С ОПРЕДЕЛЕНИЯМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.60, "end": 20.31, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

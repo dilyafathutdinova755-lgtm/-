@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 4.41, "lines": [
+    { "text": "ПРЕДЛОЖИЛИ БЛОГ", "accent": false, "size": "small" },
+    { "text": "РЕШИЛА ИНАЧЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.62, "end": 6.15, "lines": [
+    { "text": "ЛУЧШЕ", "accent": false, "size": "small" },
+    { "text": "НА САМИ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.90, "end": 9.87, "lines": [
+    { "text": "БЛОГ ОТНИМАЕТ СИЛЫ", "accent": false, "size": "small" },
+    { "text": "РЕШЁННОЕ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.59, "end": 14.25, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.52, "end": 15.36, "lines": [
+    { "text": "НЕ НА", "accent": false, "size": "small" },
+    { "text": "ОФОРМЛЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.14, "end": 17.82, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

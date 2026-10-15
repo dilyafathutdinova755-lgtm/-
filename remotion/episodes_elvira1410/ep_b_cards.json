@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.26, "lines": [
+    { "text": "ПРОВЕРЯЛА РЕШЕНИЕ", "accent": false, "size": "small" },
+    { "text": "НАШЛА ОШИБКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.62, "end": 6.27, "lines": [
+    { "text": "НЕ СМОГЛА", "accent": false, "size": "small" },
+    { "text": "ОБЪЯСНИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.93, "end": 9.30, "lines": [
+    { "text": "ВИДЕТЬ", "accent": false, "size": "small" },
+    { "text": "И НАЗЫВАТЬ — РАЗНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.54, "end": 11.04, "lines": [
+    { "text": "ВТОРОЙ НАВЫК", "accent": false, "size": "small" },
+    { "text": "ПРИГОДИТСЯ НА ЕГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.76, "end": 14.10, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.28, "end": 16.02, "lines": [
+    { "text": "ОШИБКИ", "accent": false, "size": "small" },
+    { "text": "СВОИМИ СЛОВАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.62, "end": 18.21, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
