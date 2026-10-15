@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.6,
+    "end": 5.8,
+    "lines": [
+      { "text": "ВАЖНЕЕ ЗНАТЬ", "accent": false, "size": "small" },
+      { "text": "СКОЛЬКО ЗАДАНИЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 7.8,
+    "lines": [
+      { "text": "И СКОЛЬКО", "accent": false, "size": "small" },
+      { "text": "БАЛЛОВ ЗА КАЖДОЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 9.9,
+    "lines": [
+      { "text": "ЦИФРЫ КОНКРЕТНЫЕ", "accent": false, "size": "small" },
+      { "text": "ЦИТАТ НЕТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 12.0,
+    "lines": [
+      { "text": "ПРЕДПОЧИТАЮ", "accent": false, "size": "small" },
+      { "text": "ЦИФРЫ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 15.3,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.8,
+    "end": 18.7,
+    "lines": [
+      { "text": "СТРУКТУРА ЯСНА", "accent": false, "size": "small" },
+      { "text": "ПО РЕАЛЬНЫМ ЗАДАНИЯМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.3,
+    "end": 21.6,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.3,
+    "end": 5.9,
+    "lines": [
+      { "text": "ИЗ ОЦЕНКИ", "accent": false, "size": "small" },
+      { "text": "НЕ ВИДНО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.5,
+    "end": 9.3,
+    "lines": [
+      { "text": "ОЦЕНКА", "accent": false, "size": "small" },
+      { "text": "СЖАТАЯ ИНФОРМАЦИЯ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.8,
+    "end": 11.6,
+    "lines": [
+      { "text": "КАКИЕ ШАГИ", "accent": false, "size": "small" },
+      { "text": "В КАКОМ ПОРЯДКЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.8,
+    "end": 14.3,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.5,
+    "end": 16.0,
+    "lines": [
+      { "text": "ОШИБКИ ОПИСАНЫ", "accent": false, "size": "small" },
+      { "text": "ПО ШАГАМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 18.7,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

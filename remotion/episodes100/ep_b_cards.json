@@ -1,0 +1,50 @@
+[
+  {
+    "start": 5.1,
+    "end": 6.9,
+    "lines": [
+      { "text": "ЧЕСТНОГО ОТВЕТА", "accent": false, "size": "small" },
+      { "text": "НЕ НАШЛОСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 10.8,
+    "lines": [
+      { "text": "ТЕПЕРЬ ОН ЕСТЬ", "accent": false, "size": "small" },
+      { "text": "РАЗОБРАННЫЕ ОШИБКИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.3,
+    "end": 12.9,
+    "lines": [
+      { "text": "У МЕНЯ", "accent": false, "size": "small" },
+      { "text": "ОДНИ ОЦЕНКИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 16.6,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.1,
+    "end": 20.9,
+    "lines": [
+      { "text": "ОШИБКИ РАЗОБРАНЫ", "accent": false, "size": "small" },
+      { "text": "СПИСОК ШАГОВ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.1,
+    "end": 24.3,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

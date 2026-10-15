@@ -1,0 +1,50 @@
+[
+  {
+    "start": 4.5,
+    "end": 7.6,
+    "lines": [
+      { "text": "КАЖДЫЙ ЧАС", "accent": false, "size": "small" },
+      { "text": "ШЕСТАЯ ЧАСТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 11.4,
+    "lines": [
+      { "text": "ПРОЩЕ ВСЕГО", "accent": false, "size": "small" },
+      { "text": "ПОРЯДОК ЗАРАНЕЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 12.1,
+    "end": 13.8,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 16.1,
+    "lines": [
+      { "text": "ПО ПОРЯДКУ", "accent": false, "size": "small" },
+      { "text": "НОМЕРОВ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.3,
+    "end": 17.8,
+    "lines": [
+      { "text": "НЕ ТРАТЬ", "accent": false, "size": "small" },
+      { "text": "ВРЕМЯ НА ВЫБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.9,
+    "end": 20.1,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

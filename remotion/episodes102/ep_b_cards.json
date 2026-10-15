@@ -1,0 +1,50 @@
+[
+  {
+    "start": 4.3,
+    "end": 6.3,
+    "lines": [
+      { "text": "НЕДЕЛЮ", "accent": false, "size": "small" },
+      { "text": "НАД ТЕМОЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.1,
+    "end": 9.7,
+    "lines": [
+      { "text": "ПРОСТО БЫВАЕТ", "accent": false, "size": "small" },
+      { "text": "ОБЪЯСНЕНИЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.3,
+    "end": 14.0,
+    "lines": [
+      { "text": "ОЦЕНИВАЮ РАЗБОР", "accent": false, "size": "small" },
+      { "text": "ПОМОЖЕТ ЛИ ДАЛЬШЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 18.3,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.8,
+    "end": 22.3,
+    "lines": [
+      { "text": "ПОСЛЕ ТЕКСТА", "accent": false, "size": "small" },
+      { "text": "СЛЕДУЮЩЕЕ ЗАДАНИЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.9,
+    "end": 25.2,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

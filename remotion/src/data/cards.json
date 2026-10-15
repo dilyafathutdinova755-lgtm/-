@@ -1,47 +1,47 @@
 [
   {
-    "start": 3.4,
-    "end": 6.4,
+    "start": 6.7,
+    "end": 8.4,
     "lines": [
-      { "text": "СМОГУ ЛИ", "accent": false, "size": "small" },
-      { "text": "ОБЪЯСНИТЬ ЗА МИНУТУ", "accent": true, "size": "big" }
+      { "text": "ЯКОРЯ", "accent": false, "size": "small" },
+      { "text": "ДЫРЯВЫЕ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 7.2,
-    "end": 10.9,
+    "start": 8.8,
+    "end": 11.1,
     "lines": [
-      { "text": "ЕСЛИ НЕТ", "accent": false, "size": "small" },
-      { "text": "ЭТО ПРИВЫЧКА", "accent": true, "size": "big" }
+      { "text": "ЯКОРЯ ЭТО ДАТЫ", "accent": false, "size": "small" },
+      { "text": "НУЖНО ЗАКРЕПИТЬ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 11.3,
-    "end": 12.7,
+    "start": 11.5,
+    "end": 13.1,
     "lines": [
-      { "text": "НАДО", "accent": false, "size": "small" },
-      { "text": "РАЗОБРАТЬ СНОВА", "accent": true, "size": "big" }
+      { "text": "ИНАЧЕ", "accent": false, "size": "small" },
+      { "text": "ЦЕПОЧКА УПЛЫВАЕТ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 13.6,
-    "end": 16.1,
+    "start": 14.0,
+    "end": 17.0,
     "lines": [
       { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
-      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+      { "text": "ИГРЫ ПО ИСТОРИИ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 16.5,
-    "end": 19.0,
+    "start": 17.6,
+    "end": 19.8,
     "lines": [
-      { "text": "СВЕРИТЬ", "accent": false, "size": "small" },
-      { "text": "МИНУТНОЕ ОБЪЯСНЕНИЕ", "accent": true, "size": "big" }
+      { "text": "ДАТЫ", "accent": false, "size": "small" },
+      { "text": "КОРОТКИМИ РАУНДАМИ", "accent": true, "size": "big" }
     ]
   },
   {
-    "start": 19.7,
-    "end": 21.8,
+    "start": 20.3,
+    "end": 22.1,
     "lines": [
       { "text": "ССЫЛКА", "accent": true, "size": "big" },
       { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }

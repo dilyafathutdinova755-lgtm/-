@@ -1,0 +1,50 @@
+[
+  {
+    "start": 5.2,
+    "end": 7.0,
+    "lines": [
+      { "text": "И ТАК ЯСНО", "accent": false, "size": "small" },
+      { "text": "ТРОЙКА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 10.8,
+    "lines": [
+      { "text": "ЯСНО ТОЛЬКО", "accent": false, "size": "small" },
+      { "text": "ЭТОТ ШАГ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 13.2,
+    "lines": [
+      { "text": "А ДАЛЬШЕ", "accent": false, "size": "small" },
+      { "text": "МОГЛА ИДТИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.4,
+    "end": 15.3,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.0,
+    "end": 19.3,
+    "lines": [
+      { "text": "ЗАСТРЯВШЕЕ", "accent": false, "size": "small" },
+      { "text": "МОЖНО ПРОПУСТИТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.8,
+    "end": 22.1,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.2,
+    "end": 5.5,
+    "lines": [
+      { "text": "А ПОТОМ", "accent": false, "size": "small" },
+      { "text": "НИЧЕГО НЕ ВСПОМНЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 7.5,
+    "lines": [
+      { "text": "СЛУШАТЬ", "accent": false, "size": "small" },
+      { "text": "НЕ ПОВТОРЯТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 11.3,
+    "lines": [
+      { "text": "ПОСЛЕ УРОКА", "accent": false, "size": "small" },
+      { "text": "ЧТО-ТО ЗАСТАВИТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 15.4,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ИГРЫ ПО ИСТОРИИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.0,
+    "end": 18.5,
+    "lines": [
+      { "text": "ПОСЛЕ УРОКА", "accent": false, "size": "small" },
+      { "text": "СРАЗУ ПОВТОРИТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.4,
+    "end": 21.1,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
