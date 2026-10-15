@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.1,
+    "end": 4.7,
+    "lines": [
+      { "text": "НЕ ОТКРОЮ", "accent": false, "size": "small" },
+      { "text": "ТЕСТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 4.9,
+    "end": 7.4,
+    "lines": [
+      { "text": "КОНЧАЕТСЯ", "accent": false, "size": "small" },
+      { "text": "НА ВТОРОМ ВОПРОСЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.3,
+    "end": 10.0,
+    "lines": [
+      { "text": "ТРЕВОГА РАСТЕТ", "accent": false, "size": "small" },
+      { "text": "ОТ СЮРПРИЗОВ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 14.3,
+    "lines": [
+      { "text": "ВСТРЕЧАТЬСЯ", "accent": false, "size": "small" },
+      { "text": "ЗАРАНЕЕ И ПОНЕМНОГУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.1,
+    "end": 18.4,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ИГРЫ НА ПАМЯТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 18.9,
+    "end": 21.2,
+    "lines": [
+      { "text": "ВОПРОСЫ", "accent": false, "size": "small" },
+      { "text": "КОРОТКИМИ ПОРЦИЯМИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.7,
+    "end": 23.5,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

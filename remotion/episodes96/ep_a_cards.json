@@ -1,0 +1,58 @@
+[
+  {
+    "start": 4.8,
+    "end": 6.9,
+    "lines": [
+      { "text": "ВСЕГДА НАХОЖУ", "accent": false, "size": "small" },
+      { "text": "ЧЕГО НЕ ЗНАЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.8,
+    "lines": [
+      { "text": "НЕ ЗНАЧИТ", "accent": false, "size": "small" },
+      { "text": "Я НЕ ГОТОВА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.4,
+    "end": 14.3,
+    "lines": [
+      { "text": "НОРМАЛЬНЫЙ РЕЗУЛЬТАТ", "accent": false, "size": "small" },
+      { "text": "ИДЕАЛА НЕ БЫВАЕТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.2,
+    "end": 17.2,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.6,
+    "end": 20.6,
+    "lines": [
+      { "text": "РЕШАТЬ ЗАДАНИЯ", "accent": false, "size": "small" },
+      { "text": "РЕАЛЬНЫЙ РЕЗУЛЬТАТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.9,
+    "end": 22.3,
+    "lines": [
+      { "text": "ВМЕСТО", "accent": false, "size": "small" },
+      { "text": "НОЧНЫХ ДОГАДОК", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.5,
+    "end": 24.8,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.0,
+    "end": 6.6,
+    "lines": [
+      { "text": "ВДРУГ ОШИБЛАСЬ", "accent": false, "size": "small" },
+      { "text": "ЗНАЧИТ НЕ СДАМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.8,
+    "end": 10.1,
+    "lines": [
+      { "text": "ОДНА ОШИБКА", "accent": false, "size": "small" },
+      { "text": "НЕ ПРОВАЛ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.7,
+    "end": 12.8,
+    "lines": [
+      { "text": "ОБЪЯСНИТЬ СЕБЕ", "accent": false, "size": "small" },
+      { "text": "НОЧЬЮ ТРУДНО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.7,
+    "end": 16.4,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.0,
+    "end": 19.6,
+    "lines": [
+      { "text": "ОШИБКА РАЗБИРАЕТСЯ", "accent": false, "size": "small" },
+      { "text": "БЕЗ ОЦЕНКИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.1,
+    "end": 22.3,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
