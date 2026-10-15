@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.44, "lines": [
+    { "text": "В РАЗБОРАХ", "accent": false, "size": "small" },
+    { "text": "СЛЕДУЕТ ИЗ УСЛОВИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.89, "end": 7.59, "lines": [
+    { "text": "СПРОСИЛА", "accent": false, "size": "small" },
+    { "text": "ОТКУДА ИМЕННО?", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.89, "end": 11.16, "lines": [
+    { "text": "НЕ НА ВЕРУ", "accent": false, "size": "small" },
+    { "text": "ПОКАЗАТЬ ПАЛЬЦЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.79, "end": 14.16, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.43, "end": 16.26, "lines": [
+    { "text": "ПОКАЗАНО", "accent": false, "size": "small" },
+    { "text": "КАКОЕ СЛОВО", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.53, "end": 17.85, "lines": [
+    { "text": "СЛОВО", "accent": false, "size": "small" },
+    { "text": "ДАЁТ ВЫВОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.30, "end": 20.04, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.33, "lines": [
+    { "text": "ПОСТАВИЛА", "accent": false, "size": "small" },
+    { "text": "НАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.60, "end": 5.19, "lines": [
+    { "text": "А ПОТОМ", "accent": false, "size": "small" },
+    { "text": "СМАХНУЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.42, "end": 7.68, "lines": [
+    { "text": "НАПОМИНАНИЕ", "accent": false, "size": "small" },
+    { "text": "БЕЗДЕЙСТВИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.10, "end": 11.85, "lines": [
+    { "text": "ПРИВЯЗАЛА", "accent": false, "size": "small" },
+    { "text": "К ПРИВЫЧНОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.66, "end": 14.34, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.67, "end": 17.25, "lines": [
+    { "text": "ОДНО ЗАДАНИЕ", "accent": false, "size": "small" },
+    { "text": "НЕСКОЛЬКО МИНУТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.82, "end": 19.65, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
