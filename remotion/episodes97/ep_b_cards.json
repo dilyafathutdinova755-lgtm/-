@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.1,
+    "end": 6.3,
+    "lines": [
+      { "text": "ЗАПИСЫВАЮ", "accent": false, "size": "small" },
+      { "text": "ГДЕ ОШИБЛАСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.0,
+    "end": 10.1,
+    "lines": [
+      { "text": "СВЕРКА ДОГАДКИ", "accent": false, "size": "small" },
+      { "text": "НАСКОЛЬКО ТОЧНО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.3,
+    "end": 13.3,
+    "lines": [
+      { "text": "ВИЖУ ОШИБКИ", "accent": false, "size": "small" },
+      { "text": "ЭТО НАВЫК", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.6,
+    "end": 17.4,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.9,
+    "end": 20.8,
+    "lines": [
+      { "text": "СВЕРИТЬ ДОГАДКУ", "accent": false, "size": "small" },
+      { "text": "С ФАКТОМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 21.4,
+    "end": 23.6,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "start": 3.1,
+    "end": 5.6,
+    "lines": [
+      { "text": "СРАЗУ МЫСЛЬ", "accent": false, "size": "small" },
+      { "text": "НЕ ГОЖУСЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 10.0,
+    "lines": [
+      { "text": "ШАГ", "accent": false, "size": "small" },
+      { "text": "СДЕЛАННЫЙ ИНАЧЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.8,
+    "end": 13.5,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.0,
+    "end": 17.0,
+    "lines": [
+      { "text": "ОШИБКА", "accent": false, "size": "small" },
+      { "text": "МОЖНО ПОПРАВИТЬ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 19.7,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "start": 3.7,
+    "end": 5.9,
+    "lines": [
+      { "text": "ТРЕВОЖИТ БОЛЬШЕ", "accent": false, "size": "small" },
+      { "text": "ИНТЕГРАЛОВ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 6.2,
+    "end": 8.0,
+    "lines": [
+      { "text": "ХОТЯ ИХ", "accent": false, "size": "small" },
+      { "text": "НЕ ЗНАЮ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.3,
+    "end": 10.2,
+    "lines": [
+      { "text": "СТРАХ ПИТАЕТСЯ", "accent": false, "size": "small" },
+      { "text": "ОТ НЕЯСНОСТИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 10.7,
+    "end": 13.4,
+    "lines": [
+      { "text": "СПИСОК ИЗ ТРИДЦАТИ", "accent": false, "size": "small" },
+      { "text": "КОНЕЧНЫЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 17.6,
+    "lines": [
+      { "text": "МОЖНО ПРОЙТИ", "accent": false, "size": "small" },
+      { "text": "В ТРЕНАЖЕРЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 21.8,
+    "lines": [
+      { "text": "СЛОВА ИДУТ", "accent": false, "size": "small" },
+      { "text": "НЕБОЛЬШИМИ ПОРЦИЯМИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.2,
+    "end": 23.9,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

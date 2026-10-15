@@ -1,0 +1,42 @@
+[
+  {
+    "start": 5.4,
+    "end": 8.3,
+    "lines": [
+      { "text": "ЗАПИСЫВАЮ", "accent": false, "size": "small" },
+      { "text": "ДЕНЬ НЕДЕЛИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 12.9,
+    "lines": [
+      { "text": "ЕСЛИ ПОДТВЕРДИТСЯ", "accent": false, "size": "small" },
+      { "text": "ПЕРЕНЕСУ ТЕМЫ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.5,
+    "end": 16.5,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.8,
+    "end": 20.1,
+    "lines": [
+      { "text": "РЕЗУЛЬТАТЫ", "accent": false, "size": "small" },
+      { "text": "ПО ДНЯМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.7,
+    "end": 22.9,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

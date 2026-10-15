@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.1,
+    "end": 6.9,
+    "lines": [
+      { "text": "НАЗЫВАЮ ПУНКТЫ", "accent": false, "size": "small" },
+      { "text": "СПОРЮ С СОБОЙ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 11.1,
+    "lines": [
+      { "text": "СВЕРЯЮ ПЛАН", "accent": false, "size": "small" },
+      { "text": "С ОБРАЗЦОМ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 15.3,
+    "lines": [
+      { "text": "СЧИТАЮ СОВПАДЕНИЯ", "accent": false, "size": "small" },
+      { "text": "ПО СМЫСЛУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 19.9,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ИГРЫ ПО ОБЩЕСТВУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.5,
+    "end": 24.0,
+    "lines": [
+      { "text": "СВЕРИТЬ ПЛАН", "accent": false, "size": "small" },
+      { "text": "УВИДЕТЬ РАЗНИЦУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 24.9,
+    "end": 26.6,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
