@@ -1,0 +1,58 @@
+[
+  {
+    "start": 4.4,
+    "end": 7.5,
+    "lines": [
+      { "text": "ОШИБКИ", "accent": false, "size": "small" },
+      { "text": "В ОДНИХ МЕСТАХ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.3,
+    "end": 10.9,
+    "lines": [
+      { "text": "ВЫПИСАЛА НОМЕРА", "accent": false, "size": "small" },
+      { "text": "ТЕРЯЮ БАЛЛЫ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.4,
+    "end": 14.1,
+    "lines": [
+      { "text": "РЕШАЮ В ДЕНЬ", "accent": false, "size": "small" },
+      { "text": "ПО ОДНОМУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 15.1,
+    "end": 17.0,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.5,
+    "end": 19.4,
+    "lines": [
+      { "text": "ЗАДАНИЕ", "accent": false, "size": "small" },
+      { "text": "ПО НОМЕРУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.9,
+    "end": 21.9,
+    "lines": [
+      { "text": "СЛАБОЕ МЕСТО", "accent": false, "size": "small" },
+      { "text": "ОТДЕЛЬНО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 22.6,
+    "end": 24.9,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
