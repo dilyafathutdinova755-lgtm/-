@@ -1,0 +1,50 @@
+[
+  {
+    "start": 4.0,
+    "end": 7.2,
+    "lines": [
+      { "text": "ПОВТОРЕНИЕ", "accent": false, "size": "small" },
+      { "text": "СРАЗУ ПОСЛЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 8.0,
+    "end": 11.7,
+    "lines": [
+      { "text": "КОРОТКОЕ ЛУЧШЕ", "accent": false, "size": "small" },
+      { "text": "ДОЛГОГО ВЕЧЕРНЕГО", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 12.2,
+    "end": 13.8,
+    "lines": [
+      { "text": "НУЖЕН ФОРМАТ", "accent": false, "size": "small" },
+      { "text": "ДЕСЯТЬ МИНУТ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 17.3,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ИГРЫ ПО ИСТОРИИ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 17.7,
+    "end": 19.9,
+    "lines": [
+      { "text": "ДЕСЯТЬ МИНУТ", "accent": false, "size": "small" },
+      { "text": "НА ЦЕЛЫЙ РАУНД", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 20.2,
+    "end": 22.0,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]

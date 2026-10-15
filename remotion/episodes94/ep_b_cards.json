@@ -1,0 +1,50 @@
+[
+  {
+    "start": 3.4,
+    "end": 6.4,
+    "lines": [
+      { "text": "СМОГУ ЛИ", "accent": false, "size": "small" },
+      { "text": "ОБЪЯСНИТЬ ЗА МИНУТУ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 7.2,
+    "end": 10.9,
+    "lines": [
+      { "text": "ЕСЛИ НЕТ", "accent": false, "size": "small" },
+      { "text": "ЭТО ПРИВЫЧКА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 11.3,
+    "end": 12.7,
+    "lines": [
+      { "text": "НАДО", "accent": false, "size": "small" },
+      { "text": "РАЗОБРАТЬ СНОВА", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 13.6,
+    "end": 16.1,
+    "lines": [
+      { "text": "В ТРЕНАЖЕРЕ", "accent": false, "size": "small" },
+      { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 19.0,
+    "lines": [
+      { "text": "СВЕРИТЬ", "accent": false, "size": "small" },
+      { "text": "МИНУТНОЕ ОБЪЯСНЕНИЕ", "accent": true, "size": "big" }
+    ]
+  },
+  {
+    "start": 19.7,
+    "end": 21.8,
+    "lines": [
+      { "text": "ССЫЛКА", "accent": true, "size": "big" },
+      { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+    ]
+  }
+]
