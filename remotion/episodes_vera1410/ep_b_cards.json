@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.37, "lines": [
+    { "text": "ДВА ВАРИАНТА", "accent": false, "size": "small" },
+    { "text": "ЛИШНЯЯ СТРОКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.94, "end": 7.92, "lines": [
+    { "text": "КАКАЯ ЛИШНЯЯ?", "accent": false, "size": "small" },
+    { "text": "САМОЙ НЕ ПОНЯТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.10, "end": 10.14, "lines": [
+    { "text": "ПОКА НЕ ОБЪЯСНЯТ", "accent": false, "size": "small" },
+    { "text": "ЧТО ОНА ДЕЛАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.86, "end": 12.09, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.30, "end": 15.33, "lines": [
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "КАЖДАЯ СТРОКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.87, "end": 17.55, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
