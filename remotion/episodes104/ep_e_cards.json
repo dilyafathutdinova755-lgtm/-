@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ДОГОВОРЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВАДЦАТОГО ВЕКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.7,
+    "lines": [
+      {
+        "text": "НА ЕГЭ ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЮ ПО ГОРОДАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.7,
+    "end": 6.1,
+    "lines": [
+      {
+        "text": "А ЧТО БЫЛО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМНЮ ПЛОХО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.1,
+    "end": 7.5,
+    "lines": [
+      {
+        "text": "ГОРОД ЭТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АДРЕС",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 9.0,
+    "lines": [
+      {
+        "text": "А СОДЕРЖАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНО ЗНАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 10.6,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.6,
+    "end": 12.2,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.2,
+    "end": 13.8,
+    "lines": [
+      {
+        "text": "ДОГОВОРЫ СВЯЗЫВАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С ГОРОДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.8,
+    "end": 15.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.4,
+    "end": 17.218,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

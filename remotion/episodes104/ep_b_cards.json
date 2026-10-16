@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.4,
+    "lines": [
+      {
+        "text": "РАНЬШЕ РЕШАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОКА НЕ УСТАНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.4,
+    "end": 5.0,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ СТАВЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БУДИЛЬНИК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.0,
+    "end": 6.6,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВАДЦАТЬ ПЯТЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 8.2,
+    "lines": [
+      {
+        "text": "БУДИЛЬНИК ЗВЕНИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ВСЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.2,
+    "end": 10.0,
+    "lines": [
+      {
+        "text": "ОСТАНОВИТЬСЯ ПРОЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧЕМ РЕШАТЬ САМОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.0,
+    "end": 11.6,
+    "lines": [
+      {
+        "text": "КОГДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХВАТИТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.6,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 15.0,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.6,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВАДЦАТЬ ПЯТЬ МИНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.6,
+    "end": 17.8,
+    "lines": [
+      {
+        "text": "ВЫБИРАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ТЕМЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.8,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 19.82,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

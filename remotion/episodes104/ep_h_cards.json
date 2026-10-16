@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "ПОПРОБОВАЛА ОБЪЯСНИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.7,
+    "lines": [
+      {
+        "text": "КАК МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЧИЛИ В ШКОЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.7,
+    "end": 6.2,
+    "lines": [
+      {
+        "text": "А ОНА СКАЗАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЮТ ИНАЧЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.2,
+    "end": 7.7,
+    "lines": [
+      {
+        "text": "СТАРЫЕ МЕТОДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ХУЖЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.7,
+    "end": 9.2,
+    "lines": [
+      {
+        "text": "НО ЯЗЫК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.2,
+    "end": 10.9,
+    "lines": [
+      {
+        "text": "НУЖЕН РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕГОДНЯШНИМ ЯЗЫКОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.9,
+    "end": 12.5,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 14.0,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.0,
+    "end": 15.6,
+    "lines": [
+      {
+        "text": "НАПИСАННЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОВРЕМЕННЫМ ЯЗЫКОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 17.6,
+    "lines": [
+      {
+        "text": "БЕЗ ФОРМУЛ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ ШКОЛЬНОГО ПРОШЛОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.6,
+    "end": 19.0,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.0,
+    "end": 20.162,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
