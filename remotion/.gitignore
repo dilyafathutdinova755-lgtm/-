@@ -682,4 +682,5 @@ episodes104/render/
 episodes104/frames/
 episodes104/idframes/
 episodes104/qa_frames/
+episodes104/ep_*_staging/
 episodes104_out/
