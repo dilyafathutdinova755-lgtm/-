@@ -4,12 +4,12 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "ДРУГ РЕШАЕТ ЕГЭ",
+        "text": "ДРУГ БОИТСЯ ЧТО НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОЛУЧИТСЯ",
+        "text": "ПОЛУЧИТСЯ",
         "accent": true,
         "size": "big"
       }
@@ -52,12 +52,12 @@
     "end": 7.5,
     "lines": [
       {
-        "text": "ОТКРЫВАЮ",
+        "text": "ОТКРЫВАЮ СЛЕДУЮЩЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СЛЕДУЮЩЕЕ ЗАДАНИЕ",
+        "text": "ЗАДАНИЕ",
         "accent": true,
         "size": "big"
       }

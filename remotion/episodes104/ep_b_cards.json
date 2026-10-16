@@ -4,12 +4,12 @@
     "end": 3.4,
     "lines": [
       {
-        "text": "РАНЬШЕ РЕШАЛА",
+        "text": "РАНЬШЕ РЕШАЛА ПОКА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОКА НЕ УСТАНУ",
+        "text": "УСТАНУ",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.6,
     "lines": [
       {
-        "text": "НА",
+        "text": "НА ДВАДЦАТЬ ПЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВАДЦАТЬ ПЯТЬ МИНУТ",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }
@@ -68,12 +68,12 @@
     "end": 10.0,
     "lines": [
       {
-        "text": "ОСТАНОВИТЬСЯ ПРОЩЕ",
+        "text": "ОСТАНОВИТЬСЯ ПРОЩЕ ЧЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧЕМ РЕШАТЬ САМОЙ",
+        "text": "РЕШАТЬ",
         "accent": true,
         "size": "big"
       }
@@ -132,12 +132,12 @@
     "end": 16.6,
     "lines": [
       {
-        "text": "ЗАДАНИЕ НА",
+        "text": "ЗАДАНИЕ НА ДВАДЦАТЬ ПЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВАДЦАТЬ ПЯТЬ МИНУТ",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }

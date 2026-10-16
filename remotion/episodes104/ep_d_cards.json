@@ -4,12 +4,12 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "СЕСТРА СЕЛА",
+        "text": "СЕСТРА СЕЛА РЯДОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РИСОВАТЬ РЯДОМ",
+        "text": "РИСОВАТЬ",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.1,
     "lines": [
       {
-        "text": "ПОКАЗЫВАЕТ РИСУНКИ",
+        "text": "ПОКАЗЫВАЕТ КАЖДЫЕ ПЯТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАЖДЫЕ ПЯТЬ МИНУТ",
+        "text": "МИНУТ",
         "accent": true,
         "size": "big"
       }
@@ -148,12 +148,12 @@
     "end": 16.2,
     "lines": [
       {
-        "text": "СКОЛЬКО",
+        "text": "СКОЛЬКО ОДИН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН РИСУНОК",
+        "text": "РИСУНОК",
         "accent": true,
         "size": "big"
       }

@@ -52,12 +52,12 @@
     "end": 7.6,
     "lines": [
       {
-        "text": "ПЯТИСТАМИ",
+        "text": "ПЯТИСТАМИ ИЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЛИ ПЯТЬЮСТАМИ",
+        "text": "ПЯТЬЮСТАМИ",
         "accent": true,
         "size": "big"
       }
@@ -84,12 +84,12 @@
     "end": 10.6,
     "lines": [
       {
-        "text": "ВЫБИРАЕШЬ ВАРИАНТ",
+        "text": "ВЫБИРАЕШЬ ДЕСЯТЬ РАЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДЕСЯТЬ РАЗ ПОДРЯД",
+        "text": "ПОДРЯД",
         "accent": true,
         "size": "big"
       }
@@ -148,12 +148,12 @@
     "end": 17.2,
     "lines": [
       {
-        "text": "ЧИСЛИТЕЛЬНЫЕ СКЛОНЯЮТСЯ",
+        "text": "СКЛОНЯЮТСЯ РАУНД ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАУНД ЗА РАУНДОМ",
+        "text": "РАУНДОМ",
         "accent": true,
         "size": "big"
       }
@@ -164,12 +164,12 @@
     "end": 18.6,
     "lines": [
       {
-        "text": "ПОКА ФОРМА",
+        "text": "ПОКА ФОРМА НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ЗАКРЕПИТСЯ",
+        "text": "ЗАКРЕПИТСЯ",
         "accent": true,
         "size": "big"
       }

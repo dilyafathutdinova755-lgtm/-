@@ -20,12 +20,12 @@
     "end": 4.7,
     "lines": [
       {
-        "text": "ПО ЕГЭ",
+        "text": "ПО ЕГЭ В ХОРОШЕМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ХОРОШЕМ НАСТРОЕНИИ",
+        "text": "НАСТРОЕНИИ",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.1,
     "lines": [
       {
-        "text": "УЧИТЕЛЬ СКАЗАЛ",
+        "text": "УЧИТЕЛЬ СКАЗАЛ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ПРОГРЕСС",
+        "text": "ПРОГРЕСС",
         "accent": true,
         "size": "big"
       }
@@ -68,12 +68,12 @@
     "end": 9.3,
     "lines": [
       {
-        "text": "Я ПРЕДЛОЖИЛА",
+        "text": "Я ПРЕДЛОЖИЛА ИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПИСЫВАТЬ ИХ",
+        "text": "ЗАПИСЫВАТЬ",
         "accent": true,
         "size": "big"
       }
@@ -132,12 +132,12 @@
     "end": 15.0,
     "lines": [
       {
-        "text": "РЕЗУЛЬТАТЫ НЕДЕЛИ",
+        "text": "РЕЗУЛЬТАТЫ НЕДЕЛИ ВИДНЫ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВИДНЫ ПО ТЕМАМ",
+        "text": "ТЕМАМ",
         "accent": true,
         "size": "big"
       }

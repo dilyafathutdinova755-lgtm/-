@@ -20,12 +20,12 @@
     "end": 4.7,
     "lines": [
       {
-        "text": "КАК МЕНЯ",
+        "text": "КАК МЕНЯ УЧИЛИ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УЧИЛИ В ШКОЛЕ",
+        "text": "ШКОЛЕ",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.2,
     "lines": [
       {
-        "text": "А ОНА СКАЗАЛА",
+        "text": "А ОНА СКАЗАЛА ОБЪЯСНЯЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЯЮТ ИНАЧЕ",
+        "text": "ИНАЧЕ",
         "accent": true,
         "size": "big"
       }
@@ -148,12 +148,12 @@
     "end": 17.6,
     "lines": [
       {
-        "text": "БЕЗ ФОРМУЛ",
+        "text": "БЕЗ ФОРМУЛ ИЗ ШКОЛЬНОГО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЗ ШКОЛЬНОГО ПРОШЛОГО",
+        "text": "ПРОШЛОГО",
         "accent": true,
         "size": "big"
       }

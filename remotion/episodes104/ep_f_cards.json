@@ -20,12 +20,12 @@
     "end": 4.7,
     "lines": [
       {
-        "text": "РАБОТАЕТ КАК",
+        "text": "РАБОТАЕТ КАК ЖЕЛТЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЖЕЛТЫЙ МАРКЕР",
+        "text": "МАРКЕР",
         "accent": true,
         "size": "big"
       }
@@ -36,12 +36,12 @@
     "end": 6.1,
     "lines": [
       {
-        "text": "ПОСЛЕ НЕГО",
+        "text": "ПОСЛЕ НЕГО САМОЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "САМОЕ ВАЖНОЕ",
+        "text": "ВАЖНОЕ",
         "accent": true,
         "size": "big"
       }
@@ -132,12 +132,12 @@
     "end": 15.6,
     "lines": [
       {
-        "text": "КЛЮЧЕВЫЕ МЕСТА",
+        "text": "КЛЮЧЕВЫЕ МЕСТА ВЫДЕЛЕНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫДЕЛЕНЫ ОТДЕЛЬНО",
+        "text": "ОТДЕЛЬНО",
         "accent": true,
         "size": "big"
       }

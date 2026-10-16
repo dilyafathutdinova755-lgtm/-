@@ -4,12 +4,12 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "ДУМАЛ ЧТО РАЗБОР",
+        "text": "РАЗБОР ОТВЕЧАЕТ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТВЕЧАЕТ НА КАК",
+        "text": "КАК",
         "accent": true,
         "size": "big"
       }
@@ -20,12 +20,12 @@
     "end": 4.7,
     "lines": [
       {
-        "text": "А ОН ЕЩЕ",
+        "text": "А ОН ЕЩЕ ОБЪЯСНЯЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЯЕТ ЗАЧЕМ",
+        "text": "ЗАЧЕМ",
         "accent": true,
         "size": "big"
       }
@@ -116,12 +116,12 @@
     "end": 13.8,
     "lines": [
       {
-        "text": "У КАЖДОГО ШАГА",
+        "text": "У КАЖДОГО ШАГА УКАЗАНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "УКАЗАНО ЗАЧЕМ",
+        "text": "ЗАЧЕМ",
         "accent": true,
         "size": "big"
       }

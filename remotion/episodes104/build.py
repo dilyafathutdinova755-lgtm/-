@@ -136,10 +136,10 @@ def process(letter, cards, intro, emphasis):
 # ---------------------------------------------------------------------------
 a_intro = {"lines": ["А ВДРУГ", "НЕ ПОЛУЧИТСЯ"], "end": 1.86}
 a_cards = [
-    {"start": 1.86, "end": 3.30, "lines": [{"text": "ДРУГ РЕШАЕТ ЕГЭ", "accent": False, "size": "small"}, {"text": "НЕ ПОЛУЧИТСЯ", "accent": True, "size": "big"}]},
+    {"start": 1.86, "end": 3.30, "lines": [{"text": "ДРУГ БОИТСЯ ЧТО НЕ", "accent": False, "size": "small"}, {"text": "ПОЛУЧИТСЯ", "accent": True, "size": "big"}]},
     {"start": 3.30, "end": 4.70, "lines": [{"text": "А Я", "accent": False, "size": "small"}, {"text": "ПОЛУЧИТСЯ", "accent": True, "size": "big"}]},
     {"start": 4.70, "end": 6.10, "lines": [{"text": "РАЗНИЦА В ТОМ", "accent": False, "size": "small"}, {"text": "ЧТО Я ЧАЩЕ", "accent": True, "size": "big"}]},
-    {"start": 6.10, "end": 7.50, "lines": [{"text": "ОТКРЫВАЮ", "accent": False, "size": "small"}, {"text": "СЛЕДУЮЩЕЕ ЗАДАНИЕ", "accent": True, "size": "big"}]},
+    {"start": 6.10, "end": 7.50, "lines": [{"text": "ОТКРЫВАЮ СЛЕДУЮЩЕЕ", "accent": False, "size": "small"}, {"text": "ЗАДАНИЕ", "accent": True, "size": "big"}]},
     {"start": 7.50, "end": 9.00, "lines": [{"text": "В ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 9.00, "end": 10.60, "lines": [{"text": "ЕСТЬ БАНК", "accent": False, "size": "small"}, {"text": "ФИПИ", "accent": True, "size": "big"}]},
     {"start": 10.60, "end": 12.20, "lines": [{"text": "СЛЕДУЮЩЕЕ ЗАДАНИЕ", "accent": False, "size": "small"}, {"text": "ОТКРЫВАЕТСЯ СРАЗУ", "accent": True, "size": "small"}]},
@@ -156,17 +156,17 @@ process("a", a_cards, a_intro, a_emphasis)
 # exhaustion gets swapped for a fixed twenty-five-minute timer -- the
 # app's FIPI bank picks a task for that exact window, sorted by topic
 # ---------------------------------------------------------------------------
-b_intro = {"lines": ["НЕ ЗНАЮ", "КОГДА ОСТАНОВИТЬСЯ"], "end": 1.86}
+b_intro = {"lines": ["НЕ ЗНАЮ", "КОГДА ХВАТИТ"], "end": 1.86}
 b_cards = [
-    {"start": 1.86, "end": 3.40, "lines": [{"text": "РАНЬШЕ РЕШАЛА", "accent": False, "size": "small"}, {"text": "ПОКА НЕ УСТАНУ", "accent": True, "size": "big"}]},
+    {"start": 1.86, "end": 3.40, "lines": [{"text": "РАНЬШЕ РЕШАЛА ПОКА НЕ", "accent": False, "size": "small"}, {"text": "УСТАНУ", "accent": True, "size": "big"}]},
     {"start": 3.40, "end": 5.00, "lines": [{"text": "ТЕПЕРЬ СТАВЛЮ", "accent": False, "size": "small"}, {"text": "БУДИЛЬНИК", "accent": True, "size": "big"}]},
-    {"start": 5.00, "end": 6.60, "lines": [{"text": "НА", "accent": False, "size": "small"}, {"text": "ДВАДЦАТЬ ПЯТЬ МИНУТ", "accent": True, "size": "big"}]},
+    {"start": 5.00, "end": 6.60, "lines": [{"text": "НА ДВАДЦАТЬ ПЯТЬ", "accent": False, "size": "small"}, {"text": "МИНУТ", "accent": True, "size": "big"}]},
     {"start": 6.60, "end": 8.20, "lines": [{"text": "БУДИЛЬНИК ЗВЕНИТ", "accent": False, "size": "small"}, {"text": "И ВСЕ", "accent": True, "size": "big"}]},
-    {"start": 8.20, "end": 10.00, "lines": [{"text": "ОСТАНОВИТЬСЯ ПРОЩЕ", "accent": False, "size": "small"}, {"text": "ЧЕМ РЕШАТЬ САМОЙ", "accent": True, "size": "big"}]},
+    {"start": 8.20, "end": 10.00, "lines": [{"text": "ОСТАНОВИТЬСЯ ПРОЩЕ ЧЕМ", "accent": False, "size": "small"}, {"text": "РЕШАТЬ", "accent": True, "size": "big"}]},
     {"start": 10.00, "end": 11.60, "lines": [{"text": "КОГДА", "accent": False, "size": "small"}, {"text": "ХВАТИТ", "accent": True, "size": "big"}]},
     {"start": 11.60, "end": 13.20, "lines": [{"text": "В ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 13.20, "end": 15.00, "lines": [{"text": "ЕСТЬ БАНК", "accent": False, "size": "small"}, {"text": "ФИПИ", "accent": True, "size": "big"}]},
-    {"start": 15.00, "end": 16.60, "lines": [{"text": "ЗАДАНИЕ НА", "accent": False, "size": "small"}, {"text": "ДВАДЦАТЬ ПЯТЬ МИНУТ", "accent": True, "size": "big"}]},
+    {"start": 15.00, "end": 16.60, "lines": [{"text": "ЗАДАНИЕ НА ДВАДЦАТЬ ПЯТЬ", "accent": False, "size": "small"}, {"text": "МИНУТ", "accent": True, "size": "big"}]},
     {"start": 16.60, "end": 17.80, "lines": [{"text": "ВЫБИРАЕТСЯ", "accent": False, "size": "small"}, {"text": "ПО ТЕМЕ", "accent": True, "size": "big"}]},
     {"start": 17.80, "end": 19.00, "lines": [{"text": "ССЫЛКА НА ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 19.00, "end": 19.82, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
@@ -183,14 +183,14 @@ process("b", b_cards, b_intro, b_emphasis)
 c_intro = {"lines": ["ЕСТЬ ЛИ", "ПРОГРЕСС"], "end": 1.86}
 c_cards = [
     {"start": 1.86, "end": 3.30, "lines": [{"text": "ДОЧЬ ВЕРНУЛАСЬ", "accent": False, "size": "small"}, {"text": "С КОНСУЛЬТАЦИИ", "accent": True, "size": "small"}]},
-    {"start": 3.30, "end": 4.70, "lines": [{"text": "ПО ЕГЭ", "accent": False, "size": "small"}, {"text": "В ХОРОШЕМ НАСТРОЕНИИ", "accent": True, "size": "big"}]},
-    {"start": 4.70, "end": 6.10, "lines": [{"text": "УЧИТЕЛЬ СКАЗАЛ", "accent": False, "size": "small"}, {"text": "ЕСТЬ ПРОГРЕСС", "accent": True, "size": "big"}]},
+    {"start": 3.30, "end": 4.70, "lines": [{"text": "ПО ЕГЭ В ХОРОШЕМ", "accent": False, "size": "small"}, {"text": "НАСТРОЕНИИ", "accent": True, "size": "big"}]},
+    {"start": 4.70, "end": 6.10, "lines": [{"text": "УЧИТЕЛЬ СКАЗАЛ ЕСТЬ", "accent": False, "size": "small"}, {"text": "ПРОГРЕСС", "accent": True, "size": "big"}]},
     {"start": 6.10, "end": 7.50, "lines": [{"text": "ПРОГРЕСС ВИДЕН", "accent": False, "size": "small"}, {"text": "ПО ЦИФРАМ", "accent": True, "size": "big"}]},
-    {"start": 7.50, "end": 9.30, "lines": [{"text": "Я ПРЕДЛОЖИЛА", "accent": False, "size": "small"}, {"text": "ЗАПИСЫВАТЬ ИХ", "accent": True, "size": "big"}]},
+    {"start": 7.50, "end": 9.30, "lines": [{"text": "Я ПРЕДЛОЖИЛА ИХ", "accent": False, "size": "small"}, {"text": "ЗАПИСЫВАТЬ", "accent": True, "size": "big"}]},
     {"start": 9.30, "end": 10.70, "lines": [{"text": "В КОНЦЕ", "accent": False, "size": "small"}, {"text": "НЕДЕЛИ", "accent": True, "size": "big"}]},
     {"start": 10.70, "end": 12.10, "lines": [{"text": "В ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 12.10, "end": 13.50, "lines": [{"text": "ЕСТЬ БАНК", "accent": False, "size": "small"}, {"text": "ФИПИ", "accent": True, "size": "big"}]},
-    {"start": 13.50, "end": 15.00, "lines": [{"text": "РЕЗУЛЬТАТЫ НЕДЕЛИ", "accent": False, "size": "small"}, {"text": "ВИДНЫ ПО ТЕМАМ", "accent": True, "size": "big"}]},
+    {"start": 13.50, "end": 15.00, "lines": [{"text": "РЕЗУЛЬТАТЫ НЕДЕЛИ ВИДНЫ ПО", "accent": False, "size": "small"}, {"text": "ТЕМАМ", "accent": True, "size": "big"}]},
     {"start": 15.00, "end": 16.30, "lines": [{"text": "ССЫЛКА НА ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 16.30, "end": 17.154, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
 ]
@@ -203,18 +203,18 @@ process("c", c_cards, c_intro, c_emphasis)
 # become a built-in reward after every task -- the app's FIPI bank makes
 # one task take about as long as one drawing
 # ---------------------------------------------------------------------------
-d_intro = {"lines": ["СЕСТРА ОТВЛЕКАЕТ", "КАЖДЫЕ ПЯТЬ МИНУТ"], "end": 1.86}
+d_intro = {"lines": ["СЕСТРА", "ОТВЛЕКАЕТ"], "end": 1.86}
 d_cards = [
-    {"start": 1.86, "end": 3.30, "lines": [{"text": "СЕСТРА СЕЛА", "accent": False, "size": "small"}, {"text": "РИСОВАТЬ РЯДОМ", "accent": True, "size": "big"}]},
+    {"start": 1.86, "end": 3.30, "lines": [{"text": "СЕСТРА СЕЛА РЯДОМ", "accent": False, "size": "small"}, {"text": "РИСОВАТЬ", "accent": True, "size": "big"}]},
     {"start": 3.30, "end": 4.70, "lines": [{"text": "ПОКА Я", "accent": False, "size": "small"}, {"text": "РЕШАЮ ЕГЭ", "accent": True, "size": "big"}]},
-    {"start": 4.70, "end": 6.10, "lines": [{"text": "ПОКАЗЫВАЕТ РИСУНКИ", "accent": False, "size": "small"}, {"text": "КАЖДЫЕ ПЯТЬ МИНУТ", "accent": True, "size": "big"}]},
+    {"start": 4.70, "end": 6.10, "lines": [{"text": "ПОКАЗЫВАЕТ КАЖДЫЕ ПЯТЬ", "accent": False, "size": "small"}, {"text": "МИНУТ", "accent": True, "size": "big"}]},
     {"start": 6.10, "end": 7.50, "lines": [{"text": "МЫ ДОГОВОРИЛИСЬ", "accent": False, "size": "small"}, {"text": "РИСУНОК", "accent": True, "size": "big"}]},
     {"start": 7.50, "end": 9.00, "lines": [{"text": "ПОСЛЕ КАЖДОГО", "accent": False, "size": "small"}, {"text": "ЗАДАНИЯ", "accent": True, "size": "big"}]},
     {"start": 9.00, "end": 10.60, "lines": [{"text": "И ОБА СТАЛИ", "accent": False, "size": "small"}, {"text": "УСИДЧИВЕЕ", "accent": True, "size": "big"}]},
     {"start": 10.60, "end": 12.20, "lines": [{"text": "В ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 12.20, "end": 13.60, "lines": [{"text": "ЕСТЬ БАНК", "accent": False, "size": "small"}, {"text": "ФИПИ", "accent": True, "size": "big"}]},
     {"start": 13.60, "end": 15.00, "lines": [{"text": "ЗАДАНИЕ ЗАНИМАЕТ", "accent": False, "size": "small"}, {"text": "СТОЛЬКО ЖЕ", "accent": True, "size": "big"}]},
-    {"start": 15.00, "end": 16.20, "lines": [{"text": "СКОЛЬКО", "accent": False, "size": "small"}, {"text": "ОДИН РИСУНОК", "accent": True, "size": "big"}]},
+    {"start": 15.00, "end": 16.20, "lines": [{"text": "СКОЛЬКО ОДИН", "accent": False, "size": "small"}, {"text": "РИСУНОК", "accent": True, "size": "big"}]},
     {"start": 16.20, "end": 17.30, "lines": [{"text": "ССЫЛКА НА ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 17.30, "end": 18.12, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
 ]
@@ -229,11 +229,11 @@ process("d", d_cards, d_intro, d_emphasis)
 # ---------------------------------------------------------------------------
 e_intro = {"lines": ["ПОМНЮ ТОЛЬКО", "ГОРОДА"], "end": 1.86}
 e_cards = [
-    {"start": 1.86, "end": 3.30, "lines": [{"text": "ДОГОВОРЫ", "accent": False, "size": "small"}, {"text": "ДВАДЦАТОГО ВЕКА", "accent": True, "size": "big"}]},
-    {"start": 3.30, "end": 4.70, "lines": [{"text": "НА ЕГЭ ПО ИСТОРИИ", "accent": False, "size": "small"}, {"text": "ЗНАЮ ПО ГОРОДАМ", "accent": True, "size": "big"}]},
-    {"start": 4.70, "end": 6.10, "lines": [{"text": "А ЧТО БЫЛО", "accent": False, "size": "small"}, {"text": "ПОМНЮ ПЛОХО", "accent": True, "size": "big"}]},
+    {"start": 1.86, "end": 3.30, "lines": [{"text": "ДОГОВОРЫ ДВАДЦАТОГО", "accent": False, "size": "small"}, {"text": "ВЕКА", "accent": True, "size": "big"}]},
+    {"start": 3.30, "end": 4.70, "lines": [{"text": "НА ЕГЭ ПО ИСТОРИИ ЗНАЮ ПО", "accent": False, "size": "small"}, {"text": "ГОРОДАМ", "accent": True, "size": "big"}]},
+    {"start": 4.70, "end": 6.10, "lines": [{"text": "А ЧТО БЫЛО ПОМНЮ", "accent": False, "size": "small"}, {"text": "ПЛОХО", "accent": True, "size": "big"}]},
     {"start": 6.10, "end": 7.50, "lines": [{"text": "ГОРОД ЭТО", "accent": False, "size": "small"}, {"text": "АДРЕС", "accent": True, "size": "big"}]},
-    {"start": 7.50, "end": 9.00, "lines": [{"text": "А СОДЕРЖАНИЕ", "accent": False, "size": "small"}, {"text": "НУЖНО ЗНАТЬ", "accent": True, "size": "big"}]},
+    {"start": 7.50, "end": 9.00, "lines": [{"text": "А СОДЕРЖАНИЕ НУЖНО", "accent": False, "size": "small"}, {"text": "ЗНАТЬ", "accent": True, "size": "big"}]},
     {"start": 9.00, "end": 10.60, "lines": [{"text": "В ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 10.60, "end": 12.20, "lines": [{"text": "ПО ИСТОРИИ", "accent": False, "size": "small"}, {"text": "ЕСТЬ ИГРЫ", "accent": True, "size": "big"}]},
     {"start": 12.20, "end": 13.80, "lines": [{"text": "ДОГОВОРЫ СВЯЗЫВАЮТСЯ", "accent": False, "size": "small"}, {"text": "С ГОРОДАМИ", "accent": True, "size": "big"}]},
@@ -249,17 +249,17 @@ process("e", e_cards, e_intro, e_emphasis)
 # breakdown works like a highlighter for the one nonstandard step -- the
 # app's text breakdown highlights exactly those key spots separately
 # ---------------------------------------------------------------------------
-f_intro = {"lines": ["ПРОПУСКАЮ СЛОВО", "ЗАМЕТИМ"], "end": 1.86}
+f_intro = {"lines": ["ПРОПУСКАЮ", "СЛОВО ЗАМЕТИМ"], "end": 1.86}
 f_cards = [
     {"start": 1.86, "end": 3.30, "lines": [{"text": "СЛОВО ЗАМЕТИМ", "accent": False, "size": "small"}, {"text": "В РАЗБОРЕ", "accent": True, "size": "big"}]},
-    {"start": 3.30, "end": 4.70, "lines": [{"text": "РАБОТАЕТ КАК", "accent": False, "size": "small"}, {"text": "ЖЕЛТЫЙ МАРКЕР", "accent": True, "size": "big"}]},
-    {"start": 4.70, "end": 6.10, "lines": [{"text": "ПОСЛЕ НЕГО", "accent": False, "size": "small"}, {"text": "САМОЕ ВАЖНОЕ", "accent": True, "size": "big"}]},
+    {"start": 3.30, "end": 4.70, "lines": [{"text": "РАБОТАЕТ КАК ЖЕЛТЫЙ", "accent": False, "size": "small"}, {"text": "МАРКЕР", "accent": True, "size": "big"}]},
+    {"start": 4.70, "end": 6.10, "lines": [{"text": "ПОСЛЕ НЕГО САМОЕ", "accent": False, "size": "small"}, {"text": "ВАЖНОЕ", "accent": True, "size": "big"}]},
     {"start": 6.10, "end": 7.50, "lines": [{"text": "ЭТО", "accent": False, "size": "small"}, {"text": "СИГНАЛ", "accent": True, "size": "big"}]},
     {"start": 7.50, "end": 9.00, "lines": [{"text": "РАЗ ЗАМЕТИМ", "accent": False, "size": "small"}, {"text": "ЗНАЧИТ ШАГ", "accent": True, "size": "big"}]},
     {"start": 9.00, "end": 10.60, "lines": [{"text": "НЕСТАНДАРТНЫЙ", "accent": False, "size": "small"}, {"text": "И ВАЖНЫЙ", "accent": True, "size": "big"}]},
     {"start": 10.60, "end": 12.20, "lines": [{"text": "В ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 12.20, "end": 13.80, "lines": [{"text": "К ЗАДАНИЯМ", "accent": False, "size": "small"}, {"text": "ЕСТЬ РАЗБОР", "accent": True, "size": "big"}]},
-    {"start": 13.80, "end": 15.60, "lines": [{"text": "КЛЮЧЕВЫЕ МЕСТА", "accent": False, "size": "small"}, {"text": "ВЫДЕЛЕНЫ ОТДЕЛЬНО", "accent": True, "size": "big"}]},
+    {"start": 13.80, "end": 15.60, "lines": [{"text": "КЛЮЧЕВЫЕ МЕСТА ВЫДЕЛЕНЫ", "accent": False, "size": "small"}, {"text": "ОТДЕЛЬНО", "accent": True, "size": "big"}]},
     {"start": 15.60, "end": 17.00, "lines": [{"text": "ССЫЛКА НА ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 17.00, "end": 18.20, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
 ]
@@ -277,14 +277,14 @@ g_cards = [
     {"start": 1.86, "end": 3.30, "lines": [{"text": "СКЛОНЕНИЕ", "accent": False, "size": "small"}, {"text": "ЧИСЛИТЕЛЬНЫХ", "accent": True, "size": "small"}]},
     {"start": 3.30, "end": 4.70, "lines": [{"text": "НА ЕГЭ ПО РУССКОМУ", "accent": False, "size": "small"}, {"text": "ЕДИНСТВЕННАЯ ТЕМА", "accent": True, "size": "small"}]},
     {"start": 4.70, "end": 6.10, "lines": [{"text": "ГДЕ Я", "accent": False, "size": "small"}, {"text": "СТЕСНЯЮСЬ", "accent": True, "size": "big"}]},
-    {"start": 6.10, "end": 7.60, "lines": [{"text": "ПЯТИСТАМИ", "accent": False, "size": "small"}, {"text": "ИЛИ ПЯТЬЮСТАМИ", "accent": True, "size": "big"}]},
+    {"start": 6.10, "end": 7.60, "lines": [{"text": "ПЯТИСТАМИ ИЛИ", "accent": False, "size": "small"}, {"text": "ПЯТЬЮСТАМИ", "accent": True, "size": "big"}]},
     {"start": 7.60, "end": 9.00, "lines": [{"text": "СТЕСНЕНИЕ ПРОХОДИТ", "accent": False, "size": "small"}, {"text": "КОГДА", "accent": True, "size": "big"}]},
-    {"start": 9.00, "end": 10.60, "lines": [{"text": "ВЫБИРАЕШЬ ВАРИАНТ", "accent": False, "size": "small"}, {"text": "ДЕСЯТЬ РАЗ ПОДРЯД", "accent": True, "size": "big"}]},
+    {"start": 9.00, "end": 10.60, "lines": [{"text": "ВЫБИРАЕШЬ ДЕСЯТЬ РАЗ", "accent": False, "size": "small"}, {"text": "ПОДРЯД", "accent": True, "size": "big"}]},
     {"start": 10.60, "end": 12.20, "lines": [{"text": "И ОН СТАНОВИТСЯ", "accent": False, "size": "small"}, {"text": "ПРИВЫЧНЫМ", "accent": True, "size": "big"}]},
     {"start": 12.20, "end": 13.80, "lines": [{"text": "В ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 13.80, "end": 15.40, "lines": [{"text": "ПО РУССКОМУ", "accent": False, "size": "small"}, {"text": "ЕСТЬ ИГРЫ", "accent": True, "size": "big"}]},
-    {"start": 15.40, "end": 17.20, "lines": [{"text": "ЧИСЛИТЕЛЬНЫЕ СКЛОНЯЮТСЯ", "accent": False, "size": "small"}, {"text": "РАУНД ЗА РАУНДОМ", "accent": True, "size": "big"}]},
-    {"start": 17.20, "end": 18.60, "lines": [{"text": "ПОКА ФОРМА", "accent": False, "size": "small"}, {"text": "НЕ ЗАКРЕПИТСЯ", "accent": True, "size": "big"}]},
+    {"start": 15.40, "end": 17.20, "lines": [{"text": "СКЛОНЯЮТСЯ РАУНД ЗА", "accent": False, "size": "small"}, {"text": "РАУНДОМ", "accent": True, "size": "big"}]},
+    {"start": 17.20, "end": 18.60, "lines": [{"text": "ПОКА ФОРМА НЕ", "accent": False, "size": "small"}, {"text": "ЗАКРЕПИТСЯ", "accent": True, "size": "big"}]},
     {"start": 18.60, "end": 19.80, "lines": [{"text": "ССЫЛКА НА ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 19.80, "end": 20.631, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
 ]
@@ -300,15 +300,15 @@ process("g", g_cards, g_intro, g_emphasis)
 h_intro = {"lines": ["ОБЪЯСНЯЮ", "КАК УЧИЛИ МЕНЯ"], "end": 1.86}
 h_cards = [
     {"start": 1.86, "end": 3.30, "lines": [{"text": "ПОПРОБОВАЛА ОБЪЯСНИТЬ", "accent": False, "size": "small"}, {"text": "ЗАДАНИЕ ЕГЭ", "accent": True, "size": "big"}]},
-    {"start": 3.30, "end": 4.70, "lines": [{"text": "КАК МЕНЯ", "accent": False, "size": "small"}, {"text": "УЧИЛИ В ШКОЛЕ", "accent": True, "size": "big"}]},
-    {"start": 4.70, "end": 6.20, "lines": [{"text": "А ОНА СКАЗАЛА", "accent": False, "size": "small"}, {"text": "ОБЪЯСНЯЮТ ИНАЧЕ", "accent": True, "size": "big"}]},
+    {"start": 3.30, "end": 4.70, "lines": [{"text": "КАК МЕНЯ УЧИЛИ В", "accent": False, "size": "small"}, {"text": "ШКОЛЕ", "accent": True, "size": "big"}]},
+    {"start": 4.70, "end": 6.20, "lines": [{"text": "А ОНА СКАЗАЛА ОБЪЯСНЯЮТ", "accent": False, "size": "small"}, {"text": "ИНАЧЕ", "accent": True, "size": "big"}]},
     {"start": 6.20, "end": 7.70, "lines": [{"text": "СТАРЫЕ МЕТОДЫ", "accent": False, "size": "small"}, {"text": "НЕ ХУЖЕ", "accent": True, "size": "big"}]},
     {"start": 7.70, "end": 9.20, "lines": [{"text": "НО ЯЗЫК", "accent": False, "size": "small"}, {"text": "РАЗНЫЙ", "accent": True, "size": "big"}]},
     {"start": 9.20, "end": 10.90, "lines": [{"text": "НУЖЕН РАЗБОР", "accent": False, "size": "small"}, {"text": "СЕГОДНЯШНИМ ЯЗЫКОМ", "accent": True, "size": "small"}]},
     {"start": 10.90, "end": 12.50, "lines": [{"text": "В ЕГЭ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 12.50, "end": 14.00, "lines": [{"text": "К ЗАДАНИЯМ", "accent": False, "size": "small"}, {"text": "ЕСТЬ РАЗБОР", "accent": True, "size": "big"}]},
     {"start": 14.00, "end": 15.60, "lines": [{"text": "НАПИСАННЫЙ", "accent": False, "size": "small"}, {"text": "СОВРЕМЕННЫМ ЯЗЫКОМ", "accent": True, "size": "small"}]},
-    {"start": 15.60, "end": 17.60, "lines": [{"text": "БЕЗ ФОРМУЛ", "accent": False, "size": "small"}, {"text": "ИЗ ШКОЛЬНОГО ПРОШЛОГО", "accent": True, "size": "big"}]},
+    {"start": 15.60, "end": 17.60, "lines": [{"text": "БЕЗ ФОРМУЛ ИЗ ШКОЛЬНОГО", "accent": False, "size": "small"}, {"text": "ПРОШЛОГО", "accent": True, "size": "big"}]},
     {"start": 17.60, "end": 19.00, "lines": [{"text": "ССЫЛКА НА ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 19.00, "end": 20.162, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
 ]
@@ -323,14 +323,14 @@ process("h", h_cards, h_intro, h_emphasis)
 # ---------------------------------------------------------------------------
 i_intro = {"lines": ["ЗНАЮ КАК", "НЕ ЗНАЮ ЗАЧЕМ"], "end": 1.86}
 i_cards = [
-    {"start": 1.86, "end": 3.30, "lines": [{"text": "ДУМАЛ ЧТО РАЗБОР", "accent": False, "size": "small"}, {"text": "ОТВЕЧАЕТ НА КАК", "accent": True, "size": "big"}]},
-    {"start": 3.30, "end": 4.70, "lines": [{"text": "А ОН ЕЩЕ", "accent": False, "size": "small"}, {"text": "ОБЪЯСНЯЕТ ЗАЧЕМ", "accent": True, "size": "big"}]},
+    {"start": 1.86, "end": 3.30, "lines": [{"text": "РАЗБОР ОТВЕЧАЕТ НА", "accent": False, "size": "small"}, {"text": "КАК", "accent": True, "size": "big"}]},
+    {"start": 3.30, "end": 4.70, "lines": [{"text": "А ОН ЕЩЕ ОБЪЯСНЯЕТ", "accent": False, "size": "small"}, {"text": "ЗАЧЕМ", "accent": True, "size": "big"}]},
     {"start": 4.70, "end": 6.10, "lines": [{"text": "КАК", "accent": False, "size": "small"}, {"text": "ДАЕТ ШАГИ", "accent": True, "size": "big"}]},
     {"start": 6.10, "end": 7.50, "lines": [{"text": "ЗАЧЕМ", "accent": False, "size": "small"}, {"text": "ДАЕТ ИДЕЮ", "accent": True, "size": "big"}]},
     {"start": 7.50, "end": 9.00, "lines": [{"text": "ВМЕСТЕ ОНИ", "accent": False, "size": "small"}, {"text": "ЗАПОМИНАЮТСЯ НАДЕЖНЕЕ", "accent": True, "size": "small"}]},
     {"start": 9.00, "end": 10.60, "lines": [{"text": "В ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕРЕ", "accent": True, "size": "big"}]},
     {"start": 10.60, "end": 12.20, "lines": [{"text": "К ЗАДАНИЯМ", "accent": False, "size": "small"}, {"text": "ЕСТЬ РАЗБОР", "accent": True, "size": "big"}]},
-    {"start": 12.20, "end": 13.80, "lines": [{"text": "У КАЖДОГО ШАГА", "accent": False, "size": "small"}, {"text": "УКАЗАНО ЗАЧЕМ", "accent": True, "size": "big"}]},
+    {"start": 12.20, "end": 13.80, "lines": [{"text": "У КАЖДОГО ШАГА УКАЗАНО", "accent": False, "size": "small"}, {"text": "ЗАЧЕМ", "accent": True, "size": "big"}]},
     {"start": 13.80, "end": 15.40, "lines": [{"text": "ОН", "accent": False, "size": "small"}, {"text": "НУЖЕН", "accent": True, "size": "big"}]},
     {"start": 15.40, "end": 16.80, "lines": [{"text": "ССЫЛКА НА ЕГ", "accent": False, "size": "small"}, {"text": "ТРЕНАЖЕР", "accent": True, "size": "big"}]},
     {"start": 16.80, "end": 17.73, "lines": [{"text": "ССЫЛКА", "accent": True, "size": "big"}, {"text": "В ШАПКЕ ПРОФИЛЯ", "accent": False, "size": "small"}]},
