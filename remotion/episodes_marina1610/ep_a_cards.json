@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 6.18, "lines": [
+    { "text": "ГОТОВ НА ДВЕ ТРЕТИ", "accent": false, "size": "small" },
+    { "text": "А КАК ИЗМЕРИЛ?", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.66, "end": 7.56, "lines": [
+    { "text": "ОКАЗАЛОСЬ", "accent": false, "size": "small" },
+    { "text": "НА ГЛАЗ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.04, "end": 11.55, "lines": [
+    { "text": "СЧИТАЕМ ПО ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ЦИФРА ЧЕСТНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.36, "end": 14.22, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.58, "end": 16.68, "lines": [
+    { "text": "ГОТОВНОСТЬ ВИДНА", "accent": false, "size": "small" },
+    { "text": "ПО ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.22, "end": 19.11, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

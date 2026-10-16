@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.72, "lines": [
+    { "text": "ПРИСОЕДИНЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ЕЁ КАРТОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.29, "end": 7.44, "lines": [
+    { "text": "КАРТА ХОРОШАЯ", "accent": false, "size": "small" },
+    { "text": "А ГОДЫ НЕ ОЧЕНЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.04, "end": 10.86, "lines": [
+    { "text": "КАРТА — ЛЕГКО", "accent": false, "size": "small" },
+    { "text": "ГОДЫ — ПРИВЯЗАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.67, "end": 14.43, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.76, "end": 17.37, "lines": [
+    { "text": "КАЖДОМУ ПРИСОЕДИНЕНИЮ", "accent": false, "size": "small" },
+    { "text": "СВОЙ ГОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.94, "end": 19.44, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

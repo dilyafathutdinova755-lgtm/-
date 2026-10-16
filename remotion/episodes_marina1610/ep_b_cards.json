@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.23, "lines": [
+    { "text": "ЛЮБИТ КОГДА", "accent": false, "size": "small" },
+    { "text": "ЕСТЬ ВЫВОД", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.74, "end": 6.81, "lines": [
+    { "text": "БЕЗ ВЫВОДА", "accent": false, "size": "small" },
+    { "text": "ФИЛЬМ ОБОРВАЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.71, "end": 10.74, "lines": [
+    { "text": "ОДНА ФРАЗА", "accent": false, "size": "small" },
+    { "text": "ПОМОГАЕТ ВЕРНУТЬСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.13, "end": 12.06, "lines": [
+    { "text": "НЕ ПЕРЕЧИТЫВАЯ", "accent": false, "size": "small" },
+    { "text": "ВСЁ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.87, "end": 16.29, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.62, "end": 17.79, "lines": [
+    { "text": "ВЫВОД", "accent": false, "size": "small" },
+    { "text": "В ОДНУ ФРАЗУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.66, "end": 20.37, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
