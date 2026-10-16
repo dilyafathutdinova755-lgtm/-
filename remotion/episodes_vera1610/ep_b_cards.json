@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.01, "lines": [
+    { "text": "ПОПРОСИЛА БРАТА", "accent": false, "size": "small" },
+    { "text": "ПРОЧИТАТЬ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.40, "end": 6.33, "lines": [
+    { "text": "ОН СПРОСИЛ", "accent": false, "size": "small" },
+    { "text": "ПРИ ЧЁМ ТУТ ЭТО?", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.90, "end": 10.77, "lines": [
+    { "text": "НЕПОНЯТНО", "accent": false, "size": "small" },
+    { "text": "СВЯЗЬ НЕ ПОКАЗАНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.37, "end": 14.88, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.06, "end": 17.01, "lines": [
+    { "text": "НАПИСАНО", "accent": false, "size": "small" },
+    { "text": "ОДИН ИЗ ДРУГОГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.52, "end": 19.17, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

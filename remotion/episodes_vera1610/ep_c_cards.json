@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 5.58, "lines": [
+    { "text": "РЕВОЛЮЦИЯ 1917", "accent": false, "size": "small" },
+    { "text": "ДВА МЕСЯЦА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.03, "end": 8.13, "lines": [
+    { "text": "ФЕВРАЛЬ И ОКТЯБРЬ", "accent": false, "size": "small" },
+    { "text": "МЕЖДУ — ТУМАН", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.94, "end": 12.93, "lines": [
+    { "text": "ТУМАН РАССЕИВАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ВСПЛЫВАЮТ СОБЫТИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.83, "end": 15.24, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО ИСТОРИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.60, "end": 18.36, "lines": [
+    { "text": "ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.63, "end": 20.16, "lines": [
+    { "text": "СОБЫТИЯ", "accent": false, "size": "small" },
+    { "text": "ПО ПОРЯДКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.91, "end": 22.62, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

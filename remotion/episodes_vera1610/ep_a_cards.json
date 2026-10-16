@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.49, "lines": [
+    { "text": "ТАЙМЕР ДО ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ПОЛКЛАССА НЕ СМОТРИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.18, "end": 9.66, "lines": [
+    { "text": "РАЗ В ДЕНЬ", "accent": false, "size": "small" },
+    { "text": "РЕШАЮ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.53, "end": 12.12, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.33, "end": 15.36, "lines": [
+    { "text": "ПОСЛЕ ВЗГЛЯДА", "accent": false, "size": "small" },
+    { "text": "НОВОЕ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.99, "end": 17.82, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
