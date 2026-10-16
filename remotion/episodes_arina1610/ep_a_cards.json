@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.16, "lines": [
+    { "text": "ЕГЭ — ЭТО", "accent": false, "size": "small" },
+    { "text": "УСИДЧИВОСТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.73, "end": 9.12, "lines": [
+    { "text": "ДВАДЦАТЬ МИНУТ", "accent": false, "size": "small" },
+    { "text": "ЧЕСТНО ПОСЧИТАННАЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.87, "end": 12.36, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.57, "end": 14.04, "lines": [
+    { "text": "УКЛАДЫВАЮТСЯ", "accent": false, "size": "small" },
+    { "text": "ДВА-ТРИ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.52, "end": 16.17, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

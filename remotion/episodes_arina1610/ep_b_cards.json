@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.31, "lines": [
+    { "text": "ЛЮБИТ РАЗБОРЫ", "accent": false, "size": "small" },
+    { "text": "С ПРИМЕРАМИ ИЗ ЖИЗНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.79, "end": 9.45, "lines": [
+    { "text": "СКУКА", "accent": false, "size": "small" },
+    { "text": "ЗНАЧИТ ПЛОХО ОБЪЯСНЕНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.93, "end": 13.71, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.92, "end": 15.09, "lines": [
+    { "text": "ПОЭТОМУ", "accent": false, "size": "small" },
+    { "text": "НЕ СКУЧНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.51, "end": 17.07, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
