@@ -1,79 +1,95 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 3.1,
     "lines": [
       {
-        "text": "НОРМЫ ПРАВА МОРАЛИ",
+        "text": "НАБЕГИ ОРДЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ОБЫЧАЕВ",
+        "text": "НА ГОРОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.3,
-    "end": 4.9,
+    "start": 3.1,
+    "end": 4.3,
     "lines": [
       {
-        "text": "НА ЕГЭ ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "В ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСКЛАДЫВАЮ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.9,
-    "end": 6.3,
-    "lines": [
-      {
-        "text": "ПО ТРЕМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЯЩИКАМ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.3,
-    "end": 7.7,
+    "start": 4.3,
+    "end": 5.5,
     "lines": [
       {
-        "text": "НО ЯЩИКИ У МЕНЯ",
+        "text": "Я ПОМНЮ ИХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛОМАЮТСЯ",
+        "text": "КАК ГРОЗУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.7,
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "ШУМНО НО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО КОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "И КУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СКАЖУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
     "end": 9.3,
     "lines": [
       {
-        "text": "ЛОМАЮТСЯ ОНИ",
+        "text": "ГРОЗА ПРЕВРАЩАЕТСЯ В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПРИМЕРАХ",
+        "text": "РАСПИСАНИЕ",
         "accent": true,
         "size": "big"
       }
@@ -81,42 +97,58 @@
   },
   {
     "start": 9.3,
-    "end": 10.9,
+    "end": 10.5,
     "lines": [
       {
-        "text": "ОДИН И ТОТ ЖЕ",
+        "text": "КОГДА КАЖДОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСТУПОК",
+        "text": "НАБЕГУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.9,
-    "end": 12.5,
+    "start": 10.5,
+    "end": 11.7,
     "lines": [
       {
-        "text": "ПОДХОДИТ СРАЗУ ПОД",
+        "text": "НАЗНАЧЕН СВОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВА ЯЩИКА",
+        "text": "ГОД",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.5,
+    "start": 11.7,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "И СВОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОРОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
     "end": 14.1,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "В ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -129,10 +161,10 @@
   },
   {
     "start": 14.1,
-    "end": 15.7,
+    "end": 15.5,
     "lines": [
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "ПО ИСТОРИИ",
         "accent": false,
         "size": "small"
       },
@@ -144,56 +176,40 @@
     ]
   },
   {
-    "start": 15.7,
-    "end": 17.3,
+    "start": 15.5,
+    "end": 16.9,
     "lines": [
       {
-        "text": "НА ЗАПОМИНАНИЕ",
+        "text": "ГДЕ НАБЕГИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГДЕ НОРМЫ",
+        "text": "И ГОРОДА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.3,
-    "end": 18.9,
+    "start": 16.9,
+    "end": 18.3,
     "lines": [
       {
-        "text": "РАЗБИРАЮТСЯ",
+        "text": "РАССТАВЛЯЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ПРИМЕРАХ",
+        "text": "ПО ГОДАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.9,
-    "end": 20.7,
-    "lines": [
-      {
-        "text": "ПРИХОДИТСЯ РАСКЛАДЫВАТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО ЯЩИКАМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 20.7,
-    "end": 22.3,
+    "start": 18.3,
+    "end": 19.7,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -208,8 +224,8 @@
     ]
   },
   {
-    "start": 22.3,
-    "end": 25.922,
+    "start": 19.7,
+    "end": 22.167,
     "lines": [
       {
         "text": "ССЫЛКА",
