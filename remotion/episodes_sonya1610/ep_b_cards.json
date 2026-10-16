@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.42, "lines": [
+    { "text": "САМОЕ ПОЛЕЗНОЕ", "accent": false, "size": "small" },
+    { "text": "НЕ РЕШЕНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.63, "end": 5.37, "lines": [
+    { "text": "А СПИСОК", "accent": false, "size": "small" },
+    { "text": "ОШИБОК ПОД НИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.88, "end": 7.47, "lines": [
+    { "text": "РЕШЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ПОКАЗЫВАЕТ КАК ПРАВИЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.74, "end": 9.96, "lines": [
+    { "text": "А СПИСОК ОШИБОК", "accent": false, "size": "small" },
+    { "text": "ГДЕ СВОРАЧИВАЮТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.53, "end": 12.90, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.23, "end": 15.57, "lines": [
+    { "text": "ПОД КАЖДЫМ", "accent": false, "size": "small" },
+    { "text": "ТИПИЧНЫЕ ОШИБКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.81, "end": 17.495, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
