@@ -4,12 +4,12 @@
     "end": 3.3,
     "lines": [
       {
-        "text": "РАЗБОР ОТВЕЧАЕТ НА",
+        "text": "НОРМЫ ПРАВА МОРАЛИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК",
+        "text": "И ОБЫЧАЕВ",
         "accent": true,
         "size": "big"
       }
@@ -17,71 +17,103 @@
   },
   {
     "start": 3.3,
-    "end": 4.7,
+    "end": 4.9,
     "lines": [
       {
-        "text": "А ОН ЕЩЕ ОБЪЯСНЯЕТ",
+        "text": "НА ЕГЭ ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАЧЕМ",
+        "text": "РАСКЛАДЫВАЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.9,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "ПО ТРЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЩИКАМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.7,
-    "end": 6.1,
+    "start": 6.3,
+    "end": 7.7,
     "lines": [
       {
-        "text": "КАК",
+        "text": "НО ЯЩИКИ У МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАЕТ ШАГИ",
+        "text": "ЛОМАЮТСЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.1,
-    "end": 7.5,
+    "start": 7.7,
+    "end": 9.3,
     "lines": [
       {
-        "text": "ЗАЧЕМ",
+        "text": "ЛОМАЮТСЯ ОНИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАЕТ ИДЕЮ",
+        "text": "НА ПРИМЕРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.5,
-    "end": 9.0,
+    "start": 9.3,
+    "end": 10.9,
     "lines": [
       {
-        "text": "ВМЕСТЕ ОНИ",
+        "text": "ОДИН И ТОТ ЖЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАЮТСЯ НАДЕЖНЕЕ",
+        "text": "ПОСТУПОК",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 10.6,
+    "start": 10.9,
+    "end": 12.5,
+    "lines": [
+      {
+        "text": "ПОДХОДИТ СРАЗУ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВА ЯЩИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 14.1,
     "lines": [
       {
         "text": "В ЕГ",
@@ -96,56 +128,72 @@
     ]
   },
   {
-    "start": 10.6,
-    "end": 12.2,
+    "start": 14.1,
+    "end": 15.7,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ РАЗБОР",
+        "text": "ЕСТЬ ИГРЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.2,
-    "end": 13.8,
+    "start": 15.7,
+    "end": 17.3,
     "lines": [
       {
-        "text": "У КАЖДОГО ШАГА УКАЗАНО",
+        "text": "НА ЗАПОМИНАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАЧЕМ",
+        "text": "ГДЕ НОРМЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.8,
-    "end": 15.4,
+    "start": 17.3,
+    "end": 18.9,
     "lines": [
       {
-        "text": "ОН",
+        "text": "РАЗБИРАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖЕН",
+        "text": "НА ПРИМЕРАХ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.4,
-    "end": 16.8,
+    "start": 18.9,
+    "end": 20.7,
+    "lines": [
+      {
+        "text": "ПРИХОДИТСЯ РАСКЛАДЫВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ЯЩИКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.7,
+    "end": 22.3,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -160,8 +208,8 @@
     ]
   },
   {
-    "start": 16.8,
-    "end": 17.73,
+    "start": 22.3,
+    "end": 25.922,
     "lines": [
       {
         "text": "ССЫЛКА",
