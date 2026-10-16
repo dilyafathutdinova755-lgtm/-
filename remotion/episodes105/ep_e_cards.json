@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "СТАРШАЯ СЕСТРА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УЕХАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕЖИТИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "ЕЕ ПУСТАЯ КОМНАТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТАЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.7,
+    "end": 6.9,
+    "lines": [
+      {
+        "text": "МОЕЙ ТИХОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗОНОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.9,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "ДЛЯ ЗАДАНИЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ТИШИНА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМОГАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "НО ГЛАВНОЕ ЧТО У",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАНЯТИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "ПОЯВИЛОСЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВОЕ МЕСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.5,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.5,
+    "end": 16.9,
+    "lines": [
+      {
+        "text": "В ТОМ ЧИСЛЕ В ТИХОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КОМНАТЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.9,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.65,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

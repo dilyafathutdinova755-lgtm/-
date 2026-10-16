@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "НОРМЫ ПРАВА МОРАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ОБЫЧАЕВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.3,
+    "end": 4.9,
+    "lines": [
+      {
+        "text": "НА ЕГЭ ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСКЛАДЫВАЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.9,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "ПО ТРЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЯЩИКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.7,
+    "lines": [
+      {
+        "text": "НО ЯЩИКИ У МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛОМАЮТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.7,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ЛОМАЮТСЯ ОНИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПРИМЕРАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.9,
+    "lines": [
+      {
+        "text": "ОДИН И ТОТ ЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТУПОК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.9,
+    "end": 12.5,
+    "lines": [
+      {
+        "text": "ПОДХОДИТ СРАЗУ ПОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВА ЯЩИКА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.7,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.7,
+    "end": 17.3,
+    "lines": [
+      {
+        "text": "НА ЗАПОМИНАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГДЕ НОРМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.3,
+    "end": 18.9,
+    "lines": [
+      {
+        "text": "РАЗБИРАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ПРИМЕРАХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.9,
+    "end": 20.7,
+    "lines": [
+      {
+        "text": "ПРИХОДИТСЯ РАСКЛАДЫВАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ЯЩИКАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.7,
+    "end": 22.3,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.3,
+    "end": 25.922,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

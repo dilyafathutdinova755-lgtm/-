@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "НАБЕГИ ОРДЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НА ГОРОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "В ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.5,
+    "lines": [
+      {
+        "text": "Я ПОМНЮ ИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ГРОЗУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "ШУМНО НО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО КОГДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "И КУДА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ СКАЖУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ГРОЗА ПРЕВРАЩАЕТСЯ В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАСПИСАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.5,
+    "lines": [
+      {
+        "text": "КОГДА КАЖДОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАБЕГУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.5,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "НАЗНАЧЕН СВОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 12.9,
+    "lines": [
+      {
+        "text": "И СВОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОРОД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.9,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.5,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.5,
+    "end": 16.9,
+    "lines": [
+      {
+        "text": "ГДЕ НАБЕГИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ГОРОДА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.9,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "РАССТАВЛЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ГОДАМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.7,
+    "end": 22.167,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

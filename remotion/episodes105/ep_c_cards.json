@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "ДОЧЬ СРАВНИЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РОЛЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 5.1,
+    "lines": [
+      {
+        "text": "В ЭКОНОМИКЕ С РОЛЬЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕГУЛИРОВЩИКА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.1,
+    "end": 6.3,
+    "lines": [
+      {
+        "text": "НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРЕКРЕСТКЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.7,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБРАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.7,
+    "end": 9.1,
+    "lines": [
+      {
+        "text": "МНЕ ПОНРАВИЛСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТОТ ОБРАЗ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 10.1,
+    "lines": [
+      {
+        "text": "ОН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМНИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.1,
+    "end": 11.5,
+    "lines": [
+      {
+        "text": "А ТОЧНЫЙ СПИСОК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФУНКЦИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.5,
+    "end": 12.7,
+    "lines": [
+      {
+        "text": "ДОЧЬ ВЫУЧИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.7,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.1,
+    "end": 15.3,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.3,
+    "end": 16.7,
+    "lines": [
+      {
+        "text": "ГДЕ ФУНКЦИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ГОСУДАРСТВА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.7,
+    "end": 18.3,
+    "lines": [
+      {
+        "text": "В ЭКОНОМИКЕ ПОВТОРЯЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАУНДАМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.3,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 20.823,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
