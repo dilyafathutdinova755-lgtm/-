@@ -1,154 +1,122 @@
 [
   {
     "start": 1.86,
-    "end": 3.1,
+    "end": 3.0,
     "lines": [
       {
-        "text": "В ОКТЯБРЕ НАМ",
+        "text": "НАЗЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТКЛЮЧИЛИ",
+        "text": "ПОВОРОТАМИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.1,
-    "end": 4.3,
+    "start": 3.0,
+    "end": 4.2,
     "lines": [
       {
-        "text": "ОТОПЛЕНИЕ НА",
+        "text": "ТЕ МЕСТА В РАЗБОРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДВА ДНЯ",
+        "text": "ЗАДАНИЯ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.3,
-    "end": 5.5,
+    "start": 4.2,
+    "end": 5.4,
     "lines": [
       {
-        "text": "И Я ВПЕРВЫЕ",
+        "text": "ГДЕ РЕШЕНИЕ ИДЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШАЛА ЕГЭ",
+        "text": "В ДРУГУЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.5,
-    "end": 6.7,
+    "start": 5.4,
+    "end": 6.6,
     "lines": [
       {
-        "text": "В",
+        "text": "СТОРОНУ МНЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КУРТКЕ",
+        "text": "ПОНРАВИЛОСЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.6,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "У КАЖДОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОРА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.7,
-    "end": 7.9,
+    "start": 7.8,
+    "end": 9.0,
     "lines": [
       {
-        "text": "ХОЛОД НЕ",
+        "text": "СВОЯ ТОЧКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОПРАВДАНИЕ",
+        "text": "ПОВОРОТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.9,
-    "end": 9.1,
+    "start": 9.0,
+    "end": 10.2,
     "lines": [
       {
-        "text": "ПАЛЬЦЫ",
+        "text": "И ДОЧЬ УМЕЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МЕРЗНУТ",
+        "text": "ЕЕ НАХОДИТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.1,
-    "end": 10.3,
+    "start": 10.2,
+    "end": 11.4,
     "lines": [
       {
-        "text": "А ГОЛОВА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАБОТАЕТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.3,
-    "end": 11.5,
-    "lines": [
-      {
-        "text": "ДЕСЯТЬ МИНУТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШЕНИЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.5,
-    "end": 12.7,
-    "lines": [
-      {
-        "text": "ДАЖЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СОГРЕВАЮТ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.7,
-    "end": 13.9,
-    "lines": [
-      {
-        "text": "В ЕГ",
+        "text": "В ЕГА",
         "accent": false,
         "size": "small"
       },
@@ -160,59 +128,59 @@
     ]
   },
   {
-    "start": 13.9,
-    "end": 15.1,
+    "start": 11.4,
+    "end": 12.6,
     "lines": [
       {
-        "text": "ЕСТЬ БАНК",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.1,
-    "end": 16.3,
+    "start": 12.6,
+    "end": 13.8,
     "lines": [
       {
-        "text": "ГДЕ ДЕСЯТЬ МИНУТ",
+        "text": "ГДЕ ТОЧКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДАЮТ",
+        "text": "ПОВОРОТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.3,
-    "end": 17.5,
+    "start": 13.8,
+    "end": 15.0,
     "lines": [
       {
-        "text": "ЗАДАНИЕ БЕЗ",
+        "text": "РЕШЕНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОПРАВДАНИЙ",
+        "text": "ВЫДЕЛЕНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 17.5,
-    "end": 18.9,
+    "start": 15.0,
+    "end": 16.4,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -224,8 +192,8 @@
     ]
   },
   {
-    "start": 18.9,
-    "end": 20.76,
+    "start": 16.4,
+    "end": 18.562,
     "lines": [
       {
         "text": "ССЫЛКА",
