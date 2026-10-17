@@ -1,71 +1,55 @@
 [
   {
     "start": 1.86,
-    "end": 3.1,
+    "end": 3.2,
     "lines": [
       {
-        "text": "НАБЕГИ ОРДЫ",
+        "text": "ПОДРУГА СРАВНИЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НА ГОРОДА",
+        "text": "РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.1,
-    "end": 4.3,
+    "start": 3.2,
+    "end": 4.6,
     "lines": [
       {
-        "text": "В ЕГЭ ПО",
+        "text": "ЗАДАНИЯ ЕГЭ С КАРТОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
+        "text": "МЕТРО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.3,
-    "end": 5.5,
+    "start": 4.6,
+    "end": 5.8,
     "lines": [
       {
-        "text": "Я ПОМНЮ ИХ",
+        "text": "НУЖНО ЗНАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК ГРОЗУ",
+        "text": "ГДЕ ТЫ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.5,
-    "end": 6.7,
-    "lines": [
-      {
-        "text": "ШУМНО НО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КТО КОГДА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.7,
-    "end": 7.9,
+    "start": 5.8,
+    "end": 7.0,
     "lines": [
       {
         "text": "И КУДА",
@@ -73,79 +57,79 @@
         "size": "small"
       },
       {
-        "text": "НЕ СКАЖУ",
+        "text": "НАДО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.9,
-    "end": 9.3,
+    "start": 7.0,
+    "end": 8.4,
     "lines": [
       {
-        "text": "ГРОЗА ПРЕВРАЩАЕТСЯ В",
+        "text": "КАРТА БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РАСПИСАНИЕ",
+        "text": "ОТМЕТКИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.3,
-    "end": 10.5,
+    "start": 8.4,
+    "end": 9.8,
     "lines": [
       {
-        "text": "КОГДА КАЖДОМУ",
+        "text": "ВЫ ЗДЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НАБЕГУ",
+        "text": "БЕСПОЛЕЗНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.5,
-    "end": 11.7,
+    "start": 9.8,
+    "end": 11.4,
     "lines": [
       {
-        "text": "НАЗНАЧЕН СВОЙ",
+        "text": "ПОЭТОМУ В РАЗБОРЕ Я ИЩУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОД",
+        "text": "ШАГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.7,
-    "end": 12.9,
+    "start": 11.4,
+    "end": 13.2,
     "lines": [
       {
-        "text": "И СВОЙ",
+        "text": "НА КОТОРОМ САМА СОШЛА С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОРОД",
+        "text": "МАРШРУТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.9,
-    "end": 14.1,
+    "start": 13.2,
+    "end": 14.8,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -160,59 +144,59 @@
     ]
   },
   {
-    "start": 14.1,
-    "end": 15.5,
+    "start": 14.8,
+    "end": 16.4,
     "lines": [
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "К ЗАДАНИЯМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ ИГРЫ",
+        "text": "ЕСТЬ РАЗБОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.5,
-    "end": 16.9,
+    "start": 16.4,
+    "end": 18.0,
     "lines": [
       {
-        "text": "ГДЕ НАБЕГИ",
+        "text": "ГДЕ МОЖНО НАЙТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ГОРОДА",
+        "text": "ШАГ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.9,
-    "end": 18.3,
+    "start": 18.0,
+    "end": 19.8,
     "lines": [
       {
-        "text": "РАССТАВЛЯЮТСЯ",
+        "text": "НА КОТОРОМ ТЫ СОШЕЛ С",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ГОДАМ",
+        "text": "МАРШРУТА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 18.3,
-    "end": 19.7,
+    "start": 19.8,
+    "end": 21.4,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -224,8 +208,8 @@
     ]
   },
   {
-    "start": 19.7,
-    "end": 22.167,
+    "start": 21.4,
+    "end": 23.49,
     "lines": [
       {
         "text": "ССЫЛКА",
