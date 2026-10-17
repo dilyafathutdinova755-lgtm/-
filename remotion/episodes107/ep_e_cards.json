@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "БАБУШКА ВЯЖЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАРФ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "И СЧИТАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЯДЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.5,
+    "lines": [
+      {
+        "text": "А Я РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "И ТОЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЧИТАЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "КАЖДЫЙ РЯД ОДНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕННОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "К КОНЦУ МЕСЯЦА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ШАРФ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.7,
+    "lines": [
+      {
+        "text": "И СТОПКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.7,
+    "end": 12.1,
+    "lines": [
+      {
+        "text": "БУДУТ ОДИНАКОВО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДЛИННЫМИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.1,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.7,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.7,
+    "end": 15.9,
+    "lines": [
+      {
+        "text": "ГДЕ КАЖДОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕННОЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.9,
+    "end": 17.3,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ ЕЩЕ ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЯД",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.3,
+    "end": 18.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.7,
+    "end": 20.546,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

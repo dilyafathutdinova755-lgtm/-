@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "ГЛАГОЛЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКЛЮЧЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "НА ИТЬ И ЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.5,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМНЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "КАК РАСПИСАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЕЗДОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "ПОЕЗДОВ С",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОПОЗДАНИЯМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.3,
+    "lines": [
+      {
+        "text": "ОПАЗДЫВАЮТ ТЕ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСТРЕЧАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.3,
+    "end": 10.7,
+    "lines": [
+      {
+        "text": "РЕЖЕ ЗНАЧИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.7,
+    "end": 12.1,
+    "lines": [
+      {
+        "text": "НУЖНО ИМЕННО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.1,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.9,
+    "lines": [
+      {
+        "text": "ПО РУССКОМУ ЯЗЫКУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.9,
+    "end": 16.3,
+    "lines": [
+      {
+        "text": "ГДЕ РЕДКИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСКЛЮЧЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.3,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "ВОЗВРАЩАЮТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧАЩЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.7,
+    "end": 19.7,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.7,
+    "end": 21.911,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

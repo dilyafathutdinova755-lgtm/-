@@ -1,0 +1,274 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "ЖАНДАРМЫ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЦЕНЗУРА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "ВОТ И ВСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭПОХА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.5,
+    "lines": [
+      {
+        "text": "НИКОЛАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЕРВОГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "КОТОРУЮ Я",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОМНЮ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "ДЛЯ ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.1,
+    "lines": [
+      {
+        "text": "ИЗ ДВУХ СЛОВ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТВЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 10.3,
+    "lines": [
+      {
+        "text": "НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЛОЖИТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.3,
+    "end": 11.5,
+    "lines": [
+      {
+        "text": "НУЖНЫ ЕЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕФОРМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.5,
+    "end": 12.7,
+    "lines": [
+      {
+        "text": "И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОЙНЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.7,
+    "end": 13.9,
+    "lines": [
+      {
+        "text": "ЭТОГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВРЕМЕНИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.9,
+    "end": 15.1,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.1,
+    "end": 16.5,
+    "lines": [
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.5,
+    "end": 17.9,
+    "lines": [
+      {
+        "text": "ГДЕ ЭПОХА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НИКОЛАЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.9,
+    "end": 19.3,
+    "lines": [
+      {
+        "text": "ПЕРВОГО СОБИРАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЗ РЕФОРМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.3,
+    "end": 20.7,
+    "lines": [
+      {
+        "text": "ВОЙН И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНОВ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.7,
+    "end": 22.1,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 22.1,
+    "end": 23.852,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "В ОКТЯБРЕ НАМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКЛЮЧИЛИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "ОТОПЛЕНИЕ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДВА ДНЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.5,
+    "lines": [
+      {
+        "text": "И Я ВПЕРВЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШАЛА ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "В",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КУРТКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "ХОЛОД НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОПРАВДАНИЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.1,
+    "lines": [
+      {
+        "text": "ПАЛЬЦЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕРЗНУТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 10.3,
+    "lines": [
+      {
+        "text": "А ГОЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАБОТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.3,
+    "end": 11.5,
+    "lines": [
+      {
+        "text": "ДЕСЯТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.5,
+    "end": 12.7,
+    "lines": [
+      {
+        "text": "ДАЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОГРЕВАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.7,
+    "end": 13.9,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.9,
+    "end": 15.1,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.1,
+    "end": 16.3,
+    "lines": [
+      {
+        "text": "ГДЕ ДЕСЯТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.3,
+    "end": 17.5,
+    "lines": [
+      {
+        "text": "ЗАДАНИЕ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОПРАВДАНИЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.5,
+    "end": 18.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.9,
+    "end": 20.76,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
