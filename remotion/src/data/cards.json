@@ -1,103 +1,151 @@
 [
   {
     "start": 1.86,
-    "end": 2.9,
+    "end": 3.1,
     "lines": [
       {
-        "text": "ВО ДВОРЕ ИГРАЮТ",
+        "text": "В ОКТЯБРЕ НАМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОЛЕЙБОЛ",
+        "text": "ОТКЛЮЧИЛИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.9,
-    "end": 3.95,
+    "start": 3.1,
+    "end": 4.3,
     "lines": [
       {
-        "text": "И Я СПОРЮ",
+        "text": "ОТОПЛЕНИЕ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С СОБОЙ",
+        "text": "ДВА ДНЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.95,
-    "end": 5.0,
+    "start": 4.3,
+    "end": 5.5,
     "lines": [
       {
-        "text": "ИДТИ ЛИ В ИГРУ",
+        "text": "И Я ВПЕРВЫЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЛИ РЕШИТЬ",
+        "text": "РЕШАЛА ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.0,
-    "end": 6.0,
+    "start": 5.5,
+    "end": 6.7,
     "lines": [
       {
-        "text": "ЕЩЕ ОДНО",
+        "text": "В",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "КУРТКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 7.2,
+    "start": 6.7,
+    "end": 7.9,
     "lines": [
       {
-        "text": "ДОГОВОРИЛИСЬ СНАЧАЛА ОДНО",
+        "text": "ХОЛОД НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "ОПРАВДАНИЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.2,
-    "end": 8.1,
+    "start": 7.9,
+    "end": 9.1,
     "lines": [
       {
-        "text": "ПОТОМ",
+        "text": "ПАЛЬЦЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРА",
+        "text": "МЕРЗНУТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 9.2,
+    "start": 9.1,
+    "end": 10.3,
+    "lines": [
+      {
+        "text": "А ГОЛОВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАБОТАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.3,
+    "end": 11.5,
+    "lines": [
+      {
+        "text": "ДЕСЯТЬ МИНУТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.5,
+    "end": 12.7,
+    "lines": [
+      {
+        "text": "ДАЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СОГРЕВАЮТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.7,
+    "end": 13.9,
     "lines": [
       {
         "text": "В ЕГ",
@@ -112,8 +160,8 @@
     ]
   },
   {
-    "start": 9.2,
-    "end": 10.2,
+    "start": 13.9,
+    "end": 15.1,
     "lines": [
       {
         "text": "ЕСТЬ БАНК",
@@ -128,43 +176,43 @@
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.3,
+    "start": 15.1,
+    "end": 16.3,
     "lines": [
       {
-        "text": "ГДЕ ОДНО ЗАДАНИЕ",
+        "text": "ГДЕ ДЕСЯТЬ МИНУТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАНИМАЕТ",
+        "text": "ДАЮТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 11.3,
-    "end": 12.4,
+    "start": 16.3,
+    "end": 17.5,
     "lines": [
       {
-        "text": "МЕНЬШЕ ЧЕМ",
+        "text": "ЗАДАНИЕ БЕЗ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН СЕТ",
+        "text": "ОПРАВДАНИЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.4,
-    "end": 13.4,
+    "start": 17.5,
+    "end": 18.9,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +224,8 @@
     ]
   },
   {
-    "start": 13.4,
-    "end": 14.423,
+    "start": 18.9,
+    "end": 20.76,
     "lines": [
       {
         "text": "ССЫЛКА",
