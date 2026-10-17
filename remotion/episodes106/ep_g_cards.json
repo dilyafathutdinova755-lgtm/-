@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.1,
+    "lines": [
+      {
+        "text": "ПРЕЗИДЕНТСКУЮ И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРЛАМЕНТСКУЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.1,
+    "end": 4.3,
+    "lines": [
+      {
+        "text": "РЕСПУБЛИКИ В ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.3,
+    "end": 5.5,
+    "lines": [
+      {
+        "text": "Я СРАВНИВАЮ КАК ДВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВТОБУСА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.5,
+    "end": 6.7,
+    "lines": [
+      {
+        "text": "ИДУЩИХ В ОДНУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СТОРОНУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.7,
+    "end": 7.9,
+    "lines": [
+      {
+        "text": "ОТЛИЧИЕ В ТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.9,
+    "end": 9.1,
+    "lines": [
+      {
+        "text": "НАЗНАЧАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВИТЕЛЬСТВО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.1,
+    "end": 10.7,
+    "lines": [
+      {
+        "text": "И ЭТОТ ПРИЗНАК НУЖНО ЗНАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.7,
+    "end": 12.1,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.1,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ ИГРЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 14.9,
+    "lines": [
+      {
+        "text": "ГДЕ ФОРМЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРАВЛЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.9,
+    "end": 16.3,
+    "lines": [
+      {
+        "text": "РАЗЛИЧАЮТСЯ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОМУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.3,
+    "end": 17.7,
+    "lines": [
+      {
+        "text": "КЛЮЧЕВОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЗНАКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.7,
+    "end": 19.1,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.1,
+    "end": 20.46,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
