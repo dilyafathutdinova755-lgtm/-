@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 5.28, "lines": [
+    { "text": "РАЗБОР С ГАЛОЧКАМИ", "accent": false, "size": "small" },
+    { "text": "ПОЛОВИНА ТЕКСТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.52, "end": 6.24, "lines": [
+    { "text": "НЕ ПОД", "accent": false, "size": "small" },
+    { "text": "КРИТЕРИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.60, "end": 8.07, "lines": [
+    { "text": "КРАСИВО", "accent": false, "size": "small" },
+    { "text": "НЕ ЗНАЧИТ ЗАСЧИТАНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.31, "end": 10.32, "lines": [
+    { "text": "ЗАСЧИТЫВАЮТ", "accent": false, "size": "small" },
+    { "text": "ЧТО НАЗВАНО В КРИТЕРИЯХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.98, "end": 13.38, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.59, "end": 16.53, "lines": [
+    { "text": "КАЖДОМУ ПУНКТУ", "accent": false, "size": "small" },
+    { "text": "СВОЙ АБЗАЦ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.80, "end": 18.455, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,33 +1,25 @@
 [
-  { "start": 1.80, "end": 2.70, "lines": [
-    { "text": "ЗНАКОМАЯ СКАЗАЛА", "accent": false, "size": "small" },
-    { "text": "РЫНОК И ГОСУДАРСТВО", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 5.07, "lines": [
+    { "text": "КАК ГОСТИ", "accent": false, "size": "small" },
+    { "text": "С НОВЫМ ИМЕНЕМ", "accent": true, "size": "big" }
   ]},
-  { "start": 2.91, "end": 5.25, "lines": [
-    { "text": "КАК ПОВАР", "accent": false, "size": "small" },
-    { "text": "И ОФИЦИАНТ", "accent": true, "size": "big" }
+  { "start": 5.58, "end": 6.96, "lines": [
+    { "text": "ЗАПОМНИТЬ ПРОЩЕ", "accent": false, "size": "small" },
+    { "text": "ПО ГРУППАМ", "accent": true, "size": "big" }
   ]},
-  { "start": 5.76, "end": 6.87, "lines": [
-    { "text": "У КАЖДОГО", "accent": false, "size": "small" },
-    { "text": "СВОЁ МЕСТО", "accent": true, "size": "big" }
+  { "start": 7.23, "end": 10.14, "lines": [
+    { "text": "СЛОВА ПО КОРНЯМ", "accent": false, "size": "small" },
+    { "text": "СОБИРАЮТСЯ В СЕМЬИ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.68, "end": 10.47, "lines": [
-    { "text": "ОБРАЗ ХОРОШИЙ", "accent": false, "size": "small" },
-    { "text": "НУЖНЫ ФУНКЦИИ", "accent": true, "size": "big" }
-  ]},
-  { "start": 11.19, "end": 12.78, "lines": [
+  { "start": 10.80, "end": 12.24, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ПО ОБЩЕСТВОЗНАНИЮ", "accent": true, "size": "big" }
+    { "text": "ПО РУССКОМУ ЯЗЫКУ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.99, "end": 14.19, "lines": [
+  { "start": 12.60, "end": 16.53, "lines": [
     { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
     { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.43, "end": 17.61, "lines": [
-    { "text": "ФУНКЦИЯ ПОВТОРЯЕТСЯ", "accent": false, "size": "small" },
-    { "text": "ОТДЕЛЬНЫМИ РАУНДАМИ", "accent": true, "size": "big" }
-  ]},
-  { "start": 17.94, "end": 19.65, "lines": [
+  { "start": 16.74, "end": 18.604, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}
