@@ -1,0 +1,34 @@
+[
+  { "start": 1.80, "end": 4.14, "lines": [
+    { "text": "ПРИ АЛЕКСАНДРЕ ТРЕТЬЕМ", "accent": false, "size": "small" },
+    { "text": "ПОМНЮ СЛОВО КОНТРРЕФОРМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.53, "end": 5.82, "lines": [
+    { "text": "И НИ ОДНОЙ", "accent": false, "size": "small" },
+    { "text": "КОНТРРЕФОРМЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.33, "end": 9.39, "lines": [
+    { "text": "СЛОВО ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "СОДЕРЖАНИЯ НЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.14, "end": 11.34, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО ИСТОРИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.55, "end": 12.66, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.93, "end": 14.28, "lines": [
+    { "text": "КОНТРРЕФОРМЫ", "accent": false, "size": "small" },
+    { "text": "АЛЕКСАНДРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.85, "end": 15.84, "lines": [
+    { "text": "РАСПИСАНЫ", "accent": false, "size": "small" },
+    { "text": "ПО ПУНКТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.05, "end": 17.644, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

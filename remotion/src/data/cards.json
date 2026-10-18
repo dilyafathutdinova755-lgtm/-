@@ -1,29 +1,33 @@
 [
-  { "start": 1.80, "end": 2.22, "lines": [
-    { "text": "ДОЧЬ ЗНАЕТ", "accent": false, "size": "small" },
-    { "text": "ЧТО ТАКОЕ ГЛОБАЛИЗАЦИЯ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 4.14, "lines": [
+    { "text": "ПРИ АЛЕКСАНДРЕ ТРЕТЬЕМ", "accent": false, "size": "small" },
+    { "text": "ПОМНЮ СЛОВО КОНТРРЕФОРМЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 2.73, "end": 6.42, "lines": [
-    { "text": "А ПИШЕТ", "accent": false, "size": "small" },
-    { "text": "ВСЁ МЕНЯЕТСЯ", "accent": true, "size": "big" }
+  { "start": 4.53, "end": 5.82, "lines": [
+    { "text": "И НИ ОДНОЙ", "accent": false, "size": "small" },
+    { "text": "КОНТРРЕФОРМЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 7.14, "end": 8.58, "lines": [
-    { "text": "НУЖНЫ", "accent": false, "size": "small" },
-    { "text": "КОНКРЕТНЫЕ ПОСЛЕДСТВИЯ", "accent": true, "size": "big" }
+  { "start": 6.33, "end": 9.39, "lines": [
+    { "text": "СЛОВО ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "СОДЕРЖАНИЯ НЕТ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.03, "end": 10.80, "lines": [
-    { "text": "ЭКОНОМИКА КУЛЬТУРА", "accent": false, "size": "small" },
-    { "text": "ПОЛИТИКА", "accent": true, "size": "big" }
-  ]},
-  { "start": 11.16, "end": 14.10, "lines": [
+  { "start": 10.14, "end": 11.34, "lines": [
     { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
-    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+    { "text": "ПО ИСТОРИИ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.40, "end": 17.10, "lines": [
-    { "text": "ПОСЛЕДСТВИЯ", "accent": false, "size": "small" },
-    { "text": "РАСПРЕДЕЛЕНЫ ПО СФЕРАМ", "accent": true, "size": "big" }
+  { "start": 11.55, "end": 12.66, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 17.37, "end": 19.01, "lines": [
+  { "start": 12.93, "end": 14.28, "lines": [
+    { "text": "КОНТРРЕФОРМЫ", "accent": false, "size": "small" },
+    { "text": "АЛЕКСАНДРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.85, "end": 15.84, "lines": [
+    { "text": "РАСПИСАНЫ", "accent": false, "size": "small" },
+    { "text": "ПО ПУНКТАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.05, "end": 17.644, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

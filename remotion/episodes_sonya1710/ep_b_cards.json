@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 4.59, "lines": [
+    { "text": "ВМЕСТО ОТВЕТА", "accent": false, "size": "small" },
+    { "text": "ОТПРАВИЛА РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.16, "end": 7.53, "lines": [
+    { "text": "ОТВЕТИЛ — СПАСИБО", "accent": false, "size": "small" },
+    { "text": "ЭТО БЫВАЕТ РЕДКО", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.10, "end": 11.28, "lines": [
+    { "text": "ОТВЕТ ЗАБЫЛ БЫ", "accent": false, "size": "small" },
+    { "text": "ШАГ ОСТАНЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.09, "end": 14.49, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.76, "end": 17.10, "lines": [
+    { "text": "ВМЕСТО ОТВЕТА", "accent": false, "size": "small" },
+    { "text": "ПОКАЗАН ПУТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.37, "end": 19.244, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
