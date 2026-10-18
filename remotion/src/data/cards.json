@@ -1,122 +1,106 @@
 [
   {
-    "start": 1.86,
-    "end": 3.0,
+    "start": 1.74,
+    "end": 3.15,
     "lines": [
       {
-        "text": "НАЗЫВАЮ",
+        "text": "ЕГЭ ТОЛЬКО ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВОРОТАМИ",
+        "text": "ЧЕТНЫМ ДНЯМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.15,
+    "end": 4.17,
+    "lines": [
+      {
+        "text": "А ПОТОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯЛ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.0,
-    "end": 4.2,
+    "start": 4.17,
+    "end": 5.34,
     "lines": [
       {
-        "text": "ТЕ МЕСТА В РАЗБОРЕ",
+        "text": "ЧЕТНЫХ ДНЕЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЯ ЕГЭ",
+        "text": "МАЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.2,
-    "end": 5.4,
+    "start": 5.34,
+    "end": 6.48,
     "lines": [
       {
-        "text": "ГДЕ РЕШЕНИЕ ИДЕТ",
+        "text": "ТЕПЕРЬ РЕШАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ДРУГУЮ",
+        "text": "ПО ОДНОМУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.4,
-    "end": 6.6,
+    "start": 6.48,
+    "end": 7.5,
     "lines": [
       {
-        "text": "СТОРОНУ МНЕ",
+        "text": "ЗАДАНИЮ КАЖДЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНРАВИЛОСЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.6,
-    "end": 7.8,
-    "lines": [
-      {
-        "text": "У КАЖДОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗБОРА",
+        "text": "ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.8,
-    "end": 9.0,
+    "start": 7.5,
+    "end": 8.61,
     "lines": [
       {
-        "text": "СВОЯ ТОЧКА",
+        "text": "И ЧЕТНОСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВОРОТА",
+        "text": "НЕ НУЖНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.0,
-    "end": 10.2,
+    "start": 8.61,
+    "end": 9.57,
     "lines": [
       {
-        "text": "И ДОЧЬ УМЕЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕЕ НАХОДИТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.2,
-    "end": 11.4,
-    "lines": [
-      {
-        "text": "В ЕГА",
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -128,56 +112,56 @@
     ]
   },
   {
-    "start": 11.4,
-    "end": 12.6,
+    "start": 9.57,
+    "end": 10.59,
     "lines": [
       {
-        "text": "К ЗАДАНИЯМ",
+        "text": "ЕСТЬ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ РАЗБОР",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.6,
-    "end": 13.8,
+    "start": 10.59,
+    "end": 11.7,
     "lines": [
       {
-        "text": "ГДЕ ТОЧКА",
+        "text": "ГДЕ ОДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВОРОТА",
+        "text": "ЗАДАНИЕ В ДЕНЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.7,
+    "end": 13.05,
+    "lines": [
+      {
+        "text": "НАБИРАЕТСЯ БЕЗ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАЛЕНДАРЯ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.8,
-    "end": 15.0,
-    "lines": [
-      {
-        "text": "РЕШЕНИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ВЫДЕЛЕНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.0,
-    "end": 16.4,
+    "start": 13.05,
+    "end": 14.25,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -192,8 +176,8 @@
     ]
   },
   {
-    "start": 16.4,
-    "end": 18.562,
+    "start": 14.25,
+    "end": 15.084,
     "lines": [
       {
         "text": "ССЫЛКА",
