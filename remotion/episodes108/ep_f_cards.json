@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.3,
+    "lines": [
+      {
+        "text": "СОБСТВЕННЫЙ ГРАФИК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГОТОВКИ К ЕГЭ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 5.94,
+    "lines": [
+      {
+        "text": "КЛАССНЫЙ РУКОВОДИТЕЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПРОСИЛ КОПИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.51,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "НЕ ДУМАЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫЗОВЕТ ИНТЕРЕС",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "НО ДЕРЖИТСЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТОМ ПРАВИЛЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.89,
+    "end": 11.82,
+    "lines": [
+      {
+        "text": "ОДНО ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.45,
+    "end": 13.26,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.32,
+    "end": 14.13,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 15.39,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДЕНЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.57,
+    "end": 16.83,
+    "lines": [
+      {
+        "text": "ЗАПИСЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "АВТОМАТИЧЕСКИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 18.4,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.4,
+    "end": 19.202,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

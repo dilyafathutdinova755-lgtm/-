@@ -1,0 +1,210 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.88,
+    "lines": [
+      {
+        "text": "НАМ ЗАДАЛИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЕКТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.88,
+    "end": 4.14,
+    "lines": [
+      {
+        "text": "НА НЕДЕЛЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.14,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "ОТОДВИНУЛСЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВТОРОЙ ПЛАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.67,
+    "end": 7.08,
+    "lines": [
+      {
+        "text": "ХОТЯ ВАЖНЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИМЕННО ОН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.08,
+    "end": 8.31,
+    "lines": [
+      {
+        "text": "ПРОЕКТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАКОНЧИТСЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.31,
+    "end": 9.57,
+    "lines": [
+      {
+        "text": "В ПЯТНИЦУ А",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ ОСТАНЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.57,
+    "end": 10.77,
+    "lines": [
+      {
+        "text": "ПОЭТОМУ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕГО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.77,
+    "end": 12.48,
+    "lines": [
+      {
+        "text": "Я ОСТАВЛЯЮ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНОМУ В ДЕНЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.23,
+    "end": 14.67,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.67,
+    "end": 16.29,
+    "lines": [
+      {
+        "text": "ФИПИ ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОДНО ЗАДАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.29,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "НЕ МЕШАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОЕКТУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.4,
+    "end": 18.9,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.9,
+    "end": 19.82,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
