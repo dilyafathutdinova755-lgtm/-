@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 2.85, "lines": [
+    { "text": "ШАГИ В РАЗБОРЕ", "accent": false, "size": "small" },
+    { "text": "ИМЕЮТ НОМЕРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.30, "end": 6.03, "lines": [
+    { "text": "ССЫЛАЕТСЯ НА НИХ", "accent": false, "size": "small" },
+    { "text": "КАК НА СТАТЬИ ЗАКОНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.63, "end": 7.38, "lines": [
+    { "text": "СМОТРИ", "accent": false, "size": "small" },
+    { "text": "ШАГ ТРИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.01, "end": 11.34, "lines": [
+    { "text": "НУМЕРАЦИЯ", "accent": false, "size": "small" },
+    { "text": "ВЕРНУТЬСЯ К ШАГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.00, "end": 14.55, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.03, "end": 17.94, "lines": [
+    { "text": "ШАГИ ПРОНУМЕРОВАНЫ", "accent": false, "size": "small" },
+    { "text": "ВЕРНУТЬСЯ К ЛЮБОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.30, "end": 20.36, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

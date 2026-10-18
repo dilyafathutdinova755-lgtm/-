@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.96, "lines": [
+    { "text": "РАБОЧИЙ", "accent": false, "size": "small" },
+    { "text": "И НЕРАБОЧИЙ СТУЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.47, "end": 6.15, "lines": [
+    { "text": "ЕГЭ РЕШАЕТ", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО НА РАБОЧЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.93, "end": 9.78, "lines": [
+    { "text": "ПРИВЫЧКА К СТУЛУ", "accent": false, "size": "small" },
+    { "text": "ЗАПУСКАЕТ РЕЖИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.38, "end": 12.15, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.66, "end": 15.12, "lines": [
+    { "text": "РЕЖИМ ВКЛЮЧАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "С ПЕРВЫМ ЗАДАНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.45, "end": 17.324, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
