@@ -1,87 +1,103 @@
 [
   {
-    "start": 1.83,
-    "end": 3.42,
+    "start": 1.86,
+    "end": 3.48,
     "lines": [
       {
-        "text": "ОМОНИМЫ В ЕГЭ",
+        "text": "ДОЧЬ ПОНИМАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛУК КОСА КЛЮЧ",
+        "text": "КАК РАБОТАЕТ БАНК",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 4.5,
+    "start": 4.17,
+    "end": 5.34,
     "lines": [
       {
-        "text": "Я УЗНАЮ",
+        "text": "А В ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО КАРТИНКЕ",
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.49,
+    "end": 7.02,
+    "lines": [
+      {
+        "text": "СПРАШИВАЮТ ПРО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФУНКЦИИ БАНКОВ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.62,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "ПРИМЕР С КАРТОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОРОШ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.8,
-    "end": 5.82,
+    "start": 8.85,
+    "end": 10.44,
     "lines": [
       {
-        "text": "НО НАЗЫВАЮ",
+        "text": "НО ФУНКЦИИ НУЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ЗНАЧЕНИЮ",
+        "text": "ЗНАТЬ СПИСКОМ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 6.0,
-    "end": 8.1,
+    "start": 11.07,
+    "end": 12.66,
     "lines": [
       {
-        "text": "С ТРУДОМ НУЖНЫ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАЧЕНИЯ А НЕ КАРТИНКИ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 8.46,
-    "end": 9.96,
-    "lines": [
-      {
-        "text": "В ТРЕНАЖЕРЕ ПО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РУССКОМУ ЯЗЫКУ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 10.2,
-    "end": 11.28,
+    "start": 12.87,
+    "end": 14.16,
     "lines": [
       {
         "text": "ЕСТЬ ИГРЫ НА",
@@ -96,27 +112,27 @@
     ]
   },
   {
-    "start": 11.46,
-    "end": 13.65,
+    "start": 14.37,
+    "end": 16.44,
     "lines": [
       {
-        "text": "ГДЕ ЗНАЧЕНИЯ",
+        "text": "ГДЕ ФУНКЦИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОВТОРЯЮТСЯ ПАРАМИ",
+        "text": "БАНКОВ ЗАКРЕПЛЯЮТСЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.92,
-    "end": 14.94,
+    "start": 17.01,
+    "end": 17.85,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +144,8 @@
     ]
   },
   {
-    "start": 14.94,
-    "end": 15.746,
+    "start": 17.85,
+    "end": 18.967,
     "lines": [
       {
         "text": "ССЫЛКА",
