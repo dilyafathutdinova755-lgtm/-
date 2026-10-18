@@ -1,103 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 3.0,
+    "end": 3.63,
     "lines": [
       {
-        "text": "РАЗБОР С КАРТИНКОЙ",
+        "text": "ОШИБКУ НАЗЫВАЮТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАЕТСЯ",
+        "text": "НЕТОЧНОСТЬЮ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.12,
-    "end": 3.93,
+    "start": 3.84,
+    "end": 6.36,
     "lines": [
       {
-        "text": "А С ФОРМУЛОЙ",
+        "text": "ЗНАЧИТ ОТ МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРЯЕТСЯ",
+        "text": "ЧТО ТО СКРЫВАЮТ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 4.14,
-    "end": 5.97,
+    "start": 6.69,
+    "end": 7.65,
     "lines": [
       {
-        "text": "Я НЕ МОГУ ВЫБРАТЬ",
+        "text": "ХОРОШИЙ РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ВАЖНЕЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.3,
-    "end": 7.62,
-    "lines": [
-      {
-        "text": "ЛУЧШЕ ИМЕТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "И ТО И ДРУГОЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.86,
-    "end": 8.76,
-    "lines": [
-      {
-        "text": "КАРТИНКУ ДЛЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ИДЕИ",
+        "text": "ПРЯМОЙ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.03,
-    "end": 9.9,
+    "start": 8.04,
+    "end": 10.35,
     "lines": [
       {
-        "text": "ФОРМУЛУ ДЛЯ",
+        "text": "ВОТ ОШИБКА ВОТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОВЕРКИ",
+        "text": "ПРИЧИНА И ИСПРАВЛЕНИЯ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 10.26,
-    "end": 11.06,
+    "start": 10.74,
+    "end": 11.56,
     "lines": [
       {
         "text": "В ЕГ",
@@ -112,8 +80,8 @@
     ]
   },
   {
-    "start": 11.06,
-    "end": 12.57,
+    "start": 11.58,
+    "end": 13.02,
     "lines": [
       {
         "text": "К ЗАДАНИЯМ ЕСТЬ",
@@ -128,40 +96,40 @@
     ]
   },
   {
-    "start": 12.72,
-    "end": 14.1,
+    "start": 13.23,
+    "end": 14.4,
     "lines": [
       {
-        "text": "ГДЕ К ИДЕЕ",
+        "text": "ГДЕ ОШИБКА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЛОЖЕНА КАРТИНКА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.37,
-    "end": 15.36,
-    "lines": [
-      {
-        "text": "А К ПРОВЕРКЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ФОРМУЛА",
+        "text": "ПРИЧИНА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.6,
-    "end": 16.56,
+    "start": 14.49,
+    "end": 15.81,
+    "lines": [
+      {
+        "text": "И ИСПРАВЛЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНЫ ПРЯМО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.11,
+    "end": 17.16,
     "lines": [
       {
         "text": "ССЫЛКА НА ИГ",
@@ -176,8 +144,8 @@
     ]
   },
   {
-    "start": 16.56,
-    "end": 17.36,
+    "start": 17.16,
+    "end": 17.964,
     "lines": [
       {
         "text": "ССЫЛКА",
