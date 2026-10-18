@@ -1,103 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 2.88,
+    "end": 3.09,
     "lines": [
       {
-        "text": "У МЕНЯ ВСЕГДА",
+        "text": "ХОЧУ ЧТОБЫ РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПАСНАЯ ЗАРЯДКА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.33,
-    "end": 4.35,
-    "lines": [
-      {
-        "text": "А ЗАПАСНОГО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПЛАНА",
+        "text": "РАЗГОВОР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.68,
-    "end": 6.78,
+    "start": 4.14,
+    "end": 5.52,
     "lines": [
       {
-        "text": "КОГДА НЕ ХОЧЕТСЯ",
+        "text": "А ДОЧЬ ЧИТАЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАНА НЕ БЫЛО",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.59,
-    "end": 8.46,
-    "lines": [
-      {
-        "text": "ТЕПЕРЬ ПЛАН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТАКОЙ",
+        "text": "КАК ЛЕКЦИЮ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 9.21,
-    "end": 10.05,
+    "start": 6.57,
+    "end": 8.07,
     "lines": [
       {
-        "text": "ЕСЛИ НЕ",
+        "text": "ЖИВОЙ РАЗБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОЧЕТСЯ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.32,
-    "end": 12.6,
-    "lines": [
-      {
-        "text": "РЕШАЮ ОДНО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "САМОЕ КОРОТКОЕ",
+        "text": "ЗАПОМИНАЕТСЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.38,
-    "end": 14.2,
+    "start": 8.19,
+    "end": 10.11,
+    "lines": [
+      {
+        "text": "ПОТОМУ ЧТО В НЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВОПРОСЫ И ОТВЕТЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.83,
+    "end": 11.65,
     "lines": [
       {
         "text": "В ЕГЭ",
@@ -112,59 +80,43 @@
     ]
   },
   {
-    "start": 14.4,
-    "end": 15.27,
+    "start": 11.73,
+    "end": 13.23,
     "lines": [
       {
-        "text": "ЕСТЬ БАНК",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 15.57,
-    "end": 16.5,
+    "start": 13.62,
+    "end": 16.02,
     "lines": [
       {
-        "text": "ГДЕ КОРОТКОЕ",
+        "text": "НАПИСАННЫЙ КАК РАЗГОВОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЕ",
+        "text": "С ВОПРОСАМИ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 16.65,
-    "end": 17.52,
-    "lines": [
-      {
-        "text": "НАХОДИТСЯ ЗА",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "МИНУТУ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 18.3,
-    "end": 19.35,
+    "start": 16.59,
+    "end": 17.68,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +128,8 @@
     ]
   },
   {
-    "start": 19.35,
-    "end": 20.226,
+    "start": 17.68,
+    "end": 18.48,
     "lines": [
       {
         "text": "ССЫЛКА",
