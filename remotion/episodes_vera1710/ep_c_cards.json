@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.26, "lines": [
+    { "text": "СЛОЖНОЕ ПРЕДЛОЖЕНИЕ", "accent": false, "size": "small" },
+    { "text": "ЧИТАЮ КАК РЕБУС", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.77, "end": 7.05, "lines": [
+    { "text": "СНАЧАЛА СОЮЗ", "accent": false, "size": "small" },
+    { "text": "ПОТОМ ВСЁ ОСТАЛЬНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.74, "end": 11.37, "lines": [
+    { "text": "СНАЧАЛА ГЛАВНЫЕ", "accent": false, "size": "small" },
+    { "text": "ПОТОМ ПРИДАТОЧНЫЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.97, "end": 13.53, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО РУССКОМУ ЯЗЫКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.74, "end": 14.97, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.18, "end": 18.39, "lines": [
+    { "text": "ЧАСТИ ПОВТОРЯЮТСЯ", "accent": false, "size": "small" },
+    { "text": "НА КОРОТКИХ ПРИМЕРАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.66, "end": 20.44, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

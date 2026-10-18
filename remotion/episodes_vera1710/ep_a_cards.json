@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.46, "lines": [
+    { "text": "ПОДРУГА ПРИШЛА", "accent": false, "size": "small" },
+    { "text": "РЕШИЛИ ОДНО ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.91, "end": 8.97, "lines": [
+    { "text": "ДОГОВОРИЛИСЬ", "accent": false, "size": "small" },
+    { "text": "РЕШАЕМ — МОЛЧИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.69, "end": 13.35, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПОЛЧАСА НА ПАРУ ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.65, "end": 14.76, "lines": [
+    { "text": "А ПОТОМ", "accent": false, "size": "small" },
+    { "text": "МОЖНО БОЛТАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.00, "end": 16.791, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 4.50, "lines": [
+    { "text": "РАЗБОР СО СХЕМОЙ", "accent": false, "size": "small" },
+    { "text": "ОТКРЫВАЮ ОХОТНЕЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.16, "end": 8.34, "lines": [
+    { "text": "СХЕМА НЕ ЗАМЕНЯЕТ", "accent": false, "size": "small" },
+    { "text": "НАПРАВЛЯЕТ ВЗГЛЯД", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.15, "end": 11.61, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.88, "end": 15.00, "lines": [
+    { "text": "К ТЕКСТУ — СХЕМА", "accent": false, "size": "small" },
+    { "text": "ВЗГЛЯД НА ГЛАВНОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.45, "end": 17.09, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
