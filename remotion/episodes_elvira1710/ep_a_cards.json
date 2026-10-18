@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.45, "lines": [
+    { "text": "РАСТЕНИЯ", "accent": false, "size": "small" },
+    { "text": "ЗАБЫВАЮ ПОЛИВАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.93, "end": 6.51, "lines": [
+    { "text": "ЕГЭ — ТОЖЕ", "accent": false, "size": "small" },
+    { "text": "ПОКА НЕ РЯДОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.32, "end": 11.31, "lines": [
+    { "text": "РАСТЕНИЕ У СТОЛА", "accent": false, "size": "small" },
+    { "text": "ПОЛИВАЮ ЗА ЗАДАНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.66, "end": 14.34, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.61, "end": 17.40, "lines": [
+    { "text": "ЗАДАНИЕ ЗА МИНУТУ", "accent": false, "size": "small" },
+    { "text": "КАК СЕЛ ЗА СТОЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.76, "end": 19.586, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

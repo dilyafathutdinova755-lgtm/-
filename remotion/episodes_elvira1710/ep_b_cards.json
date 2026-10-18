@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.04, "lines": [
+    { "text": "НЕЙТРАЛЬНЫЙ ТОН", "accent": false, "size": "small" },
+    { "text": "НИКТО НЕ ВЗДЫХАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.49, "end": 8.07, "lines": [
+    { "text": "СПОКОЙНЫЙ ТЕКСТ", "accent": false, "size": "small" },
+    { "text": "БЕЗ СТЫДА", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.91, "end": 11.37, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.64, "end": 13.89, "lines": [
+    { "text": "ОШИБКИ — СПОКОЙНО", "accent": false, "size": "small" },
+    { "text": "БЕЗ УПРЁКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.19, "end": 16.044, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
