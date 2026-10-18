@@ -1,186 +1,154 @@
 [
   {
     "start": 1.86,
-    "end": 2.76,
+    "end": 3.3,
     "lines": [
       {
-        "text": "ПРО ЯРОСЛАВА",
+        "text": "СОБСТВЕННЫЙ ГРАФИК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МУДРОГО",
+        "text": "ПОДГОТОВКИ К ЕГЭ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.66,
+    "end": 5.94,
+    "lines": [
+      {
+        "text": "КЛАССНЫЙ РУКОВОДИТЕЛЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОПРОСИЛ КОПИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.51,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "НЕ ДУМАЛА ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫЗОВЕТ ИНТЕРЕС",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.56,
+    "lines": [
+      {
+        "text": "НО ДЕРЖИТСЯ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОСТОМ ПРАВИЛЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.89,
+    "end": 11.82,
+    "lines": [
+      {
+        "text": "ОДНО ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "В ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.76,
-    "end": 3.63,
+    "start": 12.45,
+    "end": 13.26,
     "lines": [
       {
-        "text": "В ИСТОРИИ Я",
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОМНЮ",
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 4.65,
+    "start": 13.32,
+    "end": 14.13,
     "lines": [
       {
-        "text": "ПРОЗВИЩЕ И",
+        "text": "ЕСТЬ БАНК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РУССКУЮ ПРАВДУ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.16,
-    "end": 6.21,
-    "lines": [
-      {
-        "text": "А ОСТАЛЬНОЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕРЯЕТСЯ",
+        "text": "ФИПИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.23,
-    "end": 8.58,
+    "start": 14.49,
+    "end": 15.39,
     "lines": [
       {
-        "text": "ПРОЗВИЩЕ И",
+        "text": "ГДЕ ЗАДАНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОДИН ДОКУМЕНТ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 8.97,
-    "end": 10.14,
-    "lines": [
-      {
-        "text": "СЛИШКОМ МАЛО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДЛЯ ОТВЕТА",
+        "text": "В ДЕНЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.98,
-    "end": 12.36,
+    "start": 15.57,
+    "end": 16.83,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "ЗАПИСЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.6,
-    "end": 13.92,
-    "lines": [
-      {
-        "text": "ЕСТЬ ИГРЫ НА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАПОМИНАНИЕ",
+        "text": "АВТОМАТИЧЕСКИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 14.34,
-    "end": 15.99,
+    "start": 17.4,
+    "end": 18.4,
     "lines": [
       {
-        "text": "ГДЕ ПРАВЛЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЯРОСЛАВА МУДРОГО",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 16.2,
-    "end": 17.58,
-    "lines": [
-      {
-        "text": "РАСКЛАДЫВАЕТСЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПО СОБЫТИЯМ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 17.79,
-    "end": 18.6,
-    "lines": [
-      {
-        "text": "И",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ДОКУМЕНТАМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 19.02,
-    "end": 19.82,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА",
         "accent": false,
         "size": "small"
       },
@@ -192,8 +160,8 @@
     ]
   },
   {
-    "start": 19.82,
-    "end": 20.802,
+    "start": 18.4,
+    "end": 19.202,
     "lines": [
       {
         "text": "ССЫЛКА",
