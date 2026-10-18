@@ -1,42 +1,10 @@
 [
   {
     "start": 1.86,
-    "end": 3.09,
+    "end": 3.0,
     "lines": [
       {
-        "text": "ХОЧУ ЧТОБЫ РАЗБОР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗГОВОР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.14,
-    "end": 5.52,
-    "lines": [
-      {
-        "text": "А ДОЧЬ ЧИТАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАК ЛЕКЦИЮ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 6.57,
-    "end": 8.07,
-    "lines": [
-      {
-        "text": "ЖИВОЙ РАЗБОР",
+        "text": "РАЗБОР С КАРТИНКОЙ",
         "accent": false,
         "size": "small"
       },
@@ -48,27 +16,91 @@
     ]
   },
   {
-    "start": 8.19,
-    "end": 10.11,
+    "start": 3.12,
+    "end": 3.93,
     "lines": [
       {
-        "text": "ПОТОМУ ЧТО В НЕМ",
+        "text": "А С ФОРМУЛОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВОПРОСЫ И ОТВЕТЫ",
+        "text": "ПРОВЕРЯЕТСЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 10.83,
-    "end": 11.65,
+    "start": 4.14,
+    "end": 5.97,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "Я НЕ МОГУ ВЫБРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ВАЖНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.62,
+    "lines": [
+      {
+        "text": "ЛУЧШЕ ИМЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ТО И ДРУГОЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.86,
+    "end": 8.76,
+    "lines": [
+      {
+        "text": "КАРТИНКУ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДЕИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.03,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "ФОРМУЛУ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.26,
+    "end": 11.06,
+    "lines": [
+      {
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -80,8 +112,8 @@
     ]
   },
   {
-    "start": 11.73,
-    "end": 13.23,
+    "start": 11.06,
+    "end": 12.57,
     "lines": [
       {
         "text": "К ЗАДАНИЯМ ЕСТЬ",
@@ -96,27 +128,43 @@
     ]
   },
   {
-    "start": 13.62,
-    "end": 16.02,
+    "start": 12.72,
+    "end": 14.1,
     "lines": [
       {
-        "text": "НАПИСАННЫЙ КАК РАЗГОВОР",
+        "text": "ГДЕ К ИДЕЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ВОПРОСАМИ",
+        "text": "ПРИЛОЖЕНА КАРТИНКА",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 16.59,
-    "end": 17.68,
+    "start": 14.37,
+    "end": 15.36,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "А К ПРОВЕРКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 16.56,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -128,8 +176,8 @@
     ]
   },
   {
-    "start": 17.68,
-    "end": 18.48,
+    "start": 16.56,
+    "end": 17.36,
     "lines": [
       {
         "text": "ССЫЛКА",
