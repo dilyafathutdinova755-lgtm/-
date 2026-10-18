@@ -1,138 +1,122 @@
 [
   {
-    "start": 1.86,
-    "end": 3.63,
+    "start": 1.83,
+    "end": 3.42,
     "lines": [
       {
-        "text": "ОШИБКУ НАЗЫВАЮТ",
+        "text": "ОМОНИМЫ В ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕТОЧНОСТЬЮ",
+        "text": "ЛУК КОСА КЛЮЧ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.84,
-    "end": 6.36,
+    "start": 3.63,
+    "end": 4.5,
     "lines": [
       {
-        "text": "ЗНАЧИТ ОТ МЕНЯ",
+        "text": "Я УЗНАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЧТО ТО СКРЫВАЮТ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.69,
-    "end": 7.65,
-    "lines": [
-      {
-        "text": "ХОРОШИЙ РАЗБОР",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРЯМОЙ",
+        "text": "ПО КАРТИНКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.04,
-    "end": 10.35,
+    "start": 4.8,
+    "end": 5.82,
     "lines": [
       {
-        "text": "ВОТ ОШИБКА ВОТ",
+        "text": "НО НАЗЫВАЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЧИНА И ИСПРАВЛЕНИЯ",
+        "text": "ПО ЗНАЧЕНИЮ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 10.74,
-    "end": 11.56,
+    "start": 6.0,
+    "end": 8.1,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "С ТРУДОМ НУЖНЫ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.58,
-    "end": 13.02,
-    "lines": [
-      {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ЗНАЧЕНИЯ А НЕ КАРТИНКИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.23,
-    "end": 14.4,
+    "start": 8.46,
+    "end": 9.96,
     "lines": [
       {
-        "text": "ГДЕ ОШИБКА",
+        "text": "В ТРЕНАЖЕРЕ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРИЧИНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 14.49,
-    "end": 15.81,
-    "lines": [
-      {
-        "text": "И ИСПРАВЛЕНИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НАЗВАНЫ ПРЯМО",
+        "text": "РУССКОМУ ЯЗЫКУ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 16.11,
-    "end": 17.16,
+    "start": 10.2,
+    "end": 11.28,
     "lines": [
       {
-        "text": "ССЫЛКА НА ИГ",
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.46,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "ГДЕ ЗНАЧЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ ПАРАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 14.94,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +128,8 @@
     ]
   },
   {
-    "start": 17.16,
-    "end": 17.964,
+    "start": 14.94,
+    "end": 15.746,
     "lines": [
       {
         "text": "ССЫЛКА",
