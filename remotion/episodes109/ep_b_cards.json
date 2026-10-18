@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.0,
+    "lines": [
+      {
+        "text": "РАЗБОР С КАРТИНКОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.12,
+    "end": 3.93,
+    "lines": [
+      {
+        "text": "А С ФОРМУЛОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРЯЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.14,
+    "end": 5.97,
+    "lines": [
+      {
+        "text": "Я НЕ МОГУ ВЫБРАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ВАЖНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.3,
+    "end": 7.62,
+    "lines": [
+      {
+        "text": "ЛУЧШЕ ИМЕТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ТО И ДРУГОЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.86,
+    "end": 8.76,
+    "lines": [
+      {
+        "text": "КАРТИНКУ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИДЕИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.03,
+    "end": 9.9,
+    "lines": [
+      {
+        "text": "ФОРМУЛУ ДЛЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОВЕРКИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.26,
+    "end": 11.06,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.06,
+    "end": 12.57,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.72,
+    "end": 14.1,
+    "lines": [
+      {
+        "text": "ГДЕ К ИДЕЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЛОЖЕНА КАРТИНКА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.37,
+    "end": 15.36,
+    "lines": [
+      {
+        "text": "А К ПРОВЕРКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФОРМУЛА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.6,
+    "end": 16.56,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.56,
+    "end": 17.36,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

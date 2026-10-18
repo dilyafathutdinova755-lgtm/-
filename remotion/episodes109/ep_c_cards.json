@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.63,
+    "lines": [
+      {
+        "text": "ОШИБКУ НАЗЫВАЮТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕТОЧНОСТЬЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.84,
+    "end": 6.36,
+    "lines": [
+      {
+        "text": "ЗНАЧИТ ОТ МЕНЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЧТО ТО СКРЫВАЮТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.69,
+    "end": 7.65,
+    "lines": [
+      {
+        "text": "ХОРОШИЙ РАЗБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРЯМОЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.04,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "ВОТ ОШИБКА ВОТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЧИНА И ИСПРАВЛЕНИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.74,
+    "end": 11.56,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.58,
+    "end": 13.02,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.23,
+    "end": 14.4,
+    "lines": [
+      {
+        "text": "ГДЕ ОШИБКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЧИНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.49,
+    "end": 15.81,
+    "lines": [
+      {
+        "text": "И ИСПРАВЛЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НАЗВАНЫ ПРЯМО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.11,
+    "end": 17.16,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.16,
+    "end": 17.964,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

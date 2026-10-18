@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.83,
+    "end": 3.42,
+    "lines": [
+      {
+        "text": "ОМОНИМЫ В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛУК КОСА КЛЮЧ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.63,
+    "end": 4.5,
+    "lines": [
+      {
+        "text": "Я УЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО КАРТИНКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.8,
+    "end": 5.82,
+    "lines": [
+      {
+        "text": "НО НАЗЫВАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ЗНАЧЕНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.0,
+    "end": 8.1,
+    "lines": [
+      {
+        "text": "С ТРУДОМ НУЖНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАЧЕНИЯ А НЕ КАРТИНКИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.46,
+    "end": 9.96,
+    "lines": [
+      {
+        "text": "В ТРЕНАЖЕРЕ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РУССКОМУ ЯЗЫКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.28,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.46,
+    "end": 13.65,
+    "lines": [
+      {
+        "text": "ГДЕ ЗНАЧЕНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОВТОРЯЮТСЯ ПАРАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.92,
+    "end": 14.94,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.94,
+    "end": 15.746,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

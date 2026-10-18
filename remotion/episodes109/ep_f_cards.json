@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "НА ТЫСЯЧУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.88,
+    "end": 4.17,
+    "lines": [
+      {
+        "text": "И КРАСИВО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСТАВИЛ НА ПОЛКУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.29,
+    "end": 5.31,
+    "lines": [
+      {
+        "text": "ЧТОБЫ НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЛИСТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 6.51,
+    "lines": [
+      {
+        "text": "МОЯ ПОЛКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТО ЭКРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.63,
+    "end": 7.59,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫВАЕТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.74,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "ОДНИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАСАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 9.55,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.55,
+    "end": 10.37,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.44,
+    "end": 11.79,
+    "lines": [
+      {
+        "text": "ГДЕ ТЫСЯЧИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ ОТКРЫВАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.97,
+    "end": 12.78,
+    "lines": [
+      {
+        "text": "ОДНИМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАСАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.93,
+    "end": 13.76,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.76,
+    "end": 14.56,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

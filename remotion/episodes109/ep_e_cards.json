@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.48,
+    "lines": [
+      {
+        "text": "ДОЧЬ ПОНИМАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК РАБОТАЕТ БАНК",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.17,
+    "end": 5.34,
+    "lines": [
+      {
+        "text": "А В ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.49,
+    "end": 7.02,
+    "lines": [
+      {
+        "text": "СПРАШИВАЮТ ПРО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФУНКЦИИ БАНКОВ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.62,
+    "end": 8.67,
+    "lines": [
+      {
+        "text": "ПРИМЕР С КАРТОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОРОШ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 10.44,
+    "lines": [
+      {
+        "text": "НО ФУНКЦИИ НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАТЬ СПИСКОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.07,
+    "end": 12.66,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.87,
+    "end": 14.16,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.37,
+    "end": 16.44,
+    "lines": [
+      {
+        "text": "ГДЕ ФУНКЦИИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БАНКОВ ЗАКРЕПЛЯЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.01,
+    "end": 17.85,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 17.85,
+    "end": 18.967,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
