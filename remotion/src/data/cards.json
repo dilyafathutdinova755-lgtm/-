@@ -1,154 +1,202 @@
 [
   {
     "start": 1.86,
-    "end": 3.3,
+    "end": 2.7,
     "lines": [
       {
-        "text": "СОБСТВЕННЫЙ ГРАФИК",
+        "text": "Я ЗНАЮ ЧТО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДГОТОВКИ К ЕГЭ",
+        "text": "КОНФЛИКТЫ",
         "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.7,
+    "end": 3.57,
+    "lines": [
+      {
+        "text": "БЫВАЮТ РАЗНЫХ",
+        "accent": false,
         "size": "small"
+      },
+      {
+        "text": "ТИПОВ",
+        "accent": true,
+        "size": "big"
       }
     ]
   },
   {
     "start": 3.66,
-    "end": 5.94,
+    "end": 4.5,
     "lines": [
       {
-        "text": "КЛАССНЫЙ РУКОВОДИТЕЛЬ",
+        "text": "НО ДЛЯ ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОПРОСИЛ КОПИЮ",
+        "text": "ОБЩЕСТВОЗНАНИЮ",
         "accent": true,
         "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 5.67,
+    "lines": [
+      {
+        "text": "У МЕНЯ ОДИН",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИМЕР",
+        "accent": true,
+        "size": "big"
       }
     ]
   },
   {
     "start": 6.51,
-    "end": 8.55,
+    "end": 8.4,
     "lines": [
       {
-        "text": "НЕ ДУМАЛА ЧТО",
+        "text": "СПОР ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЫЗОВЕТ ИНТЕРЕС",
+        "text": "ПОСЛЕДНЕЕ МЕСТО",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 8.94,
-    "end": 10.56,
+    "start": 10.38,
+    "end": 11.4,
     "lines": [
       {
-        "text": "НО ДЕРЖИТСЯ НА",
+        "text": "ОДНОГО ПРИМЕРА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПРОСТОМ ПРАВИЛЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 10.89,
-    "end": 11.82,
-    "lines": [
-      {
-        "text": "ОДНО ЗАДАНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "В ДЕНЬ",
+        "text": "МАЛО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.45,
-    "end": 13.26,
+    "start": 11.61,
+    "end": 12.48,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "НУЖЕН СВОЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
+        "text": "ПРИМЕР",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 13.32,
-    "end": 14.13,
+    "start": 12.72,
+    "end": 13.53,
     "lines": [
       {
-        "text": "ЕСТЬ БАНК",
+        "text": "К КАЖДОМУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФИПИ",
+        "text": "ТИПУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 14.49,
-    "end": 15.39,
+    "start": 14.28,
+    "end": 15.87,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ДЕНЬ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 16.14,
+    "end": 17.4,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.03,
+    "end": 18.9,
+    "lines": [
+      {
+        "text": "ГДЕ КАЖДОМУ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТИПУ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 15.57,
-    "end": 16.83,
+    "start": 19.02,
+    "end": 20.73,
     "lines": [
       {
-        "text": "ЗАПИСЫВАЕТСЯ",
+        "text": "КОНФЛИКТА ПОДБИРАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "АВТОМАТИЧЕСКИ",
+        "text": "СВОЙ ПРИМЕР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 17.4,
-    "end": 18.4,
+    "start": 21.48,
+    "end": 22.59,
     "lines": [
       {
-        "text": "ССЫЛКА НА",
+        "text": "ССЫЛКА НА Г",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +208,8 @@
     ]
   },
   {
-    "start": 18.4,
-    "end": 19.202,
+    "start": 22.59,
+    "end": 23.426,
     "lines": [
       {
         "text": "ССЫЛКА",
