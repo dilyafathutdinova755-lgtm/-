@@ -1,138 +1,170 @@
 [
   {
     "start": 1.86,
-    "end": 3.48,
+    "end": 2.67,
     "lines": [
       {
-        "text": "ДОЧЬ ПОНИМАЕТ",
+        "text": "НА ТЫСЯЧУ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК РАБОТАЕТ БАНК",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.17,
-    "end": 5.34,
-    "lines": [
-      {
-        "text": "А В ЕГЭ ПО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБЩЕСТВОЗНАНИЮ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.49,
-    "end": 7.02,
-    "lines": [
-      {
-        "text": "СПРАШИВАЮТ ПРО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ФУНКЦИИ БАНКОВ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.62,
-    "end": 8.67,
-    "lines": [
-      {
-        "text": "ПРИМЕР С КАРТОЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ХОРОШ",
+        "text": "ЗАДАНИЙ ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.85,
-    "end": 10.44,
+    "start": 2.88,
+    "end": 4.17,
     "lines": [
       {
-        "text": "НО ФУНКЦИИ НУЖНО",
+        "text": "И КРАСИВО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗНАТЬ СПИСКОМ",
+        "text": "ПОСТАВИЛ НА ПОЛКУ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 11.07,
-    "end": 12.66,
+    "start": 4.29,
+    "end": 5.31,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "ЧТОБЫ НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ",
+        "text": "ЛИСТАТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.31,
+    "end": 6.51,
+    "lines": [
+      {
+        "text": "МОЯ ПОЛКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТО ЭКРАН",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.63,
+    "end": 7.59,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТКРЫВАЕТСЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 12.87,
-    "end": 14.16,
+    "start": 7.74,
+    "end": 8.55,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ НА",
+        "text": "ОДНИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
+        "text": "КАСАНИЕМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.73,
+    "end": 9.55,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.55,
+    "end": 10.37,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.44,
+    "end": 11.79,
+    "lines": [
+      {
+        "text": "ГДЕ ТЫСЯЧИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЙ ОТКРЫВАЮТСЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 14.37,
-    "end": 16.44,
+    "start": 11.97,
+    "end": 12.78,
     "lines": [
       {
-        "text": "ГДЕ ФУНКЦИИ",
+        "text": "ОДНИМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БАНКОВ ЗАКРЕПЛЯЮТСЯ",
+        "text": "КАСАНИЕМ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 17.01,
-    "end": 17.85,
+    "start": 12.93,
+    "end": 13.76,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +176,8 @@
     ]
   },
   {
-    "start": 17.85,
-    "end": 18.967,
+    "start": 13.76,
+    "end": 14.56,
     "lines": [
       {
         "text": "ССЫЛКА",
