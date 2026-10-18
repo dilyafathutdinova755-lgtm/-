@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 4.11, "lines": [
+    { "text": "НЕ ПОКУПАТЬ СЛАДКОЕ", "accent": false, "size": "small" },
+    { "text": "ПОКА НЕ РЕШИТ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.47, "end": 6.33, "lines": [
+    { "text": "КОПИЛКА", "accent": false, "size": "small" },
+    { "text": "БЫСТРО ПОПОЛНИЛАСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.69, "end": 9.78, "lines": [
+    { "text": "ЗАДАНИЯ РЕШЕНЫ", "accent": false, "size": "small" },
+    { "text": "ДЕНЬГИ ЦЕЛЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.53, "end": 14.52, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЕ — ЭТО ПРИВЫЧКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.85, "end": 16.684, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

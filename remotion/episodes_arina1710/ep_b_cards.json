@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 2.91, "lines": [
+    { "text": "ДОЧЬ ВЫБИРАЕТ", "accent": false, "size": "small" },
+    { "text": "ПО ЗАГОЛОВКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.48, "end": 6.72, "lines": [
+    { "text": "ЗАГОЛОВОК ПОНЯТЕН", "accent": false, "size": "small" },
+    { "text": "ЧИТАЕТ ИЛИ ЗАКРЫВАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.23, "end": 10.35, "lines": [
+    { "text": "ХОРОШИЙ ЗАГОЛОВОК", "accent": false, "size": "small" },
+    { "text": "ЭКОНОМИТ ВРЕМЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.95, "end": 13.20, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.50, "end": 15.93, "lines": [
+    { "text": "С ЗАГОЛОВКАМИ", "accent": false, "size": "small" },
+    { "text": "СРАЗУ ЯСНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.20, "end": 17.964, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
