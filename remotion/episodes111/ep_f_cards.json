@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.94,
+    "lines": [
+      {
+        "text": "ЗНАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СЕВАСТОПОЛЬ И НАХИМОВА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.09,
+    "end": 3.96,
+    "lines": [
+      {
+        "text": "А ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.08,
+    "end": 5.58,
+    "lines": [
+      {
+        "text": "НУЖНЫ ЕЩЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИЧИНЫ И ИТОГ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.79,
+    "end": 7.35,
+    "lines": [
+      {
+        "text": "ПРИЧИНЫ ХОД И ИТОГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКЛАДЫВАЮТСЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.5,
+    "end": 8.7,
+    "lines": [
+      {
+        "text": "КАК ТРИ КОРОТКИХ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПАРАГРАФА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.94,
+    "end": 10.11,
+    "lines": [
+      {
+        "text": "В ЕГ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.29,
+    "end": 11.34,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.49,
+    "end": 13.5,
+    "lines": [
+      {
+        "text": "ГДЕ ПРИЧИНЫ ХОД",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И ИТОГИ ВОЙНЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.49,
+    "lines": [
+      {
+        "text": "РАЗЛОЖЕНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ПОРЯДКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.67,
+    "end": 15.5,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.5,
+    "end": 16.343,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

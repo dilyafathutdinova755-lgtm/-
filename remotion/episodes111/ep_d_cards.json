@@ -1,0 +1,162 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.7,
+    "lines": [
+      {
+        "text": "В ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.82,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "НАЗВАНИЕ КНЯЖЕСТВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я НЕ ВСПОМНЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "А ГОРОД ИЗ УЧЕБНИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМНЮ СРАЗУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 6.93,
+    "lines": [
+      {
+        "text": "ГОРОД НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЯЗАТЬ С КНЯЖЕСТВОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.79,
+    "lines": [
+      {
+        "text": "ИНАЧЕ ГЕОГРАФИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЕТСЯ КАРТИНКОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.06,
+    "end": 10.2,
+    "lines": [
+      {
+        "text": "В ЕГ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.41,
+    "end": 11.37,
+    "lines": [
+      {
+        "text": "ЕСТЬ ИГРЫ НА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАПОМИНАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.55,
+    "end": 13.83,
+    "lines": [
+      {
+        "text": "ГОРОДА СВЯЗАНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С КНЯЖЕСТВАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.07,
+    "end": 15.09,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.09,
+    "end": 15.92,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

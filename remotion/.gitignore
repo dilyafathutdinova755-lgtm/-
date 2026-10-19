@@ -750,3 +750,14 @@ episodes110/idframes/
 episodes110/qa_frames/
 episodes110/ep_*_staging/
 episodes110_out/
+sources_coffee123_64/
+asr_coffee123_64/
+episodes111/*.mp4
+episodes111/*.wav
+episodes111/*.log
+episodes111/render/
+episodes111/frames/
+episodes111/idframes/
+episodes111/qa_frames/
+episodes111/ep_*_staging/
+episodes111_out/

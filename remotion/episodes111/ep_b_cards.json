@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.88,
+    "lines": [
+      {
+        "text": "ЕГЭ ПО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЯТИБАЛЛЬНОЙ ШКАЛЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.09,
+    "end": 4.11,
+    "lines": [
+      {
+        "text": "ЧЕТВЕРКА ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТНОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.26,
+    "end": 5.13,
+    "lines": [
+      {
+        "text": "И ТРОЙКА ЗА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СКУКУ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.4,
+    "end": 6.25,
+    "lines": [
+      {
+        "text": "ПОНЯТНОСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНЕЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 6.48,
+    "end": 7.53,
+    "lines": [
+      {
+        "text": "СКУКУ МОЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОТЕРПЕТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.86,
+    "end": 8.68,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 9.75,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.84,
+    "end": 11.37,
+    "lines": [
+      {
+        "text": "ГДЕ ГЛАВНАЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОНЯТНОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.52,
+    "end": 12.35,
+    "lines": [
+      {
+        "text": "А НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "УКРАШЕНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.39,
+    "end": 13.2,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.2,
+    "end": 14.06,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

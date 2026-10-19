@@ -1,0 +1,130 @@
+[
+  {
+    "start": 1.86,
+    "end": 3.33,
+    "lines": [
+      {
+        "text": "РЕШАЮ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "КАК ЧИЩУ ЗУБЫ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 3.54,
+    "end": 5.16,
+    "lines": [
+      {
+        "text": "ПО РАСПИСАНИЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ РАЗМЫШЛЕНИЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.4,
+    "end": 6.51,
+    "lines": [
+      {
+        "text": "МОТИВАЦИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРИХОДИТ ПОЗЖЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.66,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "КАК ПРИЛОЖЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ПРИВЫЧКЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.1,
+    "end": 9.33,
+    "lines": [
+      {
+        "text": "В ЕГ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 11.52,
+    "lines": [
+      {
+        "text": "ГДЕ ЗАДАНИЕ ОТКРЫВАЕТСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "БЕЗ РАЗДУМИЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 12.65,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 12.65,
+    "end": 13.463,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
