@@ -4,196 +4,164 @@
     "end": 2.67,
     "lines": [
       {
-        "text": "В ТЕСТЕ",
+        "text": "ДО ЗАДАНИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕГЭ",
+        "text": "ИЛИ ПОСЛЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.76,
-    "end": 3.66,
+    "start": 3.63,
+    "end": 4.65,
     "lines": [
       {
-        "text": "Я ВЫБИРАЮ",
+        "text": "Я ПЕРЕПРОБОВАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВЕРНЫЙ",
+        "text": "ОБА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.08,
-    "end": 5.01,
+    "start": 4.77,
+    "end": 6.15,
     "lines": [
       {
-        "text": "А ПОЧЕМУ ТРИ",
+        "text": "ПОРЯДКА И НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ДРУГИХ",
+        "text": "МОГУ ВЫБРАТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.87,
+    "end": 8.64,
+    "lines": [
+      {
+        "text": "ЕСЛИ ТЕОРИЯ В НУЖНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТО",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.22,
-    "end": 6.12,
+    "start": 8.88,
+    "end": 9.69,
     "lines": [
       {
-        "text": "НЕВЕРНЫЕ",
+        "text": "ВЫБОР",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИТЬ НЕ МОГУ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.47,
-    "end": 8.85,
-    "lines": [
-      {
-        "text": "ОБЪЯСНЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "НЕВЕРНЫХ ВАРИАНТОВ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 9.0,
-    "end": 9.82,
-    "lines": [
-      {
-        "text": "ЗАКРЫВАЕТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРОБЕЛ",
+        "text": "ОТПАДАЕТ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.2,
-    "end": 11.02,
+    "start": 10.05,
+    "end": 12.24,
     "lines": [
       {
-        "text": "В СЛЕДУЮЩЕМ",
+        "text": "ОНА РАБОТАЕТ КАК",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИИ",
+        "text": "ПОДСКАЗКА А НЕ ЛЕКЦИЯ",
         "accent": true,
-        "size": "big"
+        "size": "small"
       }
     ]
   },
   {
-    "start": 11.13,
-    "end": 12.3,
+    "start": 12.93,
+    "end": 14.31,
     "lines": [
       {
-        "text": "ЛОВУШКИ УЖЕ",
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
-      {
-        "text": "ЗНАКОМЫ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.14,
-    "end": 13.96,
-    "lines": [
-      {
-        "text": "В ЕГЭ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 13.98,
-    "end": 15.6,
-    "lines": [
       {
         "text": "К ЗАДАНИЯМ ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 15.99,
-    "end": 18.27,
+    "start": 14.46,
+    "end": 15.27,
     "lines": [
       {
-        "text": "ГДЕ ОБЪЯСНЕНО",
+        "text": "ТЕКСТОВЫЙ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОЧЕМУ ОСТАЛЬНЫЕ",
+        "text": "РАЗБОР",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 18.69,
-    "end": 19.71,
+    "start": 15.45,
+    "end": 16.74,
     "lines": [
       {
-        "text": "ВАРИАНТЫ ОТВЕТА",
+        "text": "В КОТОРОЙ ТЕОРИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОДХОДЯТ",
+        "text": "ВСТАВЛЕНА",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 19.71,
-    "end": 20.82,
+    "start": 16.95,
+    "end": 18.18,
+    "lines": [
+      {
+        "text": "РОВНО ТАМ ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА НУЖНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.96,
+    "end": 19.82,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -208,8 +176,8 @@
     ]
   },
   {
-    "start": 20.82,
-    "end": 21.72,
+    "start": 19.82,
+    "end": 20.631,
     "lines": [
       {
         "text": "ССЫЛКА",
