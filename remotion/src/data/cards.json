@@ -1,154 +1,106 @@
 [
   {
     "start": 1.86,
-    "end": 2.88,
+    "end": 3.33,
     "lines": [
       {
-        "text": "ЕГЭ ПО",
+        "text": "РЕШАЮ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЯТИБАЛЛЬНОЙ ШКАЛЕ",
+        "text": "КАК ЧИЩУ ЗУБЫ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.09,
-    "end": 4.11,
+    "start": 3.54,
+    "end": 5.16,
     "lines": [
       {
-        "text": "ЧЕТВЕРКА ЗА",
+        "text": "ПО РАСПИСАНИЮ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТНОСТЬ",
+        "text": "БЕЗ РАЗМЫШЛЕНИЙ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.26,
-    "end": 5.13,
-    "lines": [
-      {
-        "text": "И ТРОЙКА ЗА",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "СКУКУ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
     "start": 5.4,
-    "end": 6.25,
+    "end": 6.51,
     "lines": [
       {
-        "text": "ПОНЯТНОСТЬ",
+        "text": "МОТИВАЦИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНЕЕ",
+        "text": "ПРИХОДИТ ПОЗЖЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.66,
+    "end": 7.8,
+    "lines": [
+      {
+        "text": "КАК ПРИЛОЖЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ПРИВЫЧКЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.48,
-    "end": 7.53,
+    "start": 8.1,
+    "end": 9.33,
     "lines": [
       {
-        "text": "СКУКУ МОЖНО",
+        "text": "В ЕГ ТРЕНАЖЕРЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОТЕРПЕТЬ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 7.86,
-    "end": 8.68,
-    "lines": [
-      {
-        "text": "В ЕГ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.7,
-    "end": 9.75,
-    "lines": [
-      {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "text": "ЕСТЬ БАНК ФИПИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 9.84,
-    "end": 11.37,
+    "start": 9.87,
+    "end": 11.52,
     "lines": [
       {
-        "text": "ГДЕ ГЛАВНАЯ",
+        "text": "ГДЕ ЗАДАНИЕ ОТКРЫВАЕТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОНЯТНОСТЬ",
+        "text": "БЕЗ РАЗДУМИЙ",
         "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 11.52,
-    "end": 12.35,
-    "lines": [
-      {
-        "text": "А НЕ",
-        "accent": false,
         "size": "small"
-      },
-      {
-        "text": "УКРАШЕНИЯ",
-        "accent": true,
-        "size": "big"
       }
     ]
   },
   {
-    "start": 12.39,
-    "end": 13.2,
+    "start": 11.73,
+    "end": 12.65,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +112,8 @@
     ]
   },
   {
-    "start": 13.2,
-    "end": 14.06,
+    "start": 12.65,
+    "end": 13.463,
     "lines": [
       {
         "text": "ССЫЛКА",
