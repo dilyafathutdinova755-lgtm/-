@@ -1,71 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 3.33,
+    "end": 2.7,
     "lines": [
       {
-        "text": "РЕШАЮ ЕГЭ",
+        "text": "В ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАК ЧИЩУ ЗУБЫ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.54,
-    "end": 5.16,
-    "lines": [
-      {
-        "text": "ПО РАСПИСАНИЮ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "БЕЗ РАЗМЫШЛЕНИЙ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 5.4,
-    "end": 6.51,
-    "lines": [
-      {
-        "text": "МОТИВАЦИЯ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ПРИХОДИТ ПОЗЖЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.66,
-    "end": 7.8,
-    "lines": [
-      {
-        "text": "КАК ПРИЛОЖЕНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "К ПРИВЫЧКЕ",
+        "text": "ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.1,
-    "end": 9.33,
+    "start": 2.82,
+    "end": 4.56,
+    "lines": [
+      {
+        "text": "НАЗВАНИЕ КНЯЖЕСТВА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "Я НЕ ВСПОМНЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 5.7,
+    "lines": [
+      {
+        "text": "А ГОРОД ИЗ УЧЕБНИКА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСПОМНЮ СРАЗУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.85,
+    "end": 6.93,
+    "lines": [
+      {
+        "text": "ГОРОД НУЖНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СВЯЗАТЬ С КНЯЖЕСТВОМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.79,
+    "lines": [
+      {
+        "text": "ИНАЧЕ ГЕОГРАФИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОСТАЕТСЯ КАРТИНКОЙ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.06,
+    "end": 10.2,
     "lines": [
       {
         "text": "В ЕГ ТРЕНАЖЕРЕ",
@@ -73,34 +89,50 @@
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "ПО ИСТОРИИ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 9.87,
-    "end": 11.52,
+    "start": 10.41,
+    "end": 11.37,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЕ ОТКРЫВАЕТСЯ",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БЕЗ РАЗДУМИЙ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 11.73,
-    "end": 12.65,
+    "start": 11.55,
+    "end": 13.83,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ГОРОДА СВЯЗАНЫ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "С КНЯЖЕСТВАМИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.07,
+    "end": 15.09,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -112,8 +144,8 @@
     ]
   },
   {
-    "start": 12.65,
-    "end": 13.463,
+    "start": 15.09,
+    "end": 15.92,
     "lines": [
       {
         "text": "ССЫЛКА",
