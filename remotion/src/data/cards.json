@@ -1,154 +1,154 @@
 [
   {
     "start": 1.86,
-    "end": 3.12,
+    "end": 3.48,
     "lines": [
       {
-        "text": "Я ПОЛОЖИЛ РЯДОМ",
+        "text": "НАШЕСТВИЕ БАТЫЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СО СБОРНИКОМ ЕГЭ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 3.3,
-    "end": 4.62,
-    "lines": [
-      {
-        "text": "ЧТОБЫ СНАЧАЛА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РЕШИТЬ ЗАДАНИЕ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 4.89,
-    "end": 5.7,
-    "lines": [
-      {
-        "text": "А ПОТОМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕХАТЬ",
+        "text": "В ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.85,
-    "end": 6.9,
+    "start": 3.9,
+    "end": 5.25,
     "lines": [
       {
-        "text": "КЛЮЧ ЛЕЖИТ",
+        "text": "ИДУТ У МЕНЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "У ЗАДАНИЯ",
+        "text": "В ОДНОМ ПРЕДЛОЖЕНИИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.64,
+    "end": 7.32,
+    "lines": [
+      {
+        "text": "ХОТЯ МЕЖДУ НИМИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПЯТНАДЦАТЬ ЛЕТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 8.04,
+    "end": 10.35,
+    "lines": [
+      {
+        "text": "ПЯТНАДЦАТЬ ЛЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЭТО СОБЫТИЕ ИЛИ ДВА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.83,
+    "end": 12.93,
+    "lines": [
+      {
+        "text": "И РАДИ НИХ СТОИТ ВЫУЧИТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОСЛЕДОВАТЕЛЬНОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.56,
+    "end": 14.82,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ИСТОРИИ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 7.11,
-    "end": 8.55,
+    "start": 15.03,
+    "end": 16.2,
     "lines": [
       {
-        "text": "И ОБОЙТИ ЕГО",
+        "text": "ЕСТЬ ИГРЫ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НЕ ПОЛУЧАЕТСЯ",
+        "text": "ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 8.97,
-    "end": 9.78,
+    "start": 16.65,
+    "end": 18.03,
     "lines": [
       {
-        "text": "В ЕГ",
+        "text": "ГДЕ СОБЫТИЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ТРЕНАЖЕРЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 9.87,
-    "end": 10.68,
-    "lines": [
-      {
-        "text": "ЕСТЬ БАНК",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ФИПИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 10.95,
-    "end": 12.3,
-    "lines": [
-      {
-        "text": "ГДЕ КЛЮЧ К",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ХОРОШЕМУ ВЕЧЕРУ",
+        "text": "ТРИНАДЦАТОГО ВЕКА",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 12.66,
-    "end": 13.77,
+    "start": 18.21,
+    "end": 19.71,
     "lines": [
       {
-        "text": "ОДНО",
+        "text": "ВЫСТРАИВАЮТСЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "РЕШЕННОЕ ЗАДАНИЕ",
+        "text": "В ПОРЯДКЕ ОЧЕРЕДИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 14.07,
-    "end": 15.15,
+    "start": 20.37,
+    "end": 21.38,
     "lines": [
       {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА ИГ",
         "accent": false,
         "size": "small"
       },
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 15.15,
-    "end": 15.98,
+    "start": 21.38,
+    "end": 22.188,
     "lines": [
       {
         "text": "ССЫЛКА",
