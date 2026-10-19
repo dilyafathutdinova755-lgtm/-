@@ -1,103 +1,87 @@
 [
   {
     "start": 1.86,
-    "end": 2.67,
-    "lines": [
-      {
-        "text": "НА ТЫСЯЧУ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЗАДАНИЙ ЕГЭ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 2.88,
     "end": 4.17,
     "lines": [
       {
-        "text": "И КРАСИВО",
+        "text": "ЧТО ЛУЧШЕ ДЛЯ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОСТАВИЛ НА ПОЛКУ",
+        "text": "ВАРИАНТ ИЛИ ЗАДАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 4.29,
-    "end": 5.31,
+    "start": 4.71,
+    "end": 6.72,
     "lines": [
       {
-        "text": "ЧТОБЫ НЕ",
+        "text": "Я РЕШИЛА ВАРИАНТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЛИСТАТЬ",
+        "text": "И УВИДЕЛА ГДЕ ПРОСЕДАЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 9.42,
+    "lines": [
+      {
+        "text": "ВАРИАНТ ЦЕЛИКОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫНОСЛИВОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.22,
+    "lines": [
+      {
+        "text": "ОДНО ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНОСТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 5.31,
-    "end": 6.51,
+    "start": 11.73,
+    "end": 12.55,
     "lines": [
       {
-        "text": "МОЯ ПОЛКА",
+        "text": "И",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЭТО ЭКРАН",
+        "text": "НУЖНЫ ОБА",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.63,
-    "end": 7.59,
-    "lines": [
-      {
-        "text": "ГДЕ ЗАДАНИЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОТКРЫВАЕТСЯ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 7.74,
-    "end": 8.55,
-    "lines": [
-      {
-        "text": "ОДНИМ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КАСАНИЕМ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.73,
-    "end": 9.55,
+    "start": 13.32,
+    "end": 14.14,
     "lines": [
       {
         "text": "В ЕГ",
@@ -112,8 +96,8 @@
     ]
   },
   {
-    "start": 9.55,
-    "end": 10.37,
+    "start": 14.25,
+    "end": 15.06,
     "lines": [
       {
         "text": "ЕСТЬ БАНК",
@@ -128,40 +112,40 @@
     ]
   },
   {
-    "start": 10.44,
-    "end": 11.79,
+    "start": 15.18,
+    "end": 16.92,
     "lines": [
       {
-        "text": "ГДЕ ТЫСЯЧИ",
+        "text": "ГДЕ МОЖНО РЕШАТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАДАНИЙ ОТКРЫВАЮТСЯ",
+        "text": "ПО ОДНОМУ ЗАДАНИЮ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 11.97,
-    "end": 12.78,
+    "start": 17.19,
+    "end": 18.57,
     "lines": [
       {
-        "text": "ОДНИМ",
+        "text": "И ЦЕЛЫМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "КАСАНИЕМ",
+        "text": "ВАРИАНТОМ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 12.93,
-    "end": 13.76,
+    "start": 18.57,
+    "end": 19.5,
     "lines": [
       {
         "text": "ССЫЛКА НА ИГ",
@@ -176,8 +160,8 @@
     ]
   },
   {
-    "start": 13.76,
-    "end": 14.56,
+    "start": 19.5,
+    "end": 20.311,
     "lines": [
       {
         "text": "ССЫЛКА",
