@@ -1,103 +1,151 @@
 [
   {
     "start": 1.86,
-    "end": 3.15,
+    "end": 3.12,
     "lines": [
       {
-        "text": "ДОЧЬ ПЕРЕСТАЛА",
+        "text": "Я ПОЛОЖИЛ РЯДОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПУТАТЬ ПОРЯДОК",
+        "text": "СО СБОРНИКОМ ЕГЭ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 3.45,
-    "end": 4.92,
+    "start": 3.3,
+    "end": 4.62,
     "lines": [
       {
-        "text": "И ТЕПЕРЬ ЗНАЕТ",
+        "text": "ЧТОБЫ СНАЧАЛА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "С ЧЕГО НАЧИНАТЬ",
+        "text": "РЕШИТЬ ЗАДАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 5.61,
-    "end": 6.51,
+    "start": 4.89,
+    "end": 5.7,
     "lines": [
       {
-        "text": "ПОРЯДОК ЭТО",
+        "text": "А ПОТОМ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПЛАН",
+        "text": "ЕХАТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 6.9,
-    "end": 7.95,
+    "start": 5.85,
+    "end": 6.9,
     "lines": [
       {
-        "text": "А ПЛАН",
+        "text": "КЛЮЧ ЛЕЖИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СНИЖАЕТ СУЕТУ",
+        "text": "У ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 7.11,
+    "end": 8.55,
+    "lines": [
+      {
+        "text": "И ОБОЙТИ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПОЛУЧАЕТСЯ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 8.7,
-    "end": 10.38,
+    "start": 8.97,
+    "end": 9.78,
     "lines": [
       {
-        "text": "В ЕГА ТРЕНАЖЕРЕ",
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЕСТЬ БАНК ФИПИ",
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 9.87,
+    "end": 10.68,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.95,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ГДЕ КЛЮЧ К",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОРОШЕМУ ВЕЧЕРУ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 10.74,
-    "end": 13.11,
+    "start": 12.66,
+    "end": 13.77,
     "lines": [
       {
-        "text": "ГДЕ ЗАДАНИЯ",
+        "text": "ОДНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "В ПОРЯДКЕ ВАРИАНТА",
+        "text": "РЕШЕННОЕ ЗАДАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.86,
-    "end": 15.0,
+    "start": 14.07,
+    "end": 15.15,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГ",
@@ -112,8 +160,8 @@
     ]
   },
   {
-    "start": 15.0,
-    "end": 15.81,
+    "start": 15.15,
+    "end": 15.98,
     "lines": [
       {
         "text": "ССЫЛКА",
