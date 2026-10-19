@@ -1,87 +1,71 @@
 [
   {
     "start": 1.86,
-    "end": 2.7,
+    "end": 3.3,
     "lines": [
       {
-        "text": "В ЕГЭ ПО",
+        "text": "ОТВЕТЫ ЕГЭ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИСТОРИИ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 2.82,
-    "end": 4.56,
-    "lines": [
-      {
-        "text": "НАЗВАНИЕ КНЯЖЕСТВА",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "Я НЕ ВСПОМНЮ",
+        "text": "ВВЕРХ НОГАМИ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 4.71,
-    "end": 5.7,
+    "start": 3.51,
+    "end": 5.34,
     "lines": [
       {
-        "text": "А ГОРОД ИЗ УЧЕБНИКА",
+        "text": "Я СМЕЮСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСПОМНЮ СРАЗУ",
+        "text": "НО ПОДГЛЯДЫВАЮ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 5.85,
-    "end": 6.93,
+    "start": 5.7,
+    "end": 6.84,
     "lines": [
       {
-        "text": "ГОРОД НУЖНО",
+        "text": "ЗДЕСЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СВЯЗАТЬ С КНЯЖЕСТВОМ",
+        "text": "ПОДГЛЯДЫВАТЬ НЕКУДА",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 7.11,
-    "end": 8.79,
+    "start": 7.08,
+    "end": 8.4,
     "lines": [
       {
-        "text": "ИНАЧЕ ГЕОГРАФИЯ",
+        "text": "ПУТЬ И ОТВЕТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОСТАЕТСЯ КАРТИНКОЙ",
+        "text": "ИДУТ ПОДРЯД",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 9.06,
-    "end": 10.2,
+    "start": 8.7,
+    "end": 9.87,
     "lines": [
       {
         "text": "В ЕГ ТРЕНАЖЕРЕ",
@@ -89,50 +73,66 @@
         "size": "small"
       },
       {
-        "text": "ПО ИСТОРИИ",
+        "text": "К ЗАДАНИЯМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.02,
+    "end": 10.86,
+    "lines": [
+      {
+        "text": "ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 11.01,
+    "end": 12.15,
+    "lines": [
+      {
+        "text": "ГДЕ ОТВЕТ НЕЛЬЗЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДГЛЯДЕТЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.41,
-    "end": 11.37,
+    "start": 12.36,
+    "end": 13.19,
     "lines": [
       {
-        "text": "ЕСТЬ ИГРЫ НА",
+        "text": "БЕЗ ПУТИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ЗАПОМИНАНИЕ",
+        "text": "К НЕМУ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 11.55,
-    "end": 13.83,
+    "start": 13.23,
+    "end": 14.15,
     "lines": [
       {
-        "text": "ГОРОДА СВЯЗАНЫ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "С КНЯЖЕСТВАМИ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.07,
-    "end": 15.09,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГЭ",
+        "text": "ССЫЛКА НА ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -144,8 +144,8 @@
     ]
   },
   {
-    "start": 15.09,
-    "end": 15.92,
+    "start": 14.15,
+    "end": 14.978,
     "lines": [
       {
         "text": "ССЫЛКА",
