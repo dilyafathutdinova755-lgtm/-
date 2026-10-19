@@ -1,90 +1,90 @@
 [
   {
     "start": 1.86,
-    "end": 3.84,
+    "end": 2.88,
     "lines": [
       {
-        "text": "ВНУТРЕННИЕ И ВНЕШНИЕ",
+        "text": "ЕГЭ ПО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ФУНКЦИИ ГОСУДАРСТВА",
+        "text": "ПЯТИБАЛЛЬНОЙ ШКАЛЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 4.02,
-    "end": 5.52,
+    "start": 3.09,
+    "end": 4.11,
     "lines": [
       {
-        "text": "ДОЧЬ СМЕШИВАЕТ",
+        "text": "ЧЕТВЕРКА ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ХОТЯ ЗНАЕТ ОБЕ",
+        "text": "ПОНЯТНОСТЬ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 5.67,
-    "end": 6.93,
+    "start": 4.26,
+    "end": 5.13,
     "lines": [
       {
-        "text": "ПО ОТДЕЛЬНОСТИ",
+        "text": "И ТРОЙКА ЗА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНЯЕТ ЛЕГКО",
+        "text": "СКУКУ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 7.56,
-    "end": 8.79,
+    "start": 5.4,
+    "end": 6.25,
     "lines": [
       {
-        "text": "ДЕЛО В ТОМ ЧТО",
+        "text": "ПОНЯТНОСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "СПИСОК ОДИН",
+        "text": "НУЖНЕЕ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 9.09,
-    "end": 10.23,
+    "start": 6.48,
+    "end": 7.53,
     "lines": [
       {
-        "text": "ОТДЕЛИТЬ ЕГО",
+        "text": "СКУКУ МОЖНО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "НУЖНО ПОПОЛАМ",
+        "text": "ПОТЕРПЕТЬ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 10.86,
-    "end": 11.7,
+    "start": 7.86,
+    "end": 8.68,
     "lines": [
       {
-        "text": "В ЕГЭ",
+        "text": "В ЕГ",
         "accent": false,
         "size": "small"
       },
@@ -96,56 +96,56 @@
     ]
   },
   {
-    "start": 11.76,
-    "end": 13.56,
+    "start": 8.7,
+    "end": 9.75,
     "lines": [
       {
-        "text": "ПО ОБЩЕСТВОЗНАНИЮ ЕСТЬ",
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИГРЫ НА ЗАПОМИНАНИЕ",
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 13.89,
-    "end": 14.94,
+    "start": 9.84,
+    "end": 11.37,
     "lines": [
       {
-        "text": "ГДЕ ФУНКЦИИ",
+        "text": "ГДЕ ГЛАВНАЯ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ГОСУДАРСТВА",
+        "text": "ПОНЯТНОСТЬ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 15.06,
-    "end": 16.62,
+    "start": 11.52,
+    "end": 12.35,
     "lines": [
       {
-        "text": "ДЕЛЯТСЯ НА",
+        "text": "А НЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВНУТРЕННИЕ И ВНЕШНИЕ",
+        "text": "УКРАШЕНИЯ",
         "accent": true,
-        "size": "small"
+        "size": "big"
       }
     ]
   },
   {
-    "start": 16.98,
-    "end": 17.9,
+    "start": 12.39,
+    "end": 13.2,
     "lines": [
       {
         "text": "ССЫЛКА НА ЕГЭ",
@@ -160,8 +160,8 @@
     ]
   },
   {
-    "start": 17.9,
-    "end": 18.732,
+    "start": 13.2,
+    "end": 14.06,
     "lines": [
       {
         "text": "ССЫЛКА",
