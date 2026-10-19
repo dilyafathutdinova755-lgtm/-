@@ -1,170 +1,154 @@
 [
   {
     "start": 1.86,
-    "end": 2.67,
+    "end": 3.84,
     "lines": [
       {
-        "text": "ЧТОБЫ ДОЧЬ МЕНЬШЕ",
+        "text": "ВНУТРЕННИЕ И ВНЕШНИЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "БОЯЛАСЬ",
+        "text": "ФУНКЦИИ ГОСУДАРСТВА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.02,
+    "end": 5.52,
+    "lines": [
+      {
+        "text": "ДОЧЬ СМЕШИВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ХОТЯ ЗНАЕТ ОБЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 5.67,
+    "end": 6.93,
+    "lines": [
+      {
+        "text": "ПО ОТДЕЛЬНОСТИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНЯЕТ ЛЕГКО",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.56,
+    "end": 8.79,
+    "lines": [
+      {
+        "text": "ДЕЛО В ТОМ ЧТО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "СПИСОК ОДИН",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.09,
+    "end": 10.23,
+    "lines": [
+      {
+        "text": "ОТДЕЛИТЬ ЕГО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНО ПОПОЛАМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 10.86,
+    "end": 11.7,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 2.85,
-    "end": 4.02,
+    "start": 11.76,
+    "end": 13.56,
     "lines": [
       {
-        "text": "СЛОВ ОБЪЯСНИТЬ",
+        "text": "ПО ОБЩЕСТВОЗНАНИЮ ЕСТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "И ОБОСНУЙТЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 4.17,
-    "end": 4.98,
-    "lines": [
-      {
-        "text": "В ЗАДАНИЯХ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ЕГЭ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 5.49,
-    "end": 7.02,
-    "lines": [
-      {
-        "text": "СТРАХ УХОДИТ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "КОГДА ВИДИШЬ ОБРАЗЕЦ",
+        "text": "ИГРЫ НА ЗАПОМИНАНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 7.41,
-    "end": 8.52,
+    "start": 13.89,
+    "end": 14.94,
     "lines": [
       {
-        "text": "ЧТО ЗНАЧИТ",
+        "text": "ГДЕ ФУНКЦИИ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБЪЯСНИТЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 8.76,
-    "end": 9.78,
-    "lines": [
-      {
-        "text": "И СКОЛЬКО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "СТРОК НУЖНО",
+        "text": "ГОСУДАРСТВА",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 10.23,
-    "end": 11.37,
+    "start": 15.06,
+    "end": 16.62,
     "lines": [
       {
-        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "text": "ДЕЛЯТСЯ НА",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "text": "ВНУТРЕННИЕ И ВНЕШНИЕ",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 11.49,
-    "end": 12.45,
+    "start": 16.98,
+    "end": 17.9,
     "lines": [
       {
-        "text": "ТЕКСТОВЫЙ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "РАЗБОР",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 12.75,
-    "end": 14.1,
-    "lines": [
-      {
-        "text": "ГДЕ ПОКАЗАН",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБРАЗЕЦ ОТВЕТА",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 14.22,
-    "end": 15.15,
-    "lines": [
-      {
-        "text": "НА СЛОВО",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОБЪЯСНИТЕ",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 15.57,
-    "end": 16.49,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА Г",
+        "text": "ССЫЛКА НА ЕГЭ",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +160,8 @@
     ]
   },
   {
-    "start": 16.49,
-    "end": 17.303,
+    "start": 17.9,
+    "end": 18.732,
     "lines": [
       {
         "text": "ССЫЛКА",
