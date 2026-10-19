@@ -1,0 +1,226 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "В ТЕСТЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 2.76,
+    "end": 3.66,
+    "lines": [
+      {
+        "text": "Я ВЫБИРАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЕРНЫЙ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.08,
+    "end": 5.01,
+    "lines": [
+      {
+        "text": "А ПОЧЕМУ ТРИ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ДРУГИХ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 5.22,
+    "end": 6.12,
+    "lines": [
+      {
+        "text": "НЕВЕРНЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЬ НЕ МОГУ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.47,
+    "end": 8.85,
+    "lines": [
+      {
+        "text": "ОБЪЯСНЕНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕВЕРНЫХ ВАРИАНТОВ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.0,
+    "end": 9.82,
+    "lines": [
+      {
+        "text": "ЗАКРЫВАЕТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПРОБЕЛ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.2,
+    "end": 11.02,
+    "lines": [
+      {
+        "text": "В СЛЕДУЮЩЕМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.13,
+    "end": 12.3,
+    "lines": [
+      {
+        "text": "ЛОВУШКИ УЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗНАКОМЫ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.14,
+    "end": 13.96,
+    "lines": [
+      {
+        "text": "В ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.98,
+    "end": 15.6,
+    "lines": [
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТЕКСТОВЫЙ РАЗБОР",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.99,
+    "end": 18.27,
+    "lines": [
+      {
+        "text": "ГДЕ ОБЪЯСНЕНО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОЧЕМУ ОСТАЛЬНЫЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 18.69,
+    "end": 19.71,
+    "lines": [
+      {
+        "text": "ВАРИАНТЫ ОТВЕТА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НЕ ПОДХОДЯТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 19.71,
+    "end": 20.82,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 20.82,
+    "end": 21.72,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

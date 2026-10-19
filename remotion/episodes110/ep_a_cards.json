@@ -1,0 +1,178 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.17,
+    "lines": [
+      {
+        "text": "ЧТО ЛУЧШЕ ДЛЯ ЕГЭ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТ ИЛИ ЗАДАНИЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 4.71,
+    "end": 6.72,
+    "lines": [
+      {
+        "text": "Я РЕШИЛА ВАРИАНТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И УВИДЕЛА ГДЕ ПРОСЕДАЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.38,
+    "end": 9.42,
+    "lines": [
+      {
+        "text": "ВАРИАНТ ЦЕЛИКОМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВЫНОСЛИВОСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 9.72,
+    "end": 11.22,
+    "lines": [
+      {
+        "text": "ОДНО ЗАДАНИЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТОЧНОСТЬ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.73,
+    "end": 12.55,
+    "lines": [
+      {
+        "text": "И",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "НУЖНЫ ОБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 13.32,
+    "end": 14.14,
+    "lines": [
+      {
+        "text": "В ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕРЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 14.25,
+    "end": 15.06,
+    "lines": [
+      {
+        "text": "ЕСТЬ БАНК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ФИПИ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.18,
+    "end": 16.92,
+    "lines": [
+      {
+        "text": "ГДЕ МОЖНО РЕШАТЬ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПО ОДНОМУ ЗАДАНИЮ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.19,
+    "end": 18.57,
+    "lines": [
+      {
+        "text": "И ЦЕЛЫМ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВАРИАНТОМ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.57,
+    "end": 19.5,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ИГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 20.311,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

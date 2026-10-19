@@ -1,0 +1,146 @@
+[
+  {
+    "start": 1.86,
+    "end": 4.02,
+    "lines": [
+      {
+        "text": "НАШЛА В СБОРНИКЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЕ ЕГЭ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.5,
+    "end": 6.57,
+    "lines": [
+      {
+        "text": "ТЕПЕРЬ РЕШАЮ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВДВОЕ БЫСТРЕЕ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.44,
+    "end": 8.25,
+    "lines": [
+      {
+        "text": "СТАРЫЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЗАДАНИЯ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.7,
+    "end": 10.32,
+    "lines": [
+      {
+        "text": "ЛИНЕЙКА ПО КОТОРОЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВИДНО РОСТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 11.1,
+    "end": 12.93,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ЕСТЬ БАНК ФИПИ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 13.47,
+    "end": 14.79,
+    "lines": [
+      {
+        "text": "ГДЕ УЖЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РЕШЕННЫМ ЗАДАНИЯМ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 15.0,
+    "end": 16.89,
+    "lines": [
+      {
+        "text": "МОЖНО ВЕРНУТЬСЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "И СРАВНИТЬ РЕЗУЛЬТАТ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 17.52,
+    "end": 18.84,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.84,
+    "end": 19.65,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]

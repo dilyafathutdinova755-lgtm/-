@@ -1,0 +1,194 @@
+[
+  {
+    "start": 1.86,
+    "end": 2.67,
+    "lines": [
+      {
+        "text": "ДО ЗАДАНИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ИЛИ ПОСЛЕ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 3.63,
+    "end": 4.65,
+    "lines": [
+      {
+        "text": "Я ПЕРЕПРОБОВАЛА",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 4.77,
+    "end": 6.15,
+    "lines": [
+      {
+        "text": "ПОРЯДКА И НЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МОГУ ВЫБРАТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 6.87,
+    "end": 8.64,
+    "lines": [
+      {
+        "text": "ЕСЛИ ТЕОРИЯ В НУЖНОЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "МЕСТО",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 8.88,
+    "end": 9.69,
+    "lines": [
+      {
+        "text": "ВЫБОР",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОТПАДАЕТ",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 10.05,
+    "end": 12.24,
+    "lines": [
+      {
+        "text": "ОНА РАБОТАЕТ КАК",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ПОДСКАЗКА А НЕ ЛЕКЦИЯ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 12.93,
+    "end": 14.31,
+    "lines": [
+      {
+        "text": "В ЕГЭ ТРЕНАЖЕРЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "К ЗАДАНИЯМ ЕСТЬ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.46,
+    "end": 15.27,
+    "lines": [
+      {
+        "text": "ТЕКСТОВЫЙ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "РАЗБОР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 15.45,
+    "end": 16.74,
+    "lines": [
+      {
+        "text": "В КОТОРОЙ ТЕОРИЯ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ВСТАВЛЕНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 16.95,
+    "end": 18.18,
+    "lines": [
+      {
+        "text": "РОВНО ТАМ ГДЕ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОНА НУЖНА",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 18.96,
+    "end": 19.82,
+    "lines": [
+      {
+        "text": "ССЫЛКА НА ЕГ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ТРЕНАЖЕР",
+        "accent": true,
+        "size": "big"
+      }
+    ]
+  },
+  {
+    "start": 19.82,
+    "end": 20.631,
+    "lines": [
+      {
+        "text": "ССЫЛКА",
+        "accent": true,
+        "size": "big"
+      },
+      {
+        "text": "В ШАПКЕ ПРОФИЛЯ",
+        "accent": false,
+        "size": "small"
+      }
+    ]
+  }
+]
