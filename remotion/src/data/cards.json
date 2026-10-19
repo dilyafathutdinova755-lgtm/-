@@ -4,100 +4,100 @@
     "end": 2.67,
     "lines": [
       {
-        "text": "ДО ЗАДАНИЯ",
+        "text": "ЧТОБЫ ДОЧЬ МЕНЬШЕ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ИЛИ ПОСЛЕ",
+        "text": "БОЯЛАСЬ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 3.63,
-    "end": 4.65,
+    "start": 2.85,
+    "end": 4.02,
     "lines": [
       {
-        "text": "Я ПЕРЕПРОБОВАЛА",
+        "text": "СЛОВ ОБЪЯСНИТЬ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОБА",
+        "text": "И ОБОСНУЙТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 4.77,
-    "end": 6.15,
+    "start": 4.17,
+    "end": 4.98,
     "lines": [
       {
-        "text": "ПОРЯДКА И НЕ",
+        "text": "В ЗАДАНИЯХ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "МОГУ ВЫБРАТЬ",
-        "accent": true,
-        "size": "small"
-      }
-    ]
-  },
-  {
-    "start": 6.87,
-    "end": 8.64,
-    "lines": [
-      {
-        "text": "ЕСЛИ ТЕОРИЯ В НУЖНОЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "МЕСТО",
+        "text": "ЕГЭ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 8.88,
-    "end": 9.69,
+    "start": 5.49,
+    "end": 7.02,
     "lines": [
       {
-        "text": "ВЫБОР",
+        "text": "СТРАХ УХОДИТ",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ОТПАДАЕТ",
+        "text": "КОГДА ВИДИШЬ ОБРАЗЕЦ",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 7.41,
+    "end": 8.52,
+    "lines": [
+      {
+        "text": "ЧТО ЗНАЧИТ",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 10.05,
-    "end": 12.24,
+    "start": 8.76,
+    "end": 9.78,
     "lines": [
       {
-        "text": "ОНА РАБОТАЕТ КАК",
+        "text": "И СКОЛЬКО",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ПОДСКАЗКА А НЕ ЛЕКЦИЯ",
+        "text": "СТРОК НУЖНО",
         "accent": true,
         "size": "small"
       }
     ]
   },
   {
-    "start": 12.93,
-    "end": 14.31,
+    "start": 10.23,
+    "end": 11.37,
     "lines": [
       {
         "text": "В ЕГЭ ТРЕНАЖЕРЕ",
@@ -112,8 +112,8 @@
     ]
   },
   {
-    "start": 14.46,
-    "end": 15.27,
+    "start": 11.49,
+    "end": 12.45,
     "lines": [
       {
         "text": "ТЕКСТОВЫЙ",
@@ -128,43 +128,43 @@
     ]
   },
   {
-    "start": 15.45,
-    "end": 16.74,
+    "start": 12.75,
+    "end": 14.1,
     "lines": [
       {
-        "text": "В КОТОРОЙ ТЕОРИЯ",
+        "text": "ГДЕ ПОКАЗАН",
         "accent": false,
         "size": "small"
       },
       {
-        "text": "ВСТАВЛЕНА",
+        "text": "ОБРАЗЕЦ ОТВЕТА",
+        "accent": true,
+        "size": "small"
+      }
+    ]
+  },
+  {
+    "start": 14.22,
+    "end": 15.15,
+    "lines": [
+      {
+        "text": "НА СЛОВО",
+        "accent": false,
+        "size": "small"
+      },
+      {
+        "text": "ОБЪЯСНИТЕ",
         "accent": true,
         "size": "big"
       }
     ]
   },
   {
-    "start": 16.95,
-    "end": 18.18,
+    "start": 15.57,
+    "end": 16.49,
     "lines": [
       {
-        "text": "РОВНО ТАМ ГДЕ",
-        "accent": false,
-        "size": "small"
-      },
-      {
-        "text": "ОНА НУЖНА",
-        "accent": true,
-        "size": "big"
-      }
-    ]
-  },
-  {
-    "start": 18.96,
-    "end": 19.82,
-    "lines": [
-      {
-        "text": "ССЫЛКА НА ЕГ",
+        "text": "ССЫЛКА НА Г",
         "accent": false,
         "size": "small"
       },
@@ -176,8 +176,8 @@
     ]
   },
   {
-    "start": 19.82,
-    "end": 20.631,
+    "start": 16.49,
+    "end": 17.303,
     "lines": [
       {
         "text": "ССЫЛКА",
