@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 3.06, "lines": [
+    { "text": "ДЛЯ ЕГЭ ОБЪЯВИЛА", "accent": false, "size": "small" },
+    { "text": "ДЕНЬ БЕЗ ОПРАВДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.69, "end": 5.97, "lines": [
+    { "text": "ЧТО НЕ ПОЛУЧИЛОСЬ", "accent": false, "size": "small" },
+    { "text": "БЕЗ УСТАЛОСТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.63, "end": 10.32, "lines": [
+    { "text": "РЕШИЛА ТРИ ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "УСТАЛОСТЬ НЕ ПРИЧИНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 14.79, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ БАНК ФИПИ", "accent": false, "size": "small" },
+    { "text": "МЕНЬШЕ ЧАСА", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.39, "end": 16.92, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

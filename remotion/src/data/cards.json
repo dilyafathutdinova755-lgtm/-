@@ -1,29 +1,25 @@
 [
-  { "start": 1.80, "end": 3.54, "lines": [
-    { "text": "ДЕВЯНОСТЫЕ ОНА", "accent": false, "size": "small" },
-    { "text": "НАЗЫВАЕТ ЛИХИМИ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 5.46, "lines": [
+    { "text": "ОТВЕТСТВЕННОСТЬ В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "АДМИНИСТРАТИВНАЯ И УГОЛОВНАЯ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.05, "end": 5.70, "lines": [
-    { "text": "ДЛЯ ЕГЭ ПО ИСТОРИИ", "accent": false, "size": "small" },
-    { "text": "ЗНАНИЯ КОНЧАЮТСЯ", "accent": true, "size": "big" }
+  { "start": 5.94, "end": 7.35, "lines": [
+    { "text": "И ТА", "accent": false, "size": "small" },
+    { "text": "О КОТОРОЙ ГОВОРИТ МАМА", "accent": true, "size": "big" }
   ]},
-  { "start": 6.45, "end": 8.91, "lines": [
-    { "text": "СЛОВО ЛИХИЕ", "accent": false, "size": "small" },
-    { "text": "НЕ ФАКТ", "accent": true, "size": "big" }
+  { "start": 7.98, "end": 10.86, "lines": [
+    { "text": "МАМИНА НЕ В СПИСКЕ", "accent": false, "size": "small" },
+    { "text": "НУЖНЫ ВИДЫ И ПРИМЕРЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.18, "end": 11.07, "lines": [
-    { "text": "ПРИВАТИЗАЦИЯ КРИЗИС", "accent": false, "size": "small" },
-    { "text": "И ВЫБОРЫ", "accent": true, "size": "big" }
-  ]},
-  { "start": 11.67, "end": 14.22, "lines": [
-    { "text": "В ТРЕНАЖЁРЕ ПО ИСТОРИИ", "accent": false, "size": "small" },
+  { "start": 11.52, "end": 14.64, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ПО ОБЩЕСТВУ", "accent": false, "size": "small" },
     { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 14.43, "end": 18.00, "lines": [
-    { "text": "СОБЫТИЯ 90-Х", "accent": false, "size": "small" },
-    { "text": "ПО ГОДАМ И ТЕМАМ", "accent": true, "size": "big" }
+  { "start": 14.94, "end": 18.00, "lines": [
+    { "text": "ВИДЫ ОТВЕТСТВЕННОСТИ", "accent": false, "size": "small" },
+    { "text": "РАЗНЫЕ ПРИМЕРЫ", "accent": true, "size": "big" }
   ]},
-  { "start": 18.42, "end": 20.04, "lines": [
+  { "start": 18.54, "end": 20.04, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

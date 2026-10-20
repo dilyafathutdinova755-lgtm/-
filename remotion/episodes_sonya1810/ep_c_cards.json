@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 5.46, "lines": [
+    { "text": "ОТВЕТСТВЕННОСТЬ В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "АДМИНИСТРАТИВНАЯ И УГОЛОВНАЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.94, "end": 7.35, "lines": [
+    { "text": "И ТА", "accent": false, "size": "small" },
+    { "text": "О КОТОРОЙ ГОВОРИТ МАМА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.98, "end": 10.86, "lines": [
+    { "text": "МАМИНА НЕ В СПИСКЕ", "accent": false, "size": "small" },
+    { "text": "НУЖНЫ ВИДЫ И ПРИМЕРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.52, "end": 14.64, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ПО ОБЩЕСТВУ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.94, "end": 18.00, "lines": [
+    { "text": "ВИДЫ ОТВЕТСТВЕННОСТИ", "accent": false, "size": "small" },
+    { "text": "РАЗНЫЕ ПРИМЕРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.54, "end": 20.04, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

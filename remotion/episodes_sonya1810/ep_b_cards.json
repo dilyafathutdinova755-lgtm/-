@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.59, "lines": [
+    { "text": "РАЗБОР ЗАДАНИЙ ЕГЭ", "accent": false, "size": "small" },
+    { "text": "КАК ИНСТРУКЦИЯ К ШКАФУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.07, "end": 6.63, "lines": [
+    { "text": "ПОКА НЕ СОБЕРЁШЬ", "accent": false, "size": "small" },
+    { "text": "НЕ ПОЙМЁШЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.23, "end": 9.66, "lines": [
+    { "text": "СОБИРАТЬ ВМЕСТЕ С РАЗБОРОМ", "accent": false, "size": "small" },
+    { "text": "ШАГ ЗА ШАГОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.17, "end": 11.43, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.64, "end": 14.85, "lines": [
+    { "text": "ЕСТЬ ТЕКСТОВЫЙ РАЗБОР", "accent": false, "size": "small" },
+    { "text": "ВМЕСТЕ С РЕШЕНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.12, "end": 15.75, "lines": [
+    { "text": "И СНОВА", "accent": false, "size": "small" },
+    { "text": "ШАГ ЗА ШАГОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.29, "end": 17.80, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
