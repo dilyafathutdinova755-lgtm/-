@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.36, "lines": [
+    { "text": "СРАВНИЛА ДВА РАЗБОРА", "accent": false, "size": "small" },
+    { "text": "ОДНОГО ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.84, "end": 6.45, "lines": [
+    { "text": "ПЕРВЫЙ — КАК РЕШАТЬ", "accent": false, "size": "small" },
+    { "text": "ВТОРОЙ — КАК ДУМАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.02, "end": 10.32, "lines": [
+    { "text": "ВТОРОЙ ПОЛЕЗНЕЕ", "accent": false, "size": "small" },
+    { "text": "МЫСЛЬ ПЕРЕНОСИТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.07, "end": 13.41, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.59, "end": 16.71, "lines": [
+    { "text": "ПОКАЗАН ХОД МЫСЛИ", "accent": false, "size": "small" },
+    { "text": "НА ДРУГИЕ ЗАДАНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.31, "end": 18.92, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

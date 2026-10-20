@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 2.25, "lines": [
+    { "text": "В ПАРАЛЛЕЛИ", "accent": false, "size": "small" },
+    { "text": "НОВОЕ ПРАВИЛО", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.67, "end": 5.79, "lines": [
+    { "text": "РЕШИЛ ЗАДАНИЕ", "accent": false, "size": "small" },
+    { "text": "ПИШЕТ «ГОТОВО»", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.45, "end": 9.45, "lines": [
+    { "text": "СЛОВО ЗАРАЗИТЕЛЬНО", "accent": false, "size": "small" },
+    { "text": "ТЯНУТСЯ ОСТАЛЬНЫЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.47, "end": 12.24, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.57, "end": 14.94, "lines": [
+    { "text": "«ГОТОВО» МОЖНО ПОСТАВИТЬ", "accent": false, "size": "small" },
+    { "text": "СРАЗУ ПОСЛЕ ПРОВЕРКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.57, "end": 17.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
