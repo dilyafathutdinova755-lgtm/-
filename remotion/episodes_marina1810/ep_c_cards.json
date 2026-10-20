@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.56, "lines": [
+    { "text": "СЫН СКАЗАЛ «ОПЛАТИТЬ»", "accent": false, "size": "small" },
+    { "text": "Я ПОПРАВИЛА", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.19, "end": 6.93, "lines": [
+    { "text": "А ПО РУССКОМУ", "accent": false, "size": "small" },
+    { "text": "МЫ КВИТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.56, "end": 10.80, "lines": [
+    { "text": "УПРАВЛЕНИЕ ЗАПОМИНАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ТОЛЬКО ПОВТОРЕНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.37, "end": 12.96, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО РУССКОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.26, "end": 14.55, "lines": [
+    { "text": "ЕСТЬ ИГРЫ", "accent": false, "size": "small" },
+    { "text": "НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.76, "end": 17.55, "lines": [
+    { "text": "ТИПИЧНЫЕ ОШИБКИ", "accent": false, "size": "small" },
+    { "text": "ПОВТОРЯЮТСЯ ПАРАМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.09, "end": 19.72, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

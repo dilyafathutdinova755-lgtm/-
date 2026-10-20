@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.45, "lines": [
+    { "text": "ПОСЛЕ УРОКА РЕШИЛ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ НЕ ДЛЯ НЕГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.99, "end": 6.69, "lines": [
+    { "text": "ПРЕДЛОЖИЛА СДАТЬ", "accent": false, "size": "small" },
+    { "text": "ОДИН ВАРИАНТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.41, "end": 9.81, "lines": [
+    { "text": "СДАЛ И УВИДЕЛ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЕ ЗНАКОМОЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.29, "end": 11.97, "lines": [
+    { "text": "СТРАХ БЫЛ БОЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "САМИХ ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.63, "end": 14.49, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.91, "end": 17.22, "lines": [
+    { "text": "ВАРИАНТ МОЖНО СОБРАТЬ", "accent": false, "size": "small" },
+    { "text": "ИЗ ЗНАКОМЫХ ЗАДАНИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.79, "end": 19.40, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

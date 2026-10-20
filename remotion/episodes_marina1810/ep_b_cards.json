@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 2.82, "lines": [
+    { "text": "СЫН ПРИЗНАЛСЯ", "accent": false, "size": "small" },
+    { "text": "ПРО РАЗБОР ЕГЭ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.09, "end": 6.54, "lines": [
+    { "text": "ЛЕГЧЕ ЧИТАТЬ", "accent": false, "size": "small" },
+    { "text": "С ЧИСТЫМ ЛИСТОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.32, "end": 10.26, "lines": [
+    { "text": "НУЖЕН ЧТОБЫ ВЕРНУТЬСЯ", "accent": false, "size": "small" },
+    { "text": "И ПОПРОБОВАТЬ САМОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.89, "end": 12.30, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "К ЗАДАНИЯМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.51, "end": 13.47, "lines": [
+    { "text": "ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.65, "end": 16.89, "lines": [
+    { "text": "С КАЖДЫМ ШАГОМ МЕСТО", "accent": false, "size": "small" },
+    { "text": "ДЛЯ СВОЕЙ ПОПЫТКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.49, "end": 19.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
