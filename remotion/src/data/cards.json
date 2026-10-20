@@ -1,29 +1,29 @@
 [
-  { "start": 1.80, "end": 4.29, "lines": [
-    { "text": "ПРЯМЫЕ НАЛОГИ", "accent": false, "size": "small" },
-    { "text": "ПЛАТИТ КТО ПОЛУЧАЕТ", "accent": true, "size": "big" }
+  { "start": 1.80, "end": 4.92, "lines": [
+    { "text": "ПРО АЛЕКСЕЯ МИХАЙЛОВИЧА", "accent": false, "size": "small" },
+    { "text": "ПОМНЮ УЛОЖЕНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 4.68, "end": 6.15, "lines": [
-    { "text": "А КОСВЕННЫЕ", "accent": false, "size": "small" },
-    { "text": "КТО ПОКУПАЕТ", "accent": true, "size": "big" }
+  { "start": 5.43, "end": 6.21, "lines": [
+    { "text": "А ДАЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ПУСТО", "accent": true, "size": "big" }
   ]},
-  { "start": 6.45, "end": 8.79, "lines": [
-    { "text": "ДВА ПРЕДЛОЖЕНИЯ", "accent": false, "size": "small" },
-    { "text": "МЕНЯЮ МЕСТАМИ", "accent": true, "size": "big" }
+  { "start": 6.96, "end": 8.40, "lines": [
+    { "text": "ДВУХ СОБЫТИЙ МАЛО", "accent": false, "size": "small" },
+    { "text": "ДЛЯ ЭПОХИ", "accent": true, "size": "big" }
   ]},
-  { "start": 9.06, "end": 12.57, "lines": [
-    { "text": "ЗАПОМИНАЕТСЯ ЛУЧШЕ", "accent": false, "size": "small" },
-    { "text": "В РАЗНЫХ ВАРИАНТАХ", "accent": true, "size": "big" }
+  { "start": 8.91, "end": 10.62, "lines": [
+    { "text": "НАДО ДОБАВИТЬ", "accent": false, "size": "small" },
+    { "text": "ВОССТАНИЕ И ВОЙНУ", "accent": true, "size": "big" }
   ]},
-  { "start": 12.96, "end": 16.38, "lines": [
-    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+  { "start": 11.70, "end": 14.37, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ПО ИСТОРИИ", "accent": false, "size": "small" },
     { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
   ]},
-  { "start": 16.62, "end": 19.50, "lines": [
-    { "text": "НАЛОГИ ЧЕРЕДУЮТСЯ", "accent": false, "size": "small" },
-    { "text": "В БЫСТРЫХ ВОПРОСАХ", "accent": true, "size": "big" }
+  { "start": 14.67, "end": 18.00, "lines": [
+    { "text": "СОБЫТИЯ ПРАВЛЕНИЯ", "accent": false, "size": "small" },
+    { "text": "В ОДНУ ЛИНИЮ", "accent": true, "size": "big" }
   ]},
-  { "start": 19.56, "end": 21.25, "lines": [
+  { "start": 18.60, "end": 20.12, "lines": [
     { "text": "ССЫЛКА", "accent": true, "size": "big" },
     { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
   ]}

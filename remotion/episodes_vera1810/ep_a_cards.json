@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 4.11, "lines": [
+    { "text": "СКАЗАЛИ НА ПЕРЕМЕНЕ", "accent": false, "size": "small" },
+    { "text": "КУЧА ВРЕМЕНИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.83, "end": 6.69, "lines": [
+    { "text": "В НЕДЕЛЮ У МЕНЯ", "accent": false, "size": "small" },
+    { "text": "ЧЕТЫРЕ ВЕЧЕРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.23, "end": 10.92, "lines": [
+    { "text": "ЭТО ЧЕТЫРЕ ВЕЧЕРА", "accent": false, "size": "small" },
+    { "text": "ИХ ХВАТИТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.67, "end": 15.15, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ БАНК ФИПИ", "accent": false, "size": "small" },
+    { "text": "ОДНО ЗАДАНИЕ НА ВЕЧЕР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.63, "end": 17.08, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

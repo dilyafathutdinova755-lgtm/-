@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 4.83, "lines": [
+    { "text": "РЕШЕНИЕ ЗАПОМИНАЕТСЯ ЛУЧШЕ", "accent": false, "size": "small" },
+    { "text": "С НАЗВАНИЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.49, "end": 8.61, "lines": [
+    { "text": "НАЗВАНИЕ ЭТО", "accent": false, "size": "small" },
+    { "text": "ЯРЛЫК ПАМЯТИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.36, "end": 11.73, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.03, "end": 15.09, "lines": [
+    { "text": "НАЗВАНИЕ ЛЕГКО", "accent": false, "size": "small" },
+    { "text": "ВСПОМНИТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.69, "end": 17.24, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
