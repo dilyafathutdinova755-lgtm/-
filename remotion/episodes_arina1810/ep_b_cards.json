@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.11, "lines": [
+    { "text": "НЕ ЛЮБИТ РАЗБОРЫ", "accent": false, "size": "small" },
+    { "text": "ОДНИ ФОРМУЛЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.53, "end": 5.97, "lines": [
+    { "text": "ПРОСИТ ХОТЯ БЫ", "accent": false, "size": "small" },
+    { "text": "ОДНУ СТРОКУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.39, "end": 6.78, "lines": [
+    { "text": "А О ЧЁМ", "accent": false, "size": "small" },
+    { "text": "ЭТО?", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.62, "end": 10.95, "lines": [
+    { "text": "СТРОКА С ИДЕЕЙ", "accent": false, "size": "small" },
+    { "text": "ПОМОГАЕТ ПОНЯТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.49, "end": 13.86, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.07, "end": 17.25, "lines": [
+    { "text": "ПЕРЕД ФОРМУЛАМИ СТРОКА", "accent": false, "size": "small" },
+    { "text": "В ЧЁМ ИДЕЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.76, "end": 19.16, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

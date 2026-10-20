@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.54, "lines": [
+    { "text": "ДЕВЯНОСТЫЕ ОНА", "accent": false, "size": "small" },
+    { "text": "НАЗЫВАЕТ ЛИХИМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.05, "end": 5.70, "lines": [
+    { "text": "ДЛЯ ЕГЭ ПО ИСТОРИИ", "accent": false, "size": "small" },
+    { "text": "ЗНАНИЯ КОНЧАЮТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.45, "end": 8.91, "lines": [
+    { "text": "СЛОВО ЛИХИЕ", "accent": false, "size": "small" },
+    { "text": "НЕ ФАКТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.18, "end": 11.07, "lines": [
+    { "text": "ПРИВАТИЗАЦИЯ КРИЗИС", "accent": false, "size": "small" },
+    { "text": "И ВЫБОРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.67, "end": 14.22, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ПО ИСТОРИИ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.43, "end": 18.00, "lines": [
+    { "text": "СОБЫТИЯ 90-Х", "accent": false, "size": "small" },
+    { "text": "ПО ГОДАМ И ТЕМАМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.42, "end": 20.04, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

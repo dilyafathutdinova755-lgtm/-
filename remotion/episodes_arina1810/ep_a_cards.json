@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 2.37, "lines": [
+    { "text": "ДОЧЬ ПРИДУМАЛА", "accent": false, "size": "small" },
+    { "text": "ПРАВИЛО ЗВОНКОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 2.97, "end": 5.76, "lines": [
+    { "text": "ПОКА НЕ РЕШИШЬ ЗАДАНИЕ", "accent": false, "size": "small" },
+    { "text": "ЗВОНКА НЕ БУДЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.27, "end": 7.05, "lines": [
+    { "text": "ПОДРУГИ", "accent": false, "size": "small" },
+    { "text": "ЗВОНЯТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.50, "end": 9.15, "lines": [
+    { "text": "ОНА ДЕРЖИТСЯ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЕ РЕШЕНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.99, "end": 11.76, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.94, "end": 14.76, "lines": [
+    { "text": "ЗАДАНИЕ МОЖНО РЕШИТЬ", "accent": false, "size": "small" },
+    { "text": "ЗА ОДИН ПЕРЕРЫВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.30, "end": 16.84, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
