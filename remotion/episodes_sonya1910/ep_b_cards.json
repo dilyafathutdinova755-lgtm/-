@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 3.15, "lines": [
+    { "text": "КОГДА ДВА ВАРИАНТА", "accent": false, "size": "small" },
+    { "text": "КАЖУТСЯ ВЕРНЫМИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.48, "end": 6.69, "lines": [
+    { "text": "ВЫБИРАЮ НАУГАД", "accent": false, "size": "small" },
+    { "text": "ВЫБОР НЕ СЛУЧАЕН", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.29, "end": 9.42, "lines": [
+    { "text": "РАЗНИЦА МЕЖДУ", "accent": false, "size": "small" },
+    { "text": "ПОЧТИ И ВЕРНОЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.72, "end": 11.58, "lines": [
+    { "text": "ЧАСТО СИДИТ", "accent": false, "size": "small" },
+    { "text": "В ОДНОМ СЛОВЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.33, "end": 14.76, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.03, "end": 18.45, "lines": [
+    { "text": "РАЗНИЦА МЕЖДУ ВАРИАНТАМИ", "accent": false, "size": "small" },
+    { "text": "НА СЛОВАХ УСЛОВИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 18.93, "end": 20.36, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.70, "lines": [
+    { "text": "У НЕЁ ЧЕТЫРЕ ПРЕДМЕТА", "accent": false, "size": "small" },
+    { "text": "У МЕНЯ ТРИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.33, "end": 9.60, "lines": [
+    { "text": "ЧИСЛА РАЗНЫЕ", "accent": false, "size": "small" },
+    { "text": "НО ХВАТАЕТ ОБЕИМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.38, "end": 12.06, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.27, "end": 14.55, "lines": [
+    { "text": "СЧЁТ ЗАДАНИЙ", "accent": false, "size": "small" },
+    { "text": "ПО ПРЕДМЕТАМ ОТДЕЛЬНО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.00, "end": 16.52, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
