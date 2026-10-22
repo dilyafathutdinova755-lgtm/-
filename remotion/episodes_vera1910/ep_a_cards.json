@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.54, "lines": [
+    { "text": "ОБНАРУЖИЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ ЛУЧШЕ ПОСЛЕ УБОРКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.87, "end": 4.98, "lines": [
+    { "text": "ТЕПЕРЬ ЭТО", "accent": false, "size": "small" },
+    { "text": "МОЙ РИТУАЛ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.28, "end": 7.74, "lines": [
+    { "text": "ПЯТЬ МИНУТ ПОРЯДКА", "accent": false, "size": "small" },
+    { "text": "ГОЛОВА ТОЖЕ УБРАНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.30, "end": 10.92, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.31, "end": 14.28, "lines": [
+    { "text": "ПОСЛЕ УБОРКИ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЕ НА ТЕМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.79, "end": 16.36, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

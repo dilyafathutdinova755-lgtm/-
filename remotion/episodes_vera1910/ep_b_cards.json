@@ -1,0 +1,22 @@
+[
+  { "start": 1.80, "end": 5.13, "lines": [
+    { "text": "ПОДРУГА ПРЕДЛАГАЕТ ОТВЕТЫ", "accent": false, "size": "small" },
+    { "text": "Я ПРЕДЛАГАЮ РАЗБОРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.64, "end": 9.51, "lines": [
+    { "text": "ОТВЕТ — ЗА СЕКУНДУ", "accent": false, "size": "small" },
+    { "text": "РАЗБОР — НАДОЛГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.08, "end": 12.45, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.63, "end": 15.36, "lines": [
+    { "text": "ЧИТАЕТСЯ ДОЛЬШЕ", "accent": false, "size": "small" },
+    { "text": "ЗАПОМИНАЕТСЯ НАДОЛГО", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.81, "end": 17.40, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
