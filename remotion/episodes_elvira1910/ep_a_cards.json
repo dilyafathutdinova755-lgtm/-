@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.72, "lines": [
+    { "text": "НАКОНЕЦ ПОНЯЛА", "accent": false, "size": "small" },
+    { "text": "ЕГЭ НЕ СПИСОК ТЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.96, "end": 5.70, "lines": [
+    { "text": "А ОГРАНИЧЕННЫЙ", "accent": false, "size": "small" },
+    { "text": "НАБОР ТИПОВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.94, "end": 9.42, "lines": [
+    { "text": "ЗНАЕШЬ СКОЛЬКО ТИПОВ", "accent": false, "size": "small" },
+    { "text": "СТРАХ УМЕНЬШАЕТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.96, "end": 12.18, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.30, "end": 14.34, "lines": [
+    { "text": "ЗАДАНИЯ ПО ТИПАМ", "accent": false, "size": "small" },
+    { "text": "И ВИДНО СКОЛЬКО", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.70, "end": 16.20, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

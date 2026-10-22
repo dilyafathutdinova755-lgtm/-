@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.59, "lines": [
+    { "text": "РАЗБОРЫ НУЖНЫ", "accent": false, "size": "small" },
+    { "text": "ТЕМ, У КОГО НЕТ УЧИТЕЛЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.04, "end": 6.96, "lines": [
+    { "text": "А У МЕНЯ", "accent": false, "size": "small" },
+    { "text": "ОДИН НА ТРИДЦАТЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.56, "end": 9.90, "lines": [
+    { "text": "РАЗБОР — ЭТО УЧИТЕЛЬ", "accent": false, "size": "small" },
+    { "text": "КОТОРЫЙ НЕ ТОРОПИТСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.53, "end": 13.56, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.74, "end": 14.73, "lines": [
+    { "text": "ЧИТАТЬ", "accent": false, "size": "small" },
+    { "text": "В СВОЁМ ТЕМПЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.15, "end": 16.44, "lines": [
+    { "text": "НЕ БОЯСЬ", "accent": false, "size": "small" },
+    { "text": "ОТСТАТЬ ОТ КЛАССА", "accent": true, "size": "big" }
+  ]},
+  { "start": 16.92, "end": 18.44, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

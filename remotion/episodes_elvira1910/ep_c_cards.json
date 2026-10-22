@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 4.89, "lines": [
+    { "text": "СПАД, КРИЗИС, ОЖИВЛЕНИЕ", "accent": false, "size": "small" },
+    { "text": "НАЗЫВАЮ ПО КРУГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.34, "end": 7.11, "lines": [
+    { "text": "НО КАЖДЫЙ РАЗ", "accent": false, "size": "small" },
+    { "text": "НЕ С ТОЙ ТОЧКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.71, "end": 10.86, "lines": [
+    { "text": "ФАЗЫ ИДУТ ПО КРУГУ", "accent": false, "size": "small" },
+    { "text": "НАЧИНАТЬ С ЛЮБОЙ ТОЧКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.49, "end": 14.22, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ПО ОБЩЕСТВУ", "accent": false, "size": "small" },
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 14.49, "end": 16.92, "lines": [
+    { "text": "ФАЗА ЭКОНОМИЧЕСКОГО ЦИКЛА", "accent": false, "size": "small" },
+    { "text": "ПОВТОРЯЕТСЯ ПО КРУГУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.46, "end": 18.84, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
