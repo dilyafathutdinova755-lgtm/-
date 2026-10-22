@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 4.65, "lines": [
+    { "text": "ВЫБИРАЕТ РАЗБОРЫ", "accent": false, "size": "small" },
+    { "text": "«РЕАЛЬНО БЫЛО»", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.16, "end": 6.27, "lines": [
+    { "text": "И ОБХОДИТ", "accent": false, "size": "small" },
+    { "text": "ПРИДУМАННЫЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 6.78, "end": 9.78, "lines": [
+    { "text": "ДОВЕРЯЕТ ТОМУ", "accent": false, "size": "small" },
+    { "text": "ЧТО УЖЕ ВСТРЕЧАЛОСЬ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.71, "end": 13.29, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.71, "end": 16.86, "lines": [
+    { "text": "РАЗОБРАНЫ ЗАДАНИЯ", "accent": false, "size": "small" },
+    { "text": "С РЕАЛЬНОГО ЭКЗАМЕНА", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.52, "end": 19.16, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

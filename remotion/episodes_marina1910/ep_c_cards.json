@@ -1,0 +1,30 @@
+[
+  { "start": 1.80, "end": 4.23, "lines": [
+    { "text": "УВЕРЕННО НАЗЫВАЕТ", "accent": false, "size": "small" },
+    { "text": "РЕВОЛЮЦИЮ И ВОЙНУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.92, "end": 6.57, "lines": [
+    { "text": "А НЭП В ЕГЭ", "accent": false, "size": "small" },
+    { "text": "ПУТАЕТ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.56, "end": 11.34, "lines": [
+    { "text": "НЭП — ЭТО ТРИ ФАКТА", "accent": false, "size": "small" },
+    { "text": "КОГДА, ЗАЧЕМ, ЧЕМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.12, "end": 13.50, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО ИСТОРИИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.77, "end": 16.95, "lines": [
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": false, "size": "small" },
+    { "text": "НЭП — ТРИ ФАКТА", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.49, "end": 19.53, "lines": [
+    { "text": "КОГДА, ЗАЧЕМ", "accent": false, "size": "small" },
+    { "text": "ЧЕМ ЗАКОНЧИЛСЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 20.19, "end": 21.80, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

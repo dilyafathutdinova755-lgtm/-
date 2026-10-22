@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.72, "lines": [
+    { "text": "СОБРАЛ С ВЕЧЕРА", "accent": false, "size": "small" },
+    { "text": "ШКОЛЬНЫЙ РЮКЗАК", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.99, "end": 6.18, "lines": [
+    { "text": "МОЖНО СОБРАТЬ", "accent": false, "size": "small" },
+    { "text": "ЗАДАНИЕ ЕГЭ НА ЗАВТРА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.08, "end": 9.75, "lines": [
+    { "text": "ВЫБРАННОЕ НАКАНУНЕ", "accent": false, "size": "small" },
+    { "text": "РЕШАЕТСЯ БЕЗ РАСКАЧКИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.29, "end": 13.32, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ БАНК ФИПИ", "accent": false, "size": "small" },
+    { "text": "ЗАВТРАШНЕЕ ЗАДАНИЕ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.50, "end": 15.00, "lines": [
+    { "text": "МОЖНО ВЫБРАТЬ", "accent": false, "size": "small" },
+    { "text": "НАКАНУНЕ ВЕЧЕРОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.57, "end": 17.32, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
