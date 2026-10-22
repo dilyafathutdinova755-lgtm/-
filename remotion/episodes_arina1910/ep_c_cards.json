@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.63, "lines": [
+    { "text": "ПУТАЕТ «ЕХАТЬ» И «ЕЗДИТЬ»", "accent": false, "size": "small" },
+    { "text": "В ПОВЕЛИТЕЛЬНОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 4.20, "end": 6.75, "lines": [
+    { "text": "А В ЕГЭ ПО РУССКОМУ", "accent": false, "size": "small" },
+    { "text": "ЭТО РЕЧЕВАЯ ОШИБКА", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.56, "end": 10.80, "lines": [
+    { "text": "ЗАПОМИНАЮТСЯ ХУЖЕ ПРАВИЛ", "accent": false, "size": "small" },
+    { "text": "НУЖНЫ ПОВТОРЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 11.43, "end": 12.96, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ", "accent": false, "size": "small" },
+    { "text": "ПО РУССКОМУ", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.23, "end": 17.22, "lines": [
+    { "text": "ИГРЫ НА ЗАПОМИНАНИЕ", "accent": false, "size": "small" },
+    { "text": "НА КОРОТКИХ ПРИМЕРАХ", "accent": true, "size": "big" }
+  ]},
+  { "start": 17.76, "end": 19.24, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 4.74, "lines": [
+    { "text": "ОБРАЩЕНИЕ НА ТЫ", "accent": false, "size": "small" },
+    { "text": "ПРИЗНАК УВАЖЕНИЯ", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.22, "end": 7.68, "lines": [
+    { "text": "АВТОР ГОВОРИТ «ТЫ»", "accent": false, "size": "small" },
+    { "text": "КАК БУДТО НАПРОТИВ", "accent": true, "size": "big" }
+  ]},
+  { "start": 7.89, "end": 9.39, "lines": [
+    { "text": "РАЗГОВОР", "accent": false, "size": "small" },
+    { "text": "ПОЛУЧАЕТСЯ ЖИВЫМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 9.93, "end": 12.51, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ К ЗАДАНИЯМ", "accent": false, "size": "small" },
+    { "text": "ТЕКСТОВЫЙ РАЗБОР", "accent": true, "size": "big" }
+  ]},
+  { "start": 12.75, "end": 14.55, "lines": [
+    { "text": "АВТОР ОБРАЩАЕТСЯ", "accent": false, "size": "small" },
+    { "text": "ПРЯМО НА ТЫ", "accent": true, "size": "big" }
+  ]},
+  { "start": 15.00, "end": 16.52, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]

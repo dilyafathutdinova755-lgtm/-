@@ -1,0 +1,26 @@
+[
+  { "start": 1.80, "end": 3.03, "lines": [
+    { "text": "РЕШИЛА НЕ ОТКЛАДЫВАТЬ", "accent": false, "size": "small" },
+    { "text": "ЕГЭ НА ПОТОМ", "accent": true, "size": "big" }
+  ]},
+  { "start": 3.45, "end": 5.61, "lines": [
+    { "text": "ПРАЗДНИКОВ ДО ВЕСНЫ", "accent": false, "size": "small" },
+    { "text": "СЕМЬ, А ЭКЗАМЕН ОДИН", "accent": true, "size": "big" }
+  ]},
+  { "start": 5.97, "end": 7.86, "lines": [
+    { "text": "ПРИШЛОСЬ ПРИЗНАТЬ", "accent": false, "size": "small" },
+    { "text": "АРГУМЕНТ ХОРОШИЙ", "accent": true, "size": "big" }
+  ]},
+  { "start": 8.64, "end": 10.32, "lines": [
+    { "text": "В ТРЕНАЖЁРЕ ЕСТЬ", "accent": false, "size": "small" },
+    { "text": "БАНК ФИПИ", "accent": true, "size": "big" }
+  ]},
+  { "start": 10.59, "end": 12.87, "lines": [
+    { "text": "ЗАДАНИЕ МОЖНО РЕШИТЬ", "accent": false, "size": "small" },
+    { "text": "ДАЖЕ В ПРАЗДНИК", "accent": true, "size": "big" }
+  ]},
+  { "start": 13.32, "end": 14.76, "lines": [
+    { "text": "ССЫЛКА", "accent": true, "size": "big" },
+    { "text": "В ШАПКЕ ПРОФИЛЯ", "accent": false, "size": "small" }
+  ]}
+]
